@@ -1,0 +1,40 @@
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  00 23 * * *
+
+jobs:
+  create_event_summaries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install mpop
+        run: sudo apt-get install -y mpop
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install ruff pytest
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Configure mpop
+        run: |
+          echo $MPOPRC | base64 --decode > ~/.mpoprc
+      - name: Run mpop
+        run: mpop
+      - name: Read message box
+        run: python3 src/read_mbox.py ${{ github.workspace }}/data/mbox
+      - name: Filter messages
+        run: python3 src/filter_messages.py ${{ github.workspace}}/data/mbox.jsonl
+      - name: Moderate messages
+        run: python3 src/moderate_messages.py ${{ github.workspace}}/data/mbox_filtered.jsonl
+      - name: Create event summaries
+        run: python3 src/prompt_messages.py ${{ github.workspace}}/data/mbox_filtered_moderated.jsonl
+      - name: Archive calendars
+        uses: actions/upload-artifact@v3
+        with:
+          name: calendars
+          path: |
+            data/calendars/*.ics
