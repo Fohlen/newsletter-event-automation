@@ -21,12 +21,12 @@ def prompt_model(message: Mapping[str, str]):
         messages=[
             {
                 "role": "system",
-                "content": f"Please create a description of the event from the following email that was written in {message_date.year}, stating the event name, organizer, beginning and end date and time, if applicable, as well as a short summary of the event itself in iCalendar format."
+                "content": f"You are a helpful assistant and are given an email containing a event description from the year {message_date.year}. Your job is to create a machine-readable iCalendar file from this email. "
             },
-            {"role": "user", "content": message["content"].strip()}
+            {"role": "user", "content": message["content"]}
         ],
         temperature=0.5,
-        max_tokens=128
+        max_tokens=256
     )
     return completion
 
