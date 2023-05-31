@@ -15,7 +15,7 @@ if __name__ == "__main__":
         "model",
         nargs="?",
         help="The model to use for classification",
-        default=pathlib.Path(__file__).parent.parent / "data" / "model" / "model_event.bin",
+        default=pathlib.Path(__file__).parent.parent / "data" / "models" / "model_event.bin",
         type=pathlib.Path
     )
     parser.add_argument(
