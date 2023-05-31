@@ -31,3 +31,6 @@ jobs:
         run: python3 src/moderate_messages.py ${{ github.workspace}}/data/raw/mbox_filtered.jsonl
       - name: Create event summaries
         run: python3 src/prompt_messages.py ${{ github.workspace}}/data/raw/mbox_filtered_moderated.jsonl
+      - name: Update calendar
+        run: python3 src/update_calendar.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
