@@ -1,5 +1,5 @@
 import argparse
-import csv
+import json
 import os
 import pathlib
 from tempfile import gettempdir
@@ -28,19 +28,19 @@ if __name__ == "__main__":
         args.output = args.input.with_stem(f"{args.input.stem}_train").with_suffix(".txt")
 
     with args.input.open() as input_fp, args.output.open("at") as output_fp:
-        reader = csv.reader(input_fp, delimiter="\t")
         if not os.path.exists(DATA_FILENAME):
             document_id = 0
         else:
             document_id = retrieve_document_id()
 
-        for index, row in enumerate(reader):
+        for index, line in enumerate(input_fp):
             if index < document_id:
                 continue
             else:
                 update_document_id(index)
 
-            title = row[1].strip()[28:]
+            message = json.loads(line)
+            title = message["subject"].strip()[28:]
             user_input = input(f"Contains event: {title}")
             if user_input in ["Y", "N"]:
                 label = "__label__event" if user_input == "Y" else "__label__noevent"

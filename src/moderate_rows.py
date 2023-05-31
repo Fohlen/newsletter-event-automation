@@ -1,16 +1,18 @@
 import argparse
-import csv
+import json
+import logging
 import pathlib
-
+from typing import Mapping
 
 import openai
 from tqdm.contrib.concurrent import thread_map
 
+logging.getLogger().setLevel(logging.INFO)
 
-def is_flagged(row: tuple[str, str, str]) -> bool:
-    text = row[2]
+
+def is_flagged(message: Mapping[str, str]) -> bool:
     response = openai.Moderation.create(
-        input=text
+        input=message["content"]
     )
     return response.results[0].flagged
 
@@ -26,12 +28,15 @@ if __name__ == "__main__":
     if args.output is None:
         args.output = args.input.with_stem(f"{args.input.stem}_moderated")
 
-    with args.input.open() as fp, args.output.open("wt") as output_fp:
-        reader = csv.reader(fp, delimiter="\t")
-        writer = csv.writer(output_fp, delimiter="\t")
-        rows = list(reader)
-        flagging = thread_map(is_flagged, rows, max_workers=10)
+    logging.info(f"Reading from {args.input}")
 
-        for flagged, row in zip(flagging, rows):
+    with args.input.open() as fp, args.output.open("wt") as output_fp:
+        messages = [json.loads(line) for line in fp]
+        flagging = thread_map(is_flagged, messages, max_workers=10)
+        num_flagged = flagging.count(True)
+
+        for flagged, message in zip(flagging, messages):
             if not flagged:
-                writer.writerow(row)
+                print(json.dumps(message), file=output_fp)
+
+        print(f"Wrote {len(messages) - num_flagged} out of {len(messages)}")

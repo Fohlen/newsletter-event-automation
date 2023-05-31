@@ -1,8 +1,11 @@
 import argparse
-import csv
+import json
+import logging
 import pathlib
 
 from fasttext import load_model
+
+logging.getLogger().setLevel(logging.INFO)
 
 
 if __name__ == "__main__":
@@ -23,15 +26,21 @@ if __name__ == "__main__":
     if args.output is None:
         args.output = args.input.with_stem(f"{args.input.stem}_filtered")
 
+    logging.info(f"Reading from {args.input}")
+
     model = load_model(str(args.model.absolute()))
 
     with args.input.open() as input_fp, args.output.open("wt") as output_fp:
-        reader = csv.reader(input_fp, delimiter="\t")
-        writer = csv.writer(output_fp, delimiter="\t")
+        num_unfiltered = 0
 
-        for row in reader:
-            title = row[1].strip()[28:]
+        for index, line in enumerate(input_fp):
+            message = json.loads(line)
+
+            title = message["subject"].strip()[28:]
             labels, precision = model.predict(title)
 
             if "__label__event" in labels:
-                writer.writerow(row)
+                print(line.strip(), file=output_fp)
+                num_unfiltered += 1
+
+        logging.info(f"Wrote {num_unfiltered} out of {index} messages.")
