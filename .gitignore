@@ -161,4 +161,8 @@ cython_debug/
 
 # env files
 *.env
+
+# data folder
 data/calendars/*.ics
+data/raw/mbox
+data/raw/*.jsonl

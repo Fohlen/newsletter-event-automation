@@ -24,16 +24,10 @@ jobs:
       - name: Run mpop
         run: mpop
       - name: Read message box
-        run: python3 src/read_mbox.py ${{ github.workspace }}/data/mbox
+        run: python3 src/read_mbox.py ${{ github.workspace }}/data/raw/mbox
       - name: Filter messages
-        run: python3 src/filter_messages.py ${{ github.workspace}}/data/mbox.jsonl
+        run: python3 src/filter_messages.py ${{ github.workspace}}/data/raw/mbox.jsonl
       - name: Moderate messages
-        run: python3 src/moderate_messages.py ${{ github.workspace}}/data/mbox_filtered.jsonl
+        run: python3 src/moderate_messages.py ${{ github.workspace}}/data/raw/mbox_filtered.jsonl
       - name: Create event summaries
-        run: python3 src/prompt_messages.py ${{ github.workspace}}/data/mbox_filtered_moderated.jsonl
-      - name: Archive calendars
-        uses: actions/upload-artifact@v3
-        with:
-          name: calendars
-          path: |
-            data/calendars/*.ics
+        run: python3 src/prompt_messages.py ${{ github.workspace}}/data/raw/mbox_filtered_moderated.jsonl
