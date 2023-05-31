@@ -1,4 +1,5 @@
 import argparse
+import datetime
 import json
 import logging
 import pathlib
@@ -14,12 +15,13 @@ MANDATORY_FIELDS = ["event_name", "organizer", "start_date", "end_date", "start_
 
 
 def prompt_model(message: Mapping[str, str]):
+    message_date = datetime.datetime.strptime(message["date"], "%a, %d %b %Y %H:%M:%S %z")
     completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
             {
                 "role": "system",
-                "content": "Please create a description of the event from the following email, stating the event name, organizer, beginning and end date and time, if applicable, as well as a short summary of the event itself in iCalendar format."
+                "content": f"Please create a description of the event from the following email that was written in {message_date.year}, stating the event name, organizer, beginning and end date and time, if applicable, as well as a short summary of the event itself in iCalendar format."
             },
             {"role": "user", "content": message["content"].strip()}
         ],
