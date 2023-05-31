@@ -161,3 +161,4 @@ cython_debug/
 
 # env files
 *.env
+data/calendars/*.ics
