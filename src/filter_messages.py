@@ -36,7 +36,7 @@ if __name__ == "__main__":
         for index, line in enumerate(input_fp):
             message = json.loads(line)
 
-            title = message["subject"].strip()[28:]
+            title = message["subject"]
             labels, precision = model.predict(title)
 
             if "__label__event" in labels:

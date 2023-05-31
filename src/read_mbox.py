@@ -1,3 +1,4 @@
+import html
 import logging
 import argparse
 import json
@@ -26,7 +27,17 @@ if __name__ == "__main__":
         type=str, nargs="?", default=["schoener-wohnen-tuebingen@lists.posteo.de"]
     )
     parser.add_argument(
-        "output", nargs="?", help="The output path save the mbox to", type=pathlib.Path
+        "--truncate-subject-prefix",
+        help="The prefix to remove from the subject. Everything before will be truncated.",
+        type=str, default="[schoener-wohnen-tuebingen] "
+    )
+    parser.add_argument(
+        "--truncate-content-suffix",
+        help="The suffix to remove from the content. Everything after will be truncated.",
+        type=str, default="___________________________"
+    )
+    parser.add_argument(
+        "output", nargs="?", help="The output path to save the messages to", type=pathlib.Path
     )
     args = parser.parse_args()
     if args.output is None:
@@ -54,10 +65,21 @@ if __name__ == "__main__":
                             parser.feed(content)
                             content = parser.get_visible_text()
 
+                        subject = html.unescape(
+                            message["subject"][len(args.truncate_subject_prefix):]
+                        ).strip()
+
+                        try:
+                            content_suffix_index = content.index(args.truncate_content_suffix)
+                            content = content[:content_suffix_index]
+                        except ValueError:
+                            pass
+
                         print(json.dumps({
                             "sender": sender_email,
-                            "subject": message["subject"],
-                            "content": content
+                            "subject": subject,
+                            "date": message["date"],
+                            "content": html.unescape(content).strip()
                         }), file=fp)
                 except KeyError:
                     logging.warning(f"Could not process message from {sender_email} at index {index}")

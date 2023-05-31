@@ -40,7 +40,7 @@ if __name__ == "__main__":
                 update_document_id(index)
 
             message = json.loads(line)
-            title = message["subject"].strip()[28:]
+            title = message["subject"]
             user_input = input(f"Contains event: {title}")
             if user_input in ["Y", "N"]:
                 label = "__label__event" if user_input == "Y" else "__label__noevent"
