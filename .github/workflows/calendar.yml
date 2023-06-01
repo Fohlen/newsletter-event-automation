@@ -12,8 +12,9 @@ jobs:
         run: sudo apt-get install -y mpop
       - name: Configure mpop
         run: |
+          echo ${MPOPRC:0:10}
           envsubst <<< $(echo $MPOPRC | base64 --decode) > ~/.mpoprc
-          wc -l ~/.mpoprc
+          echo $(wc -l ~/.mpoprc)
       - name: Run mpop
         run: mpop
       - name: Set up Python
