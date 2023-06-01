@@ -20,7 +20,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Configure mpop
         run: |
-          echo $MPOPRC | base64 --decode > ~/.mpoprc
+          envsubst <<< $(echo $MPOPRC | base64 --decode) > ~/.mpoprc
       - name: Run mpop
         run: mpop
       - name: Read message box
