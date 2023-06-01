@@ -1,0 +1,17 @@
+- [x] read MBOX file
+    - [x] adjust preprocessing (remove footer)
+- [x] train classifier for "contains event"
+  - [x] store in LFS
+- [x] filter messages with classifier
+  - [ ] retrain model
+- [x] filter messages with moderations API
+- [x] create iCal file from completion per message
+  - [x] fix times
+  - [ ] improve prompt for higher coverage
+- [x] create cronjob
+    - [x] use ~/.mpoprc for fetching mail
+    - [x] combine iCals and update / create main iCal file
+- [ ] add README
+    - [ ] add mpop example
+    - [ ] add screenshot
+    - [ ] "how to add this to your calendar" :)
