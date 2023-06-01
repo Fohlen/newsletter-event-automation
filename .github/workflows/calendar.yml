@@ -1,4 +1,5 @@
 on:
+  workflow_dispatch:
   schedule:
     - cron: '00 21 * * *'
 
@@ -31,5 +32,5 @@ jobs:
       - name: Create event summaries
         run: python3 src/prompt_messages.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl
       - name: Update calendar
-        run: python3 src/update_calendar.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl ${{ github.worspace }}/data/calendars
+        run: python3 src/update_calendar.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl ${{ github.workspace }}/data/calendars
       - uses: stefanzweifel/git-auto-commit-action@v4
