@@ -32,15 +32,17 @@ if __name__ == "__main__":
 
     with args.input.open() as input_fp, args.output.open("wt") as output_fp:
         num_unfiltered = 0
+        num_total = 0
 
         for index, line in enumerate(input_fp):
             message = json.loads(line)
 
             title = message["subject"]
             labels, precision = model.predict(title)
+            num_total += 1
 
             if "__label__event" in labels:
                 print(line.strip(), file=output_fp)
                 num_unfiltered += 1
 
-        logging.info(f"Wrote {num_unfiltered} out of {index} messages.")
+        logging.info(f"Wrote {num_unfiltered} out of {num_total} messages.")
