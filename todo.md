@@ -1,3 +1,8 @@
+# newsletter-event-automation
+Create events from newsletters
+
+### Tasks
+
 - [x] read MBOX file
     - [x] adjust preprocessing (remove footer)
 - [x] train classifier for "contains event"
