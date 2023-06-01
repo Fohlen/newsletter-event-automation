@@ -4,7 +4,7 @@ schoener-wohnen-calendar
 This project automatically reads a newsletter to create a calendar feed from it.
 In such a way I can focus on the things that are important to me without having to spend 20 minutes out of my day to read emails 🙂
 
-# Add to your own calendar
+## Add to your own calendar
 
 You can subscribe to this calendar by adding a regular subscription to the following URL:
 
@@ -12,22 +12,20 @@ You can subscribe to this calendar by adding a regular subscription to the follo
 https://raw.githubusercontent.com/Fohlen/newsletter-event-automation/main/schoener-wohnen-verteiler.ics
 ```
 
-![Subscription window](data/add-to-calendar.png "Subscription window")
-
-# Architecture
+## Architecture
 
 This project is a pipeline powered by [GitHub Actions](https://github.com/features/actions).
 The following flowchart, created with [yEd Live](https://www.yworks.com/yed-live/), outlines how it works:
 
 ![Architecture picture](data/architecture.svg "Architecture")
 
-## Training the event classifier
+### Training the event classifier
 
 Since we pay inference per token, we want to avoid sending emails that do not contain events.
 To this end, we use [fasttext](https://fasttext.cc) to build a simple binary classification model.
 Using the `make_event_model_dataset` script and then following the steps outlined in the `fasttext` documentation.
 
-## Bias and privacy
+### Bias and privacy
 
 As with any modelling process, both `fasttext` and `ChatGPT` contain bias. 
 Thus, some events may not be properly recognised or mis-represented. This will give you an overview of your newsletter, but a more thorough system would be necessary to validate that all events are represented correctly.
