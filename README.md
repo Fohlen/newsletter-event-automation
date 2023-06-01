@@ -1,4 +1,4 @@
-schoener-wohnen-calendar
+newsletter-event-automation
 ------------------------
 
 This project automatically reads a newsletter to create a calendar feed from it.
