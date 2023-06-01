@@ -16,7 +16,7 @@ Create events from newsletters
 - [x] create cronjob
     - [x] use ~/.mpoprc for fetching mail
     - [x] combine iCals and update / create main iCal file
-- [ ] add README
-    - [ ] add mpop example
-    - [ ] add screenshot
-    - [ ] "how to add this to your calendar" :)
+- [x] add README
+    - [x] add mpop example
+    - [x] add screenshot
+    - [x] "how to add this to your calendar" :)
