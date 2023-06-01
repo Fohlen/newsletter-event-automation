@@ -1,0 +1,33 @@
+# Example for a user configuration file ~/.mpoprc
+
+# With modern mail services that publish autoconfiguration information,
+# you can simply run 'mpop --configure yourmail@example.com' to get
+# a basic working configuration.
+
+# This file focusses on TLS, authentication, and the mail delivery method.
+# Features not used here include mail filtering, timeouts, SOCKS proxies,
+# TLS parameters, and more.
+
+# Set default values: always use TLS, and chose a delivery method.
+defaults
+tls on
+
+# Deliver mail to a maildir folder:
+delivery mbox $github.workspace/data/raw/mbox
+
+# Define a mail account at a freemail service
+account posteo
+# Host name of the POP3 server
+host posteo.de
+port 110
+
+# Authentication
+user mymail@posteo.de
+password mypass
+
+# The company runs SpamAssassin, so test each mail for the "X-Spam-Status: Yes"
+# header, and skip all mails with this header instead of downloading them.
+# filter	if [ "`grep "^X-Spam-Status: Yes"`" ]; then exit 2; else exit 0; fi
+
+# Set a default account
+account default : posteo
