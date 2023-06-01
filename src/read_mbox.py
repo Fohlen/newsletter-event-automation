@@ -44,9 +44,10 @@ if __name__ == "__main__":
         args.output = args.input.with_suffix(".jsonl")
 
     logging.info(f"Reading mailbox {args.input}")
+    # NOTE: EmailMessage is not invariant
     mbox = mailbox.mbox(
         args.input,
-        factory=email_mbox_factory,
+        factory=email_mbox_factory,  # type: ignore
         create=False
     )
     num_failed = 0
@@ -56,14 +57,13 @@ if __name__ == "__main__":
             _, sender_email = parseaddr(message["From"])
             if sender_email in args.filter:
                 try:
-                    message: EmailMessage
-                    body: EmailMessage | None = message.get_body()
+                    body: EmailMessage | None = message.get_body()  # type: ignore
                     if body:
                         content = body.get_content()
                         if body.get_content_type() == "text/html":
-                            parser = VisibleTextParser()
-                            parser.feed(content)
-                            content = parser.get_visible_text()
+                            html_parser = VisibleTextParser()
+                            html_parser.feed(content)
+                            content = html_parser.get_visible_text()
 
                         subject = html.unescape(
                             message["subject"][len(args.truncate_subject_prefix):]

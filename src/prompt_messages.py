@@ -40,6 +40,8 @@ def calendar_from_completion(completion: openai.ChatCompletion) -> Calendar | No
         except ValueError:
             pass
 
+    return None
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
