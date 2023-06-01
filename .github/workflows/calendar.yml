@@ -11,10 +11,10 @@ jobs:
       - name: Install mpop
         run: sudo apt-get install -y mpop
       - name: Configure mpop
+        env:
+          MPOPRC: ${{ secrets.MPOPRC }}
         run: |
-          echo ${MPOPRC:0:10}
           envsubst <<< $(echo $MPOPRC | base64 --decode) > ~/.mpoprc
-          echo $(wc -l ~/.mpoprc)
       - name: Run mpop
         run: mpop
       - name: Set up Python
@@ -31,8 +31,12 @@ jobs:
         run: python3 src/filter_messages.py ${{ github.workspace }}/data/raw/mbox.jsonl
       - name: Moderate messages
         run: python3 src/moderate_messages.py ${{ github.workspace }}/data/raw/mbox_filtered.jsonl
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       - name: Create event summaries
         run: python3 src/prompt_messages.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       - name: Update calendar
         run: python3 src/update_calendar.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl ${{ github.workspace }}/data/calendars
       - uses: stefanzweifel/git-auto-commit-action@v4
