@@ -40,5 +40,5 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       - name: Update calendar
-        run: python3 src/update_calendar.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl ${{ github.workspace }}/data/calendars
+        run: python3 src/update_calendar.py ${{ github.workspace }}/data/calendars
       - uses: stefanzweifel/git-auto-commit-action@v4
