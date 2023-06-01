@@ -10,7 +10,7 @@ from email.utils import parseaddr
 import email.policy
 from typing import IO, Any
 
-from .visible_text_parser import VisibleTextParser
+from src.visible_text_parser import VisibleTextParser
 
 logging.getLogger().setLevel(logging.INFO)
 
