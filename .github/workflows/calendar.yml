@@ -15,6 +15,7 @@ jobs:
           MPOPRC: ${{ secrets.MPOPRC }}
         run: |
           envsubst <<< $(echo $MPOPRC | base64 --decode) > ~/.mpoprc
+          chmod 600 ~/.mpoprc
       - name: Run mpop
         run: mpop
       - name: Set up Python
