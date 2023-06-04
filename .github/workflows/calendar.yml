@@ -48,3 +48,5 @@ jobs:
       - name: Update calendar
         run: python3 src/update_calendar.py ${{ github.workspace }}/data/calendars
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: '*.ics'
