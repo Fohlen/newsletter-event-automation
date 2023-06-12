@@ -1,4 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//schoener-woehnen//github.com//
+BEGIN:VEVENT
+SUMMARY:Pfleghof Jam Session
+DTSTART:20230615T210000
+DTEND:20230616T010000
+DTSTAMP:20230612T211231Z
+UID:20230615T210000-e0c3742b3f0780a6fc739e776c94adfa
+DESCRIPTION:We're looking to cultivate an open space for musicians at all 
+ levels to have fun\, connect via tunes and make music together. This is th
+ e link for the Whatsapp Group: https://chat.whatsapp.com/EBaH1btwGNqF6DI1o
+ urahX. Also\, we're collecting money to buy new equipment - feel free to s
+ upport us. Bring your instruments of choice\, amplifiers\, your voice or j
+ ust join as part of the audience. Musicians of all levels are welcome to h
+ op on stage!
+LOCATION:Pfleghofstr 2
+END:VEVENT
 END:VCALENDAR
