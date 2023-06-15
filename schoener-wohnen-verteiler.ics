@@ -16,4 +16,14 @@ DESCRIPTION:We're looking to cultivate an open space for musicians at all
  op on stage!
 LOCATION:Pfleghofstr 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung "Sara Mardini - gegen den Strom"
+DTSTART:20230623T180000
+DTEND:20230623T210000
+DTSTAMP:20230615T211228Z
+UID:20230623T180000-1fa2f97f7f76b6d4f9a6872b65f32d61
+DESCRIPTION:Sara Mardini - gegen den Strom: Dokumentarfilm über Sara Mard
+ ini und ihre Flucht aus Syrien. Podiumsdiskussion im Anschluss.
+LOCATION:Arsenal Kino\, Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
