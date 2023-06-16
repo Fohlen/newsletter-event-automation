@@ -26,4 +26,33 @@ DESCRIPTION:Sara Mardini - gegen den Strom: Dokumentarfilm über Sara Mard
  ini und ihre Flucht aus Syrien. Podiumsdiskussion im Anschluss.
 LOCATION:Arsenal Kino\, Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert: Angry Zeta
+DTSTART:20230619T210000Z
+DTEND:20230620T000000Z
+DTSTAMP:20230616T211155Z
+UID:20230619T210000Z-1aa8112d204dd51a65225e53ff5a7ff5
+DESCRIPTION:Angry Zeta is a bluegrass punk band from Argentina. The show h
+ as many theatrical elements - funny moments for sure\, but also dark parts
+  that can make your hairs stand on end. Their set list is full of their ow
+ n original compositions\, as well as some old classic folk songs.
+LOCATION:Leibnizhaus 2
+URL:https://youtube.com/shorts/db26ABprMGA?feature=share4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Week - Session 1
+DTSTART:20230612T180000Z
+DTEND:20230612T190000Z
+DTSTAMP:20230616T211155Z
+UID:20230612T180000Z-d61487e0f4a57677e829950d2309f0c7
+DESCRIPTION:"The Week" is a group experience that helps us recognize the i
+ mpact of the global climate and ecological crisis and what we can do about
+  it. The event consists of 3 sessions\, each including a one-hour video an
+ d 20-30 minutes of structured discussion in a small group. This event is f
+ or the first session\, and further sessions will be scheduled with the gro
+ up or in parts for all who attend. Admission is free\, and donations are a
+ llowed. Please visit https://www.theweek.ooo/ for more information and to 
+ register.
+LOCATION:TBD
+END:VEVENT
 END:VCALENDAR
