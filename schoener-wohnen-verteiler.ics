@@ -55,4 +55,15 @@ DESCRIPTION:"The Week" is a group experience that helps us recognize the i
  register.
 LOCATION:TBD
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-KüfA (Küche für Alle)
+DTSTART;TZID=Europe/Berlin:20230105T180000
+DTEND;TZID=Europe/Berlin:20230105T210000
+DTSTAMP:20230618T211133Z
+UID:20230105T180000-af054485017b8bcf079c2b5d61a6ed5e
+DESCRIPTION:Ab 18 Uhr gibt es Essen gegen Spende. Dieses Mal steht die Kü
+ fA im Zeichen der Aktionswoche "Kein Knoten für Zetkin!".
+LOCATION:Sternplatz\, Tübingen\, Germany
+URL:https://keinknoten.wordpress.com
+END:VEVENT
 END:VCALENDAR
