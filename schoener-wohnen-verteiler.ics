@@ -66,4 +66,39 @@ DESCRIPTION:Ab 18 Uhr gibt es Essen gegen Spende. Dieses Mal steht die Kü
 LOCATION:Sternplatz\, Tübingen\, Germany
 URL:https://keinknoten.wordpress.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fichtehaus Kultur- und Freizeitgremium Event
+DTSTART:20230715T190000Z
+DTEND:20230715T200000Z
+DTSTAMP:20230620T211232Z
+UID:20230715T190000Z-cf4b8d34cdf7d4e0cccb4f49a6bb3ecd
+DESCRIPTION:Das Kultur- und Freizeitgremium aus dem Fichtehaus veranstalte
+ t ein Event. Es wird viele Beiträge geben und sie freuen sich über jeden
+  Auftritt. Bitte meldet euch bei Mareike\, wenn ihr auftreten wollt und ge
+ bt an\, wer\, was und wie lange ihr auftreten wollt (maximal 10 Minuten). 
+ Das Event beginnt um 19 Uhr.\n\nLG Mareike
+LOCATION:Fichtehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonnwendfeuer
+DTSTART:20230621T180000Z
+DTEND:20230621T210000Z
+DTSTAMP:20230620T211232Z
+UID:20230621T180000Z-edadf69b7a3ea231151aee4bb34a90c3
+DESCRIPTION:Gezündet wird nach Sonnenuntergang.
+LOCATION:Salzwiese oberhalb der Wagenburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch-Party
+DTSTART:20230625T130000Z
+DTEND:20230625T170000Z
+DTSTAMP:20230620T211232Z
+UID:20230625T130000Z-40336c24b43f68f2207657c49e1a5c7a
+DESCRIPTION:Kleidertausch-Party in den Geissweg. Bring Deine aussortierte 
+ Kleidung mit\, 0-10 Teile pro Person. Probier nach Lust und Laune andere K
+ leidung an und nimm mit\, was dir gefällt. Musik\, Kuchen und Getränke a
+ uf Spendenbasis. Bei schlechtem Wetter findet die Kleidertausch-Party im K
+ eller statt.
+LOCATION:Geissweg 15-23\, im Innenhof
+END:VEVENT
 END:VCALENDAR
