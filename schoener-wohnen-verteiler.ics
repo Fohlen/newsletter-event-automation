@@ -101,4 +101,19 @@ DESCRIPTION:Kleidertausch-Party in den Geissweg. Bring Deine aussortierte
  eller statt.
 LOCATION:Geissweg 15-23\, im Innenhof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kunstschau in der Shedhalle
+DTSTART:20230623T000000
+DTEND:20230625T235900
+DTSTAMP:20230621T211324Z
+UID:20230623T000000-b7659f4d2bdfff1f438958241b03899e
+DESCRIPTION:Die Kupferblau (das Campusmagazin Tübingen) organisiert ein g
+ anzes Wochenende lang eine Kunstschau in der Shedhalle. Neben Kunst von ju
+ ngen Tübinger Künstler*innen wird es unter anderem einen Poetry Slam\, v
+ iel Live und elektronische Musik\, Improtheater\, einen Pflanzentausch\, e
+ inen Salsa Kurs\, eine Jam Session und eine Lesung geben. Das ganze findet
+  auf Spendenbasis statt - einmal gezahlt\, könnt ihr das ganze Wochenende
+  am Programm teilnehmen. An der Bar gibt es Erfrischungen.
+LOCATION:Shedhalle\, Tübingen
+END:VEVENT
 END:VCALENDAR
