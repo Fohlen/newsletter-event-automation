@@ -116,4 +116,16 @@ DESCRIPTION:Die Kupferblau (das Campusmagazin Tübingen) organisiert ein g
   am Programm teilnehmen. An der Bar gibt es Erfrischungen.
 LOCATION:Shedhalle\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung "Verändern wollte ich eine Menge - Aus dem Leben 
+ der Internationalistin Ellen Stêrk"
+DTSTART:20230711T190000
+DTEND:20230711T200000
+DTSTAMP:20230703T211348Z
+UID:20230711T190000-f7489cc888aea03b271eb85e57b39706
+DESCRIPTION:Zwei Menschen aus dem Herausgeber*innenkollektiv des Buches ko
+ mmen nach Tübingen. Sie lesen daraus vor & erzählen von der Entstehungsg
+ eschichte.
+LOCATION:FRANZ!werk Tübingen
+END:VEVENT
 END:VCALENDAR
