@@ -128,4 +128,28 @@ DESCRIPTION:Zwei Menschen aus dem Herausgeber*innenkollektiv des Buches ko
  eschichte.
 LOCATION:FRANZ!werk Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LU15 Garage-Post-Punk from Outer Space
+DTSTART:20230721T210000
+DTEND:20230722T010000
+DTSTAMP:20230704T211353Z
+UID:20230721T210000-3e45aa4dc8974ca3d5c5a377ad901977
+DESCRIPTION:Die Lunatics aus Pforzheim spielen in der Hausbar. Einlass ab 
+ 21:00 Uhr. Live Musik beginnt um 22:00 Uhr.\n\nMehr Informationen unter: h
+ ttps://thelunaticsband.bandcamp.com/album/no-way-home\n\nWir freuen uns\, 
+ wenn ihr vorbeikommt!
+LOCATION:Hausbar\, Pforzheim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAT Grillen - Kennenlernen
+DTSTART:20230712T120000Z
+DTEND:20230712T140000Z
+DTSTAMP:20230704T211353Z
+UID:20230712T120000Z-68aa26815983f702c7935da8a6442a0d
+DESCRIPTION:Der TAT (Tübinger Arbeitslosen-Treff e. V.) lädt alle Intere
+ ssierten zum gemeinsamen Grillen ein. Es wird kostenloses Essen (vegan/veg
+ etarisch) geben. Spenden sind willkommen. Bitte teilen Sie uns bis zum 09.
+ 07.2023 mit\, ob Sie teilnehmen möchten.
+LOCATION:Neckarhalde 40\, beim Asylzentrum\, Tübingen
+END:VEVENT
 END:VCALENDAR
