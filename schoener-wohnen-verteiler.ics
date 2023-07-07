@@ -152,4 +152,16 @@ DESCRIPTION:Der TAT (Tübinger Arbeitslosen-Treff e. V.) lädt alle Intere
  07.2023 mit\, ob Sie teilnehmen möchten.
 LOCATION:Neckarhalde 40\, beim Asylzentrum\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAT Meeting
+DTSTART:20230712T183000
+DTEND:20230712T193000
+DTSTAMP:20230707T211311Z
+UID:20230712T183000-a3e64459ed9879597f33b71d24dbb178
+DESCRIPTION:Wer Interesse hat an dem Treffen jetzt am Mittwoch kommender W
+ oche (12.07.2023) teilzunehmen\, sollte natürlich wissen\, dass es um 18:
+ 30 Uhr im TAT (Innenhof) stattfindet. Meldet euch bitte per E-Mail an mail
+ @arbeitslosentreff.de oder direkt an Celina.
+LOCATION:TAT (Innenhof)
+END:VEVENT
 END:VCALENDAR
