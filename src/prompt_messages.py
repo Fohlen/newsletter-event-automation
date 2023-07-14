@@ -17,7 +17,7 @@ MANDATORY_FIELDS = ["event_name", "organizer", "start_date", "end_date", "start_
 def prompt_model(message: Mapping[str, str]):
     message_date = datetime.datetime.strptime(message["date"], "%a, %d %b %Y %H:%M:%S %z")
     completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=[
             {
                 "role": "system",
