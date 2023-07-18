@@ -164,4 +164,16 @@ DESCRIPTION:Wer Interesse hat an dem Treffen jetzt am Mittwoch kommender W
  @arbeitslosentreff.de oder direkt an Celina.
 LOCATION:TAT (Innenhof)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Draußenhausbar-Saison Start
+DTSTART:20230501T200000Z
+DTSTAMP:20230718T211150Z
+UID:20230501T200000Z-ca896288fc8c0aa1f4244fa5c8b7c6f7
+DESCRIPTION:Kommt rum\, trefft eure FreundInnen auf nen Schnack bei einer 
+ günstigen Albschorle oder nem Alpi. Genießt das gemeinsame Soupieren\, d
+ enn eine Küfa - den Temperaturen angepasst- wird es auch geben. Nach dem 
+ Brand in einem der Nebenhäuser sind noch nicht alle Schäden beseitigt. B
+ itte verhaltet euch rücksichtsvoll (!)und achtet auf die Absperrungen.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
