@@ -176,4 +176,16 @@ DESCRIPTION:Kommt rum\, trefft eure FreundInnen auf nen Schnack bei einer
  itte verhaltet euch rücksichtsvoll (!)und achtet auf die Absperrungen.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theaterstück "Der Kleine Prinz"
+DTSTART:20230722T193000Z
+DTEND:20230722T213000Z
+DTSTAMP:20230720T211152Z
+UID:20230722T193000Z-7ae15c6b3bb077256a80f88d74497a07
+DESCRIPTION:Die selbstorganisierte Theatergruppe lädt Sie zu ihrer Auffü
+ hrung des "Kleinen Prinzen" ein. Das Stück handelt von Planeten und Rosen
+ \, Wut und Erstarrung\, Besitz und Freundschaft und vielem mehr. Einlass a
+ b 19:15 Uhr.
+LOCATION:Fichtehaussaal\, Herrenberger Straße 40
+END:VEVENT
 END:VCALENDAR
