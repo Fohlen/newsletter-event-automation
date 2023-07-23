@@ -10,7 +10,7 @@ def test_read_mbox(data_dir):
     messages = list(read_mbox(
         data_dir / "mbox",
         ["schoener-wohnen@lists.mtmedia.org"],
-        "[schoener-wohnen-tuebingen] ",
+        "[schoener-wohnen]",
         "___________________________"
     ))
     assert len(messages) == 20

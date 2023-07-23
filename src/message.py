@@ -10,7 +10,7 @@ from typing import TypedDict, Sequence, IO, Any
 
 from src.visible_text_parser import VisibleTextParser
 
-fileConfig('../logging.ini')
+#fileConfig('../logging.ini')
 logger = logging.getLogger()
 
 
