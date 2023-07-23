@@ -1,5 +1,6 @@
 import html
 import logging
+from logging.config import fileConfig
 import argparse
 import json
 import email
@@ -12,11 +13,14 @@ from typing import IO, Any
 
 from src.visible_text_parser import VisibleTextParser
 
-logging.getLogger().setLevel(logging.INFO)
+fileConfig('../logging.ini')
+logger = logging.getLogger()
 
 
 def email_mbox_factory(file: IO[Any]) -> Message | None:
     return email.message_from_binary_file(file, policy=email.policy.default)
+
+
 
 
 if __name__ == "__main__":
@@ -82,7 +86,7 @@ if __name__ == "__main__":
                             "content": html.unescape(content).strip()
                         }), file=fp)
                 except KeyError:
-                    logging.warning(f"Could not process message from {sender_email} at index {index}")
+                    logging.error(f"Could not process message from {sender_email} at index {index}")
                     num_failed += 1
                     continue
 
