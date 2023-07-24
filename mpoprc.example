@@ -13,7 +13,7 @@ defaults
 tls on
 
 # Deliver mail to a maildir folder:
-delivery mbox $GITHUB_WORKSPACE/data/raw/mbox
+delivery mbox $GITHUB_WORKSPACE/mbox
 
 # Define a mail account at a freemail service
 account posteo

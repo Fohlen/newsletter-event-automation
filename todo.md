@@ -17,5 +17,5 @@ Create events from newsletters
 - [ ] update README
   - [x] rename package!
 - [x] update GitHub action
-  - [ ] update GH secret
+  - [x] update GH secret
 - [ ] add online calendar via GH pages
