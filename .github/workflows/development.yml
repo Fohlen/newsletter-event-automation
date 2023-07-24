@@ -16,3 +16,5 @@ jobs:
           pip install -r requirements-dev.txt
       - name: Run mypy
         run: python3 -m mypy .
+      - name: Run tests
+        run: python3 -m pytest
