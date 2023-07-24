@@ -11,10 +11,11 @@ Create events from newsletters
 - [x] pass to prompt
 - [x] central main.py
   - [x] configuration file
-  - [ ] logging config
-    - log success rate!
+  - [x] logging config
+    - [x] log success rate!
   - [ ] write discarded messages to artifacts
 - [ ] update README
-  - rename package!
-- [ ] update GitHub action
+  - [x] rename package!
+- [x] update GitHub action
+  - [ ] update GH secret
 - [ ] add online calendar via GH pages

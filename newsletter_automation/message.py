@@ -6,7 +6,7 @@ import logging
 import mailbox
 from email.utils import parseaddr, unquote
 from pathlib import Path
-from typing import TypedDict, Sequence, IO, Any
+from typing import TypedDict, IO, Any, Iterator
 
 from newsletter_automation.visible_text_parser import VisibleTextParser
 
@@ -22,7 +22,7 @@ class Message(TypedDict):
 
 
 def email_mbox_factory(file: IO[Any]) -> Message | None:
-    return email.message_from_binary_file(file, policy=email.policy.default)
+    return email.message_from_binary_file(file, policy=email.policy.default)  # type: ignore
 
 
 def read_mbox(
@@ -30,7 +30,7 @@ def read_mbox(
         sender_emails: list[str],
         truncate_subject_prefix: str,
         truncate_content_suffix: str
-) -> Sequence[Message]:
+) -> Iterator[Message]:
     mbox = mailbox.mbox(
         mbox_path,
         factory=email_mbox_factory,  # type: ignore
@@ -60,13 +60,14 @@ def read_mbox(
 
                     yield {
                         "sender": sender_email,
-                        "id": message.get("Message-Id"),
+                        "id": message["Message-Id"],
                         "subject": subject.strip(),
                         "date": message["date"],
                         "content": unescape(content).strip()
                     }
             except KeyError:
-                logging.error(f"Could not process message from {sender_email}")
+                logging.warning(f"Could not process message from {sender_email}")
                 num_failed += 1
 
-    logging.debug(f"{num_failed} messages failed")
+    if num_failed > 0:
+        logging.debug(f"{num_failed} messages failed")
