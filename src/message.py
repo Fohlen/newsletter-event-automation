@@ -1,9 +1,10 @@
 import email
 import email.policy
-import html
+from email.message import EmailMessage
+from html import unescape
 import logging
 import mailbox
-from email.utils import parseaddr
+from email.utils import parseaddr, unquote
 from logging.config import fileConfig
 from pathlib import Path
 from typing import TypedDict, Sequence, IO, Any
@@ -44,15 +45,13 @@ def read_mbox(
             try:
                 body: EmailMessage | None = message.get_body()  # type: ignore
                 if body:
-                    content = body.get_content()
+                    content = unquote(body.get_content())
                     if body.get_content_type() == "text/html":
                         html_parser = VisibleTextParser()
                         html_parser.feed(content)
                         content = html_parser.get_visible_text()
 
-                    subject = html.unescape(
-                        message["subject"][len(truncate_subject_prefix):]
-                    ).strip()
+                    subject = unquote(unescape(message["subject"]))[len(truncate_subject_prefix)+1:]
 
                     try:
                         content_suffix_index = content.index(truncate_content_suffix)
@@ -62,9 +61,10 @@ def read_mbox(
 
                     yield {
                         "sender": sender_email,
-                        "subject": subject,
+                        "id": message.get("Message-Id"),
+                        "subject": subject.strip(),
                         "date": message["date"],
-                        "content": html.unescape(content).strip()
+                        "content": unescape(content).strip()
                     }
             except KeyError:
                 logging.error(f"Could not process message from {sender_email}")
