@@ -15,6 +15,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements-dev.txt
       - name: Run mypy
-        run: python3 -m mypy .
+        run: python3 -m mypy newsletter_automation tests
       - name: Run tests
         run: python3 -m pytest -m "not integration"
