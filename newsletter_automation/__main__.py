@@ -9,12 +9,11 @@ import pickle
 from icalendar import Calendar
 from numpy import rint
 
-from src.calendar import merge_calendars
-from src.message import read_mbox
-from src.prompt import prompt_model, calendar_from_completion
+from newsletter_automation.calendar import merge_calendars
+from newsletter_automation.message import read_mbox
+from newsletter_automation.prompt import prompt_model, calendar_from_completion
 
-cwd = Path.cwd()
-fileConfig(str(cwd.parent / "logging.ini"))
+fileConfig(str(Path(__file__).parent / "logging.ini"))
 logger = logging.getLogger()
 
 
@@ -60,18 +59,18 @@ def read_newsletter_to_calendar(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Automate your newsletter")
-    parser.add_argument("--config", nargs="?", default=(cwd / "config.ini"))
+    parser.add_argument("--config", nargs="?", default=(Path.cwd() / "config.ini"))
     args = parser.parse_args()
 
     cfg = ConfigParser()
     cfg.read(args.config)
     conf = Config(
-        mbox=Path(cfg.get("Path", "mbox")),
-        filter=Path(cfg.get("Path", "filter")),
-        calendar=Path(cfg.get("Path", "calendar")),
-        sender_emails=cfg.get("Email-Filter", "sender").split(","),
-        truncate_subject_prefix=cfg.get("Email-Filter", "truncate_subject_prefix"),
-        truncate_content_suffix=cfg.get("Email-Filter", "truncate_content_suffix"),
+        mbox=Path(cfg.get("path", "mbox")),
+        filter=Path(cfg.get("path", "filter")),
+        calendar=Path(cfg.get("path", "calendar")),
+        sender_emails=cfg.get("email", "sender").split(","),
+        truncate_subject_prefix=cfg.get("email", "truncate_subject_prefix"),
+        truncate_content_suffix=cfg.get("email", "truncate_content_suffix"),
     )
 
     output_calendar = read_newsletter_to_calendar(conf)

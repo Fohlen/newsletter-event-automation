@@ -2,8 +2,8 @@ import html
 
 import pytest
 
-from src.message import read_mbox
-from src.visible_text_parser import VisibleTextParser
+from newsletter_automation.message import read_mbox
+from newsletter_automation.visible_text_parser import VisibleTextParser
 
 
 def test_read_mbox(data_dir):

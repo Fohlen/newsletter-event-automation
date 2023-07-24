@@ -3,8 +3,8 @@ from collections import namedtuple
 
 import pytest
 
-from src.message import Message
-from src.prompt import prompt_model, calendar_from_completion
+from newsletter_automation.message import Message
+from newsletter_automation.prompt import prompt_model, calendar_from_completion
 
 
 @pytest.fixture

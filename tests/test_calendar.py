@@ -1,6 +1,6 @@
 from icalendar import Calendar
 
-from src.calendar import merge_calendars
+from newsletter_automation.calendar import merge_calendars
 
 
 def test_calendar(data_dir):

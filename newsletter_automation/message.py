@@ -8,7 +8,7 @@ from email.utils import parseaddr, unquote
 from pathlib import Path
 from typing import TypedDict, Sequence, IO, Any
 
-from src.visible_text_parser import VisibleTextParser
+from newsletter_automation.visible_text_parser import VisibleTextParser
 
 logger = logging.getLogger()
 

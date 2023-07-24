@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from src.message import read_mbox
+from newsletter_automation.message import read_mbox
 
 if __name__ == "__main__":
     path = Path("~/Downloads/mbox/bla.mbox/mbox")

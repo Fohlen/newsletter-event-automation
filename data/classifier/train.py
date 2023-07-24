@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import Pipeline
 import numpy as np
 
-from src.message import Message
+from newsletter_automation.message import Message
 
 if __name__ == "__main__":
     with open("messages.jsonl") as messages_fp, \

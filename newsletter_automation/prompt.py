@@ -4,7 +4,7 @@ from typing import Optional
 import openai
 from icalendar import Calendar
 
-from src.message import Message
+from newsletter_automation.message import Message
 
 
 def prompt_model(message: Message):
