@@ -5,18 +5,17 @@ from html import unescape
 import logging
 import mailbox
 from email.utils import parseaddr, unquote
-from logging.config import fileConfig
 from pathlib import Path
 from typing import TypedDict, Sequence, IO, Any
 
 from src.visible_text_parser import VisibleTextParser
 
-#fileConfig('../logging.ini')
 logger = logging.getLogger()
 
 
 class Message(TypedDict):
     sender: str
+    id: str
     subject: str
     date: str
     content: str
