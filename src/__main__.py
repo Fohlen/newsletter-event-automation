@@ -1,7 +1,35 @@
+import argparse
 import logging
+from configparser import ConfigParser
+from dataclasses import dataclass
+from logging.config import fileConfig
+from pathlib import Path
+import pickle
 
-#fileConfig('logging.ini')
+from icalendar import Calendar
+from numpy import rint
+
+from src.calendar import merge_calendars
+from src.message import read_mbox
+from src.prompt import prompt_model, calendar_from_completion
+
+cwd = Path.cwd()
+fileConfig(str(cwd.parent / "logging.ini"))
 logger = logging.getLogger()
+
+
+@dataclass
+class Config:
+    mbox: Path
+    filter: Path
+    calendar: Path
+    sender_emails: list[str]
+    truncate_subject_prefix: str
+    truncate_content_suffix: str
+
+
+def read_newsletter_to_calendar() -> Calendar:
+    pass
 
 
 if __name__ == "__main__":
@@ -10,4 +38,46 @@ if __name__ == "__main__":
     # prompt
     # update calendar
 
-    pass
+
+    parser = argparse.ArgumentParser("Automate your newsletter")
+    parser.add_argument("--config", nargs="?", default=(cwd / "config.ini"))
+    args = parser.parse_args()
+
+    cfg = ConfigParser()
+    cfg.read(args.config)
+    config = Config(
+        mbox=Path(cfg.get("Path", "mbox")),
+        filter=Path(cfg.get("Path", "filter")),
+        calendar=Path(cfg.get("Path", "calendar")),
+        sender_emails=cfg.get("Email-Filter", "sender").split(","),
+        truncate_subject_prefix=cfg.get("Email-Filter", "truncate_subject_prefix"),
+        truncate_content_suffix=cfg.get("Email-Filter", "truncate_content_suffix"),
+    )
+
+    messages = list(read_mbox(
+        config.mbox,
+        config.sender_emails,
+        config.truncate_subject_prefix,
+        config.truncate_content_suffix
+    ))
+
+    with config.filter.open("rb") as filter_fp:
+        pipeline = pickle.load(filter_fp)
+        predictions = pipeline.predict(
+            [message["content"] for message in messages]
+        )
+        classification = rint(predictions).astype(int).reshape((-1))
+
+    calendars = []
+
+    for message, is_event in zip(messages):
+        if is_event:
+            completion = prompt_model(message)
+            calendar = calendar_from_completion(message, completion)
+            if calendar is not None:
+                calendars.append(calendar)
+
+    with config.calendar.open("w+") as calendar_fp:
+        input_calendar = Calendar.from_ical(calendar_fp.read())
+        output_calendar = merge_calendars(calendars, input_calendar)
+        calendar_fp.write(output_calendar.to_ical())
