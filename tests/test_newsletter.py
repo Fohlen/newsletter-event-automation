@@ -18,4 +18,4 @@ def test_read_newsletter_to_calendar(data_dir):
 
     merged_calendar = read_newsletter_to_calendar(conf)
     events = list(merged_calendar.walk("VEVENT"))
-    assert len(events) == 12
+    assert len(events) == 13
