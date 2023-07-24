@@ -12,7 +12,7 @@ def message_a(data_dir):
     return data_dir / "message_a.json"
 
 
-@pytest.mark.skip("prompting is expensive and slow")
+@pytest.mark.integration
 def test_prompt(message_a):
     with message_a.open() as message_fp:
         message: Message = json.load(message_fp)
