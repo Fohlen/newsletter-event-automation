@@ -13,7 +13,9 @@ from newsletter_automation.calendar import merge_calendars
 from newsletter_automation.message import read_mbox
 from newsletter_automation.prompt import prompt_model, calendar_from_completion
 
-fileConfig(str(Path(__file__).parent / "logging.ini"))
+cwd = Path.cwd()
+
+fileConfig(str(cwd / "logging.ini"))
 logger = logging.getLogger()
 
 
@@ -59,7 +61,7 @@ def read_newsletter_to_calendar(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Automate your newsletter")
-    parser.add_argument("--config", nargs="?", default=(Path.cwd() / "config.ini"))
+    parser.add_argument("--config", nargs="?", default=(cwd / "config.ini"))
     args = parser.parse_args()
 
     cfg = ConfigParser()
