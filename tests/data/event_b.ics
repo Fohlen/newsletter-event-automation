@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schelling Concert Night//EN
+BEGIN:VEVENT
+UID:<980231490.8095895.1670961609881@mail.yahoo.com>
+DTSTAMP:20201229T210000Z
+DTSTART:20201229T210000Z
+DTEND:20201229T235959Z
+SUMMARY:Concert Night at Schelling
+DESCRIPTION:Indierock, Postrock concert featuring Seitenweise and Counting Raindrops. Please come tested and stay home if you have symptoms. More info at https://countingraindrops.bandcamp.com
+LOCATION:Schelling
+END:VEVENT
+END:VCALENDAR

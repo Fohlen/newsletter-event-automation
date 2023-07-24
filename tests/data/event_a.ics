@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shows of Schelling//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:<trinity-81002af2-8fc7-4df2-a1a5-f143b56503b8-1671028299444@3c-app-gmx-bs26>
+DTSTAMP:20201216T200000Z
+DTSTART:20201216T200000
+DTEND:20201216T020000
+SUMMARY: Shows of Schelling Concert and After Party
+DESCRIPTION: Please join us for a live concert and after party featuring HETE, Das Blanke Extrem, and DJ set by Mimu. Be reminded to come tested and symptom-free. For more information, please visit:\nHETE: https://heteispartoftheproblem.bandcamp.com/releases\nDas Blanke Extrem: https://dasblankeextrem.bandcamp.com/music, https://dasblankeextrem.org/, https://www.youtube.com/watch?v=A6nMmqAHOT0, https://www.flight13.com/das-blanke-extrem-unheimlich-nette-leute/144536\nMimu: https://instagram.com/fak_tue?igshid=YmMyMTA2M2
+END:VEVENT
+END:VCALENDAR
