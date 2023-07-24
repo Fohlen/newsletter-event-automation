@@ -7,16 +7,15 @@ Create events from newsletters
     - [x] adjust preprocessing (remove footer)
 - [x] train classifier for "contains event"
   - [x] store in LFS
-- [x] filter messages with classifier
-  - [ ] retrain model
-- [x] filter messages with moderations API
-- [x] create iCal file from completion per message
-  - [x] fix times
-  - [ ] improve prompt for higher coverage
-- [x] create cronjob
-    - [x] use ~/.mpoprc for fetching mail
-    - [x] combine iCals and update / create main iCal file
-- [x] add README
-    - [x] add mpop example
-    - [x] add screenshot
-    - [x] "how to add this to your calendar" :)
+- [x] read multiple ICS files and merge them (+ test)
+- [x] pass to prompt
+- [x] central main.py
+  - [x] configuration file
+  - [x] logging config
+    - [x] log success rate!
+  - [ ] write discarded messages to artifacts
+- [ ] update README
+  - [x] rename package!
+- [x] update GitHub action
+  - [x] update GH secret
+- [ ] add online calendar via GH pages

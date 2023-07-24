@@ -32,21 +32,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          echo "PYTHONPATH=$PYTHONPATH:$(pwd)/src" >> $GITHUB_ENV
-      - name: Read message box
-        run: python3 src/read_mbox.py ${{ github.workspace }}/data/raw/mbox
-      - name: Filter messages
-        run: python3 src/filter_messages.py ${{ github.workspace }}/data/raw/mbox.jsonl
-      - name: Moderate messages
-        run: python3 src/moderate_messages.py ${{ github.workspace }}/data/raw/mbox_filtered.jsonl
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Configure newsletter_automation
+        run: envsubst < example.ini > config.ini
       - name: Create event summaries
-        run: python3 src/prompt_messages.py ${{ github.workspace }}/data/raw/mbox_filtered_moderated.jsonl
+        run: python3 -m newsletter_automation
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      - name: Update calendar
-        run: python3 src/update_calendar.py ${{ github.workspace }}/data/calendars
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: '*.ics'

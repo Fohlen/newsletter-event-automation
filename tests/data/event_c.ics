@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schöner-Wohnende//NONSGML Schelling-Hausbar Event//EN
+BEGIN:VEVENT
+UID:<trinity-9f82f932-d13f-4c5b-a1f0-8eca1a2ea076-1670343578569@3c-app-gmx-bs33>
+DTSTAMP:20201214T193000Z
+DTSTART:20201214T193000Z
+DTEND:20201215T000000Z
+SUMMARY:Schelling-Hausbar Event
+DESCRIPTION:Die letzte Schelling-Hausbar des Jahres mit musikalisches Abendprogramm von den Tübinger Instrumental-Bands Tiefenrausch und Volcano People.
+LOCATION:Tübingen, Germany
+END:VEVENT
+END:VCALENDAR
