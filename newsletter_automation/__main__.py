@@ -1,4 +1,5 @@
 import argparse
+import datetime
 import logging
 from configparser import ConfigParser
 from dataclasses import dataclass
@@ -28,6 +29,23 @@ class Config:
     sender_emails: list[str]
     truncate_subject_prefix: str
     truncate_content_suffix: str
+
+
+@dataclass
+class MessageStatistics:
+    read: int
+    filtered: int
+    completed: int
+
+    @property
+    def success_rate(self) -> float:
+        return self.completed / self.read
+
+    def __str__(self):
+        date_fmt = datetime.datetime.now().strftime("%y-%d-%m")
+        return ",".join([
+            date_fmt, str(self.read), str(self.filtered), str(self.completed), str(self.success_rate)
+        ])
 
 
 def read_newsletter_to_calendar(
@@ -62,6 +80,8 @@ def read_newsletter_to_calendar(
         log.info(f"Completed {len(calendars)} calenders")
         input_calendar = Calendar.from_ical(calendar_fp.read())
         log.info("Merging calendars")
+        statistics = MessageStatistics(len(messages), num_filtered, len(calendars))
+        log.info(statistics)
         return merge_calendars(calendars, input_calendar)
 
 

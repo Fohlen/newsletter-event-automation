@@ -13,7 +13,7 @@ Create events from newsletters
   - [x] configuration file
   - [x] logging config
     - [x] log success rate!
-  - [ ] write discarded messages to artifacts
+  - [x] write discarded messages to artifacts
 - [ ] update README
   - [x] rename package!
 - [x] update GitHub action
