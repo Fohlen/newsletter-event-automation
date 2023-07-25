@@ -1,7 +1,8 @@
 newsletter-event-automation
 ------------------------
 
-<a href="webcal://raw.githubusercontent.com/Fohlen/newsletter-event-automation/main/schoener-wohnen-verteiler.ics"><img src="https://img.shields.io/badge/Add_to_calendar-blue.svg"></a>
+[![Add to calendar](https://img.shields.io/badge/Add_to_calendar-blue.svg)](webcal://raw.githubusercontent.com/Fohlen/newsletter-event-automation/main/schoener-wohnen-verteiler.ics)
+
 
 This project automatically reads a newsletter to create a calendar feed from it.
 In such a way I can focus on the things that are important to me without having to spend 20 minutes out of my day to read emails 🙂
