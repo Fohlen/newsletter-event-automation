@@ -1,7 +1,7 @@
 newsletter-event-automation
 ------------------------
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Add_to_calendar-blue?link=https%3A%2F%2Fraw.githubusercontent.com%2FFohlen%2Fnewsletter-event-automation%2Fmain%2Fschoener-wohnen-verteiler.ics">
+<object alt="Static Badge" data="https://img.shields.io/badge/Add_to_calendar-blue?link=webcal%3A%2F%2Fraw.githubusercontent.com%2FFohlen%2Fnewsletter-event-automation%2Fmain%2Fschoener-wohnen-verteiler.ics"></object>
 
 This project automatically reads a newsletter to create a calendar feed from it.
 In such a way I can focus on the things that are important to me without having to spend 20 minutes out of my day to read emails 🙂
