@@ -188,4 +188,23 @@ DESCRIPTION:Die selbstorganisierte Theatergruppe lädt Sie zu ihrer Auffü
  b 19:15 Uhr.
 LOCATION:Fichtehaussaal\, Herrenberger Straße 40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:H_U_T. Concert
+DTSTART:20230730T180000Z
+DTEND:20230730T210000Z
+DTSTAMP:20230730T180000Z
+DTSTAMP:20230725T183109Z
+UID:<f08e0db0c17bec532fa67f3807ff01ca@mtmedia.org>
+DESCRIPTION:H_U_T. from Tilburg\, Netherlands\, will be performing their d
+ anceable Proto-Punk\, which originated from sprawling Krautrock jams and a
+  love for the performative aspects of language. The live performance will 
+ be a mix of odd time signatures\, improvisation\, Sugarpop\, and No-Wave c
+ ompositions with strange effects. They are touring with their current albu
+ m "De Beeldentuin". More info and videos at https://hutorg.bandcamp.com/al
+ bum/h-u-t/ and https://vid.puffyan.us/channel/UC7Xd9xhuKRqSdjr6bHuactw/. T
+ he concert is supported by plattform:[nobudget]. In case of rain\, the con
+ cert will take place in the basement.
+LOCATION:Ludwigstraße 15\, Tübingen\, Germany
+URL;VALUE=URI:https://hutorg.bandcamp.com/album/h-u-t/
+END:VEVENT
 END:VCALENDAR
