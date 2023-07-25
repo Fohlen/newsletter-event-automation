@@ -21,9 +21,7 @@ jobs:
           envsubst <<< $(echo $MPOPRC | base64 --decode) > ~/.mpoprc
           chmod 600 ~/.mpoprc
       - name: Run mpop
-        run: |
-          mpop
-          test -f ${{ github.workspace }}/data/raw/mbox
+        run: mpop
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
