@@ -82,7 +82,10 @@ if __name__ == "__main__":
         truncate_content_suffix=cfg.get("email", "truncate_content_suffix"),
     )
 
-    log.info(f"Reading newsletter from mailbox {conf.mbox}")
-    output_calendar = read_newsletter_to_calendar(conf)
-    with conf.calendar.open("wt") as output_calendar_fp:
-        output_calendar_fp.write(output_calendar.to_ical())
+    if conf.mbox.exists():
+        log.info(f"Reading newsletter from mailbox {conf.mbox}")
+        output_calendar = read_newsletter_to_calendar(conf)
+        with conf.calendar.open("wt") as output_calendar_fp:
+            output_calendar_fp.write(output_calendar.to_ical())
+    else:
+        log.error(f"No mailbox at {conf.mbox}, exiting")
