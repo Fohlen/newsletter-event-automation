@@ -166,3 +166,4 @@ cython_debug/
 data/calendars/*.ics
 data/raw/*
 mpoprc
+config.ini

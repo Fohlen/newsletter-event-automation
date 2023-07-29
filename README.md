@@ -6,8 +6,6 @@ newsletter-event-automation
 This project automatically reads a newsletter to create a calendar feed from it.
 In such a way I can focus on the things that are important to me without having to spend 20 minutes out of my day to read emails 🙂
 
-If the above button link does not work, please try the direct link [add to calendar](webcal://raw.githubusercontent.com/Fohlen/newsletter-event-automation/main/schoener-wohnen-verteiler.ics).
-
 ## Architecture
 
 This project is a pipeline powered by [GitHub Actions](https://github.com/features/actions).
