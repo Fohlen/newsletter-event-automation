@@ -3,13 +3,19 @@ from typing import Optional
 
 import openai
 from icalendar import Calendar
+from tenacity import retry, wait_random_exponential, stop_after_attempt
 
 from newsletter_automation.message import Message
 
 
-def prompt_model(message: Message):
+@retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
+def completion_with_backoff(**kwargs) -> openai.ChatCompletion:
+    return openai.Completion.create(**kwargs)
+
+
+def prompt_model(message: Message) -> openai.ChatCompletion:
     message_date = parsedate_to_datetime(message["date"])
-    completion = openai.ChatCompletion.create(
+    completion = completion_with_backoff(
         model="gpt-4",
         messages=[
             {
