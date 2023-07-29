@@ -9,13 +9,13 @@ from newsletter_automation.message import Message
 
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
-def completion_with_backoff(**kwargs) -> openai.ChatCompletion:
-    return openai.Completion.create(**kwargs)
+def chat_completion_with_backoff(**kwargs) -> openai.ChatCompletion:
+    return openai.ChatCompletion.create(**kwargs)
 
 
 def prompt_model(message: Message) -> openai.ChatCompletion:
     message_date = parsedate_to_datetime(message["date"])
-    completion = completion_with_backoff(
+    completion = chat_completion_with_backoff(
         model="gpt-4",
         messages=[
             {
