@@ -246,4 +246,20 @@ DESCRIPTION:Ganz herzliche Einladung zum Kleidertausch des AK Nachhaltigke
  mitbringen. Nehmen dürft ihr\, was euch gefällt.
 LOCATION:Haagtorplatz @haagtorspace
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münze7 All Day Party
+DTSTART:20230506T120000Z
+DTEND:20230507T000000Z
+DTSTAMP:20230501T080000Z
+DTSTAMP:20230729T204026Z
+UID:<AS2P189MB246975ADBC7BDDDDAEB7F255E007A@AS2P189MB2469.EURP189.PROD.OUT
+ LOOK.COM>
+DESCRIPTION:We party all day long: Starting at 12 with food and drinks and
+  techno (melodic techno – acid techno – hard techno) all day long!! Al
+ l profits go to the Münze 13. We don´t accept any kind of racist\, sexis
+ t\, antisemitic\, transphobic or other discriminating behaviour and no fra
+ ternities. We reserve the right to exclude people who exhibit this behavio
+ ur. Take care and respect limits.
+LOCATION:Münze7
+END:VEVENT
 END:VCALENDAR
