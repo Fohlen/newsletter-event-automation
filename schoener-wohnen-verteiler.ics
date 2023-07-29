@@ -207,4 +207,43 @@ DESCRIPTION:H_U_T. from Tilburg\, Netherlands\, will be performing their d
 LOCATION:Ludwigstraße 15\, Tübingen\, Germany
 URL;VALUE=URI:https://hutorg.bandcamp.com/album/h-u-t/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meeting at Blauen Salon for Cafe Project
+DTSTART:20230801T190000Z
+DTSTAMP:20230701T080000Z
+DTSTAMP:20230729T123752Z
+UID:<4b43e7b729bd66f99713654f91b6d2d3@riseup.net>
+DESCRIPTION:Meeting to discuss the possibility of creating a cafe offering
+  during the day at Blauen Salon. The meeting aims to create a group of peo
+ ple who will take responsibility for the cafe operation. We will discuss t
+ he needs and expectations of such a project and estimate the scope of the 
+ cafe operation.
+LOCATION:Münzgasse 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alles muss raus! Dachboden Ausraeumen
+DTSTART:20230701T080000Z
+DTEND:20230701T190000Z
+DTSTAMP:20230701T080000Z
+DTSTAMP:20230729T123752Z
+UID:<c7ed10ae0f0b50d692b3790bd00715da@riseup.net>
+DESCRIPTION:Wir räumen den Dachboden aus als Vorbereitung für die Sanier
+ ungen. Wir stellen den ganzen Tag über Sachen auf die Straße\, die gerne
+  mitgenommen werden dürfen. Alles umsonst oder\, wer mag und kann\, klein
+ e Spende für die Hauskasse. Was um 19 Uhr noch da steht\, kommt auf die D
+ eponie. Wir freuen uns über alles\, was ihr noch brauchen könnt!
+LOCATION:Unser Haus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch des AK Nachhaltigkeit der medizinischen Fachschaft
+DTSTART:20230728T170000Z
+DTEND:20230728T200000Z
+DTSTAMP:20230728T170000Z
+DTSTAMP:20230729T123752Z
+UID:<61c78cf7-37ba-1be9-f09a-139a9fec71cd@fachschaftmedizin.de>
+DESCRIPTION:Ganz herzliche Einladung zum Kleidertausch des AK Nachhaltigke
+ it der medizinischen Fachschaft. Max. 3 Kleidungsstücke pro Person bitte 
+ mitbringen. Nehmen dürft ihr\, was euch gefällt.
+LOCATION:Haagtorplatz @haagtorspace
+END:VEVENT
 END:VCALENDAR
