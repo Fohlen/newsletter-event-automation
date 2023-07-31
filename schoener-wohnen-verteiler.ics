@@ -262,4 +262,23 @@ DESCRIPTION:We party all day long: Starting at 12 with food and drinks and
  ur. Take care and respect limits.
 LOCATION:Münze7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMI lädt ein: Der NATO-Gipfel in Vilnius
+DTSTART:20230801T190000Z
+DTSTAMP:20230801T190000Z
+DTSTAMP:20230731T204057Z
+UID:<8dc05cf4c00847ec22b0bcaebf274a91@riseup.net>
+DESCRIPTION:Am 11./12. Juli fand in Vilnius das Gipfeltreffen der NATO-Sta
+ ats- und Regierungschefs statt. Dort wurden die Pläne zum Ausbau der Prä
+ senz an der NATO-Ostflanke vorangetrieben und das neue Streitkräftemodell
+  präzisiert\, das vorsieht\, innerhalb kürzester Zeit bis zu 500.000 Sol
+ dat*innen verlegen zu können. Eingebettet ist das Ganze in neue Verteidig
+ ungspläne\, die auf dem Vilnius-Gipfel ebenfalls verabschiedet wurden. Um
+  diese Vorhaben mit finanziellen Ressourcen zu unterlegen\, wurde außerde
+ m ein neues Ausgabenziel festgelegt\, das nur durch drastische Sparmaßnah
+ men nicht zuletzt bei den Sozialhaushalten umsetzbar sein wird – die die
+ sbezügliche Debatte wurde in Deutschland im Umfeld des Gipfels bereits er
+ öffnet.
+LOCATION:IMI-Büro im Sudhaus
+END:VEVENT
 END:VCALENDAR
