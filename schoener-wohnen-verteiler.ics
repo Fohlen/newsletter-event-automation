@@ -281,4 +281,23 @@ DESCRIPTION:Am 11./12. Juli fand in Vilnius das Gipfeltreffen der NATO-Sta
  öffnet.
 LOCATION:IMI-Büro im Sudhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli Küfa Special Edition
+DTSTART:20230810T170000Z
+DTEND:20230810T213000Z
+DTSTAMP:20230810T170000Z
+DTSTAMP:20230802T204049Z
+UID:<d5cf08361a1cfe6df645f227a5f2c72d@posteo.de>
+DESCRIPTION:Special event with Mai and Marwan from Berlin\, who are active
+  in "Bana Group for Peace and Development" and "Sudan Uprising Germany". T
+ hey will report on the current situation in Sudan and activist forms of or
+ ganization. Afterwards\, an exchange will take place.\n\nProgram:\n17:00 -
+  Sudanese coffee\n18:00 - Sudanese food\, exchange\, networking\n19:30 - E
+ xchange round with Sudanese activists about the current situation and acti
+ vist organization in Sudan\n\nMore info:\nBana Group for Peace and Develop
+ ment: https://www.ziviler-friedensdienst.org/de/aktuelles/sudan-frauen-erh
+ eben-die-stimme\nSudan Uprising Germany: https://sudanuprising.weebly.com/
+ \nKURVE Wustrow: https://www.kurvewustrow.org/
+LOCATION:Tübinger Sternplatz
+END:VEVENT
 END:VCALENDAR
