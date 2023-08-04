@@ -300,4 +300,26 @@ DESCRIPTION:Special event with Mai and Marwan from Berlin\, who are active
  \nKURVE Wustrow: https://www.kurvewustrow.org/
 LOCATION:Tübinger Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Gang Concert at Blauen Salon
+DTSTAMP:20230804T125329Z
+UID:<cfe2ca23-7173-89ce-9b56-2ef35fcd94e3@posteo.de>
+DESCRIPTION:Love Gang\, a Rock’n’Roll-Band from Denver\, Colorado\, wi
+ ll be performing at Blauen Salon. The band was founded in 2015 and is a tr
+ ibute to the golden days of Rock’n’Roll. More info at https://lovegang
+ co.bandcamp.com/
+LOCATION:Blauen Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schallplattenflohmarkt
+DTSTART:20230805T140000Z
+DTEND:20230805T190000Z
+DTSTAMP:20230805T140000Z
+DTSTAMP:20230804T125329Z
+UID:<CAMfSQ15PX1ct9iEsVN_n3cYHm-P_iKYi59jHRhCdNGS6KqUjbg@mail.gmail.com>
+DESCRIPTION:Ein kleiner Schallplattenflohmarkt findet statt im großen Saa
+ l der Rothenburg. Zu finden sind Rock und Pop LPs\, diverse Maxis (80s\, D
+ isco\, Electro\, Pop etc.)\, 7inch und viel mehr.
+LOCATION:Rothenburg\, Schlossbergstr. 23
+END:VEVENT
 END:VCALENDAR
