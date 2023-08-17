@@ -322,4 +322,28 @@ DESCRIPTION:Ein kleiner Schallplattenflohmarkt findet statt im großen Saa
  isco\, Electro\, Pop etc.)\, 7inch und viel mehr.
 LOCATION:Rothenburg\, Schlossbergstr. 23
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-Flomarkt
+DTSTART:20230820T140000Z
+DTSTAMP:20230820T140000Z
+DTSTAMP:20230817T125152Z
+UID:<trinity-bff2b483-5d62-48c5-ae6b-d89ae1799afe-1692041838430@msvc-mesg-
+ gmx122>
+DESCRIPTION:Wir machen wieder einen Soli-Flomarkt. Es gibt Kaffee/Kuchen +
+  Getränke und DJNR wird ein bisschen Downtempo auflegen. Bei schönem Wet
+ ter wird das ganze draußen stattfinden mit Spiel und Spaß\, wenn es regn
+ et im Clubraum. Der Erlös wird gespendet.
+LOCATION:LH2\, Hauffstraße 23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erste Hausbar nach der Sommerpause
+DTSTART:20230906T080000Z
+DTSTAMP:20230906T080000Z
+DTSTAMP:20230817T125152Z
+UID:<29027C6C-546C-49F8-9C0F-4FDD0F1EF25A@posteo.de>
+DESCRIPTION:Die erste Hausbar nach der Sommerpause findet am 6. September 
+ statt. Wir hoffen\, dass die Hausbars danach wieder regelmäßig stattfind
+ en. Euch einen schönen Sommer und bis bald Die Schelling-Hausbar-Crew
+LOCATION:Schelling-Hausbar
+END:VEVENT
 END:VCALENDAR
