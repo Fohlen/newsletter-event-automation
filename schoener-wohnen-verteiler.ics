@@ -346,4 +346,50 @@ DESCRIPTION:Die erste Hausbar nach der Sommerpause findet am 6. September
  en. Euch einen schönen Sommer und bis bald Die Schelling-Hausbar-Crew
 LOCATION:Schelling-Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Musik in der LU15
+DTSTART:20230901T210000Z
+DTEND:20230902T000000Z
+DTSTAMP:20230701T000000Z
+DTSTAMP:20230822T125414Z
+UID:<CAPiGR_5RE40=szWeRt4OHiLaSrWFF9koLB5EG9JB_9p+tiTKWw@mail.gmail.com>
+DESCRIPTION:Live Musik mit 2 Bands: Blank! aus Freiburg (https://blankyeah
+ .bandcamp.com/album/tape-a) und Skate Anarchos aus Stuttgart (https://skat
+ eanarchos.bandcamp.com/). Einlass ab 21:00 Uhr\, Live Musik ab 22:00 Uhr.
+LOCATION:LU15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STILL NOT <3ING BLECHLAWINE - Mobi-Vortrag zur Internationalen Aut
+ omobil Ausstellung (IAA)
+DTSTART:20230825T190000Z
+DTSTAMP:20230825T190000Z
+DTSTAMP:20230822T125414Z
+UID:<9f6751ed-22ff-2367-dc26-7ae57e691f49@mtmedia.org>
+DESCRIPTION:Der Vortrag zur Internationalen Automobil Ausstellung (IAA)\, 
+ die vom 05.-10. September in München stattfindet und zu den Protesten dag
+ egen. Der Vortrag wird ca. eine Stunde dauern. Anschließend gibt es die M
+ öglichkeit\, entspannt und gemütlich bei Kaltgetränken und Musik Fragen
+  zu stellen\, zu diskutieren und - falls ihr hinfahren möchtet oder euch 
+ das überlegt - Leute für eure Bezugsgruppe zu finden. (Keine Sorge\, das
+  wird nicht die letzte Möglichkeit sein - wir veranstalten noch einen Ant
+ i-Repressions-Input spezifisch zu Bayern mit Bezugsgruppenfindung!) Das En
+ de ist offen.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helfer*innengrillen
+DTSTART:20230825T190000Z
+DTEND:20230826T000000Z
+DTSTAMP:20230825T190000Z
+DTSTAMP:20230822T125414Z
+UID:<77b129d8-3982-758b-3bc0-346cc6df9065@web.de>
+DESCRIPTION:Liebe Helfer*innen der Schöner-Wohnen-Bühne! Ihr habt eine o
+ der mehrere Schichten beim Stadtfest übernommen und damit dafür gesorgt\
+ , dass es ein schönes und erfolgreiches Fest wurde. Dafür möchten wir e
+ uch herzlich Danke sagen und einladen\, zu einem kleinen "Helfer*innengril
+ len" zu kommen. Feuer machen wir\, Grillgut bringt ihr selbst mit\, Geträ
+ nke gibts für kleines Geld in unserem Automaten :) Liebe Grüße und bis 
+ Freitag Schöner-Wohnen-Bühne
+LOCATION:Schellinggarten\, Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
