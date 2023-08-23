@@ -392,4 +392,19 @@ DESCRIPTION:Liebe Helfer*innen der Schöner-Wohnen-Bühne! Ihr habt eine o
  Freitag Schöner-Wohnen-Bühne
 LOCATION:Schellinggarten\, Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chaos macht Sterne x Schimpf Invites Party
+DTSTART:20230826T120000Z
+DTEND:20230827T000000Z
+DTSTAMP:20230826T120000Z
+DTSTAMP:20230823T204055Z
+UID:<trinity-481bff63-feac-4aca-9f86-cd1bf1212149-1692698993783@3c-app-web
+ de-bap28>
+DESCRIPTION:Join us for a day of electronic sounds from different artists\
+ , art exhibits\, fun & games\, glitter\, fire show and cozy covered seatin
+ g. Food and drinks available for purchase. Remember to bring cash as the n
+ earest ATM is a bit far. Alcoholic beverages from outside are not allowed.
+  The event is rain or shine with enough rain-protected places available.
+LOCATION:Null815 grounds\, Reutlinger Str. 175\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
