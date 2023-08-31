@@ -407,4 +407,39 @@ DESCRIPTION:Join us for a day of electronic sounds from different artists\
   The event is rain or shine with enough rain-protected places available.
 LOCATION:Null815 grounds\, Reutlinger Str. 175\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert with "Blank!" and "Skate Anarchos"
+DTSTART:20230901T210000Z
+DTEND:20230902T000000Z
+DTSTAMP:20230701T080000Z
+DTSTAMP:20230831T125402Z
+UID:<CAPiGR_4iaPTpqaYA4Dcxi9ADc4ruMzoFDMVw390add9hwbeuVA@mail.gmail.com>
+DESCRIPTION:Bar opens at 21:00 and live music starts at 22:00.
+LOCATION:LU15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mural Painting - "Migration in Farben"
+DTSTART:20230902T103000Z
+DTEND:20230902T180000Z
+DTSTAMP:20230702T103000Z
+DTSTAMP:20230831T125402Z
+UID:<193166f4958bd088b824ef4e5ff0c4ad@riseup.net>
+DESCRIPTION:Mural "Migration in Farben": Together we will represent differ
+ ent migration realities by coloring a public area in a collective and part
+ icipatory way. In this place\, our stories from the past and present will 
+ be connected to show our roots and our future - everyone is welcome! (by T
+ he Shiny side of Migration - TAKT Project - Telar e.V)
+LOCATION:Eisenbahnstr. 1\, 72072 Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mural Painting - "Migration in Farben" Day 2
+DTSTART:20230903T110000Z
+DTSTAMP:20230703T110000Z
+DTSTAMP:20230831T125402Z
+UID:<193166f4958bd088b824ef4e5ff0c4ad@riseup.net>
+DESCRIPTION:Join us for the second day of Mural "Migration in Farben". We 
+ are waiting for you to be part of this creation! (by The Shiny side of Mig
+ ration - TAKT Project - Telar e.V)
+LOCATION:Eisenbahnstr. 1\, 72072 Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
