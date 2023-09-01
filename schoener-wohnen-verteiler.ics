@@ -442,4 +442,16 @@ DESCRIPTION:Join us for the second day of Mural "Migration in Farben". We
  ration - TAKT Project - Telar e.V)
 LOCATION:Eisenbahnstr. 1\, 72072 Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connect! Open Air 2023 Replacement Party
+DTSTART:20230902T210000Z
+DTSTAMP:20230902T210000Z
+DTSTAMP:20230901T204035Z
+UID:<1fa9b5e9-71ec-a692-f609-0b53469498bd@mtmedia.org>
+DESCRIPTION:Join us for a night of music and community at Kulturschock Zel
+ le Reutlingen. Featuring performances by Björek & Schemm\, connect! All S
+ tars\, Groove Guru and the Temptress Twister\, Issueswithmysleep *live\, a
+ nd Thimmes. Entry is donation-based.
+LOCATION:Kulturschock Zelle Reutlingen
+END:VEVENT
 END:VCALENDAR
