@@ -454,4 +454,20 @@ DESCRIPTION:Join us for a night of music and community at Kulturschock Zel
  nd Thimmes. Entry is donation-based.
 LOCATION:Kulturschock Zelle Reutlingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Sommerfest der Shedhalle
+DTSTART:20230908T000000Z
+DTEND:20230909T235959Z
+DTSTAMP:20230908T000000Z
+DTSTAMP:20230903T204056Z
+UID:<8d7fdc14-0a41-486a-8426-2b7405aca579@shedhalle.de>
+DESCRIPTION:Kunst und Performances zum Leben erwecken. Ausstellungen von L
+ uca Mercedes Braig\, Michl Brenner und Martina Müller-Kruschwitz. Musik v
+ on DJs der DREHSCHEIBE. Essen vom Africa Restaurant und Kaffeespezialität
+ en von Dona Sá. Wackel-Malroboter-Workshop und Papierblumen und LED - Lic
+ htobjekte entwerfen für Kinder. Live-Musik von PROMETHEUS GROOVE COLLECTI
+ VE\, GLAD WE MET\, POLANSKY versus LANGMAN und VALTAVA.
+LOCATION:Schlachthofgelände\, Tübingen
+URL:https://www.shedhalle.de/programm/sommerfest
+END:VEVENT
 END:VCALENDAR
