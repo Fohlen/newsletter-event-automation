@@ -470,4 +470,24 @@ DESCRIPTION:Kunst und Performances zum Leben erwecken. Ausstellungen von L
 LOCATION:Schlachthofgelände\, Tübingen
 URL:https://www.shedhalle.de/programm/sommerfest
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Künstliche Intelligenz aus linker Perspektive
+DTSTAMP:20230904T125403Z
+UID:<8008883cbd27752b64df6d3523242076@mtmedia.org>
+DESCRIPTION:„Künstliche Intelligenz“ ist längst nicht mehr nur ein T
+ hema für das Feuilleton. Spätestens seit der rapiden Verbreitung der Nut
+ zung von ChatGPT und anderen generativen Algorithmen wie Midjourney sind K
+ I-Anwendungen im Alltag vieler Menschen angekommen. Aber was ist KI überh
+ aupt? Wie funktioniert sie? Was kann sie? Was für gesellschaftspolitische
+  Anforderungen und Auswirkungen erwachsen aus der zunehmenden Verbreitung 
+ von KI-Anwendungen? Und wie können sich fortschrittliche Akteure in der D
+ ebatte um die Nutzung von KI einbringen? Diesen Fragen wollen wir uns zusa
+ mmen mit Philipp Frey widmen.\n\nPhilipp Frey ist wissenschaftlicher Mitar
+ beiter am Institut für Technikfolgenabschätzung und Systemanalyse und Mi
+ tgründer des Zentrum Emanzipatorische Technikforschung. Er forscht zur Zu
+ kunft der Arbeit\, zum gesellschaftlichen Wandel im Kontext der Digitalisi
+ erung und beforstet Einführungsprozesse von KI im betrieblichen Kontext.\
+ n\nhttps://www.facebook.com/events/843680317471071?ref=newsfeed
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
