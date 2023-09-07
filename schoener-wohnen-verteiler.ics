@@ -490,4 +490,19 @@ DESCRIPTION:„Künstliche Intelligenz“ ist längst nicht mehr nur ein T
  n\nhttps://www.facebook.com/events/843680317471071?ref=newsfeed
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lou Zucker Vortrag im Tübinger Club Voltaire
+DTSTART:20230924T200000Z
+DTSTAMP:20230924T200000Z
+DTSTAMP:20230907T204122Z
+UID:<176f4b7e25babf583a1564e654c93749f77ca44b@mail.de>
+DESCRIPTION:Lou Zucker\, Autorin des Buches Clara Zetkin: Eine rote Femini
+ stin\, hält einen Vortrag im Tübinger Club Voltaire. Es wird auch über 
+ die Empfehlung diskutiert\, die Tübinger Clara-Zetkin-Straße mit einem 
+ „Knoten“ als „kritikwürdig“ zu markieren. Veranstaltung von: Rosa
+ -Luxemburg-Stiftung Baden-Württemberg\, Aktionsbündnis „Kein Knoten f
+ ür Zetkin“\, DGB Region Neckar-Alb-Obere Donau\, Club Voltaire.
+LOCATION:Tübinger Club Voltaire
+URL:https://keinknoten.wordpress.com/
+END:VEVENT
 END:VCALENDAR
