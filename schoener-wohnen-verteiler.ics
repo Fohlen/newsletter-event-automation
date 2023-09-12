@@ -505,4 +505,34 @@ DESCRIPTION:Lou Zucker\, Autorin des Buches Clara Zetkin: Eine rote Femini
 LOCATION:Tübinger Club Voltaire
 URL:https://keinknoten.wordpress.com/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfeier in der Schellinghausbar
+DTSTART:20230920T200000Z
+DTSTAMP:20230918T080000Z
+DTSTAMP:20230912T125402Z
+UID:<ca33d138-dcc4-be60-60d3-c22ea15da82f@web.de>
+DESCRIPTION:Wir feiern den Sommer unentwegt weiter und laden euch für die
+ sen Mittwoch ab 20 Uhr zu Wildberry Lillet\, Sektmate und bester Laune ein
+ . Kommt rum\, bei gutem Wetter draußen\, bei Kälte drin.
+LOCATION:Schellinghausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indie Rock Night with Luxury Communism
+DTSTART:20231002T190000Z
+DTEND:20231002T233000Z
+DTSTAMP:20231002T190000Z
+DTSTAMP:20230912T125402Z
+UID:<15320469-d568-62c6-15a9-2b0a4ed3ef65@gmx.de>
+DESCRIPTION:Join us for a cozy beer at Österbar im Lichti at 7pm and enjo
+ y finest Indie Rock from 8:30pm onwards! Donations hats will be passed aro
+ und. Luxury Communism\, an Indie-Rock band\, will take you on a wild ride!
+  Their music combines elements of Indie and Surf-Rock\, creating a unique 
+ and dynamic sound. The band was founded during the COVID-19 pandemic in ea
+ rly 2021 in Düsseldorf. Despite the challenges of the lockdown\, the band
+  used this time to focus on their music and perfect their craft. The band 
+ consists of four talented musicians from different countries. 
+LOCATION:Österbar im Lichti
+URL;VALUE=URI:https://www.youtube.com/watch?v=b1MJ-kLt_jM
+URL;VALUE=URI:https://youtu.be/9YY7Fumq0sE?si=bvQ8iw5uW3E1GOPS
+END:VEVENT
 END:VCALENDAR
