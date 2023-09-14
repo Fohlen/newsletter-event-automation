@@ -535,4 +535,17 @@ LOCATION:Österbar im Lichti
 URL;VALUE=URI:https://www.youtube.com/watch?v=b1MJ-kLt_jM
 URL;VALUE=URI:https://youtu.be/9YY7Fumq0sE?si=bvQ8iw5uW3E1GOPS
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dokumentarfilm und Auftritte im Club Voltaire
+DTSTART:20230916T190000Z
+DTEND:20230916T223000Z
+DTSTAMP:20230916T190000Z
+DTSTAMP:20230914T125451Z
+UID:<3edbf1fc-f2c7-c074-4462-e0f8f8106805@gmx.de>
+DESCRIPTION:Präsentation des Dokumentarfilms "The Resurrection of Victor 
+ Jara" und künstlerisches Ensemble aus Musik und Poesie\, inspiriert von J
+ ara und anderen lateinamerikanischen Komponisten aus der Ära von "La Nuev
+ a Canción Chilena".
+LOCATION:Club Voltaire
+END:VEVENT
 END:VCALENDAR
