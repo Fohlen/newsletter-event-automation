@@ -548,4 +548,20 @@ DESCRIPTION:Präsentation des Dokumentarfilms "The Resurrection of Victor
  a Canción Chilena".
 LOCATION:Club Voltaire
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spieleabend im Queeren Zentrum Tübingen
+DTSTART:20230922T170000Z
+DTEND:20230922T210000Z
+DTSTAMP:20230922T170000Z
+DTSTAMP:20230916T204128Z
+UID:<96302654.172071.1694705533969@webmail.strato.com>
+CONTACT:info@queereszentrumtuebingen.de
+DESCRIPTION:Der erste Spieleabend im neuen Queeren Zentrum Tübingen finde
+ t statt! Bringt gerne eigene Spiele mit – egal ob Brett- oder Kartenspie
+ le oder auch Pen & Paper Rollenspiele\, egal ob kleine rasante Spiele oder
+  große komplizierte! Eine Anmeldung ist nicht nötig. Für Snacks und Get
+ ränke ist gesorgt.
+LOCATION:Queeres Zentrum Tübingen\, Derendinger Straße 41\, 72072 Tübin
+ gen
+END:VEVENT
 END:VCALENDAR
