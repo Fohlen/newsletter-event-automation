@@ -577,4 +577,29 @@ DESCRIPTION:Wir haben ab sofort einen Solawi-Anteil abzugeben. Abholung im
  mer freitags von 15-19 Uhr am Speicher in der Tübinger Innenstadt.
 LOCATION:Speicher in der Tübinger Innenstadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Música con Señas Workshop - EinsteigerInnen Kurs
+DTSTART:20230923T140000Z
+DTSTAMP:20230923T140000Z
+DTSTAMP:20230919T204146Z
+UID:<fba24753-348b-b298-2cdd-97cea559245c@klangfolk.de>
+DESCRIPTION:EinsteigerInnen Kurs - im Rahmen eines Netzwerk Treffens für 
+ Community Music in Baden-Württemberg. Mehr Infos hier: https://communitym
+ usicnetzwerk.de/workshops/community-music-netzwerk-treffen-baden-wurttembe
+ rg/
+LOCATION:FranzWerk\, bei den Pferdeställen 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Música con Señas Workshop - Reggae Workshop
+DTSTART:20230925T190000Z
+DTSTAMP:20230925T190000Z
+DTSTAMP:20230919T204146Z
+UID:<fba24753-348b-b298-2cdd-97cea559245c@klangfolk.de>
+DESCRIPTION:Reggae Workshop - der Reggae Experte Nabil Saadi wird uns in d
+ ie Feinheiten dieses Musikstils einführen\, wir lernen mithilfe Música c
+ on Señas Zeichen in diesem Musikstil gemeinsam zu kreieren und zu improvi
+ sieren. Mehr Infos zu Música con Señas : https://www.klangfolk.de/projek
+ te/mcs
+LOCATION:FranzWerk\, bei den Pferdeställen 8
+END:VEVENT
 END:VCALENDAR
