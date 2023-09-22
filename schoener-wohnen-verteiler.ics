@@ -572,7 +572,6 @@ DTSTAMP:20230701T080000Z
 DTSTAMP:20230917T124952Z
 UID:<AM0PR10MB32331B53F4124A0AC6E213148BF6A@AM0PR10MB3233.EURPRD10.PROD.OU
  TLOOK.COM>
-RRULE:FREQ=WEEKLY;BYDAY=FR
 DESCRIPTION:Wir haben ab sofort einen Solawi-Anteil abzugeben. Abholung im
  mer freitags von 15-19 Uhr am Speicher in der Tübinger Innenstadt.
 LOCATION:Speicher in der Tübinger Innenstadt
