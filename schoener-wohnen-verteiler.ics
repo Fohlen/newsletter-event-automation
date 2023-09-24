@@ -601,4 +601,31 @@ DESCRIPTION:Reggae Workshop - der Reggae Experte Nabil Saadi wird uns in d
  te/mcs
 LOCATION:FranzWerk\, bei den Pferdeställen 8
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florabowl Locals Documentary Screening
+DTSTART:20230928T180000Z
+DURATION:PT1H30M
+DTSTAMP:20230928T180000Z
+DTSTAMP:20230924T124951Z
+UID:<trinity-a84c4791-7595-431e-b193-1bb8f905ac49-1695376211337@3c-app-gmx
+ -bap09>
+DESCRIPTION:Screening of the documentary "Florabowl Locals" directed by Ar
+ ne Fiehl and Rasmus Simon. The film is about the creation and evolution of
+  Florabowl\, one of the most famous D.I.Y. skateparks in Germany. The scre
+ ening will be followed by a Q&A session with director Rasmus Simon. More i
+ nformation and trailer at www.Florabowl-locals.de.
+LOCATION:Kino Arsenal\, Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagenburg-Kneipe
+DTSTART:20230725T190000Z
+DTSTAMP:20230723T000000Z
+DTSTAMP:20230924T124951Z
+UID:<4CF0E02C-1639-5547-A163-5AA4F64BFCC7@hxcore.ol>
+DESCRIPTION:Einladung zur Wagenburg-Kneipe an der Feuerstelle auf Bambule.
+  Es wird Flammkuchen/Dinnete (auch vegetarische und vegane) aus dem Lehmof
+ en und Getränke geben. Kommt gerne vorbei\, das Wetter soll gut werden un
+ d gegen die herbstliche Abendkühle gibt's natürlich ein Feuer!
+LOCATION:Bambule
+END:VEVENT
 END:VCALENDAR
