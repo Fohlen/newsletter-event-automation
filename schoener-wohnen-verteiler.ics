@@ -628,4 +628,26 @@ DESCRIPTION:Einladung zur Wagenburg-Kneipe an der Feuerstelle auf Bambule.
  d gegen die herbstliche Abendkühle gibt's natürlich ein Feuer!
 LOCATION:Bambule
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Safe abortion day 2023
+DTSTART:20230728T190000Z
+DTEND:20230728T203000Z
+DTSTAMP:20230728T190000Z
+DTSTAMP:20230927T125511Z
+UID:<3412862671-8436@MARLA.mtreff.local>
+SEQUENCE:0
+DESCRIPTION:Die Veranstaltung zum safe abortion day 2023 schafft Raum für
+  die wichtige Diskussion um Frauengesundheit und reproduktive Selbstbestim
+ mung. Nach einem Impulsvortrag können Expert_innen und das interessierte 
+ Plenum miteinander ins Gespräch kommen. Impuls-Vortrag: Grit Heideker\, G
+ eschäftsführerin pro familia Tübingen/Reutlingen und Podiumsgäste Mode
+ ration: Ulrike Held\, Frauennetzwerk 8. März Veranstaltet von: Aktionsbü
+ ndnis Gleichstellung\, pro familia Tübingen/Reutlingen und Frauennetzwerk
+  8. März. Weitere Infos und Veranstaltungen: https://www.tuebingen.de/Dat
+ eien/Broschuere_Aktionsbuendnis_Gleichstellung_2023_digital.pdf
+LOCATION:Frauen*ProjekteZentrum Frauencafé achtbar\, Weberstraße 8\, 720
+ 70 Tübingen
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
