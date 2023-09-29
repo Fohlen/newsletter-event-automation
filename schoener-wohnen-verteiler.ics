@@ -714,4 +714,62 @@ DESCRIPTION:Vorspeise beginnt ab 18:30. Die Gänge werden\, wie immer\, zu
 LOCATION:Tübingen\, Germany
 URL:www.aufhaxe.de/de/tuebingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indie Rock Event with Luxury Communism
+DTSTART:20231002T190000Z
+DTEND:20231002T223000Z
+DTSTAMP:20230723T000000Z
+DTSTAMP:20230929T204145Z
+UID:<9b640dff-8a66-a066-438d-ae97008b0998@gmx.de>
+DESCRIPTION:Join us for a cozy beer at Österbar im Lichti at 7pm and enjo
+ y the finest Indie Rock from 8:30pm. Luxury Communism\, an Indie-Rock band
+  founded during the COVID-19 pandemic in early 2021 in Düsseldorf\, will 
+ take you on a wild ride with their music. The band consists of four talent
+ ed musicians from different countries. Their music combines elements of In
+ die and Surf-Rock\, creating a unique and dynamic sound. The band has been
+  playing the stages of Düsseldorf since the summer of 2021. Their first E
+ P was released on 27.05.2023. We look forward to seeing you!
+LOCATION:Österbar im Lichti
+URL:https://www.youtube.com/watch?v=b1MJ-kLt_jM
+URL:https://youtu.be/9YY7Fumq0sE?si=bvQ8iw5uW3E1GOPS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duo DuBrasil - Brasilianischer Musikabend
+DTSTART:20231006T180000Z
+DTEND:20231008T220000Z
+DTSTAMP:20230706T080000Z
+DTSTAMP:20230929T204145Z
+UID:<6a3a3c3e-cbb7-3b2c-a919-05a4157c1748@gmx.de>
+DESCRIPTION:Freut euch auf einen brasilianischen Musikabend bei dem das Ta
+ nzbein geschwungen werden darf zu den brasilianischen Grooves von Janai Di
+ as (Gitarre) & Rogério Panzani (Perkussion). Eintritt frei! Spendenhut ge
+ ht rum. Nicht verpassen - das wird ganz besonders!!! Mehr Infos: Solltet i
+ hr brasilianische Musik erlernen wollen\, gibt Janai auch einen Workshop v
+ om 6.-8. Oktober: https://www.klangfolk.de/projekte/workshops/brasilianisc
+ her-musik-workshop-6-8-oktober-2023
+LOCATION:To be confirmed
+URL:https://www.klangfolk.de/projekte/workshops/brasilianischer-musik-work
+ shop-6-8-oktober-2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung: "Kara Günlük: Die geheimen Tagebücher des Sesperado" mi
+ t Mutlu Ergün-Hamaz
+DTSTART:20231003T193000Z
+DTSTAMP:20230703T193000Z
+DTSTAMP:20230929T204145Z
+UID:<4727f341558e844f87798e7a9096c7ab@schellingstrasse.de>
+DESCRIPTION:"Kara Günlük" schließt an eine Tradition von Büchern von d
+ eutschen people of coulor an die über den rassistischen Normalzustand in 
+ der BRD berichten. In seinen "geheimen Tagebüchern" zählt Sesperado die 
+ Tage bis zur R.O.C.\, der Revolution of Color\, zu der sich alle People of
+  Color (P.O.C.) vereinen. Und mit seinen Lyrical-Guerrilla-Strategien trä
+ gt er – oft auf sehr komische Art und Weise – dazu bei\, diesen Tag n
+ äher zu bringen. Nebenbei erfahren wir in "Kara Günlük"\, was man alles
+  auf die Frage "Wo kommst du heeeer?" antworten kann und was passiert\, we
+ nn ein P.O.C.-Revolutionär zur Bundeswehrmusterung gerufen wird. Die "geh
+ eimen Tagebücher" sind eine amüsante Anleitung\, wie man rebellieren und
+  gleichzeitig Spaß dabei haben kann. "Das Ergebnis ist gelungene antirass
+ istische Satire\, … unterhaltsam und intelligent zugleich."
+LOCATION:Schelling\, Schellingstrasse 6 in Tübingen
+END:VEVENT
 END:VCALENDAR
