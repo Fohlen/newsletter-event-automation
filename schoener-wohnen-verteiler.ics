@@ -650,4 +650,68 @@ LOCATION:Frauen*ProjekteZentrum Frauencafé achtbar\, Weberstraße 8\, 720
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online-Vortrag von Julia Lippert über ambulante psychiatrische Zw
+ angsbehandlung
+DTSTART:20231003T190000Z
+DTSTAMP:20231003T190000Z
+DTSTAMP:20230929T125433Z
+UID:<874b85398f89f8deb49901946c5bbe1a@posteo.de>
+DESCRIPTION:Online-Vortrag von Julia Lippert\, Aktivistin und Wissenschaft
+ lerin\, über ambulante psychiatrische Zwangsbehandlung. Anmeldung per Mai
+ l an pkit@posteo.de erforderlich.
+LOCATION:Zoom (Link nach Anmeldung)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radio Interview mit Janne zum Thema "Psychismus"
+DTSTART:20230929T210000Z
+DTSTAMP:20230929T210000Z
+DTSTAMP:20230929T125433Z
+UID:<874b85398f89f8deb49901946c5bbe1a@posteo.de>
+DESCRIPTION:Radio Interview mit Janne zum Thema "Psychismus" auf Resonanz 
+ Con(tra)sens im Radio Wüste Welle. Auch eine Woche lang online verfügbar
+ .
+LOCATION:Radio Wüste Welle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag zum Thema "Psychismus" in Tübingen
+DTSTART:20231027T180000Z
+DTSTAMP:20231027T180000Z
+DTSTAMP:20230929T125433Z
+UID:<874b85398f89f8deb49901946c5bbe1a@posteo.de>
+DESCRIPTION:Vortrag zum Thema "Psychismus" in Tübingen.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HeimatToHell Festival
+DTSTART:20230930T180000Z
+DTEND:20230930T235900Z
+DTSTAMP:20230930T180000Z
+DTSTAMP:20230929T125433Z
+UID:<trinity-72e9c961-27d2-4c5d-a0a8-306f76eacd34-1695898062978@3c-app-web
+ de-bs33>
+DESCRIPTION:Come early\, support all bands and tell your friends\, thanks!
+  With: WITCHING - Black-/Sludge-/Prog-Metal - Philadelphia TRESPASSER - An
+ archo Black Metal - Vretstorp NECROMORPH - Grinding Extreme Metal - Berlin
+  CROWSKIN - Crusted Sludge/Doom - Potsdam ABJURED - Progressive Grind - Ha
+ lle TFB - Thrash Grind - Trier. More info at Epplhaus homepage or d.i.die 
+ booking insta/FB!
+LOCATION:Epplhaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haxe Dinnerhopping Event
+DTSTART:20231014T183000Z
+DTSTAMP:20231014T183000Z
+DTSTAMP:20230929T125433Z
+UID:<65BE21CA-DF7E-4456-BA78-2D2A8D8B2E90@posteo.de>
+DESCRIPTION:Vorspeise beginnt ab 18:30. Die Gänge werden\, wie immer\, zu
+ gelost und spätestens am Vortag mitgeteilt. Nach dem Dessert treffen wir 
+ uns alle zum gemütlichen Ausklingenlassen des Abends. Meldet euch zu zwei
+ t auf www.aufhaxe.de/de/tuebingen an. Eure Küche sollte nicht mehr als 15
+  Minuten mit dem Rad von der Tübinger Innenstadt entfernt wohnen. Allergi
+ en und Ernährungsgewohnheiten werden über das Feld "Sonstiges" bei der A
+ nmeldung an eure Gastgebenden des Abends weitergeleitet.
+LOCATION:Tübingen\, Germany
+URL:www.aufhaxe.de/de/tuebingen
+END:VEVENT
 END:VCALENDAR
