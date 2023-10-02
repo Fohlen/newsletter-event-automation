@@ -772,4 +772,21 @@ DESCRIPTION:"Kara Günlük" schließt an eine Tradition von Büchern von d
  istische Satire\, … unterhaltsam und intelligent zugleich."
 LOCATION:Schelling\, Schellingstrasse 6 in Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silchern – Künstlerische Intervention zum Tübinger Silcherdenk
+ mal
+DTSTART:20231008T183000
+DTSTAMP:20231008T183000
+DTSTAMP:20231002T125519Z
+UID:<341565897.6013776.1696182162380@mail.yahoo.com>
+CONTACT:Joschi Lerchenmüller\, lerchenmueller@club-voltaire.net
+DESCRIPTION:Silvia Pfändner (Gesang) und Thomas Maos (Gitarre) interpreti
+ eren bekannte und weniger bekannte Lieder von Friedrich Silcher. Mit Hilfe
+  von Projektionen\, die Birgit Riegger live entwickelt\, lassen die Künst
+ ler:innen die monumentale Statue in einem anderen Licht erscheinen und for
+ dern das Publikum zur Auseinandersetzung mit dem Denkmal auf. EINTRITT FRE
+ I.
+LOCATION:Silcherdenkmal auf der Platanenallee\, Tübingen
+URL;VALUE=URI:https://club-voltaire.net/v/silchern
+END:VEVENT
 END:VCALENDAR
