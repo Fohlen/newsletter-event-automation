@@ -789,4 +789,36 @@ DESCRIPTION:Silvia Pfändner (Gesang) und Thomas Maos (Gitarre) interpreti
 LOCATION:Silcherdenkmal auf der Platanenallee\, Tübingen
 URL;VALUE=URI:https://club-voltaire.net/v/silchern
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hokkaido-Kürbisse Abholung
+DTSTART:20231002T180000
+DTSTAMP:20231002T180000
+DTSTAMP:20231003T125544Z
+UID:<1dc4032f-5f77-673d-d841-8a3cdca117c7@schellingstrasse.de>
+DESCRIPTION:Ihr könnt heute abend\, Mo 02.10. ab 18 Uhr vorbeikommen und 
+ Euch Kürbisse im großen (oder kleinen) Stil holen. 1\,30 / kg + Aufrundu
+ ng fürs Allgemeine nach Aushandlung.
+LOCATION:im Hof der Schelling an der Terrases vor den Bahamas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hokkaido-Kürbisse Abholung
+DTSTART:20231005T180000
+DTEND:20231005T200000
+DTSTAMP:20231005T180000
+DTSTAMP:20231003T125544Z
+UID:<1dc4032f-5f77-673d-d841-8a3cdca117c7@schellingstrasse.de>
+DESCRIPTION:Am Do 05.10. von 18-20 Uhr gibt's noch eine Möglichkeit.
+LOCATION:im Hof der Schelling an der Terrases vor den Bahamas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infoladen-Veranstaltung
+DTSTART:20230710T080000Z
+DTEND:20230710T100000Z
+DTSTAMP:20230710T080000Z
+DTSTAMP:20231003T125544Z
+UID:<b9411eb19c7e36bceeba5e7fa56732e5@schellingstrasse.de>
+DESCRIPTION:Die Veranstaltung wurde wegen Erkrankung der Referentin abgesa
+ gt.
+STATUS:CANCELLED
+END:VEVENT
 END:VCALENDAR
