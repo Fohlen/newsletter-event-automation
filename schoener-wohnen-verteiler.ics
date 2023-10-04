@@ -821,4 +821,35 @@ DESCRIPTION:Die Veranstaltung wurde wegen Erkrankung der Referentin abgesa
  gt.
 STATUS:CANCELLED
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infoladenhausbar Event
+DTSTAMP:20231004T125700Z
+UID:<12e4a5f73a1001beec58bcb5055e545d@schellingstrasse.de>
+SEQUENCE:0
+DESCRIPTION:Die Hausbar findet statt und wir kochen auch leckere Kürbissu
+ ppe für Euch\, die wir ab 19 Uhr servieren. Und gaaaaanz vielleicht zeige
+ n wir auch noch einen Film.
+LOCATION:Infoladenhausbar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anti-GEAS Kundgebung
+DTSTART:20231006T170000Z
+DTEND:20231006T190000Z
+DTSTAMP:20231006T170000Z
+DTSTAMP:20231004T125700Z
+UID:<trinity-88540d8d-e566-4bed-b6a8-68b45cca09c6-1696327579265@3c-app-web
+ de-bs30>
+DESCRIPTION:Die Europäische Union und die Bundesregierung wollen das Rech
+ t auf Asyl faktisch abschaffen. Mit der Reform des Gemeinsamen Europäisch
+ en Asylsystems (GEAS) sollen Schutzsuchende zukünftig daran gehindert wer
+ den\, in der EU einen Asylantrag zu stellen. Eine individualrechtliche Pr
+ üfung wird unterbunden\, und Abschiebungen in Lager an EU-Außengrenzen u
+ nd in Drittländer werden erleichtert. Faktisch bedeutet das: Die Genfer F
+ lüchtlingskonvention wird „ausgehebelt“\, und Menschen die vor Krieg\
+ , Verfolgung und Armut fliehen haben kaum noch eine Chance auf ein mensche
+ nwürdiges Leben.  Wir fordern: Jeder Mensch muss das Recht auf einen indi
+ viduellen Asylantrag und ein Leben in Sicherheit haben!
+LOCATION:Holzmarkt
+END:VEVENT
 END:VCALENDAR
