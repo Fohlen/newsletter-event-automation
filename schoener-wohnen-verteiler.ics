@@ -852,4 +852,52 @@ DESCRIPTION:Die Europäische Union und die Bundesregierung wollen das Rech
  viduellen Asylantrag und ein Leben in Sicherheit haben!
 LOCATION:Holzmarkt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween-Party im Fichtehaussaal
+DTSTART:20231031T220000
+DTSTAMP:20231031T220000
+DTSTAMP:20231008T204055Z
+UID:<6254efab-3a95-4387-b48c-66e19166f244@gmx.net>
+DESCRIPTION:Lust auf eine Halloween-Party der etwas anderen Art?! Kostüme
+  sind willkommen\, egal ob rosa-glitzrig\, halloween-schaurig\, eine Misch
+ ung oder was ganz anderes. Freut euch auf eine unvergessliche Nacht mit u.
+  a. Techno\, Psytrance und Goa. Eintritt auf Spendenbasis.
+LOCATION:Fichtehaussaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miragem Band Performance at Österbar
+DTSTART:20231009T200000Z
+DTSTAMP:20231009T200000Z
+DTSTAMP:20231008T204055Z
+UID:<CAD+cajsSP_S8WJT6vxopSCsVdX5TSyo5CcxXxraM4szBcH15Kg@mail.gmail.com>
+DESCRIPTION:Die Band Miragem zu Gast auf unserer Österbar im Leibnizhaus 
+ 3. Mit verspielt bewussteinsöffnenden Klängen und gleichzeitig kraftvoll
+  vorwärtsschreitenden Rythmen vereint Miragem Psychedelic- und Stonerrock
+  zu einem wabernden\, umschließenden Klang. Am Montag geben sie ihr Debü
+ t und wir freuen uns auf neuen frischen Sound in Tübingen.
+LOCATION:Leibnizhaus 3\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queering masculinites Workshop - Day 1
+DTSTART:20231110T100000Z
+DTEND:20231110T173000Z
+DTSTAMP:20231110T100000Z
+DTSTAMP:20231008T204055Z
+UID:<2aab7c40-53bf-43bf-bcb7-2054d9e71e36@posteo.de>
+DESCRIPTION:In diesem Workshop wollen wir uns mit den Methoden aus dem The
+ ater der Unterdrückten nach Augusto Boal mit Fragen von Geschlechtsidenti
+ tät mit Fokus auf Maskulinität beschäftigen. Anmeldung: anmeldung@adis-
+ ev.de
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queering masculinites Workshop - Day 2
+DTSTART:20231111T093000Z
+DTEND:20231111T170000Z
+DTSTAMP:20231111T093000Z
+DTSTAMP:20231008T204055Z
+UID:<2aab7c40-53bf-43bf-bcb7-2054d9e71e36@posteo.de>
+DESCRIPTION:Fortsetzung des Workshops. Anmeldung: anmeldung@adis-ev.de
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
