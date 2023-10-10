@@ -900,4 +900,59 @@ UID:<2aab7c40-53bf-43bf-bcb7-2054d9e71e36@posteo.de>
 DESCRIPTION:Fortsetzung des Workshops. Anmeldung: anmeldung@adis-ev.de
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femporn-wtf?! Workshop
+DTSTART:20231021T143000Z
+DTEND:20231021T190000Z
+DTSTAMP:20231021T150000Z
+DTSTAMP:20231010T125544Z
+UID:<fdf97f46f8df8dca0b8160b88808f8d3@mtmedia.org>
+DESCRIPTION:Der FLINTA*-AK der Tante Huber lädt ein zum Workshop „Fempo
+ rn-wtf?!“ mit Oliwia Hälterlein. Der Workshop richtet sich an FLINTA*-P
+ ersonen (Frauen\, Lesben\, Inter\, Trans und A-Gender Personen). Keine Vor
+ kenntnisse nötig - absolute Beginner*innen sind herzlich wilkommen. Anmel
+ dung über: flinta-huber@mtmedia.org Für max. 24 Personen ab 18 Jahren.
+LOCATION:Queren Zentrum Tübingen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was ist Anarchismus?
+DTSTAMP:20231010T125544Z
+UID:<1ece624fed59a7c13d4833493a925ac5@mtmedia.org>
+DESCRIPTION:Der Begriff »Anarchismus« leitet sich vom griechischen an-ar
+ chia\, Nicht-Herrschaft\, ab und bezeichnet die Idee einer Gesellschaft oh
+ ne Staat\, Klassen oder sonstige Unterdrückungs- und Ausbeutungsformen. A
+ narchismus ist aber nicht nur eine Idee\, sondern auch eine Praxis: politi
+ scher Kampf um Emanzipation und ein Versuch\, die Idee der Selbstorganisat
+ ion und Solidarität praktisch werden zu lassen. Der Vortrag legt einen Sc
+ hwerpunkt auf eine historische Ableitung des Anarchismus-Begriffs\, behand
+ elt verschiedene Strömungen und historische und aktuelle Organisationen.
+LOCATION:Epplehaus
+URL:https://www.facebook.com/events/6288097611300766/?ref=newsfeed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Klemens Jakob im FRANZ!Werk
+DTSTART:20231024T200000Z
+DTEND:20231024T220000Z
+DTSTAMP:20231024T200000Z
+DTSTAMP:20231010T125544Z
+UID:<b4de0490-f3de-44dd-83e9-164736c1ca68@franzwerk-tuebingen.de>
+DESCRIPTION:Klemens Jakob erzählt uns\, wie er ein autarkes Haus selbst g
+ eplant\, entwickeld und gebaut hat. Dabei achtet er auf nachhaltig und gan
+ zheitlich gedachte Konzepte und bringt inspirierende Gedanken mit\, auch f
+ ür die eigene Lebensweise. Weitere Infos: https://ownworld.org/projekte/o
+ wnhome-klemens/
+LOCATION:FRANZ!Werk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:120-Minuten-Party im FRANZ!Werk
+DTSTART:20231024T200000Z
+DTEND:20231024T220000Z
+DTSTAMP:20231024T200000Z
+DTSTAMP:20231010T125544Z
+UID:<b4de0490-f3de-44dd-83e9-164736c1ca68@franzwerk-tuebingen.de>
+DESCRIPTION:120-Minuten-Party im FRANZ!Werk. Herzliche Einladung auch hier
+ .
+LOCATION:FRANZ!Werk
+END:VEVENT
 END:VCALENDAR
