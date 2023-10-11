@@ -955,4 +955,34 @@ DESCRIPTION:120-Minuten-Party im FRANZ!Werk. Herzliche Einladung auch hier
  .
 LOCATION:FRANZ!Werk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gedenkveranstaltung und Friedenszeichen
+DTSTART:20231011T183000Z
+DTEND:20231011T203000Z
+DTSTAMP:20231011T125556Z
+UID:<9161c0e8-ed7f-e9e8-712c-905e7b63bfa9@riseup.net>
+DESCRIPTION:Wir möchten mit euch allen ein Zeichen des Friedens setzen un
+ d in kollektiver Trauer eine Gedenkveranstaltung abhalten. Bringt gerne Ke
+ rzen oder Bilder mit. Eine Welt in Frieden\, für jeden und Überall! Jin 
+ Jiyan Azadi. Veranstaltet von Gemeinsam Kämpfen (GK) Tübingen. Folgen Si
+ e uns auf Instagram: @gemeinsamkaempfen_tue
+LOCATION:Holzmarkt Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt at Sachsenhaus
+DTSTART:20231022T150000Z
+DTEND:20231022T190000Z
+DTSTAMP:20231022T150000Z
+DTSTAMP:20231011T125556Z
+UID:<CACZ7YA4hiFi1OtfOFptPsL93k_EifBceiUwveFu-P40pPPt1QA@mail.gmail.com>
+DESCRIPTION:Ein Flohmarkt findet bei uns vor dem Sachsenhaus (oder bei sch
+ lechtem Wetter darin) statt\, an dem wir\, die Bewohner*innen des Sachsenh
+ auses\, und unsere Freund*innen einen Haufen von Kleidern\, Schmuck\, Inst
+ rumenten usw. verkaufen\, die zu schade zum Wegwerfen sind und neue Besitz
+ er*innen suchen. Außerdem wird es Pommes\, Getränke und Musik geben. Es 
+ lohnt sich also auf jeden Fall\, mal für ein oder zwei Stündchen vorbeiz
+ ugucken\, um zu stöbern oder auch nur\, um in der Nachmittagssonne ein Ge
+ tränk zu schlürfen.
+LOCATION:Sachsenhaus
+END:VEVENT
 END:VCALENDAR
