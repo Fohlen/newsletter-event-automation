@@ -985,4 +985,41 @@ DESCRIPTION:Ein Flohmarkt findet bei uns vor dem Sachsenhaus (oder bei sch
  tränk zu schlürfen.
 LOCATION:Sachsenhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Vier Jahreszeiten – Akustik Remix
+DTSTART:20231015T203000Z
+DTSTAMP:20231015T203000Z
+DTSTAMP:20231014T125029Z
+UID:<0CB34B0F-C2DF-411F-BE6E-28EEEB196338@web.de>
+DESCRIPTION:Barockmusik aus dem 18. Jahrhundert und Pop\, Rock Jazz von he
+ ute vereint zu einem rauschenden Panoptikum von Sound\, Klang und Groove. 
+ Melanie Kirch und Johannes Söllner nehmen den barocken Notentext und mach
+ en ihr ganz eigenes Ding draus. Eintritt frei\, Spenden erbeten. Mehr Info
+ rmationen unter: https://www.jazzklassiktage.de/2023/17.htm
+LOCATION:Haus Lichtenstein
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future Jesus & The Electric Lucifer
+DTSTART:20231018T210000
+DTEND:20231019T000000
+DTSTAMP:20231014T125029Z
+UID:<65df1db5-6a03-4ce6-bb02-af1de64760eb@posteo.de>
+DESCRIPTION:Power Fusion Elektro Jizz from Düsseldorf/Cologne. More info 
+ at https://futurejesus.bandcamp.com/
+LOCATION:Blauen Salon
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special Music Evening at Fichtehaus Saal
+DTSTART:20231015T190000
+DTSTAMP:20231015T190000
+DTSTAMP:20231014T125029Z
+UID:<08766232-7C34-446A-AB6E-230A4AF016CB@iliauni.edu.ge>
+DESCRIPTION:We are musicians from Georgia\, Germany\, the Netherlands\, Ch
+ ile\, France and Australia. We got to know each other during Tübingen wor
+ ld music Festival and are right now working on the Repertoire of a singer-
+ songwriter Esther Aleida. You can expect originals and music from differen
+ t cultures with surprising collaborations. Entrance by donations.
+LOCATION:Herrenbergerstrasse 40
+END:VEVENT
 END:VCALENDAR
