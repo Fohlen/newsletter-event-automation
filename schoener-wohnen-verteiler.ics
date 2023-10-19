@@ -1022,4 +1022,69 @@ DESCRIPTION:We are musicians from Georgia\, Germany\, the Netherlands\, Ch
  t cultures with surprising collaborations. Entrance by donations.
 LOCATION:Herrenbergerstrasse 40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashtanga Yoga Basic Class
+DTSTART:20230206T170000Z
+DTEND:20230206T183000Z
+DTSTAMP:20230201T080000Z
+DTSTAMP:20231019T125816Z
+UID:<e1d6f146c3bf306590be7ebc5ef2266a@posteo.de>
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Join us for a basic Ashtanga Yoga class. For updates\, join ou
+ r Telegram group: https://t.me/+fWLpRaS_jvgyM2E0
+LOCATION:Fichtehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashtanga Yoga Advanced Class
+DTSTART:20230206T183000Z
+DTEND:20230206T200000Z
+DTSTAMP:20230201T080000Z
+DTSTAMP:20231019T125816Z
+UID:<e1d6f146c3bf306590be7ebc5ef2266a@posteo.de>
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:Join us for an advanced Ashtanga Yoga class. For updates\, joi
+ n our Telegram group: https://t.me/+fWLpRaS_jvgyM2E0
+LOCATION:Fichtehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Distribuierter Sozialismus oder: Wie eine freie Planwirtschaft aus
+ sehen könnte
+DTSTART:20231020T160000Z
+DTEND:20231020T190000Z
+DTSTAMP:20231020T160000Z
+DTSTAMP:20231019T125816Z
+UID:<e04bb787-4def-8a38-753d-6b1626fe2be9@riseup.net>
+DESCRIPTION:Wie können wir unser Wirtschaften so gestalten\, dass die Bed
+ ürfnisse aller berücksichtigt und erfüllt werden? Wohnprojekte und Öko
+ -Dörfer sind Beispiele\, wie das in kleineren Maßstäben funktionieren k
+ ann. Aber ist es möglich\, dass sich arbeitsteilige Gesellschaften\, dene
+ n Millionen von Menschen angehören\, jenseits kapitalistischer Zwänge or
+ ganisieren? In seinem Text „Distribuierter Sozialismus – ein Anfang“
+  diskutiert der Wissenschaftler und Podcaster Jan Groos einen Vorschlag\, 
+ wie eine solche freie Planwirtschaft aussehen könnte. Inspiriert von dies
+ em Text laden wir zu einem Workshop ein\, bei dem es neben einem kurzen In
+ put vor allem Lektürephasen und Zeit für Austausch geben wird. Wir freue
+ n uns\, mit euch über mögliche alternative Zukünfte zu diskutieren\, um
+  ein Leben jenseits des Kapitalismus (wieder) denkbar zu machen.
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4
+ORGANIZER;CN=TOAKT:MAILTO:klimatreffen-tuebingen@riseup.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wohnoptionen - Praxisbeispiele zu gemeinschaftlichem\, produktivem
+  und adaptivem Wohnen
+DTSTAMP:20231019T125816Z
+UID:<af465d00-f4c3-4fc7-9a09-849dd1a947c2@mtmedia.org>
+DESCRIPTION:Innovative\, gemeinwohlorientierte und bezahlbare Projekte wie
+  die Genossenschaft Neustart: solidarisch leben und wohnen in Tübingen su
+ chen nach Anpassungsmöglichkeiten in Wohnung\, Haus und Quartier. Es geht
+  um die Schaffung vielfältiger Entfaltungsräume in einer diversen und so
+ zial sowie kulturell heterogenen Gesellschaft. Der Wunsch nach individuell
+ em Wohnen und nach Gemeinschaft wird nicht weiter als Gegensatz erfahren\,
+  sondern als Bereicherung und Aufwertung der Wohnqualität. Gerd Kuhn\, Wo
+ hnsoziologe und Stadtforscher\, behandelt in seinem Vortrag über Wohnopti
+ onen die Themen gemeinschaftliches\, produktives und adaptives Wohnen in W
+ ohnung\, Haus und Quartier. More info at: https://neustart-solewo.de/files
+ /bilder/flyer_Dinlang_fin_Neustart_230924-Kuhn.pdf
+LOCATION:Foyer der Grundschule am Hechinger Eck\, Hechingerstraße
+END:VEVENT
 END:VCALENDAR
