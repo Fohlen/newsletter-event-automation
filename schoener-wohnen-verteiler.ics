@@ -1087,4 +1087,36 @@ DESCRIPTION:Innovative\, gemeinwohlorientierte und bezahlbare Projekte wie
  /bilder/flyer_Dinlang_fin_Neustart_230924-Kuhn.pdf
 LOCATION:Foyer der Grundschule am Hechinger Eck\, Hechingerstraße
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEER:ZWISCHENSTAND – Ausstellung einer fotografischen Spurensuch
+ e zum Leerstand von Wohnraum in Tübingen
+DTSTART:20231020T140000Z
+DTEND:20231020T170000Z
+DTSTAMP:20231020T140000Z
+DTSTAMP:20231020T125417Z
+UID:<8b6d6ce9-4bd2-282f-83b6-1ec9e5560172@boden-web.de>
+RRULE:FREQ=DAILY;UNTIL=20231022T170000Z
+DESCRIPTION:Wohnt da tatsächlich niemand? Woran ist Leerstand zu erkennen
+ ? Wie wird Leerstand vertuscht? Wie dekorativ sind Vorhänge\, verbeulte B
+ riefkästen\, verblichene Klingelschilder und bröselnde Fassade? Wer stop
+ pt den Verfall oder zahlt er sich aus? Wann wird Privateigentum öffentlic
+ hes Interesse? … und wer ist eigentlich „Erwin Kaworski“? More info 
+ at: https://wohnraumbuendnis-tuebingen.mtmedia.org/2023/10/03/leerzwischen
+ stand-ausstellung/
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Party at Wohnprojekt Wilhelma
+DTSTART:20230101T080000Z
+DTSTAMP:20230101T080000Z
+DTSTAMP:20231020T125417Z
+UID:<000001da02b6$efec86d0$cfc59470$@posteo.de>
+DESCRIPTION:We are planning a party at Wohnprojekt Wilhelma. We are curren
+ tly looking for people from the left scene who could provide security at o
+ ur party. We aim for a good and trustworthy cooperation between the awaren
+ ess team and security. If you are interested or know someone who might be\
+ , please reply to this email. We will provide more information if you wish
+ . Looking forward to your responses and contacts.
+LOCATION:Wohnprojekt Wilhelma
+END:VEVENT
 END:VCALENDAR
