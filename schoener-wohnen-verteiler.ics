@@ -1119,4 +1119,60 @@ DESCRIPTION:We are planning a party at Wohnprojekt Wilhelma. We are curren
  . Looking forward to your responses and contacts.
 LOCATION:Wohnprojekt Wilhelma
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneipenquiz: Tübingens linke Geschichte
+DTSTAMP:20231023T204159Z
+UID:<9bf656a8b9dc960f029f7d2bf53431bb@mtmedia.org>
+DESCRIPTION:„Input Tübingen“ präsentiert das erste Kneipenquiz über
+  die linke Szene in Tübingen. Wir widmen uns der Geschichte der außerpar
+ lamentarischen Linken in Tübingen nach 1945 in Form eines Kneipenquiz. Di
+ e außerparlamentarische Linke hat die Geschichte Tübingens geprägt ohne
+  sie bestimmt zu haben\, wie auch die letzte OB-Wahl leider noch einmal ge
+ zeigt hat. Es ist eine Geschichte von Siegen und Niederlagen immer in der 
+ Hoffnung „die letzte Schacht gewinnen wir“. Es wird auch die Kategorie
+  'Pleiten\, Pech und Pannen' geben. Geeignet sowohl für Neulinge als auch
+  für Fortgeschrittene. Wir freuen uns auf euch und versprechen einen eben
+ so lustigen wie lehrreichen Abend. Die Veranstaltung wird gefördert von d
+ er Rosa Luxemburg Stiftung Baden-Württemberg.
+LOCATION:Blauer Salon\, Münzgasse 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtführung rebellisches Tübingen: Konkrete Utopien in der klei
+ nen großen Stadt
+DTSTART:20231028T140000Z
+DTEND:20231028T170000Z
+DTSTAMP:20231028T140000Z
+DTSTAMP:20231023T204159Z
+UID:<2e3ff60524a83d1a3aa33e1270b6b54b@mtmedia.org>
+DESCRIPTION:Der Weg dieser Stadtführung durch das rebellische Tübingen f
+ ührt vom Lustnauer Tor durch die Altstadt und die Südstadt bis ins Franz
+ ösische Viertel und zurück ins Epplehaus. Dabei treffen wir – in erzä
+ hlter Geschichte und live – auf eine verhinderte Stadtautobahn\, Bürger
+ initiativen\, Punks\, Hausbesetzungen\, die alte europäische Stadt und ne
+ ue urbane Stadtviertel\, alternative Wohn- und Kulturprojekte\, Fab.Lab\, 
+ Werkstadthaus und vieles mehr. Den meisten Teil der Strecke gehen wir zu F
+ uß\, vom Französchen Viertel zurück in die Stadt zum Epplehaus fahren w
+ ir mit dem TüBus umsonst. Guide: Marc Amann. Start am Clubhaus Tübingen\
+ , Wilhelmstraße 30\, um 14 Uhr (pünktlich!) Ende am Epplehaus mit gemein
+ samen Abschluss und Austausch. Bringt sicherheitshalber einen Regenschirm 
+ mit.
+LOCATION:Clubhaus Tübingen\, Wilhelmstraße 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop GEAS - Fight Fortress Europe! Demonstration
+DTSTART:20231028T140000Z
+DTSTAMP:20231028T140000Z
+DTSTAMP:20231023T204159Z
+UID:<796e141e4754d3aee98a93de97de63af@posteo.de>
+DESCRIPTION:Die Außenpolitik der EU ist menschenfeindlich und tödlich\, 
+ das Klima in Deutschland Geflüchteten gegenüber so aufgeheizt\, dass Ola
+ f Scholz öffentlich in einer der größten Zeitschriften des Landes Absch
+ iebungen im großen Stil fordern kann. Wir müssen JETZT gemeinsam auf die
+  Straßen um der rassistischen Hetzen keinen weiteren Raum zu bieten! Wir 
+ wollen gemeinsam mit euch gegen die faktische Abschaffung des Asylrechts d
+ urch die Gemeinsame Europäische Asylreform (GEAS) laut und wütend demons
+ trieren. Die Demo beginnt nach einer Kundgebung auf dem Holzmarkt dort und
+  endet vor dem Amtsgericht.
+LOCATION:Holzmarkt
+END:VEVENT
 END:VCALENDAR
