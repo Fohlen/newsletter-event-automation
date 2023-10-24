@@ -1175,4 +1175,15 @@ DESCRIPTION:Die Außenpolitik der EU ist menschenfeindlich und tödlich\,
   endet vor dem Amtsgericht.
 LOCATION:Holzmarkt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pub-Quiz-Bar at Lu15
+DTSTART:20231026T210000Z
+DTEND:20231026T233000Z
+DTSTAMP:20231026T210000Z
+DTSTAMP:20231024T204151Z
+UID:<C958CCD5-17DA-4BC4-869C-A0B84DBE18CA@lu15.de>
+DESCRIPTION:Join us for a fun Pub-Quiz-Bar at Lu15. The house bar opens at
+  21:00 and the quiz starts at 21:30.
+LOCATION:Ludwigstr. 15
+END:VEVENT
 END:VCALENDAR
