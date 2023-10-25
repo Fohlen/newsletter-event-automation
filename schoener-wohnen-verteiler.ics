@@ -1186,4 +1186,22 @@ DESCRIPTION:Join us for a fun Pub-Quiz-Bar at Lu15. The house bar opens at
   21:00 and the quiz starts at 21:30.
 LOCATION:Ludwigstr. 15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ernst-&-Karola-Bloch-Woche: Dokumentarfilm „Was ist eigentlich m
+ it den Tieren?“
+DTSTART:20231025T183000Z
+DTEND:20231025T203000Z
+DTSTAMP:20231025T183000Z
+DTSTAMP:20231025T204050Z
+UID:<768436221.471994.1698150144727@email.df.eu>
+DESCRIPTION:Unser Verhältnis zu Tieren hat sich seit der Einführung der 
+ industriellen Tierhaltung stark verändert. Der 45-minütige Dokumentarfil
+ m beschäftigt sich mit der Frage\, ob es ethisch vertretbar ist\, Tiere z
+ u nutzen. Zu Wort kommen Brancheninsider und Systemaussteiger. Im Anschlus
+ s an den Film gibt es eine Diskussion\, an der auch der Regisseur des Film
+ s teilnehmen wird. Nach der Veranstaltung laden wir dich noch zu einem per
+ sönlichen Austausch mit Snacks ein.
+LOCATION:Kupferbau\, Hörsaal 22\, Tübingen
+URL:www.act-for-animals.de
+END:VEVENT
 END:VCALENDAR
