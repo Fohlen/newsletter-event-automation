@@ -1218,4 +1218,24 @@ DESCRIPTION:Join the party and bring your friends! Doors 8 - Noise 9. Perf
  haus homepage or d.i.die booking insta/FB!
 LOCATION:Epplhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traditionelle Halloweenparty
+DTSTART:20231031T220000Z
+DTEND:20231101T020000Z
+DTSTAMP:20231031T220000Z
+DTSTAMP:20231028T204050Z
+UID:<CAC0vt9Bds=WeZxLdd14dd_Yg88nb7dC2mL9fZ9qhF-NVaKamhg@mail.gmail.com>
+DESCRIPTION:Kommt am 31.10. ins Spookinsland. Eintritt auf Spendenbasis. M
+ it Liebe gemacht!
+LOCATION:Luginsland\, Paul-Lechler-Str. 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münze 13 House Party
+DTSTAMP:20231028T204050Z
+UID:<147166dd4eb7b7367b807fa192f37a2f@riseup.net>
+DESCRIPTION:Antifaschingstische Aktion - Macht euch nicht zum Narren. Band
+ s: Heavy Holes\, Schmidt & Rathmann\, DJ*anes from the house. Entry: 5-10E
+ UR. You're welcome to test yourself in advance.
+LOCATION:Münze 13
+END:VEVENT
 END:VCALENDAR
