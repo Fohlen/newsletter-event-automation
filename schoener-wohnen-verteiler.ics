@@ -1218,23 +1218,4 @@ DESCRIPTION:Join the party and bring your friends! Doors 8 - Noise 9. Perf
  haus homepage or d.i.die booking insta/FB!
 LOCATION:Epplhaus
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zwischenmiete in Berufstätigen WG in Tübingen-Derendingen
-DTSTART:20230101T000000Z
-DTEND:20240101T000000Z
-DTSTAMP:20230101T000000Z
-DTSTAMP:20231026T204151Z
-UID:<000001da081c$f8ccd190$ea6674b0$@siebenhoefe.de>
-DESCRIPTION:Netter Mensch zur Zwischenmiete für 1 Jahr evtl. länger für
-  unsere Berufstätigen WG gesucht. Wir leben in einem Haus mit Garten in T
- übingen-Derendingen und sind alle berufstätig. Des Weiteren residieren e
- ine Katze und ein Kater im Haus. Wir wünschen uns jemanden\, der Lust auf
- s WG-Leben hat.  Die Miete beträgt 490 Euro warm. Dafür gibt es. 2 Zimm
- er (ca. 25qm) sowie einen Garten\, eine Feuerstelle\, Billard\, eine klein
- e Werkstatt und viele Nebenräume. Interesse? Wir sind keine reine Nichtra
- ucher- WG.  Wenn du mehr über uns erfahren möchtest\, dann melde dich p
- er Mail. Wir würden uns freuen von Dir zu hören. Liebe Grüße im Namen 
- der WG Marion
-LOCATION:Tübingen-Derendingen
-END:VEVENT
 END:VCALENDAR
