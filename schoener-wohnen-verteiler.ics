@@ -1238,4 +1238,21 @@ DESCRIPTION:Antifaschingstische Aktion - Macht euch nicht zum Narren. Band
  UR. You're welcome to test yourself in advance.
 LOCATION:Münze 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crowdfunding-Aktion von Fanclub Kollektives Eigenheim e.V.
+DTSTART:20230101T000000Z
+DTEND:20230111T235959Z
+DTSTAMP:20230101T000000Z
+DTSTAMP:20231030T165936Z
+UID:<64173c441dfa4c4098130e243946c211@fckeigenheim.de>
+DESCRIPTION:Die Baden-Württemberg Stiftung unterstützt in einer Nachhalt
+ igkeits-Aktion Projekte rund um biologische Vielfalt und klimaschonenende 
+ Handlungsweisen. Wir haben für die nachhaltige und energetische Sanierung
+  der K39 ein Projekt auf der Crowdfunding-Plattform dieser Aktion registri
+ ert. Die Stiftung verdoppelt jede Spende! Es entstehen keine Gebühren. Me
+ hr dazu könnt ihr auch auf der Crowdfunding-Seite lesen: https://crowdfun
+ ding-bwstiftung.de/fckeigenheim-2023
+LOCATION:Online
+URL:https://crowdfunding-bwstiftung.de/fckeigenheim-2023
+END:VEVENT
 END:VCALENDAR
