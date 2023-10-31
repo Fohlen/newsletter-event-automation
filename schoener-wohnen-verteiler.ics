@@ -1255,4 +1255,25 @@ DESCRIPTION:Die Baden-Württemberg Stiftung unterstützt in einer Nachhalt
 LOCATION:Online
 URL:https://crowdfunding-bwstiftung.de/fckeigenheim-2023
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert at Schellingstraße 6
+DTSTART:20231103T200000Z
+DTEND:20231103T235900Z
+DTSTAMP:20231103T200000Z
+DTSTAMP:20231031T125333Z
+UID:<trinity-84a6bf5a-156a-482e-8bee-12057be2966a-1698702578491@3c-app-gmx
+ -bs45>
+DESCRIPTION:Join us for an extraordinary journey into the land of rich sou
+ nds. The evening will start with a performance by the Stuttgart undergroun
+ d noise rockets "unbite"\, followed by the legendary moped punks "Oiro". T
+ he final act of the night will be "duesenjaeger"\, one of the most fabulou
+ s German-speaking indie/post/whatever punk bands. The gate opens at 8 pm. 
+ We strongly recommend not checking in too late as the place can be quite f
+ ull with this lineup. Enjoy delicious cold drinks and homemade Soli-Pfeffi
+  at a slim thaler. More info at: https://unbite.bandcamp.com/album/fang\, 
+ https://oiro.bandcamp.com/album/historica-dela-musica-rock\, https://duese
+ njaeger.bandcamp.com/album/die-gespenster-und-der-schnee-2\, https://m.you
+ tube.com/watch?v=ussDaeTaxnM
+LOCATION:Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
