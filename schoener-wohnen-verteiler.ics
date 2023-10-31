@@ -1276,4 +1276,16 @@ DESCRIPTION:Join us for an extraordinary journey into the land of rich sou
  tube.com/watch?v=ussDaeTaxnM
 LOCATION:Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmklassiker und Vokürezept Premiere
+DTSTART:20230701T190000Z
+DTEND:20230701T220000Z
+DTSTAMP:20230701T190000Z
+DTSTAMP:20231031T204049Z
+UID:<56c2173968f63df05a0c673c4b743a83@schellingstrasse.de>
+DESCRIPTION:Wir zeigen einen Filmklassiker aus dem Häuserkampf in der Sch
+ weiz. Dazu wird in einer Premiere ein neues Vokürezept an Euch ausprobier
+ t. Essen ab 19 Uhr und Film ab ca 20 Uhr.
+LOCATION:Infoladen
+END:VEVENT
 END:VCALENDAR
