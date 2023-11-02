@@ -1288,4 +1288,35 @@ DESCRIPTION:Wir zeigen einen Filmklassiker aus dem Häuserkampf in der Sch
  t. Essen ab 19 Uhr und Film ab ca 20 Uhr.
 LOCATION:Infoladen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Scientists Party
+DTSTART:20231104T193000Z
+DTEND:20231105T030000Z
+DTSTAMP:20231102T125435Z
+UID:<6B7EE8BE-9B39-4575-886C-5F9C733B3923@gmail.com>
+DESCRIPTION:Weil Halloween uns doch ein bisschen zu kurz kam\, laden wir e
+ uch alle herzlich in unser Labor im Keller der Münzgasse 7 ein. Mit allen
+  Mad Scientists aus Tübinhgen wollen wir am Abend des 4. Novembers blutig
+ e Shots und andere experimentelle Zaubertränke zu rauschenden Klängen te
+ ilen. Los geht es mit der Hausbar um 19:30 Uhr mit einer Prise Hip Hop und
+  Disco\, um dann ab 21 Uhr mit einem Nachschub Techno aufzudrehen und uns 
+ von der Nacht durchmischen zu lassen. Wir freuen uns auf alle Mad Scientis
+ t Kostüme\, solltet ihr euch hinter die Türen des Labors trauen.
+LOCATION:Münzgasse 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zum Thema Gaza mit Helga Baumgarten
+DTSTART:20231102T180000Z
+DTEND:20231102T200000Z
+DTSTAMP:20230702T080000Z
+DTSTAMP:20231102T125435Z
+UID:<758e686ff93ce974b246361db98cfedb@riseup.net>
+DESCRIPTION:Helga Baumgarten\, eine der bekanntesten deutschen Wissenschaf
+ tlerinnen zum Thema Israel/Palästina\, die selbst seit Jahrzehnten in Ost
+ jerusalem lebt\, ist in Tübingen! Sowohl den aufruf als auch den Ankündi
+ gungstext für die Veranstaltung mit Helga Baumgarten nach der Kundgebung 
+ findet ihr weiter unten.
+LOCATION:Tübingen\, Germany
+ORGANIZER;CN=Jackie:mailto:jackie@example.com
+END:VEVENT
 END:VCALENDAR
