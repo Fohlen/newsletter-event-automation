@@ -1319,4 +1319,57 @@ DESCRIPTION:Helga Baumgarten\, eine der bekanntesten deutschen Wissenschaf
 LOCATION:Tübingen\, Germany
 ORGANIZER;CN=Jackie:mailto:jackie@example.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Plenum der Ende Gelände Ortsgruppe Tübingen
+DTSTART:20231105T180000Z
+DTSTAMP:20231105T180000Z
+DTSTAMP:20231103T125543Z
+UID:<bf52b189-c21b-470b-8e06-f74cf5047f5f@mtmedia.org>
+DESCRIPTION:Offenes Plenum der Ende Gelände Ortsgruppe Tübingen. Einblic
+ k in lokale und überregionale Arbeit. Möglichkeit zur kontinuierlichen E
+ inbringung.
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BalkanBrothers Konzert im Lichti
+DTSTART:20231111T203000Z
+DTSTAMP:20231111T203000Z
+DTSTAMP:20231103T125543Z
+UID:<963fb90a-e0ff-4ad9-bf03-eab12be93bf2@gmx.de>
+DESCRIPTION:BalkanBrothers Konzert im Lichti. Eintritt frei und im Anschlu
+ ss Balkan Jam Session! Weitere Informationen unter http://www.balkanbrothe
+ rs.nl/
+LOCATION:Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machmittag bei Zirkus Primel
+DTSTART:20231104T100000Z
+DTEND:20231104T180000Z
+DTSTAMP:20231104T090000Z
+DTSTAMP:20231103T125543Z
+UID:<trinity-2f28fa4d-0df4-4a19-b00f-aedf76668c5e-1698954142713@msvc-mesg-
+ gmx103>
+DESCRIPTION:Kreativer kinder Tanz\, kinder Zirkus training\, Kaffe und Kuc
+ hen und zum abschluss noch eine Clownschow von Zirkus Primel. Bitte meldet
+  euch bis Freitag Abend an\, zirkusprimel@gmail.com
+LOCATION:Tübingen
+ORGANIZER;CN="Clown Cipollo und Rote Beete":mailto:zirkusprimel@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von Menschen\, die auf Bäume steigen - Film und Kneipe
+DTSTART:20231104T180000Z
+DTSTAMP:20231104T180000Z
+DTSTAMP:20231103T125543Z
+UID:<fec2e7b3faf8ac7ede3f36b125886049@rosa-reutlingen.de>
+DESCRIPTION:Diesen Samstag wird der Film „Von Menschen\, die auf Bäume 
+ steigen“ gezeigt. Dieser ist eine „Hommage an den größten Wald Obers
+ chwabens. Und die Menschen\, die ihn bewahren wollen.“ Im Anschluss gibt
+  es die Möglichkeit\, gemeinsam über den Film zu sprechen und den Abend 
+ bei einem Getränk ausklingen zu lassen. Weitere Informationen: https://ww
+ w.rosa-reutlingen.de/event/von-menschen-die-auf-baeume-steigen-film-und-kn
+ eipe-im-haus-der-jugend/
+LOCATION:Haus der Jugend\, Museumstr. 7\, Reutlingen
+URL:https://www.rosa-reutlingen.de/event/von-menschen-die-auf-baeume-steig
+ en-film-und-kneipe-im-haus-der-jugend/
+END:VEVENT
 END:VCALENDAR
