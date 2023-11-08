@@ -1372,4 +1372,75 @@ LOCATION:Haus der Jugend\, Museumstr. 7\, Reutlingen
 URL:https://www.rosa-reutlingen.de/event/von-menschen-die-auf-baeume-steig
  en-film-und-kneipe-im-haus-der-jugend/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YEAST MACHINE Homecoming Show
+DTSTART:20231110T200000Z
+DTSTAMP:20231110T200000Z
+DTSTAMP:20231108T204220Z
+UID:<AS4PR01MB9349662F64FE553F41CE3E6DF9A9A@AS4PR01MB9349.eurprd01.prod.ex
+ changelabs.com>
+DESCRIPTION:Zum Abschluss ihrer Tour durch Deutschland & Schweiz spielt Ye
+ ast Machine nach halbjähriger Tübingen-Pause mal wieder im eigenen Wohnz
+ immer. Im Tübinger Lichtenstein (Schwabstraße 6)\, wo die Stoner-Grunge-
+ Band den ersten Gig der Bandgeschichte hatte\, findet diesen Freitag die g
+ roße Homecoming-Show statt. Mit dabei ist die Freiburger Fuzz'n'Roll-Band
+  Cosmic Mints\, die den Abend einleiten werden. Eintritt auf Spendenbasis.
+  Vor dem Haus bitte ruhig verhalten\, um die Nachbarn nicht zu stören.
+LOCATION:Schwabstr. 6\, Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar und Quiz Nacht
+DTSTART:20230201T200000Z
+DTSTAMP:20230201T080000Z
+DTSTAMP:20231108T204220Z
+UID:<trinity-cd103a60-21ea-4ebc-b3bb-ef340251c8ac-1699426350151@3c-app-web
+ de-bs36>
+DESCRIPTION:Heute Abend ab 20 Uhr ist Hausbar in der Schelling. Außerdem 
+ könnt ihr heute beim Quiz endlich euer unnützes Wissen mit uns teilen. U
+ nd damit niemand hungrig bleibt beim Quiz gibt es heute Küfa \, die zum H
+ erbstwetter passt.
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung über Antifaschistin Gertrud Lutz
+DTSTART:20231130T190000Z
+DTEND:20231130T210000Z
+DTSTAMP:20231130T190000Z
+DTSTAMP:20231108T204220Z
+UID:<a38b9f7b-9975-a6a8-9300-3bbfca963dd4@riseup.net>
+DESCRIPTION:Günter Randecker und Michael Horlacher werden aus ihrem Buch 
+ „Gertrud Lutz: Briefe – Dokumente – Bilder“ lesen. Darin haben sie
+  die Gefängnisbriefe der Kommunistin gesammelt. Wir freuen uns\, die beid
+ en Herausgeber bei uns im Linken Laden begrüßen zu dürfen.
+LOCATION:Münzgasse 4\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garagen-Flohmarkt bei Fruchtschranne
+DTSTART:20231110T150000Z
+DTEND:20231110T200000Z
+DTSTAMP:20231110T150000Z
+DTSTAMP:20231108T204220Z
+UID:<CAOtEhHwarYFuNc8YjvMRLNxOZ8jysBKWU+t4u9oobFTNkKv+AQ@mail.gmail.com>
+DESCRIPTION:Wir veranstalten einen kleinen Garagen- Flohmarkt. Es wird auc
+ h Glühwein und vegane Naschereien auf Spendenbasis geben.
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+ORGANIZER;CN=Kalinka:mailto:no-reply@Fruchtschranne.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmabend: „Food Coop“
+DTSTART:20231118T193000Z
+DTEND:20231118T220000Z
+DTSTAMP:20231118T193000Z
+DTSTAMP:20231108T204220Z
+UID:<e29920df-ac48-475d-abbf-5c5b00b1a6a6@mtmedia.org>
+DESCRIPTION:Einladung zu einem Filmabend. Der Film heißt „Food Coop“\
+ , eine Dokumentation über einen kooperativen Supermarkt in Brooklyn. Im A
+ nschluss an den Film freuen wir uns auf einen Austausch dazu\, wie der akt
+ uelle Stand der Eckladen-Planung ist und wie sich ein Mitgliederladen hier
+  in Tübingen ganz konkret umsetzen lässt. Mehr Infos über den Eckladen 
+ gibt es auf https://eckladen.org/ und den Trailer des Films könnt Ihr Euc
+ h hier anschauen: https://vimeo.com/ondemand/foodcoopdeutscheversion.
+LOCATION:Café des 4-Häuser-Projekts\, Hechinger Str. 46\, Tübingen
+URL:https://eckladen.org/
+END:VEVENT
 END:VCALENDAR
