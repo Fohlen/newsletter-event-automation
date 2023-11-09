@@ -1443,4 +1443,15 @@ DESCRIPTION:Einladung zu einem Filmabend. Der Film heißt „Food Coop“\
 LOCATION:Café des 4-Häuser-Projekts\, Hechinger Str. 46\, Tübingen
 URL:https://eckladen.org/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Mundos Concert
+DTSTART:20231113T213000Z
+DTEND:20231113T233000Z
+DTSTAMP:20231109T125308Z
+UID:<38e6f41d-098c-4d49-9a72-d832e73b35db@posteo.de>
+DESCRIPTION:Los Mundos from Mexico will be performing at the Blauen Salon.
+  Doors open at 21:00\, with the concert possibly starting at 21:30. More i
+ nfo at https://losmundos.bandcamp.com/album/eco-del-universo
+LOCATION:Blauen Salon
+END:VEVENT
 END:VCALENDAR
