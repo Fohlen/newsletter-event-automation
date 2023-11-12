@@ -1506,4 +1506,26 @@ DESCRIPTION:Es werden Spiele gespielt\, Gewaltmuster erklärt\, Rollenspie
 LOCATION:KiDojo im Loretto\, Tübingen
 ORGANIZER;CN=Jackie:mailto:jackie@mtmedia.org
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senyawa Acoustic + DavidX Beatbox & Voices
+DTSTART:20231117T210000
+DTSTAMP:20231117T210000
+DTSTAMP:20231112T125024Z
+UID:<5fafa2a2dfa6a368d66c8c102ad4cb81@mtmedia.org>
+DESCRIPTION:SENYAWA senseful & beautiful acoustic version + DAVIDX Beatbox
+  & voices freakshow. More info at http://www.aNGRry.propagande.org/en/DAVI
+ DX-en/
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senyawa Electr(on)ic + déjàVU! Beatbox & Screams
+DTSTART:20231118T210000
+DTSTAMP:20231118T210000
+DTSTAMP:20231112T125024Z
+UID:<5fafa2a2dfa6a368d66c8c102ad4cb81@mtmedia.org>
+DESCRIPTION:SENYAWA powerful & loud electr(on)ic version + déjàVU! Beatb
+ ox & screams assault SURPRISES. More info at http://www.angrry.propagande.
+ org/en/dejaVU-en/
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
 END:VCALENDAR
