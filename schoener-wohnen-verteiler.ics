@@ -1528,4 +1528,20 @@ DESCRIPTION:SENYAWA powerful & loud electr(on)ic version + déjàVU! Beatb
  org/en/dejaVU-en/
 LOCATION:Ludwigstraße 15\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilhelma-Party
+DTSTART:20231117T180000Z
+DTEND:20231117T235900Z
+DTSTAMP:20230717T080000Z
+DTSTAMP:20231113T204033Z
+UID:<b4b8f592-6caf-4eb1-bdc0-071601cc5cff@mtmedia.org>
+DESCRIPTION:Wir haben für die Wilhelma-Party am 17.11. Deko gebastelt (Ä
+ ste weiss angemalt) und diese dann zum Trocknen rausgestellt. Leider direk
+ t neben den Umsonstladen. Natürlich sind die weissen Äste jetzt weg. Lus
+ tig für alle anderen\, blöd für uns weil es viel Arbeit war. Daher die 
+ Bitte: Wenn jemand die weiss bemalten Äste vom Umsonstladen der Wilhelma 
+ genommen hat\, bitte wieder zurückbringen. Wir brauchen die noch. Was dan
+ ach mit den Ästen passiert\, kann verhandelt werden. \;)
+LOCATION:Wilhelma
+END:VEVENT
 END:VCALENDAR
