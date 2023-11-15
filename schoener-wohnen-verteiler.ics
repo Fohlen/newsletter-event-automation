@@ -1544,4 +1544,32 @@ DESCRIPTION:Wir haben für die Wilhelma-Party am 17.11. Deko gebastelt (Ä
  ach mit den Ästen passiert\, kann verhandelt werden. \;)
 LOCATION:Wilhelma
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstwind Hausbar
+DTSTART:20230101T200000Z
+DTEND:20230102T000000Z
+DTSTAMP:20230101T080000Z
+DTSTAMP:20231115T204127Z
+UID:<trinity-5b484625-ee68-44a8-92db-cf6eb409a8b6-1700054748604@msvc-mesg-
+ web009>
+DESCRIPTION:Heute Abend findet unsere berühmt berüchtigte Herbstwind Hau
+ sbar statt! Ihr seid alle eingeladen bei uns in der Schelling bei Flammkuc
+ hen\, Cider und auch sonst leckeren Hausbargetränken zu verweilen. Gemein
+ sam feieren wir den den immer noch laufenden Herbst.
+LOCATION:Schelling Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kabarett-Konzert mit Michi Marcher
+DTSTAMP:20231115T204127Z
+UID:<trinity-3ea6e24e-1665-4afa-babf-e47e97591963-1700058791961@msvc-mesg-
+ web102>
+DESCRIPTION:Michi Marchner ist Multi-Instrumentalist\, Ganzkörperkabarett
+ ist\, Sänger\, Erzähler\, Romantiker\, Exzentriker und Barde\, seine The
+ men sind Liebe\, Freude\, Tod und Irrsinn\, Tiefe\, Leidenschaft\, Spaß u
+ nd Entgleisung! Egal was er tut\, er tut es mit Herz und Leib und Seele! M
+ ichi Marchner\, das ist vom Feinsten das Beste. Der Einlass ist wie immer 
+ frei auf Spendenbasis! Getränke gibt es gegen kleines Geld an der Hausbar
+ .
+LOCATION:Haus Lichtenstein\, Schwabstraße 6\, Tübingen
+END:VEVENT
 END:VCALENDAR
