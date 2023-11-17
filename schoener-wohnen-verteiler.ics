@@ -1572,4 +1572,18 @@ DESCRIPTION:Michi Marchner ist Multi-Instrumentalist\, Ganzkörperkabarett
  .
 LOCATION:Haus Lichtenstein\, Schwabstraße 6\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunter Abend im Lichti
+DTSTART:20231125T200000Z
+DTSTAMP:20231125T200000Z
+DTSTAMP:20231117T125421Z
+UID:<kxDNoVKQdNVDQrJlPqv7mxR7VOT4jm-S4JU75nb9uiC8IoznLjJQGz0yqgWbUxv6KQR4R
+ t1P2sfFRkGOkXL2KKfEG1VvHOyHglNNO03lGlw=@protonmail.com>
+DESCRIPTION:Ein bunter Abend mit Musik\, Poesie\, Performances\, Tanz\, Th
+ eater und allem\, was das Kunst-Herz begehrt! Es gibt auch eine abschließ
+ ende Jam-Session. Sie können bis zu 10-minütige künstlerische Beiträge
+  teilen. Bitte senden Sie Ihre Beiträge und technischen Bedarf per E-Mail
+  an: dalichtiz@protonmail.com
+LOCATION:Lichti
+END:VEVENT
 END:VCALENDAR
