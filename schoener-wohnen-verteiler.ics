@@ -1585,4 +1585,24 @@ DESCRIPTION:Ein bunter Abend mit Musik\, Poesie\, Performances\, Tanz\, Th
   an: dalichtiz@protonmail.com
 LOCATION:Lichti
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Música con Señas Festival
+DTSTART:20231124T000000Z
+DTEND:20231126T235959Z
+DTSTAMP:20231124T000000Z
+DTSTAMP:20231120T204049Z
+UID:<b2783f44-b078-4700-bb1a-27a095ea3c79@klangfolk.de>
+DESCRIPTION:Lerne als Gruppe Musik im Moment mit einer Zeichensprache zu i
+ mprovisieren! Dieses Event ist für dich\, wenn du: eine gute Zeit mit and
+ eren Musiker*innen und Tänzer*innen genießen möchtest\, gerade erst anf
+ ängst\, Musik zu spielen und lernen möchtest\, wie man in der Gruppe imp
+ rovisiert und Musik kreiert\, erfahren bist\, aber lernen möchtest\, wie 
+ man Zeichen interpretiert und ihnen folgt\, dein Verständnis für Rhythmu
+ s\, Harmonie und Melodie entwickeln möchtest\, Tanz aus einer neuen Persp
+ ektive entdecken möchtest\, Tübingen besuchen\, jammen\, Shows aufführe
+ n und an Festen teilnehmen möchtest. Mehr Infos und Zeitplan hier: https:
+ //www.klangfolk.de/projekte/musica-con-senas/musica-con-senas-festival Anm
+ eldung hier: https://forms.gle/Aotigm14uxjvG93B9
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
