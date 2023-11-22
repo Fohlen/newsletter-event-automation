@@ -1637,4 +1637,33 @@ DESCRIPTION:Ein bunter Abend mit Musik\, Poesie\, Performances\, Tanz\, Th
  an: dalichtiz@protonmail.com
 LOCATION:Lichti
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trash Party at Lu15
+DTSTART:20231202T210000
+DTEND:20231203T030000
+DTSTAMP:20231122T204126Z
+UID:<CAHoL66Gg-s474R8EpCjZ=60WWvYOTLoKViB7DGCs6b12BMZXCQ@mail.gmail.com>
+DESCRIPTION:DJ Lasagne and others will be playing finest trash\, there wil
+ l be Soli-Shots and a karaoke start! Feel free to come in costume\, we loo
+ k forward to seeing you! Your Luser
+LOCATION:Lu15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsterpunk vs. Garapunk: SPLITTERSICHT and THE WORM REDUCER Conce
+ rt
+DTSTART:20231216T200000Z
+DTEND:20231217T000000Z
+DTSTAMP:20231216T080000Z
+DTSTAMP:20231122T204126Z
+UID:<trinity-06f67ca3-9192-4b6e-99d0-b0ed6e9fb196-1700655124560@3c-app-gmx
+ -bap13>
+DESCRIPTION:Join us for a night of punk music with bands SPLITTERSICHT and
+  THE WORM REDUCER at FRANZ!werk in the French Quarter (at Pferdeställen 8
+ ). This will be their last performance for the year in Tübingen. You may 
+ have seen them at the city festival (RACT! Stage)\, in the Fichte House\, 
+ in the Last Resort or in the LU15. If not\, you can get an impression on b
+ oth Bandcamp pages: https://splittersicht.bandcamp.com/ or https://theworm
+ reducer.bandcamp.com/. Admission will be free and a hat will be available.
+LOCATION:FRANZ!werk\, Pferdeställen 8\, Tübingen
+END:VEVENT
 END:VCALENDAR
