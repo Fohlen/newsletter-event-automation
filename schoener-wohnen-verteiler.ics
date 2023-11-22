@@ -1605,4 +1605,36 @@ DESCRIPTION:Lerne als Gruppe Musik im Moment mit einer Zeichensprache zu i
  eldung hier: https://forms.gle/Aotigm14uxjvG93B9
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donna Savage Concert at Epplehaus
+DTSTART:20231124T200000Z
+DTSTAMP:20231124T200000Z
+DTSTAMP:20231122T125532Z
+UID:<trinity-82be91ea-a91d-46c6-826b-127843675fd0-1700637372654@3c-app-web
+ de-bs30>
+DESCRIPTION:Donna Savage\, the talented rapper from Vienna\, shines with h
+ ard punchlines and a huge portion of self-confidence. Role clichés and ra
+ p drawers are completely irrelevant to Donna Savage\, she boards on trap a
+ s well as on boombap beats. Her unmistakably smoky voice matches perfectly
+  with the powerful beats of producer king @brenksinatra\, on whose label W
+ ave Planet Records Donna Savage is signed. Support from local Tübingen ba
+ nds: Mäd&Spin and sodaclubcool.
+LOCATION:Epplehaus\, Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunter Abend im Lichti
+DTSTART:20231125T200000Z
+DTSTAMP:20231125T200000Z
+DTSTAMP:20231122T125532Z
+UID:<9fF9W4QRIYLjcS0-1diov3TWeoZpzUBdx_lcF-VuUTb0LenCEZHPLW13Z1mDWwW2lMdoO
+ dKTXm1EU39KHvRkZJa1YusXb2xbzHanUfuy4ts=@protonmail.com>
+DESCRIPTION:Ein bunter Abend mit Musik\, Poesie\, Performances\, Tanz\, Th
+ eater und allem\, was das Kunst-Herz begehrt. Bringt gute Laune\, eure Fre
+ und*innen und Instrumente für die abschließende Jam-Session mit! Wenn ih
+ r Lust habt\, selbst die Bühne zu erobern und bis zu 10-minütige künstl
+ erische Beiträge zu teilen\, seid ihr allerherzlichst eingeladen dies zu 
+ tun. Beschreibt euren Beitrag und nennt technischen Bedarf bitte per Mail 
+ an: dalichtiz@protonmail.com
+LOCATION:Lichti
+END:VEVENT
 END:VCALENDAR
