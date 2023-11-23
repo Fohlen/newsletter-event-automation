@@ -1666,4 +1666,72 @@ DESCRIPTION:Join us for a night of punk music with bands SPLITTERSICHT and
  reducer.bandcamp.com/. Admission will be free and a hat will be available.
 LOCATION:FRANZ!werk\, Pferdeställen 8\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung auf dem Holzmarkt
+DTSTART:20231124T180000Z
+DTEND:20231124T190000Z
+DTSTAMP:20231124T180000Z
+DTSTAMP:20231123T204150Z
+UID:<28768b67c06acb41a287213592b4177a@riseup.net>
+DESCRIPTION:Wir möchten Euch angesichts der katastrophalen humanitären S
+ ituation in Gaza zu einer weiteren Kundgebung auf dem Holzmarkt in TÜ ein
+ laden: Den Horror in Gaza beenden ! Waffenstillstand sofort! In Anlehnung 
+ an die gleichnamige Erklärungvon medico international ruft der Arbeitskre
+ is Palästina Tübingen für Freitag \,den 24.11.von 18.00h bis 19.00h zu 
+ einer KUNDGEBUNG auf dem Holzmarkt Tübingen auf. "Israel wird durch die  
+ Verbrechen der Hamas nicht seiner eigenen völkerrechtlichen Verantwortung
+  entbunden. Der Krieg muss enden"\, heisst es im Text der Organisation\, d
+ ie seit vielen Jahren für Gesundheit und Menschenrechte in Palästina und
+  Israel engagiert ist . Es werden weiter Unterschriften für einen soforti
+ gen Waffenstillstand gesammelt (s. Anhnag). Bitte bringt Kerzen mit! Redeb
+ eiträge von: Ingrid Rumpf\, Fadi al Masri und Martina Waiblinger. Moderat
+ ion Eva-Maria Kustermann.
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donna Savage Concert at Epplehaus
+DTSTART:20231124T200000Z
+DTEND:20231125T000000Z
+DTSTAMP:20231124T200000Z
+DTSTAMP:20231123T204150Z
+UID:<trinity-3ab782bf-8b93-4cc6-9104-222094d7c3ff-1700679230490@3c-app-web
+ de-bs16>
+DESCRIPTION:Donna Savage\, the talented rapper from Vienna\, shines with h
+ ard punchlines and a huge portion of self-confidence. Role clichés and ra
+ p drawers are completely irrelevant to Donna Savage\, she boards on trap a
+ s well as on boombap beats. Her unmistakably smoky voice matches perfectly
+  with the powerful beats of producer king @brenksinatra\, on whose label W
+ ave Planet Records Donna Savage is signed. Support from local Tübingen ba
+ nds: Mäd&Spin and sodaclubcool.
+LOCATION:Epplehaus\, Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tauschkreisel im Umweltzentrum
+DTSTART:20231007T110000Z
+DTEND:20231007T140000Z
+DTSTAMP:20231005T091500Z
+DTSTAMP:20231123T204150Z
+UID:<CA+gn2JCvugz_tk3BKX5RjnS_8ZATB69JOnthRkTzzR7kEdGUHA@mail.gmail.com>
+DESCRIPTION:Es kann Kleidung\, Spiele und Weihnachtsdeko getauscht werden.
+  Bitte achtet darauf\, dass die Kleidung in gutem Zustand und gewaschen is
+ t\, die Weihnachtsdeko unbeschädigt und die Spiele vollständig sind.
+LOCATION:Umweltzentrum Tübingen e.V.
+ORGANIZER;CN="Sonja Marielle Teresa Bluhm":mailto:sonja.teresa.bluhm@googl
+ email.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch auf dem Marktplatz
+DTSTART:20230512T170000Z
+DTEND:20230512T230000Z
+DTSTAMP:20230510T104500Z
+DTSTAMP:20231123T204150Z
+UID:<CA+gn2JCvugz_tk3BKX5RjnS_8ZATB69JOnthRkTzzR7kEdGUHA@mail.gmail.com>
+DESCRIPTION:Im Rahmen der Nacht der Nachhaltigkeit findet ein Kleidertausc
+ h statt. Bring sie gewaschen und gefaltet einfach zur NdN mit oder vorher 
+ ins UWZ und tausche sie gegen etwas anderes ein oder nimm einfach etwas mi
+ t!
+LOCATION:Marktplatz
+ORGANIZER;CN="Sonja Marielle Teresa Bluhm":mailto:sonja.teresa.bluhm@googl
+ email.com
+END:VEVENT
 END:VCALENDAR
