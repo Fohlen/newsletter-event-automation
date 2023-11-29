@@ -1734,4 +1734,20 @@ LOCATION:Marktplatz
 ORGANIZER;CN="Sonja Marielle Teresa Bluhm":mailto:sonja.teresa.bluhm@googl
  email.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glad We Met Album Release Show
+DTSTAMP:20231129T204122Z
+UID:<210abe6d-c1c3-4c8d-9ea4-b46f5121279a@posteo.de>
+DESCRIPTION:Join us for the album release show of Glad We Met. The event w
+ ill start at 21:00 with a DJ-Aftershow by Mimu. Glad We Met has been aroun
+ d since 2020\, making energetic melodic punk rock. The album is completely
+  self-written\, arranged\, recorded\, and mixed and mastered by their guit
+ arist Fabe Schaller in their own studio. The artwork is by the singer and 
+ guitarist Jott. The material will be available as vinyl via contact@gladwe
+ met.net or the Bandcamp page https://gladwemet.bandcamp.com/album/glad-we-
+ met and selected shops. The digital version is available for purchase and 
+ streaming on Bandcamp and all other reputable streaming services.
+LOCATION:Blauer Salon\, Tübingen\, Germany
+URL:https://gladwemet.bandcamp.com/album/glad-we-met
+END:VEVENT
 END:VCALENDAR
