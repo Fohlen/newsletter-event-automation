@@ -1750,4 +1750,38 @@ DESCRIPTION:Join us for the album release show of Glad We Met. The event w
 LOCATION:Blauer Salon\, Tübingen\, Germany
 URL:https://gladwemet.bandcamp.com/album/glad-we-met
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmabend: Samin vs. Semen
+DTSTART:20231212T190000Z
+DTSTAMP:20231212T190000Z
+DTSTAMP:20231130T125440Z
+UID:<2e2bed25-d529-47ae-855d-8bf0d24bb4fc@riseup.net>
+DESCRIPTION:Wir folgen dem Aufruf des französischen Bündnisses „Soulè
+ vements de la terre“ zu Aktionstagen gegen HolcimLafarge und die Welt de
+ s Betons. Wir schauen die Dokumentation „Samin vs. Semen“. Die Samin s
+ ind eine indigene Community auf Java\, Indonesien. Die Firma Semen gehört
+  zum baden-württembergischen Zementkonzern HeidelbergCement\, der wie Hol
+ cim einer der größten Zementhersteller weltweit ist. Was hat das mit dem
+  Holcim-Standort in Dotternhausen bei Balingen zu tun? Was hat Holcim inte
+ rnational zu verantworten? Der Film dauert 40 Minuten\, danach gibt es Rau
+ m für Diskussion. Mehr Infos zu den Aktionstagen: https://toakt.noblogs.o
+ rg/post/2023/11/28/12-12-klimakneipe-mit-film-samin-vs-semen-wie-die-zemen
+ tindustrie-mensch-und-natur-weltweit-beeinflusst/
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung: "Die demokratische Zivilisation- Wege aus der Ziv
+ ilisationskrise im Nahen Osten." von Abdullah Öcalan
+DTSTART:20231208T190000Z
+DTSTAMP:20231208T190000Z
+DTSTAMP:20231130T125440Z
+UID:<5a94d273e71f5dc0bc521718c737c9b1@posteo.de>
+DESCRIPTION:Reimar Heider stellt das von ihm übersetzte Buch: "Die demokr
+ atische Zivilisation- Wege aus der Zivilisationskrise im Nahen Osten." von
+  Abdullah Öcalan vor. Dieses Buch ist der vierte Band von Öcalans „Man
+ ifest der demokratische Zivilisation“. Reimar Heider ist Übersetzer und
+  Mitarbeiter der Internationale Initiative „Freiheit für Abdullah Öcal
+ an – Frieden in Kurdistan“.
+LOCATION:FRANZ!werk\, Tübingen\, Bei den Pferdeställen 8
+END:VEVENT
 END:VCALENDAR
