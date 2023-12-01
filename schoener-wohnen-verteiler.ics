@@ -1784,4 +1784,17 @@ DESCRIPTION:Reimar Heider stellt das von ihm übersetzte Buch: "Die demokr
  an – Frieden in Kurdistan“.
 LOCATION:FRANZ!werk\, Tübingen\, Bei den Pferdeställen 8
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimagerechtigkeit Mahnwache
+DTSTART:20231203T153000Z
+DTEND:20231203T173000Z
+DTSTAMP:20231203T153000Z
+DTSTAMP:20231201T125431Z
+UID:<trinity-98f90b3c-0493-470a-8e65-0cfb01563adc-1701360455294@msvc-mesg-
+ gmx021>
+DESCRIPTION:Mit Reden\, Musik und ganz viel guter Stimmung überlegen wir 
+ zusammen\, bei einer Mahnwache\, wie unsere Welt in Zukunft aussehen könn
+ te. Dabei ist eines klar: so wie es ist kann es nicht weitergehen.
+LOCATION:Am Holzmarkt\, vor der Stiftskirche
+END:VEVENT
 END:VCALENDAR
