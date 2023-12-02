@@ -1797,4 +1797,39 @@ DESCRIPTION:Mit Reden\, Musik und ganz viel guter Stimmung überlegen wir
  te. Dabei ist eines klar: so wie es ist kann es nicht weitergehen.
 LOCATION:Am Holzmarkt\, vor der Stiftskirche
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung "Arbeit\, Dienst und Führung - der Nationalsozial
+ ismus und sein Erbe"
+DTSTART:20231206T190000Z
+DTEND:20231206T220000Z
+DTSTAMP:20231206T190000Z
+DTSTAMP:20231202T204049Z
+UID:<6de66d8984a01ef61da29d0229d3abea@schellingstrasse.de>
+DESCRIPTION:Es referiert Nikolas Lelle. Er ist in der politischen Bildungs
+ arbeit tätig und schreibt u.a. für die Wochenzeitung "Jungle World".\n19
+  Uhr veganes Essen\n20 Uhr Vortrag\nBitte seid solidarisch und kommt geste
+ stet. Bleibt bei Symptomen zuhause.
+LOCATION:Infoladen\, Schellingstrasse 6\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung für bezahlbaren und sozialgerechten ÖPNV
+DTSTART:20231205T160000Z
+DTEND:20231205T180000Z
+DTSTAMP:20231105T160000Z
+DTSTAMP:20231202T204049Z
+UID:<da5cfaa8-558d-4b4a-b68e-93d3ee2ba6e0@riseup.net>
+DESCRIPTION:Kundgebung für einen bezahlbaren und sozialgerechten ÖPNV. D
+ as neue Tübinger Bündnis „Tübingen fährt voraus“ für eine klima- 
+ und sozialgerechte Verkehrswende hat eine Petition gestartet\, um sich fü
+ r einen weitgehend kostenlosen ÖPNV in Tübingen einzusetzen. Die Petitio
+ n fordert ein deutschlandweites 15 Euro-Ticket für alle\, während Schül
+ er*innen\, Studierende\, Azubis\, Kreisbonuscardinhaber*innen und Rentner*
+ innen kostenlos fahren sollen. Gleichzeitig wird die Verbesserung der Arbe
+ itsbedingungen der Busfahrer*innen gefordert\, darunter mehr Personal\, h
+ öherer Lohn und bezahlte Pausen. Sie startet am 5. Dezember und läuft bi
+ s Frühjahr 2024.
+LOCATION:Tübingen Busbahnhof\, Europaplatz\, Tübingen
+ORGANIZER;CN="Tübingen fährt voraus":mailto:klimatreffen-tuebingen@riseu
+ p.net
+END:VEVENT
 END:VCALENDAR
