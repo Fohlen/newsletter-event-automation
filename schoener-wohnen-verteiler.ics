@@ -1832,4 +1832,19 @@ LOCATION:Tübingen Busbahnhof\, Europaplatz\, Tübingen
 ORGANIZER;CN="Tübingen fährt voraus":mailto:klimatreffen-tuebingen@riseu
  p.net
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clothing Swap Party
+DTSTART:20231210T130000Z
+DTEND:20231210T170000Z
+DTSTAMP:20230710T080000Z
+DTSTAMP:20231204T204017Z
+UID:<c2fcbc457dcdcfb0a641c62b65ac7e1e@riseup.net>
+DESCRIPTION:You can bring 0 to 10 pieces of clothes per person and take as
+  many as you feel like. There will be music and donation based cake and ho
+ t drinks\, so nothing stands in the way of a nice and comfy winterly cloth
+ ing swap. Wether it's for getting new clothes from head to toe\, a browse 
+ or just for the Glühwein: grab your friends\, come along and have a nice 
+ afternoon with us.
+LOCATION:Geissweg 17\, Partykeller
+END:VEVENT
 END:VCALENDAR
