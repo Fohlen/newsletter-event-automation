@@ -1847,4 +1847,52 @@ DESCRIPTION:You can bring 0 to 10 pieces of clothes per person and take as
  afternoon with us.
 LOCATION:Geissweg 17\, Partykeller
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punsch und gebrannte Mandeln Event
+DTSTART:20231210T140000Z
+DTSTAMP:20231110T140000Z
+DTSTAMP:20231205T204126Z
+UID:<bfa2dc979ed12dea3f9cc9512ad6c7dd@riseup.net>
+DESCRIPTION:Kommt vorbei und genießt wahlweise einen gemütlichen Katerta
+ g oder bringt ein Brettspiel mit und habt eine gute Zeit mit euren Kids.
+LOCATION:Münzgasse 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleinkunstabend im Fichtehaus
+DTSTART:20231210T180000Z
+DTEND:20231210T223000Z
+DTSTAMP:20231210T180000Z
+DTSTAMP:20231205T204126Z
+UID:<E1E3AB84-8E0D-42C6-8996-F2AF51AAFBC1@gmx.de>
+DESCRIPTION:Ein großer bunter Abend\, bei dem Menschen aus dem Fichtehaus
+ \, der Nachbarschaft und ganz Tübingen die Gelegenheit bekommen\, etwas v
+ on sich auf der Bühne zu zeigen. Das Programm besteht aus Musik\, Akrobat
+ ik\, Lyrik\, Theater\, Tanz\, Videoclips und Sonstigem. Ab 18:00 gibt es W
+ affeln\, Punsch und Glühwein - ab 18:30 beginnt dann das Programm. Beitr
+ äge bitte an maximiliane.koerber@gmail.com senden\, mit Namen\, Titel und
+  Dauer (nicht länger als 5-10 Minuten).
+LOCATION:Fichtehaus
+ORGANIZER;CN=Jakob:mailto:maximiliane.koerber@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemütliche Sternplatz-Aktion zum Tag der Menschenrechte
+DTSTART:20231210T140000Z
+DTEND:20231210T170000Z
+DTSTAMP:20231205T204126Z
+UID:<65a1e77465785d26c9ad23708d0ea5a1@posteo.de>
+DESCRIPTION:Der derzeit stattfindende Sozialabbau schränkt die Rechte und
+  Unterstützungsleistungen für Menschen in schwierigen Lebenssituationen 
+ weiter ein und wird die Kluft zwischen gut und schlecht verdienenden Arbei
+ ter*innen weiter verschärfen. Gleichzeitig hören wir täglich neue Vorsc
+ hläge\, wie die Rechte geflüchteter Menschen weiter eingeschränkt werde
+ n können und die Diskussion über faktische Abschaffung des Rechts auf As
+ yl ist weiter in vollem Gange.\n\nTrotz und gerade wegen all dieser ernüc
+ hternden Vorgänge möchten wir uns am Tag der Menschenrechte – Sonntag\
+ , den 10.12. - auf dem Sternplatz in Tübingen bei Glühwein\, Gebäck&Co.
+  treffen und einfach nur zu einem gemütlichen Nachmittag zusammen kommen.
+ \n\nWarme Getränke\, Glühwein sowie salziges und süßes Gebäck wird vo
+ rhanden sein und wir freuen uns über alle Menschen\, die mal vorbeischaue
+ n wollen.
+LOCATION:Sternplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
