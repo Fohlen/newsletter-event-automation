@@ -1895,4 +1895,49 @@ DESCRIPTION:Der derzeit stattfindende Sozialabbau schränkt die Rechte und
  n wollen.
 LOCATION:Sternplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kookaburra Live Performance
+DTSTART:20231212T210000Z
+DTEND:20231212T230000Z
+DTSTAMP:20231212T210000Z
+DTSTAMP:20231207T125538Z
+UID:<cd6318b9-7a0b-482e-ac7e-d8f9b3c96fdf@posteo.de>
+DESCRIPTION:Garage/Fuzz/Psych/Post-Punk-Band Kookaburra from Antwerp\, Bel
+ gium will be performing live at the Blauen Salon. Doors open at 21:00\, sh
+ ow starts at 22:00. More info at https://kookaburra1.bandcamp.com/
+LOCATION:Blauen Salon
+URL:https://kookaburra1.bandcamp.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pub-Quiz-Bar at Ludwigstr. 15
+DTSTART:20231207T210000Z
+DTEND:20231208T000000Z
+DTSTAMP:20231207T210000Z
+DTSTAMP:20231207T125538Z
+UID:<E19DCBF2-3731-47CB-893C-3700FBC7385C@lu15.de>
+DESCRIPTION:Join us for a fun Pub-Quiz-Bar night at Ludwigstr. 15. The hou
+ se bar opens at 21:00 and the quiz starts at 21:30.
+LOCATION:Ludwigstr. 15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zum Tag der Menschenrechte
+DTSTART:20231210T200000Z
+DTSTAMP:20231210T200000Z
+DTSTAMP:20231207T125538Z
+UID:<556036867.17396269.1701529716422@mail.yahoo.com>
+CONTACT:Joschi Lerchenmüller\, Club Voltaire\, Haaggasse 26b\, 72070 Tüb
+ ingen
+DESCRIPTION:Der Tübinger Ernst-Bloch-Chor singt für die Menschenrechte u
+ nd für Amnesty International: Lieder für Freiheit\, Lieder für Menschen
+ . Vor 75 Jahren\, am 10. Dezember 1948\, verabschiedete die Generalversamm
+ lung der UNO die Allgemeine Erklärung der Menschenrechte. Zum Geburtstag 
+ gibt es im Club Voltaire um 20 Uhr einen Abend mit Liedern des Bloch-Chors
+ \, literarischen Texten zur Freiheit und zu den Rechten der Menschen und I
+ nformationen zur Menschenrechtsarbeit von Amnesty Tübingen. Der Eintritt 
+ ist frei. Reservierungen sind möglich unter: reservierung@club-voltaire.n
+ et
+LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
+URL:https://club-voltaire.net/v/lieder-fuer-freiheit-lieder-fuer-menschen-
+ der-ernst-bloch-chor-im-club-voltaire
+END:VEVENT
 END:VCALENDAR
