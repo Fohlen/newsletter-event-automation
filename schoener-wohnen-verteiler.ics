@@ -1940,4 +1940,20 @@ LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
 URL:https://club-voltaire.net/v/lieder-fuer-freiheit-lieder-fuer-menschen-
  der-ernst-bloch-chor-im-club-voltaire
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Radfahren Event
+DTSTART:20231215T180000Z
+DTSTAMP:20231215T180000Z
+DTSTAMP:20231211T125529Z
+UID:<trinity-69d19b44-5a2f-4943-afff-05a975e059f3-1702231350053@msvc-mesg-
+ web003>
+DESCRIPTION:Radfahrer in Tübingen aufgepasst! Seid dabei bei unserer Crit
+ ical Mass am Freitag den 15.12! Wir treffen uns um 18:00 Uhr vor der Uni-B
+ ibliothek\, um gemeinsam durch die Straßen zu radeln. Unser Ziel? Der Wei
+ hnachtsmarkt! Lasst uns den Abend mit einem gemütlichen Glühwein ausklin
+ gen lassen. Bringt eure Freunde mit und lasst uns gemeinsam für mehr Fahr
+ radfreundlichkeit in unserer Stadt sorgen! Wir freuen uns! #CriticalMassT
+ übingen #Radfahren #Weihnachtsmarkt #GemeinsamUnterwegs
+LOCATION:Uni-Bibliothek\, Tübingen
+END:VEVENT
 END:VCALENDAR
