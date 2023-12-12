@@ -1975,4 +1975,26 @@ LOCATION:Epplehaus
 URL:https://www.epplehaus.de/event/jahresrueckblick-rechte-aktivitaeten-im
  -kreis-tuebingen/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roasted Almonds and Punch at the Blue Salon
+DTSTART:20230205T170000Z
+DTSTAMP:20230201T080000Z
+DTSTAMP:20231212T125534Z
+UID:<5916863c6dd524bb7a48952812b61f62@riseup.net>
+DESCRIPTION:Join us for more roasted almonds and punch in the Blue Salon! 
+ As an added extra\, there will also be mulled wine from 17:00.
+LOCATION:Blue Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die legendäre finale (S)chill-Out Party
+DTSTART:20231216T203000Z
+DTEND:20231217T003000Z
+DTSTAMP:20231212T125534Z
+UID:<799e4149cd5f92bd8e64a4f6b1bca82c@riseup.net>
+DESCRIPTION:Wir feiern das Ende der Ära Schill und den frischen Wind im S
+ tudierendenwerk. Beginn ist um 20.30 Uhr mit einem Quiz\, danach feiern wi
+ r gemeinsam. Gerne dürft ihr auch in eurem liebsten (S)chill-Outfit komme
+ n!
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
