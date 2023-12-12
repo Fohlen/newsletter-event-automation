@@ -1997,4 +1997,16 @@ DESCRIPTION:Wir feiern das Ende der Ära Schill und den frischen Wind im S
  n!
 LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar & Konzert: Die Ahnungslosen und die Einhörner
+DTSTART:20231213T200000Z
+DTEND:20231214T000000Z
+DTSTAMP:20231213T200000Z
+DTSTAMP:20231212T204026Z
+UID:<CALmYG0M1p9=Y7eDMuPB5bEmc1g=xBtrt1Vkb9e5nPY7aOqrZVg@mail.gmail.com>
+DESCRIPTION:Wir\, die Ahnungslosen\, laden alle Einhörner zur Hausbar und
+  zum Konzert der Indie Band 'Pretty Nice Unicorns' ein! 20 Uhr geht die Ha
+ usbar los\, Konzert irgendwann so ab 21uhr etwa.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
