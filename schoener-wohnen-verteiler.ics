@@ -2009,4 +2009,18 @@ DESCRIPTION:Wir\, die Ahnungslosen\, laden alle Einhörner zur Hausbar und
  usbar los\, Konzert irgendwann so ab 21uhr etwa.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Concert at FRANZ!werk with SPLITTERSICHT and THE WORM REDUCER
+DTSTART:20231216T190000Z
+DTEND:20231216T220000Z
+DTSTAMP:20231216T190000Z
+DTSTAMP:20231214T125446Z
+UID:<trinity-0be731e2-b959-4a52-accb-a79315265c6b-1702461643141@3c-app-gmx
+ -bs25>
+DESCRIPTION:Join us for a night of punk music at FRANZ!werk with performan
+ ces by SPLITTERSICHT and THE WORM REDUCER. Check out their music here: htt
+ ps://splittersicht.bandcamp.com/ https://thewormreducer.bandcamp.com/ Admi
+ ssion is free and a hat will be available.
+LOCATION:FRANZ!werk
+END:VEVENT
 END:VCALENDAR
