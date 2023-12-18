@@ -2023,4 +2023,18 @@ DESCRIPTION:Join us for a night of punk music at FRANZ!werk with performan
  ssion is free and a hat will be available.
 LOCATION:FRANZ!werk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar Event at Hegel7
+DTSTART:20231220T200000Z
+DTEND:20231221T000000Z
+DTSTAMP:20231220T200000Z
+DTSTAMP:20231218T204025Z
+UID:<CC9817F0-F34B-4FDF-866B-AD02C5173B4E@posteo.de>
+DESCRIPTION:Join us for a special winter event at Hegel7. We'll be serving
+  punch\, mulled wine\, and delicious Grünkern soup. Enjoy the sounds of T
+ übingen's freshest Downtempo Radio\, some HipHop Beats\, and a relaxing D
+ J set from 22:00 to 00:00. Grab your friends and escape the Christmas stre
+ ss with us.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
