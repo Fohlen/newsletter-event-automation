@@ -2061,4 +2061,16 @@ DESCRIPTION:Die Verschärfung des "Gemeinsamen Europäischen Asylsytems" (
   im Keller der Schellingstraße 6.
 LOCATION:Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Küfa (Küche für Alle/Essen für Alle) in der Schelling Hausbar/
+ Hof
+DTSTART:20231224T180000Z
+DTSTAMP:20231224T180000Z
+DTSTAMP:20231222T204033Z
+UID:<185ba3d074fdfa3744c47d9f5c453ad9.squirrel@webmail.no-log.org>
+DESCRIPTION:Wer am 24.12. nicht alleine sein will und an diesem Abend Hung
+ er hat\, der komme doch gerne in die Schelling Hausbar/Hof zu unserer Küf
+ a (Küche für Alle/Essen für Alle)\, ab 18 Uhr.
+LOCATION:Schelling Hausbar/Hof
+END:VEVENT
 END:VCALENDAR
