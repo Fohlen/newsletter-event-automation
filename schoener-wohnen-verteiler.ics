@@ -2091,4 +2091,17 @@ DESCRIPTION:Das Format "No one is coming except the waves" - Eine Szenisch
  trettungsorganisationen Sea Watch und MARE*GO ein.
 LOCATION:Linker Laden Trude Lutz in Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOP GEAS! Vortrag und Soli-Hausbar der STOP GEAS BÜNDNIS
+DTSTART:20240110T193000Z
+DTEND:20240110T220000Z
+DTSTAMP:20240104T125242Z
+UID:<GV1P195MB2054CAE8516E5518E45948A2C560A@GV1P195MB2054.EURP195.PROD.OUT
+ LOOK.COM>
+DESCRIPTION:Die Verschärfung des "Gemeinsamen Europäischen Asylsytems" (
+ GEAS) muss gestoppt werden! Vortrag: "Neuerungen am Gemeinsamen Europäisc
+ hen Asylsystem (GEAS)" ein Vortrag der Informationsstelle Militarisierung 
+ (IMI) und Seebrücke Tübingen. Danach ist wie immer Raum für Diskussion.
+LOCATION:Schellingstraße 6\, Tübingen
+END:VEVENT
 END:VCALENDAR
