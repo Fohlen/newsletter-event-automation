@@ -2104,4 +2104,18 @@ DESCRIPTION:Die Verschärfung des "Gemeinsamen Europäischen Asylsytems" (
  (IMI) und Seebrücke Tübingen. Danach ist wie immer Raum für Diskussion.
 LOCATION:Schellingstraße 6\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausschreitung and Rampage Kids Concert
+DTSTART:20240308T190000Z
+DTSTAMP:20240208T080000Z
+DTSTAMP:20240105T204040Z
+UID:<trinity-bdbc8c85-aa07-4f69-a2f2-81c67d838dde-1704380998352@3c-app-web
+ de-bap25>
+DESCRIPTION:Ausschreitung (Antifa Punk\, Dresden) and Rampage Kids (Punk\,
+  Reutlingen) are looking for a venue in the Reutlingen/Tübingen area. The
+ y play for drinks and are super nice people. If anyone is interested in pr
+ oviding a stage\, be it a bar/concert room/home bar or similar\, please le
+ t them know they would be mega happy!
+LOCATION:Reutlingen/Tübingen
+END:VEVENT
 END:VCALENDAR
