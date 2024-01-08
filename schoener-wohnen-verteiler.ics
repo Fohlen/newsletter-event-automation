@@ -2118,4 +2118,25 @@ DESCRIPTION:Ausschreitung (Antifa Punk\, Dresden) and Rampage Kids (Punk\,
  t them know they would be mega happy!
 LOCATION:Reutlingen/Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Antikapitalistisches Klimatreffen
+DTSTART:20240111T190000Z
+DTEND:20240111T210000Z
+DTSTAMP:20240111T190000Z
+DTSTAMP:20240108T125426Z
+UID:<b8b28343-aaad-47a6-a8c2-585223b14e1c@riseup.net>
+DESCRIPTION:Herzliche Einladung zum nächsten offenen antikapitalistischen
+  Klimatreffen. Aktiv werden für Klimagerechtigkeit!
+LOCATION:Linken Laden Trude Lutz\, Münzgasse 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newcomer-Konzert: No Name Until Fame\, UNDERSCORE\, All Thats Left
+DTSTAMP:20240108T125426Z
+UID:<785532979.13840450.1704640920248@mail.yahoo.com>
+DESCRIPTION:Der Club Voltaire präsentiert in Kooperation mit dem Ract!fes
+ tival ein Newcomer-Konzert mit drei jungen Bands: No Name Until Fame\, UND
+ ERSCORE und All Thats Left. Einlass ab 19.30h auf Spendenbasis zugunsten d
+ es nächsten Ract!festivals. Nach dem Konzert: Party im Fichtehaus!
+LOCATION:Club Voltaire\, Haaggasse 26b\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
