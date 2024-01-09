@@ -2139,4 +2139,18 @@ DESCRIPTION:Der Club Voltaire präsentiert in Kooperation mit dem Ract!fes
  es nächsten Ract!festivals. Nach dem Konzert: Party im Fichtehaus!
 LOCATION:Club Voltaire\, Haaggasse 26b\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Überraschungsfilm über Verschwörungsglauben mit Glühwein
+DTSTART:20240111T190000Z
+DTEND:20240111T220000Z
+DTSTAMP:20240109T125858Z
+UID:<1e17b09f0b0c9a2fe9c9238b1f38ff40@mtmedia.org>
+DESCRIPTION:Wir starten gemütlich ins neue Jahr. In Wohnzimmer-Athmosphä
+ re zeigen wir am 11. Januar ab 19 Uhr im Epplehaus einen witzigen Überras
+ chungs-Film über Verschwörungsglauben und Esoterik. Der Stil nennt sich 
+ Mockumentary\, also eine Mischung aus Dokumentation und Verarschung. Dazu 
+ gibt es Glühwein. Wer also Lust auf einen netten Filmabend hat\, ist herz
+ lich eingeladen. Wir freuen uns auf Dich!
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
