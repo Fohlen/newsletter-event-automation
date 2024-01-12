@@ -2153,4 +2153,19 @@ DESCRIPTION:Wir starten gemütlich ins neue Jahr. In Wohnzimmer-Athmosphä
  lich eingeladen. Wir freuen uns auf Dich!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypergalaktische Tanzwelle Vol. II
+DTSTART:20240119T000000Z
+DTSTAMP:20240119T000000Z
+DTSTAMP:20240112T125348Z
+UID:<ebbd8adb74a9ff22388d92dacbb61ea9@mtmedia.org>
+DESCRIPTION:Einige Mitglieder der Kollektive von SK-lativ\, FAK Tue und Ta
+ rtaros haben sich zusammengefunden\, um ein weiteres Projekt ins Leben zu 
+ rufen: Das Psyience Fiction Kollektiv. Wir stehen noch am Anfang unserer E
+ ntwicklung\, aber wollen schon bald Tübingen und das gesamte Umland psyif
+ izieren \;-)
+LOCATION:Null8 15\, Tübingen
+URL:https://www.goabase.net/de/party/hypergalaktische-tanzwelle-vol-ii/111
+ 997
+END:VEVENT
 END:VCALENDAR
