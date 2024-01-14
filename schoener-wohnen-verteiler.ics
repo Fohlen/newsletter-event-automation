@@ -2168,4 +2168,18 @@ LOCATION:Null8 15\, Tübingen
 URL:https://www.goabase.net/de/party/hypergalaktische-tanzwelle-vol-ii/111
  997
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert with Volcano Garden\, GCU\, and Monsterpunk
+DTSTART:20240127T213000Z
+DTEND:20240128T000000Z
+DTSTAMP:20240114T125107Z
+UID:<trinity-6cf2dcaa-6d38-42bb-996a-ded9f86a29dd-1705151815844@3c-app-web
+ de-bap30>
+DESCRIPTION:Join us for a special highlight in the new year: an explosive 
+ mix of Heavy Rock\, Hardcore and Post Depressive Noise Punk from the regio
+ n! The bands that await you: Volcano Garden from Herrenberg\, GCU from Kir
+ chheim Teck playing antifascist hardcore\, and Monsterpunk from Freiburg: 
+ Heavy Rock meets Anarcho Punk.
+LOCATION:Pfleghofstraße 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
