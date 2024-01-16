@@ -2236,4 +2236,33 @@ DESCRIPTION:Marc Amann (www.marcamann.net) zeigt Fotos und Videos von insp
  t erforderlich.
 LOCATION:Schlatterhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahnwache gegen GEAS
+DTSTART:20240117T180000Z
+DTEND:20240117T200000Z
+DTSTAMP:20240117T180000Z
+DTSTAMP:20240116T204056Z
+UID:<trinity-e220c0bf-5d14-43ae-8cd9-3d3d8890f978-1705410578454@3c-app-web
+ de-bs24>
+DESCRIPTION:On Wednesday 17.01.2024 at 6 pm the vigil will take place on t
+ he Holzmarkt in Tübingen. This week it will be organized by Gemeinsam Kä
+ mpfen Tübingen. We would like to stand together against the massive tight
+ ening of asylum law and against human rights violations\, push & pull back
+ s\, racism and violence\, which are to become the norm through the de fact
+ o abolition of the basic right to asylum! Come along\, mobilize your commu
+ nity! Afterwards there will an open meeting at 8 p.m. Schellingstrasse 6 I
+ nstagram: @stopgeas_tübingen
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Meeting after Mahnwache gegen GEAS
+DTSTART:20240117T200000Z
+DTSTAMP:20240117T200000Z
+DTSTAMP:20240116T204056Z
+UID:<trinity-e220c0bf-5d14-43ae-8cd9-3d3d8890f978-1705410578454@3c-app-web
+ de-bs24>
+DESCRIPTION:Open meeting after the vigil against GEAS. Come along\, mobili
+ ze your community! Instagram: @stopgeas_tübingen
+LOCATION:Schellingstrasse 6\, Tübingen
+END:VEVENT
 END:VCALENDAR
