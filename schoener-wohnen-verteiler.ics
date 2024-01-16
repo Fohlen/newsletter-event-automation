@@ -2182,4 +2182,58 @@ DESCRIPTION:Join us for a special highlight in the new year: an explosive
  Heavy Rock meets Anarcho Punk.
 LOCATION:Pfleghofstraße 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar Event
+DTSTART:20240117T200000Z
+DTEND:20240118T000000Z
+DTSTAMP:20240117T200000Z
+DTSTAMP:20240116T125520Z
+UID:<075e9ae0-e29c-4d6d-92d7-aacc024ca1f3@web.de>
+DESCRIPTION:Gute Gesellschaft\, schöne Musik\, Getränke so kalt wie der 
+ Anlagensee (und vielleicht ja auch die ein oder andere Tasse flüßiger W
+ ärme) findest du in der Schelling. Es freuen sich auf dich und alle deine
+  Freund*innen Warmis und Bios.
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfleghof Jam Sessions
+DTSTART:20240118T210000Z
+DTEND:20240119T010000Z
+DTSTAMP:20240118T210000Z
+DTSTAMP:20240116T125520Z
+UID:<AS8P194MB1544136E760E1602436D07B1BD6C2@AS8P194MB1544.EURP194.PROD.OUT
+ LOOK.COM>
+DESCRIPTION:The Pfleghof jam sessions are back! Join a night of live music
+ . We're looking to cultivate an open space for musicians at all levels to 
+ have fun\, connect via tunes and make music together. Make sure to join th
+ e Whatsapp Group\, it's the main channel where we communicate the events s
+ chedule: https://chat.whatsapp.com/EBaH1btwGNqF6DI1ourahX. Also\, we're co
+ llecting money to buy new equipment - feel free to support us. Bring your 
+ instruments of choice\, amplifiers\, your voice or just join as part of th
+ e audience. Musicians of all levels are welcome to hop on stage!
+LOCATION:Pfleghofstr. 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donation Drive at Münze 13
+DTSTART:20240116T080000Z
+DTSTAMP:20240116T080000Z
+DTSTAMP:20240116T125520Z
+UID:<35e5f12d502b1524810bbcea50fb3de8@riseup.net>
+DESCRIPTION:We are calling for donations of blankets\, sleeping bags\, or 
+ mats. A box will be placed in front of the gift shelf where you can drop o
+ ff your donations.
+LOCATION:Münze 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag mit Marc Amann über Widerstandsformen
+DTSTART:20240121T150000Z
+DTEND:20240121T163000Z
+DTSTAMP:20240116T125520Z
+UID:<158d5623ff6bd8df8e01888e3337ed00@posteo.de>
+DESCRIPTION:Marc Amann (www.marcamann.net) zeigt Fotos und Videos von insp
+ irierenden kreativ-künstlerischen politischen Aktionen und bietet dazu Th
+ esen zur Diskussion an. Der Vortrag ist kostenlos. Eine Anmeldung ist nich
+ t erforderlich.
+LOCATION:Schlatterhaus
+END:VEVENT
 END:VCALENDAR
