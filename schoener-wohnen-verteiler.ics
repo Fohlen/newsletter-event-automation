@@ -2265,4 +2265,19 @@ DESCRIPTION:Open meeting after the vigil against GEAS. Come along\, mobili
  ze your community! Instagram: @stopgeas_tübingen
 LOCATION:Schellingstrasse 6\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basisdemokratische Singgruppe
+DTSTART:20240109T183000Z
+DTSTAMP:20240109T183000Z
+DTSTAMP:20240119T125359Z
+UID:<b3e3dcf3966fb7048d09df3ea4b1fc8b.squirrel@webmail.no-log.org>
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:Singen macht Spaß\, aber nervige Texte und zu hohe Ansprüche
+  verderben diesen Spaß oft. Die Idee ist eine basisdemokratische Singgrup
+ pe\, die vor allem zum Spaß singt und nicht für irgendwelche Vorführung
+ en. Wir treffen uns jeden Dienstag um 18:30 Uhr in der Hausbar der Schelli
+ ngstraße 6. All genders welcome.
+LOCATION:Hausbar der Schellingstraße 6\, Vorderhaus an der Straße\, Kell
+ er\, rechts Flur entlang\, dann links der Raum
+END:VEVENT
 END:VCALENDAR
