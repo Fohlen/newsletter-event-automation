@@ -2280,4 +2280,18 @@ DESCRIPTION:Singen macht Spaß\, aber nervige Texte und zu hohe Ansprüche
 LOCATION:Hausbar der Schellingstraße 6\, Vorderhaus an der Straße\, Kell
  er\, rechts Flur entlang\, dann links der Raum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stage Bottles Concert
+DTSTAMP:20240122T204041Z
+UID:<e0a2a313-8591-4e1f-8c99-f1e0b7ee4832@posteo.de>
+DESCRIPTION:The Stage Bottles\, founded in 1993 from a close circle of fri
+ ends in the anti-fascist skinhead scene\, will be performing. The saxophon
+ e characterizes the classic melodic-aggressive punk rock\, which is strong
+ ly oriented towards classic English models. The focus is clearly on the de
+ mand for active anti-fascism and a socially critical and anti-capitalist a
+ ttitude. A pronounced affinity for football and subcultural topics is expr
+ essed in a way that is often unconventional and very open even for punk ro
+ ck. More info at: https://stagebottles.bandcamp.com/album/fair-enough
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
