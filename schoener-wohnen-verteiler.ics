@@ -2294,4 +2294,63 @@ DESCRIPTION:The Stage Bottles\, founded in 1993 from a close circle of fri
  ck. More info at: https://stagebottles.bandcamp.com/album/fair-enough
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GEAS Vigil
+DTSTART:20240124T180000Z
+DTEND:20240124T200000Z
+DTSTAMP:20240124T180000Z
+DTSTAMP:20240123T125730Z
+UID:<trinity-a84ade7b-fbac-4617-91b6-935a11d13c35-1705923965782@3c-app-web
+ de-bap40>
+DESCRIPTION:On Wednesday 24.01.2024 at 6 pm the vigil will take place on t
+ he Holzmarkt in Tübingen. This week it will be organized by Hochschulgrup
+ pe Amnesty International Tübingen. We would like to stand together agains
+ t the massive tightening of asylum law and against human rights violations
+ \, push & pull backs\, racism and violence\, which are to become the norm 
+ through the de facto abolition of the basic right to asylum! Come along\, 
+ mobilize your community! Instagram: @stopgeas_tübingen
+LOCATION:Holzmarkt\, Tübingen
+URL;VALUE=URI:https://www.instagram.com/stopgeas_tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAU Kneipenabend
+DTSTART:20240129T200000Z
+DTSTAMP:20240129T200000Z
+DTSTAMP:20240123T125730Z
+UID:<b4b11f5e2e2648c326c6e89672206e7c.squirrel@webmail.no-log.org>
+DESCRIPTION:Die basisdemokratische Gewerkschaft Freie Arbeiter*innen Union
+  läd zum gemütlichen und zwanglosen Treffen und Quatschen ein\, aber auc
+ h Probleme mit der Lohnarbeit\, den Ämtern oder der Miete können hier be
+ sprochen und ausgetauscht werden.
+LOCATION:Trinkstube CT\, Georgenstraße 1\, Tübinger Weststadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch im Umweltzentrum
+DTSTART:20240101T110000Z
+DTEND:20240101T140000Z
+DTSTAMP:20240101T000000Z
+DTSTAMP:20240123T125730Z
+UID:<CA+gn2JBTdj0wZK40aMjyQq-8t6md8J3Z5vHrQA3HyHZPMfWR2g@mail.gmail.com>
+DESCRIPTION:Hast Du auch Kleidungsstücke\, die zwar noch schön sind\, di
+ e Du aber nicht mehr anziehst? Und das schon seit mehreren Saisons? Dann w
+ ird es Zeit für einen Wechsel! Bring sie gewaschen und gefaltet einfach a
+ m Samstag ins UWZ mit und tausche sie gegen etwas anderes ein oder nimm ei
+ nfach etwas mit! Kommt vorbei. Macht mit. Wir freuen uns!
+LOCATION:Umweltzentrum Tübingen e.V.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zusammenkommen in der Schelling-Hausbar
+DTSTART:20240101T200000Z
+DTSTAMP:20240101T000000Z
+DTSTAMP:20240123T125730Z
+UID:<d5b183f117360094030fa292dab80483@mtmedia.org>
+DESCRIPTION:Herzliche Einladung\, morgen (Mittwoch) ab 20 Uhr in der Schel
+ ling-Hausbar zusammenzukommen! Neben den üblichen Getränken gibt es eine
+ n heißen Überraschungscocktail und die Möglichkeit\, individuelle Soli-
+ T-Shirts zu bebügeln oder zu erspenden! Bringt gern auch eigene Baumwoll-
+ T-Shirts mit. Wir freuen uns auf euch!
+LOCATION:Schelling-Hausbar
+ORGANIZER;CN=Ingrid," Simon"," Franzi"," Eve"," Steffi":mailto:example@exa
+ mple.com
+END:VEVENT
 END:VCALENDAR
