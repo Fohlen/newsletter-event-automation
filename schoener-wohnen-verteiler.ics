@@ -2353,4 +2353,15 @@ LOCATION:Schelling-Hausbar
 ORGANIZER;CN=Ingrid," Simon"," Franzi"," Eve"," Steffi":mailto:example@exa
  mple.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bio-Kartoffeln und Gemüse Abholung
+DTSTAMP:20240123T204037Z
+UID:<ec047bf9-8c83-4075-9b80-55a635f11e94@frooki.de>
+DESCRIPTION:Abholung und Bezahlung der Bio-Kartoffeln und Gemüse vom Hof 
+ der Gemeinschaft Sonnenwald. Bitte bringt einen eigenen Beutel/Tasche für
+  die Abholung des Gemüses mit. Wir laden euch herzlich ein in diesem Rahm
+ en miteinander Eintopf zu essen und ins Gespräch zu kommen.
+LOCATION:4-Häuser-Projekt\, Hechinger Staße 46\, 72072 Tübingen
+URL:https://eckladen.org/
+END:VEVENT
 END:VCALENDAR
