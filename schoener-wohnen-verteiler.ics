@@ -2364,4 +2364,24 @@ DESCRIPTION:Abholung und Bezahlung der Bio-Kartoffeln und Gemüse vom Hof
 LOCATION:4-Häuser-Projekt\, Hechinger Staße 46\, 72072 Tübingen
 URL:https://eckladen.org/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung "Wir sind die Brandmauer"
+DTSTART:20240127T140000Z
+DTSTAMP:20240127T140000Z
+DTSTAMP:20240125T125520Z
+UID:<6966E2D3-B5EC-4554-904C-E20BAB3E7DF0@posteo.de>
+DESCRIPTION:Kundgebung gegen den Rechtsruck in der Gesellschaft. Es wird e
+ ine Menschenkette um das Rathaus und verschiedene Redebeiträge geben. All
+ e Bündnisse\, Vereine\, Parteien und Privatpersonen sind aufgerufen\, sic
+ h der Demonstration anzuschließen.
+LOCATION:Marktplatz\, Tübingen\, Germany
+URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_Pla
+ kat_A4_farbe.pdf
+URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_Pla
+ kat_A4_logos_farbe.pdf
+URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_Pla
+ kat_A4_schwarz_weiss.pdf
+URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_sha
+ repic_2.jpg
+END:VEVENT
 END:VCALENDAR
