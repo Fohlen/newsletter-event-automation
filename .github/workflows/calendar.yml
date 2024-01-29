@@ -11,7 +11,7 @@ jobs:
       # added or changed files to the repository.
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install mpop
         run: sudo apt-get install -y mpop
       - name: Configure mpop
@@ -23,7 +23,7 @@ jobs:
       - name: Run mpop
         run: mpop
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
@@ -37,6 +37,6 @@ jobs:
         run: python3 -m newsletter_automation
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: '*.ics'
