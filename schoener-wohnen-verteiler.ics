@@ -2381,4 +2381,26 @@ URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_Pla
 URL;VALUE=URI:https://fridaysforfuturetuebingen.de/download/Brandmauer_sha
  repic_2.jpg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infostand zu "Tübingen fährt voraus"
+DTSTART:20240208T160000Z
+DTSTAMP:20240208T160000Z
+DTSTAMP:20240129T205357Z
+UID:<2fc20957-417b-4da9-a199-5f42dc441549@riseup.net>
+DESCRIPTION:Die Busse kommen zu spät oder fallen wegen Personalmangel aus
+  und jetzt wurden auch noch die Ticketpreise um 11% erhöht? So wird das w
+ ohl nichts mit der Verkehrswende! Wenn dich das auch ärgert\, werd mit un
+ s aktiv für sozial- und klimagerechten ÖPNV. Als Bündnis “Tübingen f
+ ährt voraus” wehren wir uns gegen die hohen Ticketpreise und fordern ei
+ n dauerhaftes\, günstiges Deutschlandticket. Außerdem beschäftigen wir 
+ uns damit\, wie wir ein Recht auf Mobilität für alle + bessere Arbeitsbe
+ dingungen für die Tübinger Busfahrer*innen konkret erreichen können. Am
+  8. Februar um 16 Uhr sind wir deshalb am Tübinger Hauptbahnhof\, um mit 
+ Menschen ins Gespräch zu kommen. Du hast Fragen\, möchtest dich einbring
+ en oder einfach nur die Petition unterschreiben? Dann komm gerne vorbei! D
+ u hast keine Zeit? Kein Problem! Die Petition zu unterschreiben geht ganz 
+ schnell. www.openpetition.de/!rltfw
+LOCATION:Tübinger Hauptbahnhof
+URL:www.openpetition.de/!rltfw
+END:VEVENT
 END:VCALENDAR
