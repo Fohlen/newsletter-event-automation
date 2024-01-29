@@ -20,6 +20,7 @@ def merge_calendars(
     for calendar in calendars:
         for event in calendar.walk("VEVENT"):
             event.add("DTSTAMP", datetime.datetime.now())
+            event.pop("RRULE")
 
             if event.get("uid") not in message_ids:
                 output.add_component(event)
