@@ -1029,7 +1029,6 @@ DTEND:20230206T183000Z
 DTSTAMP:20230201T080000Z
 DTSTAMP:20231019T125816Z
 UID:<e1d6f146c3bf306590be7ebc5ef2266a@posteo.de>
-RRULE:FREQ=WEEKLY;BYDAY=MO
 DESCRIPTION:Join us for a basic Ashtanga Yoga class. For updates\, join ou
  r Telegram group: https://t.me/+fWLpRaS_jvgyM2E0
 LOCATION:Fichtehaus\, Tübingen
@@ -1094,7 +1093,6 @@ DTEND:20231020T170000Z
 DTSTAMP:20231020T140000Z
 DTSTAMP:20231020T125417Z
 UID:<8b6d6ce9-4bd2-282f-83b6-1ec9e5560172@boden-web.de>
-RRULE:FREQ=DAILY;UNTIL=20231022T170000Z
 DESCRIPTION:Wohnt da tatsächlich niemand? Woran ist Leerstand zu erkennen
  ? Wie wird Leerstand vertuscht? Wie dekorativ sind Vorhänge\, verbeulte B
  riefkästen\, verblichene Klingelschilder und bröselnde Fassade? Wer stop
@@ -2271,7 +2269,6 @@ DTSTART:20240109T183000Z
 DTSTAMP:20240109T183000Z
 DTSTAMP:20240119T125359Z
 UID:<b3e3dcf3966fb7048d09df3ea4b1fc8b.squirrel@webmail.no-log.org>
-RRULE:FREQ=WEEKLY;BYDAY=TU
 DESCRIPTION:Singen macht Spaß\, aber nervige Texte und zu hohe Ansprüche
   verderben diesen Spaß oft. Die Idee ist eine basisdemokratische Singgrup
  pe\, die vor allem zum Spaß singt und nicht für irgendwelche Vorführung
