@@ -2403,4 +2403,25 @@ DESCRIPTION:Die Busse kommen zu spät oder fallen wegen Personalmangel aus
 LOCATION:Tübinger Hauptbahnhof
 URL:www.openpetition.de/!rltfw
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahnwache organized by Ende Gelände Tübingen
+DTSTART:20240131T180000Z
+DTEND:20240131T200000Z
+DTSTAMP:20240131T180000Z
+DTSTAMP:20240130T204042Z
+UID:<trinity-9e45d596-4a25-4d24-a7ef-0df79ea11a7e-1706644464080@3c-app-web
+ de-bap04>
+DESCRIPTION:On Wednesday 31.01.2024 at 6 pm the vigil will take place on t
+ he Holzmarkt in Tübingen. This week it will be organized by Ende Gelände
+  Tübingen. We would like to stand together against the massive tightening
+  of asylum law and against human rights violations\, push & pull backs\, r
+ acism and violence\, which are to become the norm through the de facto abo
+ lition of the basic right to asylum! Come along\, mobilize your community!
+  Instagram: @stopgeas_tuebingen #stopgeas #stopceas #refugeeswelcome #seen
+ otrettungistkeinverbrechen #bleiberechtfüralle #freedomofmovement #people
+ onthemove #keinmenschistillegal #asylistkeinekrise #solidarität #solidari
+ ty #tübingen #menschenrechte #humanrights #asylumisnotacrisis #gegenrecht
+ s #brandmauer
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
 END:VCALENDAR
