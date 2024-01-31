@@ -2424,4 +2424,16 @@ DESCRIPTION:On Wednesday 31.01.2024 at 6 pm the vigil will take place on t
  s #brandmauer
 LOCATION:Holzmarkt\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar in der Schelling
+DTSTART:20240219T200000Z
+DTSTAMP:20240219T080000Z
+DTSTAMP:20240131T124927Z
+UID:<trinity-321153bf-ce0a-429d-bd1c-9452fc23f704-1706648337166@msvc-mesg-
+ web001>
+DESCRIPTION:Kommt rum\, wir feiern Geburtstag und ihr seit eingeladen. Die
+ ses Mal ist rauchen auch in der Hausbar erlaubt. Alles wie immer: Musik\, 
+ Tischkicker und Getränke\, kommt vorbei und habt Spaß.
+LOCATION:Hausbar in der Schelling
+END:VEVENT
 END:VCALENDAR
