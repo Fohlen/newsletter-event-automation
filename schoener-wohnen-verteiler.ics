@@ -2436,4 +2436,43 @@ DESCRIPTION:Kommt rum\, wir feiern Geburtstag und ihr seit eingeladen. Die
  Tischkicker und Getränke\, kommt vorbei und habt Spaß.
 LOCATION:Hausbar in der Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Cybervalley in den Medien: Von Eigendarstellung bis unkritisch
+ er Werbung
+DTSTAMP:20240208T124946Z
+UID:<2a52475360d4b4d83d20325460e87bbe@mtmedia.org>
+DESCRIPTION:Künstliche Intelligenz wird immer mehr zum Thema\, die Anwend
+ ungsbereiche wachsen und damit auch die Auswirkungen auf Mensch und Gesell
+ schaft. Gleichzeitig sind die Mitgestaltungsmöglichkeiten gering und das 
+ Wissen darüber\, wie KI funktioniert\, rar. KI wird weitgehend von wenige
+ n kapitalistischen Großkonzernen beherrscht. Das will das Cyber Valley be
+ i Stuttgart/Tübingen mit seiner Initiative zur Förderung der Zusammenarb
+ eit zwischen öffentlicher Forschung und Industrie seit 2016 besser machen
+ . Welche Vorstellung wird dabei von den Akteur*innen des Cyber Valley verf
+ olgt? Wie geht die regionale Presse mit dem Thema Cyber Valley um und welc
+ hes Wissen wird dabei produziert? Mit Hilfe der Kritischen Diskursanalyse 
+ wurden in einer Forschungsarbeit Antworten auf diese und weitere Fragen ge
+ sucht. Nach dem Vortrag ist Zeit für Fragen und es besteht die Möglichke
+ it\, die dem Vortrag zugrundeliegende Forschungsarbeit kostenlos als PDF-D
+ atei für den privaten Gebrauch zu erhalten. Referent: Leo Rheinsberg. Die
+  Veranstaltung findet in Kooperation mit der Rosa-Luxemburg-Stiftung BW st
+ att.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cozy Evening Concert with "La Otra Vez" Quartet
+DTSTART:20240210T190000Z
+DTSTAMP:20240210T190000Z
+DTSTAMP:20240208T124946Z
+UID:<676FB637-41FF-44A3-9EFB-D65214D814F3@gmail.com>
+DESCRIPTION:"La Otra Vez" quartet offers you a program from the inexhausti
+ ble repertoire of melodic songs from South America. Let yourself be carrie
+ d away by these sweet and melancholic melodies\, like a peaceful boat on a
+  sunny\, distant sea. Viola\, guitar: Fernando Giunta. Accordion\, guitar\
+ , cavaquinho: Higor Rosa. Percussion: Takara Baumbach. Cello: Olivier Gemi
+ n. Admission based on donations. There will be a bar with drinks. At the e
+ nd of the concert we can make ourselves comfortable and continue jamming a
+ coustically.
+LOCATION:Fichtehaus Saal
+END:VEVENT
 END:VCALENDAR
