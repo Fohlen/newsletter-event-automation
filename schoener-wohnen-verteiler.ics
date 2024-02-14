@@ -2475,4 +2475,19 @@ DESCRIPTION:"La Otra Vez" quartet offers you a program from the inexhausti
  coustically.
 LOCATION:Fichtehaus Saal
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von Prometheus Groove Collective
+DTSTAMP:20240214T124941Z
+UID:<CAKhJ_-_okbG3Tr9zeAZGYza=xOyEzzhpXWOsr=VoFe9QjP4yoA@mail.gmail.com>
+CATEGORIES:Concert
+DESCRIPTION:Das Prometheus Groove Collective ist ein Experimental Jazz Out
+ fit aus Tübingen. Mit Einflüssen aus Soul\, Funk\, HipHop\, Psychedelic 
+ Rock\, und Post Punk spielen sie Eigenkompositionen\, die ein tanzbares Fu
+ ndament mit liebevollen Melodien und ausgedehnten Improvisatioen verbinden
+ . Nach und vor der Konzert bringen U -funk\, Zu ckerstück&Säurebad \, Fl
+ es\, Dj.em\, RudiRu\, Syncope\, Flimmer Wirrwarr aka. Schwarzkopf Anarchi)
+ \, HakkeberryFynn\, und noch friends... noch geile tunes. (Jazz\, House\, 
+ Funk\, Hiphop\, Jungle\, Breaks\, Techno)
+LOCATION:Lichti\, Schwabstr.6
+END:VEVENT
 END:VCALENDAR
