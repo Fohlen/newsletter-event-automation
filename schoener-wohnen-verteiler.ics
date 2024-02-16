@@ -2502,4 +2502,22 @@ DESCRIPTION:Zuhörende Zahlen-Zonis\, raus aus der Komfort-Zone\, hin zu Z
  J Action mit Red Ford & Co. More info at https://zonesix.bandcamp.com/
 LOCATION:Blauen Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Besuch der Ausstellung "Innenwelten - Sigmund Freud und die Kunst"
+DTSTART:20240229T144500Z
+DTEND:20240229T190000Z
+DTSTAMP:20240229T144500Z
+DTSTAMP:20240216T204048Z
+UID:<D6EE9B28-35E7-4879-9AB0-9A5EA54AA7FC@arbeitslosentreff.de>
+DESCRIPTION:Wir vom Tübinger Arbeitslosen-Treff (TAT) e.V. laden alle ein
+ \, die eine KBC oder KBC extra haben\, zu einem Ausflug in die Kunsthalle 
+ zur Ausstellung "Innenwelten - Sigmund Freud und die Kunst". Treffpunkt is
+ t am TAT (Neckarhalde 40) um 14:45 Uhr. Von dort aus gehen wir gemeinsam z
+ um Hauptbahnhof und nehmen den Bus um 15:15 Uhr in Richtung Kunsthalle. Di
+ e Kunsthalle hat an diesem Tag bis 19 Uhr geöffnet. Der TAT übernimmt de
+ n Eintritt. Bitte melden Sie sich bis zum 28.02.24 an\, da wir nur ein Bud
+ get für 10 Personen haben.
+LOCATION:TAT\, Neckarhalde 40
+ORGANIZER;CN="Fabian Everding und Celina Streb":mailto:info@tat.de
+END:VEVENT
 END:VCALENDAR
