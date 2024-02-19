@@ -2520,4 +2520,32 @@ DESCRIPTION:Wir vom Tübinger Arbeitslosen-Treff (TAT) e.V. laden alle ein
 LOCATION:TAT\, Neckarhalde 40
 ORGANIZER;CN="Fabian Everding und Celina Streb":mailto:info@tat.de
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M7 Hip-Hop Hausbar
+DTSTART:20240401T200000Z
+DTSTAMP:20240401T080000Z
+DTSTAMP:20240219T204041Z
+UID:<AS2P189MB2469743EB3964E37E96DB623E0522@AS2P189MB2469.EURP189.PROD.OUT
+ LOOK.COM>
+DESCRIPTION:Join us for a night of beats\, cuts\, lyrical masterpieces\, a
+ nd smooth Hip-Hop at Münze 7. The event will start with old school Hip-Ho
+ p from DJ.Em & DonnoD\, followed by M!TCH XIII & naiyaah's self-produced b
+ eats. The night will end with Kimtrails' world of Trap Queens. Profits wil
+ l be donated to STOP GEAS and humanitarian aid for Palestine. No tolerance
+  for racism\, sexism\, transphobia\, and all other discriminating behavior
+ .
+LOCATION:Münze 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antikapitalistisches Klimatreffen
+DTSTART:20240222T190000Z
+DTEND:20240222T210000Z
+DTSTAMP:20240222T190000Z
+DTSTAMP:20240219T204041Z
+UID:<fd03bcc0-eac8-40b0-86a1-bd10b1c8c63a@riseup.net>
+DESCRIPTION:Wir beim Antikapitalistischen Klimatreffen kämpfen gegen dies
+ e Gesellschaftsordnung des Wachstumszwangs\, in der unsere Lebensgrundlage
+ n immer weiter zerstört werden.
+LOCATION:Münzgasse 4
+END:VEVENT
 END:VCALENDAR
