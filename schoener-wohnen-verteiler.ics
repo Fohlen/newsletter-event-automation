@@ -2564,4 +2564,41 @@ DESCRIPTION:Lust auf Backstreet Boys\, Queen\, Blink 182 oder Bloodhound G
  ger Spendenbasis.
 LOCATION:Pfleghofstraße 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Besuch der Ausstellung "Innenwelten - Sigmund Freud und die Kunst"
+DTSTART:20240229T144500Z
+DTEND:20240229T190000Z
+DTSTAMP:20240216T161300Z
+DTSTAMP:20240226T204054Z
+UID:<90dbb678-41c6-41fa-a9ba-f3165fefb6f7@arbeitslosentreff.de>
+DESCRIPTION:Wir vom Tübinger Arbeitslosen-Treff (TAT) e.V. laden alle ein
+ \, die eine KBC oder KBC extra haben\, zum Ausflug in die Kunsthalle. Tref
+ fpunkt ist am TAT (Neckarhalde 40) um 14:45 Uhr. Von dort aus laufen wir g
+ emeinsam zum Hauptbahnhof und nehmen den Bus um 15:15 Uhr in Richtung Kuns
+ thalle. Der TAT übernimmt den Eintritt. Bitte bis zum 28.02.24 Bescheid g
+ eben\, wenn Sie mitkommen möchten.
+LOCATION:TAT (Neckarhalde 40)
+ORGANIZER;CN="Celina Streb & Fabian Everding":mailto:mail@arbeitslosentref
+ f.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil against the tightening of the Common European Asylum System
+DTSTART:20240228T190000Z
+DTEND:20240228T210000Z
+DTSTAMP:20240228T190000Z
+DTSTAMP:20240226T204054Z
+UID:<trinity-ea166c8b-9094-415a-afb1-705a007b1120-1708940547577@3c-app-web
+ de-bs21>
+DESCRIPTION:On Wednesday 28.02.2024 at 7 pm the vigil will take place Stat
+ ion forecourt in Tübingen. This week it will be organized by Seebrücke T
+ übingen. We would like to stand together against the massive tightening o
+ f asylum law and against human rights violations\, push & pull backs\, rac
+ ism and violence\, which are to become the norm through the de facto aboli
+ tion of the basic right to asylum! Come along\, mobilize your community! I
+ nstagram: @stopgeas_tübingen  #stopgeas #stopceas #refugeeswelcome #seeno
+ trettungistkeinverbrechen #bleiberechtfüralle #freedomofmovement #peopleo
+ nthemove #keinmenschistillegal #asylistkeinekrise #solidarität #solidarit
+ y #tübingen #menschenrechte #humanrights #asylumisnotacrisis
+LOCATION:Station forecourt\, Tübingen
+END:VEVENT
 END:VCALENDAR
