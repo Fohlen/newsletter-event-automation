@@ -2601,4 +2601,15 @@ DESCRIPTION:On Wednesday 28.02.2024 at 7 pm the vigil will take place Stat
  y #tübingen #menschenrechte #humanrights #asylumisnotacrisis
 LOCATION:Station forecourt\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schelling-Hausbar Event
+DTSTART:20240224T200000Z
+DTSTAMP:20240224T080000Z
+DTSTAMP:20240227T204033Z
+UID:<trinity-14ec4323-2f92-408b-a789-6acba4adea3f-1709053872913@3c-app-web
+ de-bap27>
+DESCRIPTION:Schelling-Hausbar öffnet wieder für euch. Es gibt Chili-sin-
+ carne.
+LOCATION:Schelling-Hausbar
+END:VEVENT
 END:VCALENDAR
