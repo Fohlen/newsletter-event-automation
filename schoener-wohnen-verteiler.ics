@@ -2612,4 +2612,17 @@ DESCRIPTION:Schelling-Hausbar öffnet wieder für euch. Es gibt Chili-sin-
  carne.
 LOCATION:Schelling-Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier der Schönheit aller Farben
+DTSTART:20240203T210000Z
+DTSTAMP:20240203T210000Z
+DTSTAMP:20240228T204024Z
+UID:<c06cfff52ab1d2466ec658347239041c@riseup.net>
+DESCRIPTION:Die Kumblz Allstars mischen dafür all night long Klangfarben 
+ aus Hip-Hop und Funk\, featuring den DJs U-Funk\, Don Nod und Rawspin. Hei
+ tere Farbkleckse schwappen uns von energetisch aufgeladener Maskenballdeko
+  entgegen und eine glückliche Person darf eine saumäßig rosa Piñata ze
+ rschmettern – auf dass es ein Feuerwerk aus Leckereien regne!
+LOCATION:Hausbar an der Stiftskirche
+END:VEVENT
 END:VCALENDAR
