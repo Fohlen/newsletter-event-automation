@@ -2625,4 +2625,35 @@ DESCRIPTION:Die Kumblz Allstars mischen dafür all night long Klangfarben
  rschmettern – auf dass es ein Feuerwerk aus Leckereien regne!
 LOCATION:Hausbar an der Stiftskirche
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli concert for International Women's Day and Feminist Fight Day
+DTSTART:20240308T200000Z
+DTEND:20240308T233000Z
+DTSTAMP:20240308T200000Z
+DTSTAMP:20240301T204041Z
+UID:<trinity-9136e75a-e970-4520-a44a-8945066ed5d2-1709236843963@3c-app-web
+ de-bs15>
+DESCRIPTION:This concert will present talented artists from Baden-Württem
+ berg and at the same time should be a platform to raise awareness for equa
+ lity and visibility of Flinta people (women\, lesbians\, intersex\, non-bi
+ nary\, trans and agender people) in our society. Performances by Modern To
+ rture\, brutellanot\, and Pynschi. 50% of the profits will be donated to t
+ he Quere Zentrum Tübingen\, the other 50% will go to the artists.
+LOCATION:Pfleghof student dormitory\, Pfleghofstraße 2\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infoladenhausbar: Buchvorstellung und Diskussion mit Ewgeniy Kasak
+ ow
+DTSTART:20240306T190000Z
+DTEND:20240306T220000Z
+DTSTAMP:20240301T204041Z
+UID:<116da020-a766-4553-8c8b-a42e39782885@schellingstrasse.de>
+DESCRIPTION:19:00 Uhr: Veganes Essen\n20:00 Uhr: Buchvorstellung und Disku
+ ssion "Spezialoperation und Frieden – die russische Linke gegen den Krie
+ g" mit Ewgeniy Kasakow\nEwgeniy Kasakow ist Wissenschaftlicher Mitarbeiter
+  am Deutschen Auswandererhaus in Bremerhaven und Autor des Buches „Spezi
+ aloperation und Frieden – die russische Linke gegen den Krieg“.
+LOCATION:Hausbar der Schellingstraße 6\, 72072 Tübingen
+URL:https://infoladen.mtmedia.org/
+END:VEVENT
 END:VCALENDAR
