@@ -2656,4 +2656,19 @@ DESCRIPTION:19:00 Uhr: Veganes Essen\n20:00 Uhr: Buchvorstellung und Disku
 LOCATION:Hausbar der Schellingstraße 6\, 72072 Tübingen
 URL:https://infoladen.mtmedia.org/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LH3 Club Room Opening
+DTSTART:20240304T190000Z
+DTEND:20240304T220000Z
+DTSTAMP:20240101T080000Z
+DTSTAMP:20240304T125247Z
+UID:<DB3PR0202MB92527E8E01D75D70A68F16CFF8232@DB3PR0202MB9252.eurprd02.pro
+ d.outlook.com>
+DESCRIPTION:On Monday\, March 4\, the club room doors of LH3 will be opene
+ d for you! If you want to meet nice people in a cozy atmosphere and enjoy 
+ improvised music by musica con senas\, feel free to step by! You can arriv
+ e from 19:00 and the music starts at 20:00. We look forward to seeing you!
+  More info at: https://www.klangfolk.de/projekte/musica-con-senas
+LOCATION:LH3 Club Room
+END:VEVENT
 END:VCALENDAR
