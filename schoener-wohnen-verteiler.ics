@@ -2671,4 +2671,30 @@ DESCRIPTION:On Monday\, March 4\, the club room doors of LH3 will be opene
   More info at: https://www.klangfolk.de/projekte/musica-con-senas
 LOCATION:LH3 Club Room
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obstbaum-Schnittkurs nur für Frauen
+DTSTART:20240308T133000Z
+DTSTAMP:20240308T133000Z
+DTSTAMP:20240306T125018Z
+UID:<PSAPR02MB5431CEBCE6F53253EE788AD2AD232@PSAPR02MB5431.apcprd02.prod.ou
+ tlook.com>
+DESCRIPTION:Veranstaltet vom Obst- und Gartenbauverein Weilheim. Es geht u
+ m den richtigen Erziehungs- und Erhaltungsschnitt. Keine Anmeldung erforde
+ rlich.
+LOCATION:Lehrgarten Weilheim -Tübingen\, Talstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zum Umgang mit Klimagefühlen
+DTSTART:20240321T183000Z
+DTEND:20240321T203000Z
+DTSTAMP:20240321T183000Z
+DTSTAMP:20240306T125018Z
+UID:<trinity-75ec7c6e-8277-480d-ac27-151b922df7e9-1709574712426@3c-app-gmx
+ -bs09>
+DESCRIPTION:Wir\, die Psychologists for Future Tübingen\, bieten Ende Mä
+ rz wieder unseren Workshop zum Umgang mit Klimagefühlen an und freuen uns
+  auf interessierte Teilnehmer*innen. Gruppe mit bis zu 10 TN. Anmeldung bi
+ tte informell per E-Mail an tuebingen@psychologistsforfuture.org
+LOCATION:Adolf-Schlatter-Haus\, Österbergstr. 2
+END:VEVENT
 END:VCALENDAR
