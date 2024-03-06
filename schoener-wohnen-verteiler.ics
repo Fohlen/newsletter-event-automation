@@ -2697,4 +2697,19 @@ DESCRIPTION:Wir\, die Psychologists for Future Tübingen\, bieten Ende Mä
  tte informell per E-Mail an tuebingen@psychologistsforfuture.org
 LOCATION:Adolf-Schlatter-Haus\, Österbergstr. 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anarcho-Punk-Band "Saufdruck" Performance
+DTSTART:20240306T213000Z
+DTEND:20240307T000000Z
+DTSTAMP:20240306T213000Z
+DTSTAMP:20240306T204024Z
+UID:<trinity-698b0ddd-e75b-46ce-a21a-1cf48cc9e39e-1709725221769@3c-app-web
+ de-bap31>
+DESCRIPTION:Anarcho-Punk-Band aus Heidelberg\, "Saufdruck"\, spielt in der
+  Lu 15. Ihre Songs handeln von VV und Direktkrediten\, von Wohngemeinschaf
+ t und Arbeitsdruck – und Freiheit von der Lohnarbeit. Sie wohnen in Wohn
+ projekten in Heidelberg und haben Spaß am Leben und Musik machen. Weitere
+  Informationen finden Sie unter nussgewuerz.de.
+LOCATION:Lu-HausBar\, Tübingen
+END:VEVENT
 END:VCALENDAR
