@@ -2712,4 +2712,47 @@ DESCRIPTION:Anarcho-Punk-Band aus Heidelberg\, "Saufdruck"\, spielt in der
   Informationen finden Sie unter nussgewuerz.de.
 LOCATION:Lu-HausBar\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop on Individual Employment Law by FAU Tübingen/Reutlingen
+DTSTART:20240323T160000Z
+DTEND:20240323T190000Z
+DTSTAMP:20240323T160000Z
+DTSTAMP:20240307T204054Z
+UID:<30954d5293d6e34455619640bbb8a97b.squirrel@webmail.no-log.org>
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Workshop on individual employment law organized by the Free Wo
+ rkers' Union (FAU) Tübingen/Reutlingen section. The workshop will provide
+  an overview of the usual open claims from existing\, ending or already te
+ rminated employment relationships. Subsequently\, we will calculate open c
+ laims using an example. The ability to calculate claims and make back dema
+ nds is not only relevant for individual cases\, but also for work group wo
+ rk or trade union campaigns.
+LOCATION:Hechingerstraße 94\, Sockelgeschoss\, Tübingen
+TRANSP:OPAQUE
+URL;VALUE=URI:mailto:fautue-kontakt@fau.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder for the Workshop on Individual Employment Law by FAU 
+ Tübingen/Reutlingen
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUEERFEMINISTISCHER INTERSEKTIONALER KAMPFTAG
+DTSTART:20240308T173000Z
+DTEND:20240308T203000Z
+DTSTAMP:20240307T204054Z
+UID:<311217834.40100.1709833598029@office.mailbox.org>
+DESCRIPTION:Aufruf zum QUEERFEMINISTISCHER INTERSEKTIONALER KAMPFTAG! Auf 
+ der ganzen Welt kämpfen FLINTA* am 8. März gegen das Patriarchat\, auch 
+ hier in Tübingen! Demonstration für die Rechte von Frauen\, Lesben\, int
+ er\, nicht-binären\, trans und agender Personen sowie allen vom Patriarch
+ at unterdrückten Menschen. Nach der Demo sind alle eingeladen in die Sche
+ lling (Schellingstraße 6) zu kommen: Gegen Spende gibt's dort veganes Abe
+ ndessen und im Keller öffnet die Bar! Weitere Infos zum genauen Ablauf de
+ r Demo findet ihr in unserem Instagram-Feed (8m_tuebingen).
+LOCATION:Holzmarkt\, Tübingen
+URL:https://www.instagram.com/8m_tuebingen/
+END:VEVENT
 END:VCALENDAR
