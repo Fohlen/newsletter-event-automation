@@ -2755,4 +2755,29 @@ DESCRIPTION:Aufruf zum QUEERFEMINISTISCHER INTERSEKTIONALER KAMPFTAG! Auf
 LOCATION:Holzmarkt\, Tübingen
 URL:https://www.instagram.com/8m_tuebingen/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liveübertragung von der Demo zum feministischen Kampftag
+DTSTART:20240308T173000Z
+DTEND:20240308T193000Z
+DTSTAMP:20240308T204125Z
+UID:<0a86ca88-9383-4c09-adf1-0a1bf3a75066@wueste-welle.de>
+DESCRIPTION:Die Liveübertragung von der Demo zum feministischen Kampftag 
+ wird ab 17.30 Uhr bei der Wüsten Welle ausgestrahlt. Sie können es entwe
+ der im Raum Tübingen/Rottenburg/Reutlingen im Radio auf 96\,6 oder über 
+ den Livestream im Internet unter www.wueste-welle.de hören. In der Mediat
+ hek ist es möglich die Übertragung noch zwei Wochen nach zu hören. Das 
+ ganze Programm am 08.März wird nur von FLINTAs gestaltet.
+LOCATION:Radio 96\,6 oder www.wueste-welle.de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flinta-Konzert zum feministischen Kampftag
+DTSTART:20240308T200000Z
+DTSTAMP:20240308T200000Z
+DTSTAMP:20240308T204125Z
+UID:<CAPaAw53dkcU3XO-=Zt23uyPOoKOLQ11fC92EmKisvq2xxgxgBA@mail.gmail.com>
+DESCRIPTION:Flinta-Konzert zum feministischen Kampftag. Leider muss die Ba
+ nd Brutellanot krankheitsbedingt ausfallen. Dafür gibts aber ein bisschen
+  elektronische Aftershow party\, zu der alle herzlich eingeladen sind.
+LOCATION:Pfleghofstr. 2
+END:VEVENT
 END:VCALENDAR
