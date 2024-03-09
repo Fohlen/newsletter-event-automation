@@ -2780,4 +2780,27 @@ DESCRIPTION:Flinta-Konzert zum feministischen Kampftag. Leider muss die Ba
   elektronische Aftershow party\, zu der alle herzlich eingeladen sind.
 LOCATION:Pfleghofstr. 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashtanga Yoga Basic Class
+DTSTART:20240401T170000Z
+DTEND:20240401T183000Z
+DTSTAMP:20240401T080000Z
+DTSTAMP:20240309T124659Z
+UID:<d9560388-d834-434b-95ff-db274da5ea6e@posteo.de>
+DESCRIPTION:Join us for a basic Ashtanga Yoga class. Donations are welcome
+ . Stay updated through our Telegram group: https://t.me/+fWLpRaS_jvgyM2E0
+LOCATION:Fichtehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashtanga Yoga Advanced Class
+DTSTART:20240401T183000Z
+DTEND:20240401T200000Z
+DTSTAMP:20240401T080000Z
+DTSTAMP:20240309T124659Z
+UID:<d9560388-d834-434b-95ff-db274da5ea6e@posteo.de>
+DESCRIPTION:Join us for an advanced Ashtanga Yoga class. Donations are wel
+ come. Stay updated through our Telegram group: https://t.me/+fWLpRaS_jvgyM
+ 2E0
+LOCATION:Fichtehaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
