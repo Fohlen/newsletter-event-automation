@@ -2803,4 +2803,58 @@ DESCRIPTION:Join us for an advanced Ashtanga Yoga class. Donations are wel
  2E0
 LOCATION:Fichtehaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infoabend "Shut Elbit Down Deutschland"
+DTSTART:20240314T200000Z
+DTSTAMP:20240314T200000Z
+DTSTAMP:20240311T125031Z
+UID:<9a719c65c3f014de2592c688db948db2@riseup.net>
+DESCRIPTION:Ein Infoabend organisiert und ausgerichtet von einer Person de
+ r Kampagne "Shut Elbit Down Deutschland". Es gibt eine Filmvorführung üb
+ er die israelische Militärindustrie und einen kurzen Input zum größten 
+ privaten israelischen Rüstungsunternehmen Elbit Systems. Abschließend gi
+ bt es eine kurze Diskussionsrunde und eine Hausbar.
+LOCATION:Lu15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demo der Kampagne „Shut Elbit Down“ in Ulm
+DTSTART:20240316T000000Z
+DTSTAMP:20240316T000000Z
+DTSTAMP:20240311T125031Z
+UID:<9a719c65c3f014de2592c688db948db2@riseup.net>
+DESCRIPTION:Die nächste Demo der Kampagne „Shut Elbit Down“ findet in
+  Ulm statt\, wo sich zwei Produktionsstandorte von Elbit Systems Deutschla
+ nd befinden. Es wird eine gemeinsame Zuganreise aus Tübingen geben.
+LOCATION:Ulm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorbereitungstreffen für die FAIRstrickt-Aktionswochen
+DTSTART:20240313T190000Z
+DTEND:20240313T210000Z
+DTSTAMP:20240313T190000Z
+DTSTAMP:20240311T125031Z
+UID:<93D07B51-92CC-4052-8908-F985D7821860@gmx.net>
+DESCRIPTION:Das nächste Vorbereitungstreffen für die FAIRstrickt-Aktions
+ wochen (22. April - 3. Mai 2024) findet statt. Es sind schon einige tolle 
+ Ideen für Veranstaltungen und Aktionen zusammen gekommen! Es gibt Info-Ve
+ ranstaltungen\, eine Stadtralley\, Fairen Kaffee\, eine Modeshow\, Upcycli
+ ng und Vieles mehr. Bist du auch dabei? Du kannst noch mitmachen - alleine
+  als praktische:r Unterstützer:in oder mit deiner Gruppe. Bitte melde dic
+ h bis zum 12.3. per Mail an über fairstrickt@werkstadthaus.de.
+LOCATION:Rathaus / Ratssaal (1. OG)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Jam Session at Pfleghof
+DTSTART:20240314T210000Z
+DTSTAMP:20240314T210000Z
+DTSTAMP:20240311T125031Z
+UID:<AS8P194MB1544E70E9D7701F40D6F54F0BD242@AS8P194MB1544.EURP194.PROD.OUT
+ LOOK.COM>
+DESCRIPTION:An open jam session will take place at Pfleghofstr. 2. Beers a
+ nd other drinks will be sold for a fair price at the bar. Bring your instr
+ uments of choice\, amplifiers\, your voice or just join as part of the aud
+ ience. Musicians of all levels are welcome to hop on stage. Join the whats
+ app group: https://chat.whatsapp.com/EBaH1btwGNqF6
+LOCATION:Pfleghofstr. 2
+END:VEVENT
 END:VCALENDAR
