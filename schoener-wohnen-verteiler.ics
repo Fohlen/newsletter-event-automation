@@ -2857,4 +2857,18 @@ DESCRIPTION:An open jam session will take place at Pfleghofstr. 2. Beers a
  app group: https://chat.whatsapp.com/EBaH1btwGNqF6
 LOCATION:Pfleghofstr. 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trashausbar in der Schelling
+DTSTART:20240313T200000Z
+DTEND:20240314T000000Z
+DTSTAMP:20240313T200000Z
+DTSTAMP:20240312T204021Z
+UID:<trinity-860796b1-9d31-4df8-ac8a-2d471b7886a4-1710268883804@3c-app-web
+ de-bap11>
+DESCRIPTION:Los geht es um 20 Uhr. Zieht eure trashigsten Klamotten an (bu
+ nt\, glitzer\, auffälig\, wie ihr euch wohlfühlt) und freut euch auf gan
+ z viel gute Musik von Britney\, Scooter und Co. Als special gibts es neben
+  der standart Getränkeauswahl noch ganz viel Sekt.
+LOCATION:Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
