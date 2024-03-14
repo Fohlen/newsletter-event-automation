@@ -2871,4 +2871,18 @@ DESCRIPTION:Los geht es um 20 Uhr. Zieht eure trashigsten Klamotten an (bu
   der standart Getränkeauswahl noch ganz viel Sekt.
 LOCATION:Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schelling Sommerfest - 20th Anniversary
+DTSTART:20240713T140000Z
+DTEND:20240714T020000Z
+DTSTAMP:20240713T140000Z
+DTSTAMP:20240314T204032Z
+UID:<017a01da763a$01ff4be0$05fde3a0$@web.de>
+DESCRIPTION:Das Schelling-Sommerfest findet dieses Jahr am Samstag\, den 1
+ 3.07.2024 statt. Wir starten wieder am Nachmittag und feiern bis tief in d
+ ie Nacht. Tragt es euch in den Kalender ein\, denn wir feiern dieses Jahr 
+ Jubiläum: 20 Jahre seit dem die Schelling gekauft wurde! Wir freuen uns a
+ uf eine schöne Sause mit euch allen.  Bis bald\, eure Schellings
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
