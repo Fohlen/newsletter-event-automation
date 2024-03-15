@@ -2885,4 +2885,34 @@ DESCRIPTION:Das Schelling-Sommerfest findet dieses Jahr am Samstag\, den 1
  uf eine schöne Sause mit euch allen.  Bis bald\, eure Schellings
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tauschkreisel im Umweltzentrum
+DTSTART:20240106T110000Z
+DTEND:20240106T140000Z
+DTSTAMP:20240101T000000Z
+DTSTAMP:20240315T125049Z
+UID:<CA+gn2JCZ1oxOxBPb3yZzinW3tg7O0mVTRqyqBQyT2pp0qFe3iA@mail.gmail.com>
+DESCRIPTION:Kommt vorbei. Macht mit. Wir freuen uns!
+LOCATION:Umweltzentrum Tübingen e.V.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demo gegen Elbit
+DTSTART:20240316T140000Z
+DTSTAMP:20240316T140000Z
+DTSTAMP:20240315T125049Z
+UID:<737255571753a47d10fa2cfc2a4e72e2@riseup.net>
+DESCRIPTION:Lasst uns am 16. März 2024 um 14 Uhr gemeinsam in Ulm demonst
+ rieren und Elbit Systems seine Mitverantwortung am Genozid in Gaza aufzeig
+ en. In Anschluss an die Kampagne Shut Elbit Down! aus Großbritannien ford
+ ern wir hier in der BRD: Shut Elbit Down! Keine Profite mit Besatzung\, Be
+ lagerung und Kriegsverbrechen! Flucht ist kein Verbrechen! Keine Profite m
+ it der tödlichen Technologisierung und Militarisierung von Grenzüberwach
+ ung! Stopp aller Rüstungsexporte an die israelische Besatzungsmacht! Kein
+ e EU Gelder für Rüstungsunternehmen! EU Finanzierung für Elbit Systems 
+ sofort beenden! Für wirksame Zivilklauseln und gegen jede Zusammenarbeit 
+ von Militär und Hochschulen! Wir fordern zudem die Bundesregierung auf\, 
+ sich mit allen Mitteln für einen sofortigen Waffenstillstand und die Aufh
+ ebung der völkerrechtswidrigen Blockade Gazas durch Israel einzusetzen!
+LOCATION:Ulm\, Germany
+END:VEVENT
 END:VCALENDAR
