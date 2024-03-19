@@ -2937,4 +2937,35 @@ DESCRIPTION:Kill Your Boyfriend\, a Post-Punk/Noise-Duo from Treviso\, wil
 LOCATION:Blauen Salon
 URL:https://killyourboyfriend.bandcamp.com/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zur Jineolojî - Wissenschaft der Frau und des Lebens
+DTSTART:20240325T180000Z
+DTEND:20240325T200000Z
+DTSTAMP:20240325T180000Z
+DTSTAMP:20240319T204052Z
+UID:<CAFHkcYaNhbazxwARGoFsm++OondQrajpp2qWmMvaNFOAWp6R1w@mail.gmail.com>
+DESCRIPTION:Ein Einstiegsworkshop zur Jineolojî\, der Wissenschaft der Fr
+ au und des Lebens. Menschen aller Geschlechter sind eingeladen. Es wird Sn
+ acks geben\, bringt gerne auch was kleines mit! Bei Fragen\, schreib uns g
+ erne eine E-Mail an: jineolojide@riseup.net
+LOCATION:Trude Lutz\, Münzgasse 4\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-Hausbar: Film Screening and Discussion
+DTSTART:20240320T190000Z
+DTEND:20240320T220000Z
+DTSTAMP:20240320T190000Z
+DTSTAMP:20240319T204052Z
+UID:<CAD1+Ta1kUYEPAUdNX3psWUUyY=0Wjb6cKz_7C87t7MDs0d5atw@mail.gmail.com>
+DESCRIPTION:Join us for a special Soli-Hausbar at Schelling. We will be wa
+ tching the film "von Menschen\, die auf Bäume steigen" about the forest o
+ ccupation in Altdorfer Wald (Alti). Before the film\, there will be KüFa 
+ (vegan lentil stew) starting at 19:00. The film screening will start at 20
+ :00. After the film\, there will be an opportunity to talk with activists 
+ from Alti. All proceeds from food and drinks will go to the forest occupat
+ ion and the film team. The film is a portrait-like\, polarizing film that 
+ is relevant all over Germany. A tribute to the largest forest in Upper Swa
+ bia. And the people who want to preserve it.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
