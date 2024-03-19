@@ -2925,4 +2925,16 @@ UID:<b1b8dbe9-ac06-4daa-9c73-860994614059@leibnizhaus.de>
 DESCRIPTION:Es wird ein wenig Musik geben und ein paar kalte Getränke.
 LOCATION:LH2 Stauffenbergstr.30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kill Your Boyfriend Concert
+DTSTART:20240321T210000Z
+DTEND:20240321T230000Z
+DTSTAMP:20240319T124859Z
+UID:<ffefde27-0a7b-4ee8-b4d9-c0efd4a3686c@posteo.de>
+DESCRIPTION:Kill Your Boyfriend\, a Post-Punk/Noise-Duo from Treviso\, wil
+ l be performing at the Blauen Salon. Doors open at 21:00\, show starts at 
+ 22:00. More info at https://killyourboyfriend.bandcamp.com/
+LOCATION:Blauen Salon
+URL:https://killyourboyfriend.bandcamp.com/
+END:VEVENT
 END:VCALENDAR
