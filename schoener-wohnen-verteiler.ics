@@ -2968,4 +2968,16 @@ DESCRIPTION:Join us for a special Soli-Hausbar at Schelling. We will be wa
  bia. And the people who want to preserve it.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apartment Rental in Kirchentellinsfurt
+DTSTART:20240523T000000Z
+DTEND:20240711T000000Z
+DTSTAMP:20240523T000000Z
+DTSTAMP:20240323T204031Z
+UID:<00ef01da7d1a$5fbeea60$1f3cbf20$@gmx.de>
+DESCRIPTION:1.5 rooms in Kirchentellinsfurt. Rent for the entire period: 7
+ 00 €\, shorter period possible\, but at least 4 weeks. More information 
+ and pictures can be found on WG-gesucht.
+LOCATION:Kirchentellinsfurt
+END:VEVENT
 END:VCALENDAR
