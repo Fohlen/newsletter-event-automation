@@ -2980,4 +2980,17 @@ DESCRIPTION:1.5 rooms in Kirchentellinsfurt. Rent for the entire period: 7
  and pictures can be found on WG-gesucht.
 LOCATION:Kirchentellinsfurt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Freezing to Sneezing Party
+DTSTART:20240406T210000Z
+DTEND:20240407T050000Z
+DTSTAMP:20240301T080000Z
+DTSTAMP:20240324T204027Z
+UID:<3d972168138219d7ccffcad8046db8f1@riseup.net>
+DESCRIPTION:Celebrate the transition from winter depression to the season 
+ of allergy induced tears with us. Starting at 9 pm\, blank! (HC/Punk) and 
+ Valara (Heavy Hardcore) from Freiburg will play\, from 0 to 5 there will b
+ e DJs from the house + friends.
+LOCATION:Münzgasse 13
+END:VEVENT
 END:VCALENDAR
