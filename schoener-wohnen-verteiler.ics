@@ -2993,4 +2993,22 @@ DESCRIPTION:Celebrate the transition from winter depression to the season
  e DJs from the house + friends.
 LOCATION:Münzgasse 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung "Women in Gaza: Strength and Resistance"
+DTSTART:20240327T193000Z
+DTSTAMP:20240327T193000Z
+DTSTAMP:20240325T204026Z
+UID:<3e5c857650e1d1a17c8b6c47ab985b5a@posteo.de>
+DESCRIPTION:Diese Veranstaltung ist nicht nur ein Filmabend\, sondern auch
+  eine Gelegenheit für alle\, die sich für soziale Gerechtigkeit einsetze
+ n\, sich zu informieren und gemeinsam über die Herausforderungen zu refle
+ ktieren\, denen Frauen in Gaza bereits vor dem Krieg gegenüberstanden. Ta
+ ucht mit uns ein in die Geschichten von fünf faszinierenden Frauen\, die 
+ trotz widriger Umstände in Gaza ihre Gemeinschaften prägen. Der Film aus
+  dem Jahr 2020 beleuchtet die vielfältigen Herausforderungen\, mit denen 
+ Frauen in Gaza konfrontiert sind. Er gewährt einen Einblick in das Leben 
+ dieser Frauen und wirft wichtige Fragen über Feminismus\, Solidarität un
+ d soziale Gerechtigkeit auf.
+LOCATION:Blauer Salon\, Münzgasse 13\, 07071 Tübingen
+END:VEVENT
 END:VCALENDAR
