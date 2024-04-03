@@ -33,7 +33,7 @@ def prompt_model(message: Message) -> CalendarModel:
             {"role": "system", "content": f"The original message was written in {message_date.year}"},
             {"role": "user", "content": message["content"]}
         ],
-        max_retries=Retrying(  # noqa: ignore
+        max_retries=Retrying(  # type: ignore
             stop=stop_after_attempt(6),
             wait=wait_random_exponential(min=1, max=60),
         )
