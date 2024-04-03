@@ -13,7 +13,7 @@ from tqdm import tqdm
 
 from newsletter_automation.calendar import merge_calendars
 from newsletter_automation.message import read_mbox
-from newsletter_automation.prompt import prompt_model, calendar_from_completion
+from newsletter_automation.prompt import prompt_model, calendar_from_model
 
 root_dir = Path(__file__).parent.parent
 
@@ -72,8 +72,8 @@ def read_newsletter_to_calendar(
 
         for message, is_event in tqdm(zip(messages, classification), total=len(messages)):
             if is_event:
-                completion = prompt_model(message)
-                calendar = calendar_from_completion(message, completion)
+                model = prompt_model(message)
+                calendar = calendar_from_model(model)
                 if calendar is not None:
                     calendars.append(calendar)
 

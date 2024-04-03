@@ -1,10 +1,10 @@
+import datetime
 import json
-from collections import namedtuple
 
 import pytest
 
 from newsletter_automation.message import Message
-from newsletter_automation.prompt import prompt_model, calendar_from_completion
+from newsletter_automation.prompt import prompt_model, calendar_from_model, CalendarModel
 
 
 @pytest.fixture
@@ -16,20 +16,20 @@ def message_a(data_dir):
 def test_prompt(message_a):
     with message_a.open() as message_fp:
         message: Message = json.load(message_fp)
+        entry = prompt_model(message)
+        assert entry.start.day == 16
+        assert entry.start.month == 12
+        assert entry.start.year == 2022
 
-        completion = prompt_model(message)
-        assert len(completion.choices) == 1
-        assert completion.choices[-1].finish_reason == "stop"
 
+def test_calender_from_entry(data_dir):
+    entry_a = (data_dir / "entry_a.json")
+    with entry_a.open() as entry_fp:
+        entry_data = json.load(entry_fp)
+        entry_data["start"] = datetime.datetime.fromisoformat(entry_data["start"])
+        entry = CalendarModel(**entry_data)
 
-def test_calendar_from_completion(data_dir, message_a):
-    completion_a = (data_dir / "completion_a.json")
-    with message_a.open() as message_fp, completion_a.open() as completion_fp:
-        message = json.load(message_fp)
-        # NOTE: Thanks SO https://stackoverflow.com/a/15882327
-        completion = json.load(completion_fp, object_hook=lambda d: namedtuple('X', d.keys())(*d.values()))
-
-        calendar = calendar_from_completion(message, completion)
+        calendar = calendar_from_model(entry)
         events = list(calendar.walk("VEVENT"))
         assert calendar is not None
         assert len(events) == 1

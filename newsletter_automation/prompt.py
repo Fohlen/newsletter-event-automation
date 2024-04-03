@@ -1,49 +1,64 @@
+import datetime
+import uuid
 from email.utils import parsedate_to_datetime
 from typing import Optional
 
-import openai
-from icalendar import Calendar
-from tenacity import retry, wait_random_exponential, stop_after_attempt
+import instructor
+from openai import OpenAI
+from icalendar import Calendar, Event
+from pydantic import BaseModel
+from tenacity import Retrying, wait_random_exponential, stop_after_attempt
 
 from newsletter_automation.message import Message
 
 
-@retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
-def chat_completion_with_backoff(**kwargs) -> openai.ChatCompletion:
-    return openai.ChatCompletion.create(**kwargs)
+class CalendarModel(BaseModel):
+    title: str
+    summary: str
+    description: str
+    location: str
+    start: datetime.datetime
+    end: Optional[datetime.datetime] = None
 
 
-def prompt_model(message: Message) -> openai.ChatCompletion:
+def prompt_model(message: Message) -> CalendarModel:
+    client = instructor.from_openai(OpenAI())
     message_date = parsedate_to_datetime(message["date"])
-    completion = chat_completion_with_backoff(
-        model="gpt-4",
+
+    # Extract structured data from natural language
+    return client.chat.completions.create(
+        model="gpt-4-turbo-preview",
+        response_model=CalendarModel,
         messages=[
-            {
-                "role": "system",
-                "content": f"You are a helpful assistant and are given an email containing a event description from the year {message_date.year}. Your job is to create a machine-readable iCalendar file from this email. "
-            },
+            {"role": "system", "content": f"The original message was written in {message_date.year}"},
             {"role": "user", "content": message["content"]}
         ],
-        temperature=0,
-        max_tokens=384,
-        top_p=1
+        max_retries=Retrying(  # noqa: ignore
+            stop=stop_after_attempt(6),
+            wait=wait_random_exponential(min=1, max=60),
+        )
     )
-    return completion
 
 
-def calendar_from_completion(
-        message: Message,
-        completion: openai.ChatCompletion
-) -> Optional[Calendar]:
-    if len(completion.choices) == 1 and completion.choices[0].finish_reason == "stop":
-        content = completion.choices[0].message.content
-        try:
-            calendar = Calendar.from_ical(content)
-            for event in calendar.walk("VEVENT"):
-                event.pop("uid")
-                event.add("uid", message["id"])
-            return calendar
-        except ValueError:
-            pass
+def calendar_from_model(entry: CalendarModel) -> Calendar:
+    cal = Calendar()
+    cal.add('PRODID', entry.title)
+    cal.add('VERSION', '2.0')
 
-    return None
+    event = Event()
+    event.add('SUMMARY', entry.summary)
+    event.add('DTSTAMP', datetime.datetime.now())
+    event.add('DTSTART', entry.start)
+    event.add('LOCATION', entry.location)
+    event.add('DESCRIPTION', entry.description)
+    event.add('UID', uuid.uuid4())
+
+    if entry.end is not None:
+        event.add("DTEND", entry.end)
+    else:
+        end_of_day = datetime.datetime.combine(entry.start, datetime.time.max)
+        event.add("DTEND", end_of_day)
+
+    cal.add_component(event)
+
+    return cal
