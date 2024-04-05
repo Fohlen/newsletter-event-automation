@@ -3011,4 +3011,64 @@ DESCRIPTION:Diese Veranstaltung ist nicht nur ein Filmabend\, sondern auch
  d soziale Gerechtigkeit auf.
 LOCATION:Blauer Salon\, Münzgasse 13\, 07071 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier zur Bekanntgabe der Stadt Tübingen
+DTSTART:20240416T170000
+DTEND:20240416T190000
+DTSTAMP:20240405T124940Z
+DTSTAMP:20240405T125004Z
+UID:e8e15d52-181a-4d32-9791-9087398d02fa
+DESCRIPTION:Die Genossenschaft Neustart plant ein innovatives Wohnprojekt 
+ in der Marienburger Straße (Südstadt) für rund 400 Menschen. Am 16. Apr
+ il 2024 wird die Stadt Tübingen ihre Entscheidung bekanntgeben\, ob Neust
+ art den Zuschlag für die Voroption erhält. Neustart bereitet sich auf ei
+ ne positive Nachricht vor und lädt zur öffentlichen Feier ein. Es soll e
+ ine öffentliche Feier mit Sekt\, akustischen und visuellen Überraschunge
+ n sein. Das Event unterstreicht\, dass nur ein gemeinwohlorientiertes\, so
+ ziales und ökologisches Konzept nachhaltiges und bezahlbares Bauen und Le
+ ben ermöglichen kann.
+LOCATION:Marktplatz\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haus-Flohmarkt
+DTSTART:20240414T090000
+DTEND:20240414T160000
+DTSTAMP:20240405T124947Z
+DTSTAMP:20240405T125004Z
+UID:2fafdf21-0017-48a6-97c5-33b179217a54
+DESCRIPTION:Am Sonntag\, den 14.04.2024 findet von 9-16 Uhr ein Haus-Flohm
+ arkt in der Gartenstraße 39/1 statt und ihr seid alle ganz herzlich dazu 
+ eingeladen. Für den Flohmarkt nutzen wir unser Drinnen und Draußen\, wes
+ halb wir euch auch bei Regen in Empfang nehmen. Wir freuen uns schon sehr 
+ auf euch! 🌞 Sonnige Grüße eure Gartenstraße 39/1
+LOCATION:Gartenstraße 39/1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unterstützung gesucht: Fenstererneuerung
+DTSTART:20230420T100000Z
+DTEND:20230427T180000Z
+DTSTAMP:20240405T124955Z
+DTSTAMP:20240405T125004Z
+UID:9e44b8de-46cb-43dc-b465-429170cd6d00
+DESCRIPTION:Moin Leute\, wir sind ein Hausprojekt/Wagenplatz auf dem Land 
+ und brauchen eure Hilfe um unsere Fenster zu erneuern. Kommt vorbei\, meld
+ et euch oder leitet die Info an interessierte Freunde und Bekannte weiter.
+  Wir leben\, streiten\, kochen und essen\, feiern und kämpfen gemeinsam i
+ n unserem Projekt\, das sich im stetigen Aufbau befindet. Hier könnt ihr 
+ mithelfen und mitgestalten!
+LOCATION:Hausprojekt/Wagenplatz (genauer Standort bei Kontaktaufnahme)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House Party: From Freezing to Sneezing
+DTSTART:20240427T210000
+DTEND:20240428T040000
+DTSTAMP:20240405T125004Z
+DTSTAMP:20240405T125004Z
+UID:99d6a896-8697-43a8-be27-98fe343c3f24
+DESCRIPTION:Join us for a fun-filled house party at Münze13 under the mot
+ to 'From Freezing to Sneezing'. We'll kick things off at 9 PM with live ba
+ nds\, followed by DJs starting at midnight. Don't miss out on celebrating 
+ the transition into the warmer season with us!
+LOCATION:Münze13
+END:VEVENT
 END:VCALENDAR
