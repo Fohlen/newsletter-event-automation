@@ -3071,4 +3071,36 @@ DESCRIPTION:Join us for a fun-filled house party at Münze13 under the mot
  the transition into the warmer season with us!
 LOCATION:Münze13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Großer Frühlings-Flohmarkt mit DIY-Batiken\, Küfa\, Kaffee\, Ku
+ chenbuffet\, chilliger Musik und Yoga Session. Filmvorführung am Abend.
+DTSTART:20230414T150000Z
+DTEND:20230414T200000Z
+DTSTAMP:20240405T204039Z
+DTSTAMP:20240405T204045Z
+UID:8ff75331-72b6-4a7c-a34f-5f635d785694
+DESCRIPTION:Die Wilhelma lädt zum großen Frühlings-Flohmarkt ein. Neben
+  der Möglichkeit\, nachhaltig die Frühlingsgarderobe aufzustocken\, kön
+ nen Besucher*innen eigene alte Teile batiken und neu gestalten. Für das l
+ eibliche Wohl sorgen Küfa\, Kaffee und ein großes Kuchenbuffet\, währen
+ d chillige Musik für die passende Atmosphäre sorgt. Um 15 Uhr startet ei
+ ne kleine Yoga Session (bitte Yoga matte mitbringen). Der Flohmarkt endet 
+ um 20 Uhr\, anschließend wird der Film 'Der Junge muss an die frische Luf
+ t' vorgeführt. Ein Tag voller Spaß\, Entspannung und Gemeinschaft in der
+  hoffentlich strahlenden Frühlingssonne.
+LOCATION:Wilhelma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antikapitalistisches Klimatreffen Einladung
+DTSTART:20240411T190000
+DTEND:20240411T210000
+DTSTAMP:20240405T204045Z
+DTSTAMP:20240405T204045Z
+UID:1f4dd6b4-878f-47c9-82ef-3c3245dcfe72
+DESCRIPTION:Einladung zum nächsten Tübinger offenen antikapitalistischen
+  Klimatreffen (TOAKT) am Donnerstag\, den 11. April um 19 Uhr in der Trude
+  Lutz (Münzgasse 4). Themen: Aktionen zum Arbeiter*innenkampftag am 1. Ma
+ i\, EU-Wahlen. Offen für alle Interessierten.
+LOCATION:Trude Lutz\, Münzgasse 4
+END:VEVENT
 END:VCALENDAR
