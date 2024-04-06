@@ -26,7 +26,7 @@ def prompt_model(message: Message) -> CalendarModel:
     message_date = parsedate_to_datetime(message["date"])
 
     # Extract structured data from natural language
-    return client.chat.completions.create(
+    entry = client.chat.completions.create(
         model="gpt-4-turbo-preview",
         response_model=CalendarModel,
         messages=[
@@ -38,6 +38,14 @@ def prompt_model(message: Message) -> CalendarModel:
             wait=wait_random_exponential(min=1, max=60),
         )
     )
+
+    if entry.start.year != message_date.year:
+        entry.start = entry.start.replace(year=message_date.year)
+
+    if entry.end is not None and entry.end.year != message_date.year:
+        entry.end = entry.end.replace(year=message_date.year)
+
+    return entry
 
 
 def calendar_from_model(entry: CalendarModel) -> Calendar:
