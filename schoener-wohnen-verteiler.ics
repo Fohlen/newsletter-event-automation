@@ -2941,7 +2941,6 @@ BEGIN:VEVENT
 SUMMARY:Workshop zur Jineolojî - Wissenschaft der Frau und des Lebens
 DTSTART:20240325T180000Z
 DTEND:20240325T200000Z
-DTSTAMP:20240325T180000Z
 DTSTAMP:20240319T204052Z
 UID:<CAFHkcYaNhbazxwARGoFsm++OondQrajpp2qWmMvaNFOAWp6R1w@mail.gmail.com>
 DESCRIPTION:Ein Einstiegsworkshop zur Jineolojî\, der Wissenschaft der Fr
@@ -2954,7 +2953,6 @@ BEGIN:VEVENT
 SUMMARY:Soli-Hausbar: Film Screening and Discussion
 DTSTART:20240320T190000Z
 DTEND:20240320T220000Z
-DTSTAMP:20240320T190000Z
 DTSTAMP:20240319T204052Z
 UID:<CAD1+Ta1kUYEPAUdNX3psWUUyY=0Wjb6cKz_7C87t7MDs0d5atw@mail.gmail.com>
 DESCRIPTION:Join us for a special Soli-Hausbar at Schelling. We will be wa
@@ -2972,7 +2970,6 @@ BEGIN:VEVENT
 SUMMARY:From Freezing to Sneezing Party
 DTSTART:20240406T210000Z
 DTEND:20240407T050000Z
-DTSTAMP:20240301T080000Z
 DTSTAMP:20240324T204027Z
 UID:<3d972168138219d7ccffcad8046db8f1@riseup.net>
 DESCRIPTION:Celebrate the transition from winter depression to the season 
@@ -2984,7 +2981,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Filmvorführung "Women in Gaza: Strength and Resistance"
 DTSTART:20240327T193000Z
-DTSTAMP:20240327T193000Z
 DTSTAMP:20240325T204026Z
 UID:<3e5c857650e1d1a17c8b6c47ab985b5a@posteo.de>
 DESCRIPTION:Diese Veranstaltung ist nicht nur ein Filmabend\, sondern auch
@@ -3003,7 +2999,6 @@ BEGIN:VEVENT
 SUMMARY:Feier zur Bekanntgabe der Stadt Tübingen
 DTSTART:20240416T170000
 DTEND:20240416T190000
-DTSTAMP:20240405T124940Z
 DTSTAMP:20240405T125004Z
 UID:e8e15d52-181a-4d32-9791-9087398d02fa
 DESCRIPTION:Die Genossenschaft Neustart plant ein innovatives Wohnprojekt 
@@ -3021,7 +3016,6 @@ BEGIN:VEVENT
 SUMMARY:Haus-Flohmarkt
 DTSTART:20240414T090000
 DTEND:20240414T160000
-DTSTAMP:20240405T124947Z
 DTSTAMP:20240405T125004Z
 UID:2fafdf21-0017-48a6-97c5-33b179217a54
 DESCRIPTION:Am Sonntag\, den 14.04.2024 findet von 9-16 Uhr ein Haus-Flohm
@@ -3035,7 +3029,6 @@ BEGIN:VEVENT
 SUMMARY:Unterstützung gesucht: Fenstererneuerung
 DTSTART:20230420T100000Z
 DTEND:20230427T180000Z
-DTSTAMP:20240405T124955Z
 DTSTAMP:20240405T125004Z
 UID:9e44b8de-46cb-43dc-b465-429170cd6d00
 DESCRIPTION:Moin Leute\, wir sind ein Hausprojekt/Wagenplatz auf dem Land 
@@ -3051,7 +3044,6 @@ SUMMARY:House Party: From Freezing to Sneezing
 DTSTART:20240427T210000
 DTEND:20240428T040000
 DTSTAMP:20240405T125004Z
-DTSTAMP:20240405T125004Z
 UID:99d6a896-8697-43a8-be27-98fe343c3f24
 DESCRIPTION:Join us for a fun-filled house party at Münze13 under the mot
  to 'From Freezing to Sneezing'. We'll kick things off at 9 PM with live ba
@@ -3064,7 +3056,6 @@ SUMMARY:Großer Frühlings-Flohmarkt mit DIY-Batiken\, Küfa\, Kaffee\, Ku
  chenbuffet\, chilliger Musik und Yoga Session. Filmvorführung am Abend.
 DTSTART:20230414T150000Z
 DTEND:20230414T200000Z
-DTSTAMP:20240405T204039Z
 DTSTAMP:20240405T204045Z
 UID:8ff75331-72b6-4a7c-a34f-5f635d785694
 DESCRIPTION:Die Wilhelma lädt zum großen Frühlings-Flohmarkt ein. Neben
@@ -3082,7 +3073,6 @@ BEGIN:VEVENT
 SUMMARY:Antikapitalistisches Klimatreffen Einladung
 DTSTART:20240411T190000
 DTEND:20240411T210000
-DTSTAMP:20240405T204045Z
 DTSTAMP:20240405T204045Z
 UID:1f4dd6b4-878f-47c9-82ef-3c3245dcfe72
 DESCRIPTION:Einladung zum nächsten Tübinger offenen antikapitalistischen
