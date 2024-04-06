@@ -47,7 +47,6 @@ def calendar_from_model(entry: CalendarModel) -> Calendar:
 
     event = Event()
     event.add('SUMMARY', entry.summary)
-    event.add('DTSTAMP', datetime.datetime.now())
     event.add('DTSTART', entry.start)
     event.add('LOCATION', entry.location)
     event.add('DESCRIPTION', entry.description)
