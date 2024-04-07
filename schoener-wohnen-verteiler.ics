@@ -2997,18 +2997,6 @@ DESCRIPTION:Moin Leute\, wir sind ein Hausprojekt/Wagenplatz auf dem Land
 LOCATION:Hausprojekt/Wagenplatz (genauer Standort bei Kontaktaufnahme)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:House Party: From Freezing to Sneezing
-DTSTART:20240427T210000
-DTEND:20240428T040000
-DTSTAMP:20240405T125004Z
-UID:0b38c2dd-98be-42e3-8914-13decb19c6ae
-DESCRIPTION:Join us for a fun-filled house party at Münze13 under the mot
- to 'From Freezing to Sneezing'. We'll kick things off at 9 PM with live ba
- nds\, followed by DJs starting at midnight. Don't miss out on celebrating 
- the transition into the warmer season with us!
-LOCATION:Münze13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Großer Frühlings-Flohmarkt mit DIY-Batiken\, Küfa\, Kaffee\, Ku
  chenbuffet\, chilliger Musik und Yoga Session. Filmvorführung am Abend.
 DTSTART:20240414T150000Z
