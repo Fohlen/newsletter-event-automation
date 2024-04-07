@@ -3038,4 +3038,19 @@ DESCRIPTION:Einladung zum nächsten Tübinger offenen antikapitalistischen
  i\, EU-Wahlen. Offen für alle Interessierten.
 LOCATION:Trude Lutz\, Münzgasse 4
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barcelona's band Enemic Interior live at the Blauen Salon.
+DTSTART:20240409T210000Z
+DTEND:20240409T220000Z
+DTSTAMP:20240407T124821Z
+UID:f0d1bbc4-a37b-4d63-b733-6318dee8c117
+DESCRIPTION:Enemic Interior\, hailing from Barcelona\, balances between ra
+ w anger and an introspective melody sense. They maintain this balance desp
+ ite their confrontational performance\, blending Catalan lyrics\, daring b
+ oldness\, and unparalleled songwriting into bittersweet\, desperate songs 
+ that feel both grand and intimate. Their 3rd EP\, featuring five new track
+ s of their signature dark punk\, is out now via Mendeku Diskak\, a Basque 
+ Country label. Explore more: https://enemicinterior.bandcamp.com/
+LOCATION:Blauen Salon
+END:VEVENT
 END:VCALENDAR
