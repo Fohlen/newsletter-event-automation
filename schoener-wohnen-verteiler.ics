@@ -3041,4 +3041,82 @@ DESCRIPTION:Enemic Interior\, hailing from Barcelona\, balances between ra
  Country label. Explore more: https://enemicinterior.bandcamp.com/
 LOCATION:Blauen Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen der Schöner Wohnenden
+DTSTART:20240505T150000
+DTEND:20240505T180000
+DTSTAMP:20240408T204058Z
+UID:a8bc4352-441a-4a39-9e9b-087c9f2a5cf3
+DESCRIPTION:Hallo liebe Schöner Wohnenden\, leider haben wir in unserer A
+ nkündigungsmail vergessen\, den Flyer anzuhängen. Daher kommt er jetzt. 
+ Wir freuen uns auf Euch! Die Wilhelmis
+LOCATION:Wilhelmi Wohnquartier\, Musterstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Find out who's the fastest on Marios circuit or the Rainbow Boulev
+ ard at Münze13.
+DTSTART:20240505T140000
+DTEND:20240505T190000
+DTSTAMP:20240408T204058Z
+UID:f6cf3f5d-1c3f-4b9a-994a-ea21637084f5
+DESCRIPTION:Join us for an exciting Mario Kart race event at Münze13\, wh
+ ere participants can test their speed on Marios circuit or the Rainbow Bou
+ levard. Registration is open until 4 PM\, so make sure to sign up if you w
+ ant to participate. We've also got you covered with plenty of coffee and s
+ nacks to keep you energized throughout the event. May the fastest win! You
+ r coffee comrades 🏎️☕
+LOCATION:Münze13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music\, bring your instruments!
+DTSTART:20240411T210000Z
+DTEND:20240411T235959
+DTSTAMP:20240408T204058Z
+UID:ede5ec48-8342-4437-b183-9a873eae845f
+DESCRIPTION:🎸🎸🎸 Join us for a lively evening of music at the Pfle
+ ghof. This open jam session is a welcoming space for musicians of all leve
+ ls to showcase their talent\, or simply for music enthusiasts to enjoy liv
+ e tunes. Drinks are available at the bar for fair prices. Don't forget to 
+ join our WhatsApp group to stay updated: https://chat.whatsapp.com/EBaH1bt
+ wGNqF6DI1ourahX Bring your loved ones\, instruments\, and amplifiers!\n\n
+ 🎸🎸🎸
+LOCATION:Pfleghofstr. 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die politische Orientierung und Wahlverhalten von Ar
+ beiter*innen
+DTSTART:20240411T190000
+DTEND:20240411T235959
+DTSTAMP:20240408T204058Z
+UID:7780f0a2-2310-46a4-9257-3f9b8f6ef546
+DESCRIPTION:Der Vortrag zeigt die irritierende Entwicklung in der politisc
+ hen Orientierung und im Wahlverhalten von Arbeiter*innen in Deutschland. D
+ enn Arbeiter*innen wählen in überdurchschnittlicher Weise rechtspopulist
+ isch\, bzw. rechtsextrem obwohl diese Parteien für eine Politik stehen\, 
+ die Arbeiter*innen benachteiligt. Vorgestellt werden verschiedene wissensc
+ haftliche Deutungsangebote zur Erklärung dieses Trends. Anhand eigener In
+ terviews und statistischer Auswertungen wird zur Diskussion gestellt\, ob 
+ die neoliberale Transformation des Lebensalltags und des Sozialstaats\, na
+ tional-autoritäre Orientierungen gestärkt und inklusiv-solidarische Orie
+ ntierungen demobilisiert hat. Was bleibt ist Unzufriedenheit\, die in Hand
+ lungsfähigkeit umgesetzt werden will. In welche Richtung das geht\, schei
+ nt stark vom verinnerlichten Autoritarismus und von den subjektiven Vorste
+ llungen einer guten und gerechten Gesellschaft geprägt zu sein.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration und Straßenfest zur Förderung des sozialistischen 
+ Engagements.
+DTSTART:20240501T103000
+DTEND:20240501T235959
+DTSTAMP:20240408T204058Z
+UID:2535cfbb-da1f-424f-85e0-196f34270fb9
+DESCRIPTION:Veranstaltung für Antikapitalist*innen zur Förderung des soz
+ ialistischen Engagements gegen Krieg\, Rechtsentwicklung\, Reallohnverlust
+ e\, wirtschaftliche Rezession und Umweltzerstörung. Der Aufruf richtet si
+ ch an die arbeitende Klasse\, gemeinsam für eine sozialistische Gesellsch
+ aft zu kämpfen. Im Anschluss an die Demonstration lädt der Linke Laden T
+ rude Lutz zu einem Straßenfest ein.
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
