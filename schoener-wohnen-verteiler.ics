@@ -3119,4 +3119,24 @@ DESCRIPTION:Veranstaltung für Antikapitalist*innen zur Förderung des soz
  rude Lutz zu einem Straßenfest ein.
 LOCATION:Europaplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein kostenloses Upcycling-Event für Interessierte
+DTSTART:20240414T110000
+DTEND:20240414T140000
+DTSTAMP:20240409T204035Z
+UID:717b50a7-00e5-4110-8eb8-2ab6725082d7
+DESCRIPTION:Liebe schöner wohnende\, Lust auf Upcycling? Dann komm diesen
+  Sonntag den 14. April 2024 von 11 bis 14 Uhr in die Saibenstr.10 in die W
+ erkstatt der Kinder und Jugendfarm Tübingen. Die Teilnahme ist für dich 
+ kostenlos. Falls du noch Materialien zum Upcycling zuhause hast\, wie z.B.
+  Tetrapacks\, Kork\, Stoff- oder Jeansreste\, alte Schallplatten\, Plastik
+ tüten mit Löchern\, Garnreste und ähnliches - bring sie gerne mit! Eine
+  Anmeldung bis Freitag unter umweltzentrum.tuebingen@posteo.de wäre für 
+ uns zur Planung hilfreich. Zum Veranstaltungsort: Der Workshop findet zwar
+  in der Werkstatt der Kinder- und Jugendfarm statt\, ist jedoch kein Kinde
+ r-Event. Es wird keine Kinderbetreuung angeboten\, und Kinder können nich
+ t teilnehmen. Bitte beachte\, dass vor dem Tor kein Parken gestattet ist. 
+ Für das Umweltzentrum\, Alissa
+LOCATION:Saibenstr. 10\, Tübingen\, Deutschland
+END:VEVENT
 END:VCALENDAR
