@@ -3139,4 +3139,38 @@ DESCRIPTION:Liebe schöner wohnende\, Lust auf Upcycling? Dann komm diesen
  Für das Umweltzentrum\, Alissa
 LOCATION:Saibenstr. 10\, Tübingen\, Deutschland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Radtour von Tübingen nach Rottenburg gegen den Kopp-Verlag.
+DTSTART:20240427T140000Z
+DTEND:20240427T173000Z
+DTSTAMP:20240414T145557Z
+UID:c1d376f9-3d93-45cc-9682-d2539558243c
+DESCRIPTION:Am 27. April 2024 findet eine Raddemo gegen den rechten Kopp-V
+ erlag statt\, die um 14 Uhr in Tübingen am Startpunkt in der Karlstraße 
+ vor dem Kaufhaus Zinser beginnt und in Rottenburg auf dem Marktplatz endet
+ . Verschiedene Zwischenstops sind geplant\, um Aufmerksamkeit auf die Inha
+ lte des Kopp-Verlags und dessen Einfluss zu lenken. Die Initiative „Stop
+ p Kopp!“ ruft zur Teilnahme auf\, um gegen den Rechtsruck einzustehen. V
+ eranstaltungsdetails und Route sind auf https://stoppkopp.mtmedia.org/ und
+  https://www.instagram.com/stoppkopp zu finden. Bitte bringen Sie Helme\, 
+ Warnwesten und Statements gegen den Kopp-Verlag an Ihren Rädern\, Kleidun
+ g usw. an.
+LOCATION:Karlstraße\, vor dem Kaufhaus Zinser\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion
+DTSTART:20240420T190000Z
+DTEND:20240420T235959
+DTSTAMP:20240414T145557Z
+UID:ca0e6825-62e0-464c-83b7-c1796a027b48
+DESCRIPTION:Das Tübinger Offene Antikapitalistische Klimatreffen zeigt de
+ n in München produzierten Film „Klimaschutz – Von Kuba lernen!“ mit
+  anschließender Diskussion. Die Veranstaltung findet im Vorfeld des 1. Ma
+ is statt\, um auf die Verbindung zwischen Arbeiter*innenbewegung und Klima
+ bewegung aufmerksam zu machen. Vorgestellt wird\, wie Kuba trotz wirtschaf
+ tlicher Blockade durch die USA\, auf Planwirtschaft setzt und dabei im int
+ ernationalen Vergleich bei CO2-Ausstoß und nachhaltigem Wirtschaften posi
+ tiv auffällt.
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4
+END:VEVENT
 END:VCALENDAR
