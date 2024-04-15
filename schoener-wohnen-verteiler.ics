@@ -3173,4 +3173,76 @@ DESCRIPTION:Das Tübinger Offene Antikapitalistische Klimatreffen zeigt de
  tiv auffällt.
 LOCATION:Linker Laden Trude Lutz\, Münzgasse 4
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine kulinarische Reise durch Tübingen.
+DTSTART:20240504T183000
+DTEND:20240504T223000
+DTSTAMP:20240415T124727Z
+UID:dedc8088-1cb3-4ecf-a08f-c69e38e6f87d
+DESCRIPTION:Am 4. Mai lädt das Auf Haxe Event zu einer einzigartigen kuli
+ narischen Tour ein\, bei der Teams aus zwei Personen jeweils einen Gang f
+ ür ihre Gäste zaubern. Die Zuweisung der Gänge erfolgt per Los am Tag v
+ or dem Event. Treffen Sie bei jedem Gang auf zwei neue Teams\, und lassen 
+ Sie den Abend gemütlich im Ratskeller ausklingen.
+LOCATION:Tübingen\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protest gegen Schindhautunnelbau und fossile Subventionen
+DTSTART:20240420T120000
+DTEND:20240420T235959
+DTSTAMP:20240415T124727Z
+UID:b3d046ba-acba-458f-860f-6f95eab87d44
+DESCRIPTION:Save the date: 20.04.2024\, 12:00 Uhr. Ungehorsame Versammlung
+  in Tübingen am Lustnauer Tor. Ziel des Protests ist der soziale Ausstieg
+  aus fossilen Subventionen und Energien. Der Protest ist konsequent gewalt
+ frei und bietet eine Plattform für kreative und laute Äußerungen. Es is
+ t eine Gelegenheit\, Gemeinschaft zu fühlen\, Ideen einzubringen und für
+  #EhrlichkeitundGerechtigkeit sowie den Ausbau des ÖPNV zu protestieren. 
+ Weitere Infos: https://signal.group/#CjQKIAD1OVJ8jWvD5S4Ueb_VrGp9_xvcqCc0K
+ rgITAwisoTREhCPeWld4KhdVkxp3c7TT-ar Kontakt: tuebingen@letztegeneration.or
+ g\, Instagram: @letztegeneration_tuebingen_rt
+LOCATION:Lustnauer Tor\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Tag voller Kreativität und Entdeckung mit Flohmarkt\, kreativ
+ er Arbeit mit Ton\, Musik\, Waffeln und Getränken. Kinderschminken für d
+ ie Kleinen\, Hausführungen und eine Tombola.
+DTSTART:20240421T120000Z
+DTEND:20240421T235959Z
+DTSTAMP:20240415T124727Z
+UID:01e71c5a-6439-4a01-8afa-c3dac10ea5b2
+DESCRIPTION:Die Münze 13 lädt zum Frühlingsflohmarkt „Treibende Karto
+ ffeln“ ein. Neben dem Stöbern auf dem Flohmarkt können Besucher ihre k
+ reative Ader an Ton ausleben\, Waffeln und Getränke genießen\, sowie Mus
+ ik lauschen. Für die Kleinen gibt es zwischen 13-14 Uhr Kinderschminken. 
+ Außerdem sind Hausführungen geplant und eine Tombola sowie eine Dino-Hü
+ pfburg bieten Spaß für alle Altersklassen.\n\nStandanmeldung: muenze13@r
+ iseup.net bis zum 18.04.2024. Standgebühr: 10€\, bar vor Ort. Pflanzen(
+ -Ableger) und Samen können auch zum Tauschen oder Verkaufen mitgebracht w
+ erden.\nHausführungen: 12:30\, 13:30\, 14:30 Uhr\nGesichterschminken: 13-
+ 14 Uhr
+LOCATION:Münzgasse 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Film über Klettern\, Selbstermächtigung und maximale Wirkung
+  im Rahmen des Klimacamps im Altdorfer Wald.
+DTSTART:20240418T200000
+DTEND:20240418T214500
+DTSTAMP:20240415T124727Z
+UID:d8035e47-a314-4a8e-aa3a-118a4fd74bae
+DESCRIPTION:Einlass ab 19.30 Uhr auf Spendenbasis.\n\nAlle Spenden gehen a
+ n die Filmemacher*innen.\n\nEin Film über Klettern\, Selbstermächtigung 
+ und maximale Wirkung. Und über Wasser und viel Kies. Die Filmemacher*inne
+ n begleiten über 18 Monate lang Aktivist*innen rund um das Klimacamp im A
+ ltdorfer Wald. Protest und ziviler Ungehorsam stoßen in Oberschwaben bei 
+ den meisten Bürger*innen auf Unverständnis und offene Ablehnung\, auch w
+ enn es um den Erhalt der natürlichen Lebensgrundlagen geht. Nun regt sich
+  im Kletteraktivismus eine neue Form des Widerstands\, die aber gerichtlic
+ h unnachgiebig verfolgt wird. Zunehmend erkennt die Bevölkerung\, dass es
+  um Kies\, Trinkwasser und Mitbestimmung über den „Alti“ geht\, der a
+ ls Staatswald eigentlich allen gehört.\nDer Konzern Meichle+Mohr möchte 
+ einen Teil des Altdorfer Walds roden und dort eine 90 Meter tiefe Kiesgrub
+ e errichten.
+LOCATION:Epplehaus Tübingen
+END:VEVENT
 END:VCALENDAR
