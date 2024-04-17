@@ -3245,4 +3245,17 @@ DESCRIPTION:Einlass ab 19.30 Uhr auf Spendenbasis.\n\nAlle Spenden gehen a
  e errichten.
 LOCATION:Epplehaus Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmakt in der Huberstraße
+DTSTART:20240504T100000
+DTEND:20240504T160000
+DTSTAMP:20240417T204020Z
+UID:ad958cab-0433-4e06-8623-9376e10574a2
+DESCRIPTION:Safe-the-Date: Huberstraßen Flohmakt\n\nDatum und Uhrzeit: Sa
+ mstag\, 04.05. von 10 - 16 Uhr\n\nOrt: Auf den Höfen des Wohnprojekts Tan
+ te Huber und der Nachbarschaft der Huberstraße\n\nDetails: Stände könne
+ n ab 09.30 Uhr aufgebaut werden. Natürlich keine Standkosten. Außerdem: 
+ Waffeln\, Crepes\, Kuchen\, Kaffee und mehr.
+LOCATION:Wohnprojekt Tante Huber und Nachbarschaft der Huberstraße
+END:VEVENT
 END:VCALENDAR
