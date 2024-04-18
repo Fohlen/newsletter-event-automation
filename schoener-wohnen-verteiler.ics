@@ -3258,4 +3258,52 @@ DESCRIPTION:Safe-the-Date: Huberstraßen Flohmakt\n\nDatum und Uhrzeit: Sa
  Waffeln\, Crepes\, Kuchen\, Kaffee und mehr.
 LOCATION:Wohnprojekt Tante Huber und Nachbarschaft der Huberstraße
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impro-Show mit der Gruppe Stegreiftheater
+DTSTART:20240503T193000
+DTEND:20240503T235959
+DTSTAMP:20240418T204108Z
+UID:4972aff5-f2ef-41aa-b0d7-0085c79afd48
+DESCRIPTION:Unsere Impro-Gruppe Stegreiftheater tritt wieder auf! Ob Zeitr
+ affer\, Stille Post oder Trizophrenie - mit eurer Hilfe wollen wir lustige
+ \, spannende oder auch ernsthafte Szenen auf die Bühne bringen. Wie immer
+  spontan und ohne Drehbuch\, nach den Vorgaben des Publikums! Es geht los 
+ in 3 - 2 - 1 - IMPRO! Eintritt auf Spendenbasis. Wir freuen uns auf zahlre
+ iches Publikum!
+LOCATION:Fichtehaus-Saal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musik\, Poesie\, Performances\, Tanz\, Theater - ein Abend voller 
+ Kunst!
+DTSTART:20240503T200000Z
+DTEND:20240504T020000Z
+DTSTAMP:20240418T204108Z
+UID:b9a2831e-8aa4-4e66-8cdd-1f2674422829
+DESCRIPTION:Wir laden herzlich zum bunten Abend im Lichti ein! Freut euch 
+ auf Musik\, Poesie\, Performances\, Tanz\, Theater und allem\, was das Kun
+ st-Herz begehrt! Nicht nur könnt ihr euren Abend genießen\, sondern auch
+  die Bühne erobern\, um bis zu 10-minütige künstlerische Beiträge zu t
+ eilen. Bringt gute Laune\, eure Freund*innen und Instrumente für die absc
+ hließende Jam-Session mit! Für Beiträge und technischen Bedarf\, bitte 
+ eine Mail an dalichtiz@protonmail.com senden.
+LOCATION:Das Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Besprechung der Aktionstage gegen Tesla-Werkserweiterung in Grünh
+ eide
+DTSTART:20240425T180000Z
+DTEND:20240425T235959
+DTSTAMP:20240418T204108Z
+UID:0b7050a9-ad2d-4050-8d8c-9dfa31e6a643
+DESCRIPTION:Einladung zum Infotreffen bezüglich der Aktionstage 'Disrupt 
+ Tesla' vom 08.-12. Mai 2024. Wir diskutieren Hintergründe\, Ziele und kon
+ krete Aktionspläne gegen die Tesla-Werkserweiterung in Grünheide. Ziel i
+ st es\, auf die Probleme wie ökologischen Fußabdruck\, neokoloniale Ausb
+ eutung und die Gefährdung der Wasserversorgung durch Großkonzerne wie Te
+ sla aufmerksam zu machen. Wir suchen nach Lösungen für eine nachhaltiger
+ e Mobilität und wollen die Praxis des Greenwashing in Frage stellen. Alle
+  Interessierten sind willkommen\, sich zu informieren und mitzudiskutieren
+ .
+LOCATION:wird noch bekannt gegeben
+END:VEVENT
 END:VCALENDAR
