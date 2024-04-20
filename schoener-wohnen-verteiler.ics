@@ -3339,4 +3339,18 @@ DESCRIPTION:Liebe Literaturfreunde und Freundinnen\,\n\nWir laden euch her
  a Salomon
 LOCATION:Wird noch bekannt gegeben
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOAKT: Kalendertermin - offene Diskussion und Aktionen gegen Klima
+ krise und für Klimagerechtigkeit.
+DTSTART:20240425T190000
+DTEND:20240425T210000
+DTSTAMP:20240420T204020Z
+UID:6c9975e0-a767-4712-8c10-7f38c3fc5003
+DESCRIPTION:Herzliche Einladung zum nächsten Tübinger offenen antikapita
+ listischen Klimatreffen (TOAKT) am Donnerstag\, den 25.4.\, um 19 Uhr in d
+ er Trude Lutz (Münzgasse 4). Wir diskutieren über Tesla-Aktionstage\, EU
+ -Wahlen und weitere klimagerechte Lösungen und Perspektiven. Offen für a
+ lle Interessierten!
+LOCATION:Trude Lutz\, Münzgasse 4\, Tübingen
+END:VEVENT
 END:VCALENDAR
