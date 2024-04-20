@@ -3306,4 +3306,37 @@ DESCRIPTION:Einladung zum Infotreffen bezüglich der Aktionstage 'Disrupt
  .
 LOCATION:wird noch bekannt gegeben
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auswirkungen des Rohstoffabbaus in der Demokratischen Republik Kon
+ go
+DTSTART:20240425T180000
+DTEND:20240425T235959
+DTSTAMP:20240420T124837Z
+UID:c5ae954e-1463-45ad-ab99-9d78a7c051ef
+DESCRIPTION:Dieser Film gibt Einblicke in die Auswirkungen des Rohstoffabb
+ aus in der Demokratischen Republik Kongo und dessen globale Verknüpfungen
+ .
+LOCATION:Kino Atelier\, Vor dem Haagtor 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Gründungstreffen des Literarischen Wohnzimmerclubs\
+ , um unsere Liebe zur Literatur zu teilen und gemeinsam neue literarische 
+ Welten zu erkunden.
+DTSTART:20240510T000000Z
+DTEND:20240510T235959
+DTSTAMP:20240420T124837Z
+UID:e14eada1-796e-4424-aa4c-dd9563196ace
+DESCRIPTION:Liebe Literaturfreunde und Freundinnen\,\n\nWir laden euch her
+ zlich ein\, Teil des Gründungstreffens des Literarischen Wohnzimmerclubs 
+ zu werden. Dieser Club wird eine offene Plattform für den freudigen Austa
+ usch über Literatur\, die Diskussion über Lieblingsbücher\, die Entdeck
+ ung neuer Autoren und das Teilen von Gedanken und Eindrücken sein. Der Cl
+ ub ist offen für Menschen jeden Alters und Geschlechts und widmet sich de
+ r Liebe zur Literatur in all ihren Formen. Kommt vorbei\, teilt eure liter
+ arischen Leidenschaften und lernt neue Perspektiven kennen!\n\nOrt und Zei
+ t des Treffens werden noch bekannt gegeben. Bitte lasst uns bis zum 10.05.
+ 24 wissen\, ob ihr interessiert seid.\n\nMit herzlichen Grüßen\,\nRosalb
+ a Salomon
+LOCATION:Wird noch bekannt gegeben
+END:VEVENT
 END:VCALENDAR
