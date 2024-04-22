@@ -3375,4 +3375,87 @@ DESCRIPTION:Liebe Freund:innen des sportlichen Kräftemessens\, der tänze
  em Gratisshot belohnt!
 LOCATION:Karl-Heim-Haus\, Herrenberger Str. 22\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spezialgetränke und vegane Küfa in der Hausbar!
+DTSTART:20240424T200000
+DTEND:20240424T235900
+DTSTAMP:20240422T204122Z
+UID:84622ff7-c745-4b16-90ba-8b6cc8f6a576
+DESCRIPTION:Wir laden euch herzlich ein\, diesen Mittwoch um 20 Uhr unsere
+  Hausbar zu besuchen. Neben den bekannten Getränken bieten wir spezielle 
+ Getränke und vegane Küfa an. Das Essen bleibt eine Überraschung\, aber 
+ so viel sei verraten: Es war schon bei den antiken Römern beliebt! Wir fr
+ euen uns auf neugierige und gesellige Gäste.
+LOCATION:Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Dr. Thomas Galli
+DTSTART:20240516T180000Z
+DTEND:20240516T200000Z
+DTSTAMP:20240422T204122Z
+UID:3ba7dd6b-7595-4c6a-952c-d22cce0b977b
+DESCRIPTION:Teil der kritischen Vortragsreihe des AkJ Tübingen zur Ausein
+ andersetzung mit dem juristischen System. Ort des Geschehens ist der Hörs
+ aal 24 im Kupferbau\, Hölderlinstraße 5. Für alle politisch Interessier
+ ten\, kein juristisches Vorwissen benötigt.
+LOCATION:Hörsaal 24\, Kupferbau\, Hölderlinstraße 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einblicke in die Veränderungen und Folgen des Klimawandels in der
+  Arktis.
+DTSTART:20240425T190000
+DTEND:20240425T235959
+DTSTAMP:20240422T204122Z
+UID:1db7d859-8487-4033-afe1-0e3bcadfcf3a
+DESCRIPTION:Die Gletscher schmelzen\, der Permafrost taut\, das Packeis sc
+ hrumpft: Die Arktis erwärmt sich bis zu 4× schneller als der globale Dur
+ chschnitt. Aber warum ist das so? Kann der Eisbär nicht einfach an Land l
+ eben\, wenn das Meereis verschwindet? Und was hat das mit uns in Deutschla
+ nd zu tun? Der Vortrag gibt Einblicke in die Veränderungen und Folgen des
+  Klimawandels in der Arktis\, zeigt\, wie weitere menschliche Einflüsse d
+ as Ökosystem zusätzlich belasten und welche Auswirkungen das bereits jet
+ zt auf Tiere\, Pflanzen und Menschen hat. \n\nDie Referentin hat im letzte
+ n halben Jahr in Longyearbyen\, der sich am schnellsten erwärmende Stadt 
+ der Welt\, arktische Biologie studiert. Sie berichtet im Vortrag von wisse
+ nschaftlichen Erkenntnissen\, sowie eigenen Erfahrungen. Der Vortrag finde
+ t in Kooperation mit der Heinrich-Böll-Stiftung Baden Württemberg und Fr
+ idays for Future Tübingen statt.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wohnraumbündnis Tübingen organisiert ein laufendes Wahlpodium zu
+  verschiedenen wohnpolitischen Themen
+DTSTART:20240428T140000
+DTEND:20240428T170000
+DTSTAMP:20240422T204122Z
+UID:d72ac0b6-687d-4ae5-9025-c29898d88d55
+DESCRIPTION:Das Wohnraumbündnis Tübingen organisiert anlässlich der kom
+ menden Gemeinderatswahlen ein 'laufendes Wahlpodium' zu verschiedenen wohn
+ politischen Themen. Es findet am Sonntag\, den 28.04. von 14:00-17:00 Uhr 
+ statt. Die Idee ist\, dass wir gemeinsam einen kurzen Stadtrundgang durch 
+ Tübingen machen mit verschiedenen Stationen\, an denen jeweils eine wohnr
+ aumpolitische Problematik diskutiert wird: - Jugend-Wohnungslosigkeit - Wu
+ chermieten - Leerstand von Wohnraum - Städtisches Zuschussprogramm für B
+ eteiligung an gemeinwohlorientiertem Wohnungsbau/revolvierender Sozialfond
+ s. Experten und Kandidierende diskutieren die Themen. Startpunkt ist vor d
+ em BRICKS Jugendcafé\, Europastraße 17 um 14:00 Uhr. Bei Regen findet di
+ e Veranstaltung trotzdem statt.
+LOCATION:BRICKS Jugendcafé\, Europastraße 17\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shows of Schelling: Ein Abend mit HC Baxxter & Tigrrez Punch
+DTSTART:20240426T200000
+DTEND:20240426T235959
+DTSTAMP:20240422T204122Z
+UID:b3bdb242-759b-4f3c-8175-e44bcbb6d4a8
+DESCRIPTION:Liebes Grüppchen\,\n\nDiesen Freitag\, 26.4.24\, fährt die S
+ chelling mal wieder ein ganz großes Programm auf und ihr seid herzlich ei
+ ngeladen!\nDer perfekte Einstieg in ein sonniges Wochenende.\n\nBegrüßt 
+ mit uns:\n\nHC Baxxter\nEine wahre Größe auf dem deutschen Zecken-Olymp 
+ \;-) Gute-Laune-Techno trifft auf super geile Texte gegen Patriarchat\, Ka
+ pitalismus\, Arbeit\, Rassismus und die ganze andre Scheiße auch. Einfach
+  mal guten Gewissens richtig eskalieren. HC Baxxter liefert den Soundtrack
+  dazu\, und fetzt dabei nicht nur den Freund*innen elektroni...
+LOCATION:Shows of Schelling
+END:VEVENT
 END:VCALENDAR
