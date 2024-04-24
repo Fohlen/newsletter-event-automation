@@ -3458,4 +3458,43 @@ DESCRIPTION:Liebes Grüppchen\,\n\nDiesen Freitag\, 26.4.24\, fährt die S
   dazu\, und fetzt dabei nicht nur den Freund*innen elektroni...
 LOCATION:Shows of Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gartenfest und After Party zum 1. Mai
+DTSTART:20240501T120000Z
+DTEND:20240501T230000Z
+DTSTAMP:20240424T125934Z
+UID:ca560051-b56d-4763-9ca0-73af2a7784d7
+DESCRIPTION:Der 1. Mai steht im Zeichen von Arbeit und Protest. Im Anschlu
+ ss an die DGB-1.Mai-Demonstration gibt es eine Zusammenkunft im Schelling-
+ Hof&Garten bzw. Kellerbar bei schlechtem Wetter. Das Programm umfasst Esse
+ n\, Getränke\, Infostand\, T-Shirt-Druck\, antiautoritärer Vernetzung\, 
+ Vorträge und eine Afterparty.
+LOCATION:Schelling-Hof&Garten / Kellerbar\, Schellingstr. 6 bzw. Lu15 (Lud
+ wigstraße 15)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaffee\, Kuchen und Spiele im Blauen Salon
+DTSTART:20241215T140000
+DTEND:20241215T190000
+DTSTAMP:20240424T125934Z
+UID:3b54c4ad-d34e-47cd-8b6a-c1d36490164a
+DESCRIPTION:Hallo zusammen\,\n\nam Sonntag werden wir bei Kaffee und Kuche
+ n im Blauen Salon einen Spielenachmittag veranstalten. Bringt gerne eure l
+ iebsten Brett- und Kartenspiele mit\, wir stellen aber auch welche zur Ver
+ fügung. Los gehts um 14 Uhr!\n\nLiebe Grüße\nEure Kaffee-Kompliz*innen 
+ aus der Münze13
+LOCATION:Blauer Salon\, Münze13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handwerkliche und kreative Unterstützung gesucht
+DTSTART:20240501T000000Z
+DTEND:20240515T000000Z
+DTSTAMP:20240424T125934Z
+UID:70c6dd73-8516-4b8a-94a4-0fdd1c12ee63
+DESCRIPTION:Das Team von Café Mehrrettich sucht ehrenamtliche Unterstütz
+ ung für die finalen Vorbereitungen zur Eröffnung Mitte Mai. Benötigt we
+ rden Hilfe bei Holzarbeiten (Lagerregale\, Sitzbänke) und Flyergestaltung
+ . Interessierte können sich über die Website oder Instagram melden.
+LOCATION:Café Mehrrettich
+END:VEVENT
 END:VCALENDAR
