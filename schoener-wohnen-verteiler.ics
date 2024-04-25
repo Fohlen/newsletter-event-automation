@@ -3497,4 +3497,15 @@ DESCRIPTION:Das Team von Café Mehrrettich sucht ehrenamtliche Unterstütz
  . Interessierte können sich über die Website oder Instagram melden.
 LOCATION:Café Mehrrettich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung von LU15 mit Kaffee und Geschenkartikeln.
+DTSTART:20240428T140000
+DTEND:20240428T170000
+DTSTAMP:20240425T124443Z
+UID:d157ba22-5a35-487c-89e8-9271dbdc73df
+DESCRIPTION:Die LU15 organisiert einen draußen Umsonstladen auf dem Stern
+ platz\, bei dem es Kaffee und vieles zu verschenken gibt. Kommen Sie zahlr
+ eich und genießen Sie einen geselligen Nachmittag.
+LOCATION:Sternplatz
+END:VEVENT
 END:VCALENDAR
