@@ -3508,4 +3508,21 @@ DESCRIPTION:Die LU15 organisiert einen draußen Umsonstladen auf dem Stern
  eich und genießen Sie einen geselligen Nachmittag.
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlie Chaplin – THE CIRCUS
+DTSTART:20240428T203000
+DTEND:20240428T230000
+DTSTAMP:20240426T125055Z
+UID:a0ab7aaa-9c56-427d-945c-f9acecbc1402
+DESCRIPTION:Liebe Menschen\, es ist wieder soweit: Stummfilm im Lichti mit
+  Live Musik! Charlie Chaplin – THE CIRCUS\, mit Cédric Berner\, Gitarre
+  und Johannes Söllner\, Piano. Eintritt frei\, Spenden erwünscht. Der Tr
+ amp mit Melone\, Schnauzer\, Spazierstock und viel zu großen Schuhen wird
+  in THE CIRCUS tollpatschig in die Manege geraten. Die Musik wird nicht no
+ tiert\, nicht komponiert\, sondern improvisiert von Cédric Berner an der 
+ Gitarre und Johannes Söllner am Piano. Getränke\, ultrabequeme Sofas und
+  die beste Stummfilmatmosphäre des ganzen Österbergs. Einlass um 20 Uhr\
+ , Beginn um 20:30 Uhr.
+LOCATION:Lichti\, Schwabstraße 6
+END:VEVENT
 END:VCALENDAR
