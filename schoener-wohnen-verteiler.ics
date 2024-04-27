@@ -3525,4 +3525,21 @@ DESCRIPTION:Liebe Menschen\, es ist wieder soweit: Stummfilm im Lichti mit
  , Beginn um 20:30 Uhr.
 LOCATION:Lichti\, Schwabstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raddemo gegen den Kopp-Verlag
+DTSTART:20240427T140000
+DTEND:20240427T235959
+DTSTAMP:20240427T124807Z
+UID:7919af0e-877f-494e-96f4-eeec904d73c9
+DESCRIPTION:Liebe Kritiker*innen des Kopp-Verlags\,\n\nmorgen\, am 27. Apr
+ il 2024\, ist es soweit:\n14 Uhr startet in der Karlstraße vor dem Zinser
+ -Kaufhaus\ndie Raddemo gegen den Kopp-Verlag.\nWir hoffen natürlich auf g
+ utes Wetter\, denken aber auch dass Überzeugung\nund Haltung nicht vom We
+ tterbericht abhängig sein sollte.\n\nIn Rottenburg gibt’s am Zehntscheu
+ erplatz übrigens belegte Focaccia\nzur Stärkung.\n\nHier gibt es noch sh
+ arepics für die sozialen Medien:\nhttps://stoppkopp.mtmedia.org/2024/04/2
+ 6/sharepics-fuer-raddemo-bewerbung-ueber-social-media/\n\nDann bis morgen!
+ \n\nEure Initiative „Stopp Kopp!“
+LOCATION:Karlstraße vor dem Zinser-Kaufhaus
+END:VEVENT
 END:VCALENDAR
