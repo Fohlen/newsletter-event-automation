@@ -3647,4 +3647,18 @@ DESCRIPTION:Beginn der Veranstaltung um 20 Uhr mit einem Vortrag von der a
  us Afghanistan.
 LOCATION:Münze 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Markt in der Huberstraße
+DTSTART:20240504T100000
+DTEND:20240504T160000
+DTSTAMP:20240428T204026Z
+UID:4d365e94-9800-46ae-a4d0-20500b56385b
+DESCRIPTION:Herzliche Einladung zum Huberstraßen Flohmarkt am Samstag\, 0
+ 4.05. von 10 - 16 Uhr. Auf den Höfen des Wohnprojekts Tante Huber und der
+  Nachbarschaft der Huberstraße 37/39/29/32 unter KBF.\nStände können ab
+  09:30 Uhr aufgebaut werden. Standkosten gibt es nicht.\nAußerdem gibt es
+  Waffeln\, Crepes\, Kuchen\, Kaffee und mehr.\nWir freuen uns auf Euch! Ge
+ rne die Mail weiterleiten und teilen...
+LOCATION:Huberstraße 37/39/29/32\, KBF
+END:VEVENT
 END:VCALENDAR
