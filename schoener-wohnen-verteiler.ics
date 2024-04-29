@@ -3661,4 +3661,34 @@ DESCRIPTION:Herzliche Einladung zum Huberstraßen Flohmarkt am Samstag\, 0
  rne die Mail weiterleiten und teilen...
 LOCATION:Huberstraße 37/39/29/32\, KBF
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwischenmiete in K’furt
+DTSTART:20240523T000000
+DTEND:20240711T235959
+DTSTAMP:20240429T204026Z
+UID:dda05faa-13ca-4d67-a496-c81499867e12
+DESCRIPTION:Zwischenmiete Angebot: Nadine&Lars bieten ihre vollmöblierte 
+ und ausgestattete Wohnung in K’furt zur Zwischenmiete an. Ein kürzerer 
+ Zeitraum innerhalb der angegebenen Daten ist möglich. Weitere Information
+ en können auf WG-gesucht gefunden werden.
+LOCATION:K’furt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Übergabe der Unterschriften für bezahlbaren Nahverkehr und gute 
+ Arbeitsbedingungen für Busfahrer*innen.
+DTSTART:20240502T163000
+DTEND:20240502T235959
+DTSTAMP:20240429T204026Z
+UID:472f8c64-d2a8-4b7d-a1e1-d7258cae7fd9
+DESCRIPTION:Das Bündnis „Tübingen fährt voraus“ organisiert eine Ku
+ ndgebung zur Übergabe der Unterschriften ihrer Petition am Donnerstag\, d
+ em 2. Mai 2024\, um 16:30 Uhr auf dem Marktplatz in Tübingen. Die Petitio
+ n fordert ein 15 €-Deutschlandticket für alle und ein 0-Euro-Ticket\, s
+ owie bessere Arbeitsbedingungen für die Tübinger Busfahrer*innen. Unters
+ tützt wird das Bündnis von verschiedenen Organisationen wie Fridays for 
+ Future Tübingen\, ver.di\, und weitere. Ihre Anwesenheit setzt ein Zeiche
+ n für eine sozial-ökologische Verkehrswende und einen bezahlbaren öffen
+ tlichen Nahverkehr.
+LOCATION:Marktplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
