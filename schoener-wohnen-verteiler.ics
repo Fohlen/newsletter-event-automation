@@ -3691,4 +3691,17 @@ DESCRIPTION:Das Bündnis „Tübingen fährt voraus“ organisiert eine Ku
  tlichen Nahverkehr.
 LOCATION:Marktplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eintritt auf Spendenbasis
+DTSTART:20240503T193000
+DTEND:20240503T235959
+DTSTAMP:20240430T204024Z
+UID:0cd34aa7-8e60-4f9b-9676-cde8fd9e530e
+DESCRIPTION:Liebe schöner Wohnende\, unsere Impro-Gruppe Stegreiftheater 
+ tritt wieder auf! Ob Zeitraffer\, Stille Post oder Triple Tinder Date - mi
+ t eurer Hilfe wollen wir lustige\, spannende oder auch ernsthafte Szenen a
+ uf die Bühne bringen. Wie immer spontan und ohne Drehbuch\, nach den Vorg
+ aben des Publikums! Freut euch auf einen Abend voller Improvisation!
+LOCATION:Fichtehaus-Saal
+END:VEVENT
 END:VCALENDAR
