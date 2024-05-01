@@ -3704,4 +3704,26 @@ DESCRIPTION:Liebe schöner Wohnende\, unsere Impro-Gruppe Stegreiftheater
  aben des Publikums! Freut euch auf einen Abend voller Improvisation!
 LOCATION:Fichtehaus-Saal
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein akustisches Fresh-Up von Vivaldis 'Die vier Jahreszeiten' mit 
+ Twisted Classic.
+DTSTART:20240505T203000
+DTEND:20240505T230000
+DTSTAMP:20240501T125214Z
+UID:a76092e9-4dd6-4345-b35e-f77ce94671ad
+DESCRIPTION:Liebe Menschen\, wieder einmal ist es soweit: Vivaldi wird ver
+ groovt. 'Die vier Jahreszeiten' von Antonio Vivaldi erhalten durch Twisted
+  Classic ein akustisches Fresh-Up. Erlebt Melli Kirch an der Violine und J
+ ohannes Söllner am Piano in einem einzigartigen Konzert\, das die Grenzen
+  zwischen klassischer Musik und modernen Interpretationen verschwimmen lä
+ sst. Der Eintritt ist frei\, Spenden sind jedoch sehr willkommen.\n\nFrüh
+ ling\, Sommer\, Herbst und Winter – zu jeder Jahreszeit hat Antonio Viva
+ ldi 1725 ein Sonett verfasst und ein entsprechendes Violinkonzert komponie
+ rt. Twisted Classic nimmt die Originalpartituren als Ausgangspunkt für ih
+ re Interpretationen\, die von minimalistischen Klangflächen über sphäri
+ sche Melodiecollagen bis hin zu trance-artigen Grooves und jazzig-farbigen
+  Harmonien reichen. Ein allzuoft durchgenudelter Klassiker in einem musika
+ lisch hintergründigen und stimmungsvolles Fresh-Up.
+LOCATION:Lichti\, Schwabstraße 6
+END:VEVENT
 END:VCALENDAR
