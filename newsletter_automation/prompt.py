@@ -60,10 +60,12 @@ def calendar_from_model(entry: CalendarModel) -> Calendar:
     event.add('DESCRIPTION', entry.description)
     event.add('UID', uuid.uuid4())
 
+    end_of_day = datetime.datetime.combine(entry.start, datetime.time.max)
+
     if entry.end is not None:
-        event.add("DTEND", entry.end)
+        end_date = min(end_of_day, entry.end)
+        event.add("DTEND", end_date)
     else:
-        end_of_day = datetime.datetime.combine(entry.start, datetime.time.max)
         event.add("DTEND", end_of_day)
 
     cal.add_component(event)
