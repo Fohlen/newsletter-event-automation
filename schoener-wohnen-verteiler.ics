@@ -3714,4 +3714,20 @@ DESCRIPTION:Liebe Menschen\, wieder einmal ist es soweit: Vivaldi wird ver
  lisch hintergründigen und stimmungsvolles Fresh-Up.
 LOCATION:Lichti\, Schwabstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzertabend mit einer Mischung aus Post-Dub und tropisch-industri
+ ellen Klängen
+DTSTART:20240503T203000
+DTEND:20240503T235959
+DTSTAMP:20240502T125308Z
+UID:f80b3a44-b05e-428d-a4bd-ab68dbe16909
+DESCRIPTION:Die plattform:[no budget] lädt zum Konzertabend in die Shedha
+ lle\, Schlachthausstr. 13 Tübingen\, ein. Selektor Averell umrahmt den Ab
+ end mit seinem aktuellen Post-Dub Schallplatten Programm. ALA|MEDA\, bekan
+ nt als Alameda 5\, eine der innovativsten Bands aus der polnischen Undergr
+ ound-Szene\, präsentiert ihren einzigartigen Mix aus subäquatorialen Ins
+ pirationen und industriellen Klängen. Weitere Informationen unter https:/
+ /www.plattform-nobudget.de.
+LOCATION:Shedhalle\, Schlachthausstr. 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
