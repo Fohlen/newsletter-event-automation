@@ -3662,18 +3662,6 @@ DESCRIPTION:Herzliche Einladung zum Huberstraßen Flohmarkt am Samstag\, 0
 LOCATION:Huberstraße 37/39/29/32\, KBF
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zwischenmiete in K’furt
-DTSTART:20240523T000000
-DTEND:20240711T235959
-DTSTAMP:20240429T204026Z
-UID:dda05faa-13ca-4d67-a496-c81499867e12
-DESCRIPTION:Zwischenmiete Angebot: Nadine&Lars bieten ihre vollmöblierte 
- und ausgestattete Wohnung in K’furt zur Zwischenmiete an. Ein kürzerer 
- Zeitraum innerhalb der angegebenen Daten ist möglich. Weitere Information
- en können auf WG-gesucht gefunden werden.
-LOCATION:K’furt
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Übergabe der Unterschriften für bezahlbaren Nahverkehr und gute 
  Arbeitsbedingungen für Busfahrer*innen.
 DTSTART:20240502T163000
