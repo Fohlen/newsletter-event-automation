@@ -3730,4 +3730,40 @@ DESCRIPTION:Die plattform:[no budget] lädt zum Konzertabend in die Shedha
  /www.plattform-nobudget.de.
 LOCATION:Shedhalle\, Schlachthausstr. 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunte Abendveranstaltung mit Musik\, Poesie\, Performances\, Tanz\
+ , Theater und mehr.
+DTSTART:20240503T200000
+DTEND:20240503T235959
+DTSTAMP:20240503T125115Z
+UID:e91c7be6-67b7-4506-9ea9-ce1b7f84f788
+DESCRIPTION:Hallo zusammen! Es ist wieder an der Zeit - im Lichti findet d
+ er bunte Abend statt! Wir laden euch ein am Freitag\, 3. Mai ab 20 Uhr zu 
+ unserem bunten Abend mit Musik\, Poesie\, Performances\, Tanz\, Theater\, 
+ und allem was das Kunst-Herz begehrt! Kommt vorbei und bringt gute Laune\,
+  eure Freund*innen und Instrumente für die abschließende Jam-Session mit
+ ! Falls ihr Lust habt\, selbst die Bühne zu erobern und bis zu 10-minüti
+ ge künstlerische Beiträge zu teilen\, seid ihr allerherzlichst eingelade
+ n dies zu tun! Beschreibt euren Beitrag und nennt technischen Bedarf bitte
+  per Mail an: dalichtiz@protonmail.com Wir freuen uns auf euch! Die Lichti
+ s
+LOCATION:Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarische Party zur Feier der Familienvereinigung von Sediqa Ha
+ midi mit Vortrag und Musik.
+DTSTART:20240504T200000
+DTEND:20240504T235959
+DTSTAMP:20240503T125115Z
+UID:dd1f2e27-46be-4ff8-ad6c-6c31d89e853b
+DESCRIPTION:**Beginn 20 Uhr**: Vortrag "Ein Blick auf die Frauen in Afghan
+ istan" von Sediqa Hamidi\, gefolgt von einer Soliparty ab 21 Uhr zur Unter
+ stützung von Sediqa und ihrer Familie.\n\n**Musik Line-up**:\n- 21:00: Le
+ ons Band (Überraschung)\n- 22:00: Frederik Neu (House\, Indie Dance)\n- 2
+ 3:00: Chachoe (Techno)\n- 00:00: Auflegehenne (fast/melodic Techno)\n- 01:
+ 00: Pablito (Trance)\n- 02:00: Klabautermann (Linus - Psy Groove)\n\nZur U
+ nterstützung von Sediqa\, die für die Bildung von Mädchen und Frauen in
+  Afghanistan kämpfte\, und ihrer Familie. Um Spende wird gebeten.
+LOCATION:Münze 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
