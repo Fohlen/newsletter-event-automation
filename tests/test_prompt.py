@@ -13,7 +13,7 @@ def message_a(data_dir):
 
 
 @pytest.mark.integration
-def test_prompt(message_a):
+def test_prompt(message_a) -> None:
     with message_a.open() as message_fp:
         message: Message = json.load(message_fp)
         entry = prompt_model(message)
