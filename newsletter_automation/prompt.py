@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timedelta, timezone, time
 import uuid
 from email.utils import parsedate_to_datetime
 from typing import Optional
@@ -17,8 +17,8 @@ class CalendarModel(BaseModel):
     summary: str
     description: str
     location: str
-    start: datetime.datetime
-    end: Optional[datetime.datetime] = None
+    start: datetime
+    end: Optional[datetime] = None
 
 
 def prompt_model(message: Message) -> CalendarModel:
@@ -60,13 +60,15 @@ def calendar_from_model(entry: CalendarModel) -> Calendar:
     event.add('DESCRIPTION', entry.description)
     event.add('UID', uuid.uuid4())
 
-    end_of_day = datetime.datetime.combine(entry.start, datetime.time.max)
+    end_of_day = datetime.combine(entry.start, time.max).replace(tzinfo=timezone(offset=timedelta()))
 
     if entry.end is not None:
-        end_date = min(end_of_day, entry.end)
-        event.add("DTEND", end_date)
+        entry_end_date = entry.end.replace(tzinfo=timezone(offset=timedelta()))
+        end_date = min(end_of_day, entry_end_date)
     else:
-        event.add("DTEND", end_of_day)
+        end_date = end_of_day
+
+    event.add("DTEND", end_date)
 
     cal.add_component(event)
 
