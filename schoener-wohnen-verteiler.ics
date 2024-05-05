@@ -3766,4 +3766,20 @@ DESCRIPTION:**Beginn 20 Uhr**: Vortrag "Ein Blick auf die Frauen in Afghan
   Afghanistan kämpfte\, und ihrer Familie. Um Spende wird gebeten.
 LOCATION:Münze 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shadow Show aus Detroit spielt im Blauen Salon. Toröffnungen um 2
+ 1 Uhr\, Beginn um 22 Uhr.
+DTSTART:20240508T220000
+DTEND:20240508T235959Z
+DTSTAMP:20240505T204016Z
+UID:4218dfcb-86ed-4268-a457-d78c05dc5bc6
+DESCRIPTION:Shadow Show aus Detroit\, ein Power-Trio\, das 60er-Jahre-Gara
+ ge-Psychedelia in einer modernen Pop-Art-Version des 21. Jahrhunderts verk
+ örpert\, spielt im Blauen Salon. Die Musik des Trios ist geprägt von fre
+ netischen Grooves\, umwerfenden Harmonien und ist tief im Detroit-Sound ve
+ rwurzelt. Ihr aktuelles Album 'Fantasy Now!' zeichnet sich durch eine psyc
+ hedelische Vision aus\, die Pop-Melodien\, Fuzz-Gitarren\, Flöten und meh
+ r umfasst. Veranstaltungsdetails: https://shadowshow-detroit.bandcamp.com
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
