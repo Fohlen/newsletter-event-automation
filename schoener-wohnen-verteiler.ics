@@ -3782,4 +3782,61 @@ DESCRIPTION:Shadow Show aus Detroit\, ein Power-Trio\, das 60er-Jahre-Gara
  r umfasst. Veranstaltungsdetails: https://shadowshow-detroit.bandcamp.com
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung gegen die Auswirkungen von Tesla's GIGA-Fabrik 
+ und den „grünen“ Kapitalismus in der Autoindustrie.
+DTSTART:20240510T183000Z
+DTEND:20240510T203000Z
+DTSTAMP:20240507T125338Z
+UID:bc87c355-9623-483e-af31-3dc53cbab8c8
+DESCRIPTION:Tesla steht für die graue Realität des „grünen“ Kapital
+ ismus. Das E-Auto ist für die Autoindustrie\, die in einer Überproduktio
+ nskrise steckt\, lediglich Mittel zum Zweck: Zum Profit. Ein vermeintlich 
+ grünes Produkt wird unter umweltschädlichen und elenden Bedingungen prod
+ uziert. Der Betrieb der Autos steht in einer Nutzungskonkurrenz zu nachhal
+ tigem Strom. Anstatt einer Antriebswende brauchen wir eine Verkehrswende f
+ ür echten und sozial gerechten Klimaschutz. Das Tesla-Werk in Brandenburg
+  soll zur so genannten „GIGA-Factory“ ausgebaut werden\, was erheblich
+ e ökologische und soziale Auswirkungen hat. Die Veranstaltung findet am 1
+ 0. Mai um 18.30 Uhr auf dem Tübinger Holzmarkt statt\, organisiert vom T
+ übinger Offenen Antikapitalistischen Klimatreffen (TO AKT)
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag zu den Themen Nationalsozialismus\, Kriegsende und Nachkri
+ egszeit in Tübingen\, organisiert von WG Dynamo Tresen.
+DTSTART:20240508T190000
+DTEND:20240508T235900Z
+DTSTAMP:20240507T125338Z
+UID:8c4cca35-ff3f-474e-899b-066474abcfe6
+DESCRIPTION:Kommenden Mittwoch findet ein Vortrag im Rahmen der Hausbar am
+  08. Mai statt\, der sich mit der Rolle Tübingens während der Nazi-Zeit\
+ , dem Kriegsende und der Nachkriegszeit auseinandersetzt. Themen sind unte
+ r anderem die Universität Tübingen als Zentrum rassistischer und antisem
+ itischer Ideologie\, der Einsatz ausländischer Zwangsarbeiter*innen\, Tü
+ bingens Rolle als Garnisons- und Lazarettstadt\, die dramatischen Ereignis
+ se bei Kriegsende und die französische Besatzung. Es wird außerdem beleu
+ chtet\, was mit den Tätern geschah\, ob eine wirkungsvolle Entnazifizieru
+ ng stattfand\, der Widerstand im NS\, der demokratische Neuanfang und für
+  wen die Befreiung vom Faschismus tatsächlich eine Befreiung war. Referen
+ t ist Kai Herrman aus der WG Dynamo Tresen\, die anschließend auch die Ha
+ usbar mit Drinks und Essen schmeißt.
+LOCATION:Schelling\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tausche deine saubere und gut erhaltene Kleidung gegen neue Liebli
+ ngsstücke.
+DTSTART:20240511T110000
+DTEND:20240511T140000Z
+DTSTAMP:20240507T125338Z
+UID:94463dfb-6b4c-4245-86f8-3d66a792bb44
+DESCRIPTION:Das Umweltzentrum Tübingen lädt zum Kleidertausch im Rahmen 
+ der FAIRstrickt Aktionswoche ein. Diese Veranstaltung bietet die Möglichk
+ eit\, saubere und gut erhaltene Kleidung zu tauschen und neue Lieblingsst
+ ücke zu finden. Die Veranstaltung ist kostenlos und für alle Geschlechte
+ r und Altersgruppen offen. Eine kleine Spende ist willkommen\, um solche E
+ vents auch in Zukunft anbieten zu können. Zusammen können wir einen Beit
+ rag für eine nachhaltigere Zukunft leisten!
+LOCATION:Umweltzentrum Tübingen
+END:VEVENT
 END:VCALENDAR
