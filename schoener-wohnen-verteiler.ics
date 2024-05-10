@@ -3839,4 +3839,20 @@ DESCRIPTION:Das Umweltzentrum Tübingen lädt zum Kleidertausch im Rahmen
  rag für eine nachhaltigere Zukunft leisten!
 LOCATION:Umweltzentrum Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freut euch auf ein einmaliges Konzert mit Vilma Talvitie im Tübin
+ ger Wohnprojekt Lichti. Eintritt frei\, Spenden willkommen.
+DTSTART:20240513T203000
+DTEND:20240513T235959Z
+DTSTAMP:20240510T125257Z
+UID:c2cdc715-0112-436b-8a24-97d40e23b57c
+DESCRIPTION:Der Montag Abend wird magisch im Tübinger Wohnprojekt Lichti!
+  Kommt und erlebt Vilma Talvitie\, eine außergewöhnliche finnische Küns
+ tlerin\, die mit ihrer Musik – eine Mischung aus Folk\, Welt und Pop –
+  verzaubert. Die Türen öffnen um 19 Uhr für einen gemütlichen Österba
+ r mit Getränken\, bevor das Konzert um 20:30 Uhr beginnt. Eintauchen in e
+ ine Welt der Musik und im Anschluss\, wer mag\, noch gemütlich etwas trin
+ ken.
+LOCATION:Wohnprojekt Lichti\, Tübingen
+END:VEVENT
 END:VCALENDAR
