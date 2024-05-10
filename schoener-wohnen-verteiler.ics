@@ -3855,4 +3855,16 @@ DESCRIPTION:Der Montag Abend wird magisch im Tübinger Wohnprojekt Lichti!
  ken.
 LOCATION:Wohnprojekt Lichti\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Workshop zum Thema Redeleitung in Plena für Interessierte.
+DTSTART:20241215T140000
+DTEND:20241215T180000Z
+DTSTAMP:20240510T204033Z
+UID:e07e5af5-270a-4298-b518-2f3ab9379811
+DESCRIPTION:Liebe schöner Wohnende\, am Sonntagnachmittag findet im Leibn
+ izhaus II ein Workshop zum Thema Redeleitung in Plena statt. Interessierte
+  können gerne dazu stoßen. Anmeldung ist erwünscht\, per Nachricht an 0
+ 176 4584 3862. Liebe Grüße\, Stefan für das LH2
+LOCATION:Leibnizhaus II
+END:VEVENT
 END:VCALENDAR
