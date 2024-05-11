@@ -3893,4 +3893,19 @@ DESCRIPTION:Die Wüste Welle bietet wieder eine Stelle für den Bundesfrei
  ebe Grüße aus dem Funkhaus.
 LOCATION:Wüste Welle Funkhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kreativer Protest gegen die Ehrung von Klaus Gestwa in Tübingen
+DTSTART:20240515T170000
+DTEND:20240515T235959Z
+DTSTAMP:20240511T204018Z
+UID:6f0f7b61-356b-4aeb-a21a-de6aea7a902a
+DESCRIPTION:Die Universität Tübingen plant\, Klaus Gestwa am 15. Mai um 
+ 17 Uhr im Pfleghofsaal für seine Wissenschaftskommunikation zu ehren\, tr
+ otz Kritik an seiner Position zur „Zeitenwende“ und Waffenlieferungen.
+  Die Veranstaltung ist nicht öffentlich\, doch es wird zu kreativem Prote
+ st aufgerufen. Für weitere Informationen oder um sich am Protest zu betei
+ ligen\, können Interessierte imi@imi-online.de oder gegenunitue@web.de ko
+ ntaktieren.
+LOCATION:Pfleghofsaal\, Tübingen
+END:VEVENT
 END:VCALENDAR
