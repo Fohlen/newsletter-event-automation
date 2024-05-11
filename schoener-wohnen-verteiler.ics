@@ -3867,4 +3867,30 @@ DESCRIPTION:Liebe schöner Wohnende\, am Sonntagnachmittag findet im Leibn
  176 4584 3862. Liebe Grüße\, Stefan für das LH2
 LOCATION:Leibnizhaus II
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag zur Kritik der Bedürfnisse mit Thomas Ebermann
+DTSTART:20240513T180000
+DTEND:20240513T200000Z
+DTSTAMP:20240511T125000Z
+UID:e0284d96-bd90-407c-b82d-d98c0029bc9b
+DESCRIPTION:Thomas Ebermann diskutiert die Frage\, warum wir wollen\, was 
+ wir wollen. Geht es um biographischen Zufall\, Ausdruck von Individualitä
+ t oder sind unsere Bedürfnisse Ergebnis der kapitalistischen Gesellschaft
+ ? Rückgriff auf Philosophie von Marx\, Adorno\, Marcuse und anderen. Teil
+ nahmevoraussetzungen: Keine Uniformen oder menschenverachtenden Symbole.
+LOCATION:Kupferbau Hörsaal 24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine neue Stelle für den Bundesfreiwilligendienst ist bei der Wü
+ ste Welle verfügbar.
+DTSTART:20241202T080000Z
+DTEND:20241202T235959Z
+DTSTAMP:20240511T125000Z
+UID:2b19b5e6-3a37-49f1-a33b-8578af4b16a5
+DESCRIPTION:Die Wüste Welle bietet wieder eine Stelle für den Bundesfrei
+ willigendienst an. Details zur Ausschreibung finden Sie im Anhang. Bitte f
+ ühlen Sie sich frei\, diese Information zu teilen oder weiterzuleiten. Li
+ ebe Grüße aus dem Funkhaus.
+LOCATION:Wüste Welle Funkhaus
+END:VEVENT
 END:VCALENDAR
