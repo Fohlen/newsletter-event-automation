@@ -3908,4 +3908,59 @@ DESCRIPTION:Die Universität Tübingen plant\, Klaus Gestwa am 15. Mai um
  ntaktieren.
 LOCATION:Pfleghofsaal\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zu den Auswirkungen der Bezahlkarte für Geflüchtet
+ e im Landkreis Tübingen.
+DTSTART:20240514T190000
+DTEND:20240514T235959Z
+DTSTAMP:20240513T125333Z
+UID:9172a202-53e8-4701-aed0-6ee45b475dc0
+DESCRIPTION:Die Veranstaltung beleuchtet die Einführung einer Bezahlkarte
+  im Asylbewerberleistungsgesetz und die damit verbundenen Auswirkungen auf
+  geflüchtete Menschen. Neben dem aktuellen Stand zum Thema auf Bundes-\, 
+ Landes- und kommunaler Ebene werden die Forderungen des Bündnisses aus 19
+  lokalen Initiativen für eine diskriminierungsarme Bezahlkarte vorgestell
+ t und diskutiert.\n\nWeitere Infos: https://keep.tuebingen.social/bezahlka
+ rte
+LOCATION:Gemeindehaus St. Michael\, Hechinger Str. 45\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die Grundlagen der Kritischen Theorie und ihre Entst
+ ehung.
+DTSTART:20240516T190000
+DTEND:20240516T235959Z
+DTSTAMP:20240513T125333Z
+UID:d82a15a0-0bd2-4d68-a6ff-ef24c9eacee1
+DESCRIPTION:„Deutschland muss sterben\, damit wir leben können“\, „
+ Kein Alkol ist auch keine Lösung“\, „Männer sind Schweine“ – die
+ se und viele weitere Aussagen aus den Werken der Frankfurter Schule sind l
+ ängst in den allgemeinen Sprachgebrauch übergegangen. Doch wie kam es\, 
+ dass diese Autoren – vor allem Theodor W. Adorno\, Max Horkheimer und He
+ rbert Marcuse – die radikale Gesellschaftskritik bis heute so stark beei
+ nflusst haben? Die Frankfurter Schule bzw. Kritische Theorie entstand ab d
+ en 1930er Jahren rund um das Institut für Sozialforschung in Frankfurt. D
+ ie marxistische Ausrichtung des Instituts wurde durch psychoanalytische\, 
+ kulturwissenschaftliche\, soziologische und philosophische Ansätze erweit
+ ert. Eine Frage stand dabei immer im Zentrum: Die nach dem Scheitern der s
+ ozialistischen Revolution und dem Aufkommen des Nationalsozialismus in Deu
+ tschland. Der Vortrag von Konstantin und Lisa wird eine Einführung in die
+  Entstehung\, Entwicklun und die Grundgedanken der Kritischen Theorie gebe
+ n.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A night of live music at Pfleghof.
+DTSTART:20240516T210000Z
+DTEND:20240516T235959Z
+DTSTAMP:20240513T125333Z
+UID:aa3c9ea3-09a7-487b-a79d-39b9067f3fa2
+DESCRIPTION:🎸🎸🎸 Join us for a night of live music during our open
+  jam session at Pfleghof! Whether you're a musician ready to jam or just l
+ ooking to enjoy live music with a beer\, everyone is welcome. Don't forget
+  to bring your instruments and amps.\n\nDrinks will be sold at fair prices
+  at the bar during the event. For more details and to connect with other a
+ ttendees\, consider joining our WhatsApp group: [WhatsApp Group Link](http
+ s://chat.whatsapp.com/Hn2gWk4wVOaKeYTvR1QihI).\n\nSee you there!
+LOCATION:Pfleghofstr. 2
+END:VEVENT
 END:VCALENDAR
