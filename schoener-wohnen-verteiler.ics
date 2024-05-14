@@ -4011,4 +4011,14 @@ DESCRIPTION:Liebe Schrauber*innen und die\, die es noch werden wollen! \n\
   aktuell noch andere Veranstaltungen planen.
 LOCATION:Tübinger Südstadt nahe des Bahnhofs
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Schellinghausbar öffnet ihre Türen!
+DTSTART:20240515T200000
+DTEND:20240515T235959Z
+DTSTAMP:20240514T204034Z
+UID:44ed219d-9106-4fe2-8c29-d57f72626049
+DESCRIPTION:Genießt einen kühlen Drink oder wärmt euch bei einem Teller
+  Küfa (vegan\, mit glutenfreier Variante). Wir freuen uns auf euch!
+LOCATION:Schellinghausbar
+END:VEVENT
 END:VCALENDAR
