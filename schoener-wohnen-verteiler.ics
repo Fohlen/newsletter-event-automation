@@ -3963,4 +3963,52 @@ DESCRIPTION:🎸🎸🎸 Join us for a night of live music during our open
  s://chat.whatsapp.com/Hn2gWk4wVOaKeYTvR1QihI).\n\nSee you there!
 LOCATION:Pfleghofstr. 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung zur Erinnerung an Caro und um gegen Femizide zu
+  demonstrieren.
+DTSTART:20240518T140000Z
+DTEND:20240518T160000Z
+DTSTAMP:20240514T125409Z
+UID:8ebbdba2-bf3c-4b7c-9e0d-cbd9a057477f
+DESCRIPTION:Wir versammeln uns für eine Demonstration und Mahnwache\, um 
+ gegen Femizide zu protestieren und unserer Freundin Caro zu gedenken\, die
+  Opfer eines solchen Verbrechens wurde. Die Veranstaltung zielt darauf ab\
+ , Aufmerksamkeit für das Problem der Gewalt gegen Frauen und FLINTA-Perso
+ nen zu schaffen und ein klares Zeichen gegen Respektlosigkeit\, Hierarchie
+  und Kontrolle zu setzen\, die in Gewalt münden. Teilnehmer können einen
+  Redebeitrag halten oder einsenden.
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung für alle schraubinteressierten FLINTA*\, um ih
+ re Fahrräder besser kennenzulernen und zu reparieren.
+DTSTART:20240609T110000Z
+DTEND:20240609T160000Z
+DTSTAMP:20240514T125409Z
+UID:2420de49-e287-471e-8c75-646e52ef4833
+DESCRIPTION:Liebe Schrauber*innen und die\, die es noch werden wollen! \n\
+ nEs ist wieder so weit: wir laden euch herzlich ein zu einer neuen Runde F
+ LINTA-Fahrradworkshop! Hier könnt ihr eure Fahrräder selber reparieren\,
+  optimieren\, pflegen\, verschönern oder einfach was dazu lernen. Egal ob
+  Platten flicken\, Schaltung einstellen oder Kette wechseln\, ob mit oder 
+ ohne Erfahrung... traut es euch zu und macht’s selber! Wir versorgen euc
+ h mit dem notwendigen Werkzeug\, haben diverse Ersatzteile und unterstütz
+ en euch. Ihr könnt alles mögliche ausprobieren und alle denkbaren Fragen
+  stellen\, ohne dass euch jemand kritisch über die Schulter schaut\, nerv
+ ige Kommentare macht oder euch das Werkzeug aus der Hand nimmt\, wenn die 
+ Schraube nicht gleich beim ersten Versuch auf geht.\n\nWANN? Sonntag\, 09.
+ 06.24\, 11-16 Uhr\nWO? Tübinger Südstadt nahe des Bahnhofs (Adresse wird
+  nach Anmeldung mitgeteilt)\nWER? Alle schraubinteressierten FLINTA* - Fra
+ uen\, Lesben\, inter\, nicht-binäre\, trans und agender Personen\nWAS? Le
+ rnt eure Fahrräder besser kennen und schraubt was ihr wollt! Werkzeug ist
+  für alle Reparaturen da\, speziellere Ersatzteile solltet ihr ggf. mitbr
+ ingen (gern auch in Rücksprache\, falls ihr euch unsicher seid)\nWIE? Ihr
+  könnt euch gern in Grüppchen zusammenfinden und euch gegenseitig unters
+ tützen\, ansonsten sind wir drei vor Ort und haben einiges an Schrauberfa
+ hrung\nDamit wir planen können bitten wir euch um ANMELDUNG! Schickt uns 
+ dafür eine Anmeldung an schraubbande@mtmedia.org WICHTIG: Gebt bitte für
+  den besseren Überblick in der Anmeldung das Datum (09.06.) an\, weil wir
+  aktuell noch andere Veranstaltungen planen.
+LOCATION:Tübinger Südstadt nahe des Bahnhofs
+END:VEVENT
 END:VCALENDAR
