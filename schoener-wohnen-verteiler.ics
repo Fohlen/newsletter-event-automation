@@ -4055,4 +4055,23 @@ DESCRIPTION:Join us for a night of Grunge nostalgia\, Daydrinking at the s
  bandcamp.com/album/menschheit-meh
 LOCATION:Schelling-Keller
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanze von Frühling in den Sommer bei der Luginsland Sommerfeier
+DTSTART:20240531T220000Z
+DTEND:20240531T235959Z
+DTSTAMP:20240518T204025Z
+UID:8ea4ab5d-d742-4b0f-929b-cfc9d236b71b
+DESCRIPTION:Liebe Menschen des Schöner-Wohnen-Verteilers\,\nAm 31. Mai fe
+ iert unser Wohnprojekt Luginsland eine Sommerfeier und lädt ganz herzlich
+  dazu ein!\nWir wollen zusammen aus dem Frühling in den Sommer rein tanze
+ n\, mit einem bunten Mix aus Genres und DJs des FAK Tübingens\, Cocktailb
+ ar und Pizza.\n\nUm 22 Uhr geht es los mit einer Playlist aus 90s/2000s Ba
+ ngern.\nZwischen 00:00-01:30 Uhr spielt das DJ Duo Bae 2010er Pop\, dann f
+ olgt 01:45-03:15 Uhr DJ Smoothie mit 80s Synthwave und zum Abschluss 03:30
+ -05:00 Uhr freihaendig mit groovy Techno!\nWir freuen uns über eine Spend
+ e von ca. 5€ zum Eintritt.\nWir bitten darum\, nur legale Drogen mitzune
+ hmen und zu konsumieren\, damit sich alle auf der Party wohl fühlen könn
+ en <3.
+LOCATION:Wohnprojekt Luginsland
+END:VEVENT
 END:VCALENDAR
