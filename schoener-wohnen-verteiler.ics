@@ -4021,4 +4021,38 @@ DESCRIPTION:Genießt einen kühlen Drink oder wärmt euch bei einem Teller
   Küfa (vegan\, mit glutenfreier Variante). Wir freuen uns auf euch!
 LOCATION:Schellinghausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung des Foodsharing-Cafés Mehrrettich mit Musikbands und K
+ inderprogramm.
+DTSTART:20240519T100000
+DTEND:20240519T200000Z
+DTSTAMP:20240518T125132Z
+UID:94694a02-ef3b-463e-ad6b-a9747cfc641d
+DESCRIPTION:Freut euch auf ein tolles Opening im Foodsharing-Café Mehrret
+ tich mit verschiedenen Bands und einem kleinen Kinderprogramm. Um 13 Uhr s
+ pielen 'Maybe Yesterday' und um 15 Uhr 'Myshkins'. Zusätzlich wird es lec
+ keres\, gerettetes Essen geben\, welches man zu einem kühlen Getränk ode
+ r einem leckeren Kaffee genießen kann! Wir freuen uns auf euren Besuch am
+  Sonntag\, den 19.05.2024\, von 10 Uhr bis 20 Uhr in der Neckarhalde 70 in
+  Tübingen. Wenn ihr uns unterstützen möchtet\, da wir noch finanzielle 
+ Unterstützung beim Erwerb der Erstaustattung benötigen\, sprecht uns ger
+ ne an.
+LOCATION:Neckarhalde 70\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk and DIY Music Night
+DTSTART:20240601T200000Z
+DTEND:20240601T235959Z
+DTSTAMP:20240518T125132Z
+UID:1c5c0a7d-ec5a-4841-b047-cffa0eacc4b4
+DESCRIPTION:Join us for a night of Grunge nostalgia\, Daydrinking at the s
+ katepark vibes\, and a healthy dose of anger! Featuring the bands MURKS (M
+ arburg) and GÜNTHER AND THE JAUCHS (Potsdam). Entry is by donation\, and 
+ there will be solidarity drinks available. Doors open at 20:00\, sounds a 
+ bit later. \n\nListen in advance:\nMURKS: https://www.instagram.com/murks_
+ band and https://murks.bandcamp.com/album/baywatch-babes \nGÜNTHER AND TH
+ E JAUCHS: https://www.instagram.com/guentherandthejauchs and https://gatj.
+ bandcamp.com/album/menschheit-meh
+LOCATION:Schelling-Keller
+END:VEVENT
 END:VCALENDAR
