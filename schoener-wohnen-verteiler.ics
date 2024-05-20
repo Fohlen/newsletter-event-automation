@@ -4089,4 +4089,55 @@ DESCRIPTION:Koala Disco\, eine fünfköpfige Post-Punk-Band aus Antwerpen\
  ando Cup statt.
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suche nach einem neuen Mitbewohner für eine 2er WG in Lustnau.
+DTSTART:20241201T080000
+DTEND:20241201T235959Z
+DTSTAMP:20240520T204046Z
+UID:85dde50b-d5d8-4dfb-8b36-c738957273c9
+DESCRIPTION:Hallo liebe Leutis\, \n\nich suche eine*n neue*n Mitbewohni f
+ ür eine kleine 2er WG in Lustnau. Schaut doch mal gerne in die Anzeige: h
+ ttps://www.wg-gesucht.de/10998496.html?ma=1 \n\nliebe Grüße\,\nMell\nGes
+ endet von Mail für Windows
+LOCATION:Lustnau\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein kleiner Verschenkemarkt mit Musik\, Kaffee und Kuchen
+DTSTART:20240602T140000
+DTEND:20240602T170000Z
+DTSTAMP:20240520T204046Z
+UID:f6158f51-85d9-4c2b-89ef-73c0dfaaaf2c
+DESCRIPTION:Nach dem Erfolg des letzten Umsonstmarktes laden wir euch herz
+ lich zum nächsten Verschenkemarkt ein. Diesmal findet der Markt am Sternp
+ latz statt\, wo ihr neben Musik\, Kaffee und Kuchen auch die Möglichkeit 
+ habt\, neue Kleidungsschätze zu finden. Unser Umsonstladen\, der derzeit 
+ wegen Renovierungen geschlossen ist\, wird quasi nach draußen verlegt. Br
+ ingt gerne auch ein paar eigene Sachen mit\, die Hauptidee ist jedoch\, de
+ m Umsonstladen etwas mehr Platz zu bieten.
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attac Tübingen-Reutlingen presents the documentary "SOLD CITY —
+  Wenn Wohnen zur Ware wird" exploring the global housing crisis.
+DTSTART:20240602T120000Z
+DTEND:20240602T235959Z
+DTSTAMP:20240520T204046Z
+UID:13f13180-08b2-43bb-8b32-229ffdf1acd0
+DESCRIPTION:Attac Tübingen-Reutlingen shows the film "SOLD CITY — Wenn 
+ Wohnen zur Ware wird" at Kino Atelier. This documentary\, as the third par
+ t of a trilogy\, addresses the real estate boom\, rising housing prices\, 
+ and the resistance against these developments in cities like Berlin\, Lond
+ on\, Hamburg\, Munich\, Basel\, and Vienna.\n\nWith prior films addressing
+  the commodification of humans and patients\, "SOLD CITY" shifts focus to 
+ housing\, presenting examples of citizen resistance and discussing the nec
+ essity of comprehensive land reform. The film journeys from Berlin's uniqu
+ e rent cap and the local pushback against big real estate\, to Paris' publ
+ ic housing approach\, contrasting with London's free housing market dynami
+ cs and Hamburg's decrease in social housing despite new constructions. Vie
+ nna stands out for its substantial public housing achievements\, inspiring
+  alternative models like self-managed living. The film argues for a fundam
+ ental discourse on land reform\, highlighting the significant burden land 
+ prices place on new housing developments.
+LOCATION:Kino Atelier\, Vor dem Haagtor 1\, Tübingen
+END:VEVENT
 END:VCALENDAR
