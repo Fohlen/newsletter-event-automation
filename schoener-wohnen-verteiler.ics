@@ -4074,4 +4074,19 @@ DESCRIPTION:Liebe Menschen des Schöner-Wohnen-Verteilers\,\nAm 31. Mai fe
  en <3.
 LOCATION:Wohnprojekt Luginsland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Post-Punk Band Koala Disco live
+DTSTART:20240522T220000
+DTEND:20240522T235959Z
+DTSTAMP:20240520T125406Z
+UID:585005e0-d863-44ca-9b35-f17f84388758
+DESCRIPTION:Koala Disco\, eine fünfköpfige Post-Punk-Band aus Antwerpen\
+ , Belgien\, lädt euch ein in ihre verrückte Welt des Unsinns\, der schwa
+ nkenden Gefühle und des unkontrollierten Chaos. Von unsterblichen Hunden 
+ bis zu Hummern mit Mutterkomplexen\, dieser Abend verspricht einzigartige 
+ Geschichten und einen Sound\, der von zeitgenössischem Psych und Helden d
+ er 80er beeinflusst ist. Vor dem Konzert findet die Auslosung zum 23. Komm
+ ando Cup statt.
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
