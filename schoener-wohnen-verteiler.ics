@@ -4140,4 +4140,45 @@ DESCRIPTION:Attac Tübingen-Reutlingen shows the film "SOLD CITY — Wenn
  prices place on new housing developments.
 LOCATION:Kino Atelier\, Vor dem Haagtor 1\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung und Diskussion mit Caren Lay MdB
+DTSTART:20240527T190000Z
+DTEND:20240527T210000Z
+DTSTAMP:20240522T125429Z
+UID:1bbd0e73-0a14-47d9-a73c-0df5ff4592f3
+DESCRIPTION:Die Wohnungsfrage ist eine der großen sozialen Fragen unserer
+  Zeit\, brennt unter den Nägeln und fordert dringende Antworten. Bei dies
+ er Veranstaltung werden wir uns mit den Auswirkungen der Immobilienspekula
+ tion auf unsere Gesellschaft befassen und darüber diskutieren\, was getan
+  werden kann\, um eine wohnungspolitische Wende herbeizuführen. Caren Lay
+ \, wohnungs- und mietenpolitische Sprecherin Die Linke im Bundestag\, füh
+ rt durch die Veranstaltung und teilt Einblicke aus ihrem Buch „Wohnopoly
+  – Wie die Immobilienspekulation das Land spaltet und was wir dagegen tu
+ n können“. Kommen Sie vorbei für eine informative Lesung und lebhafte 
+ Diskussion über die Wohnungsnot\, Spekulation und politische Lösungsans
+ ätze.
+LOCATION:Tübingen\, Bürgerheim\, Schmiedtorstr. 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Konzert mit William Chee-Awai
+DTSTART:20240523T213000
+DTEND:20240523T235900Z
+DTSTAMP:20240522T125429Z
+UID:ea120c31-e280-4b5e-a264-abc3f08562df
+DESCRIPTION:Liebe Leute\, Am Donnerstag\, 23. Mai\, gibt's ein Konzert in 
+ der Lu15 - Bar ab 21 Uhr\, Konzertstart um 21:30 Uhr. Davor gibt's nebenan
+  wie jede Woche ab 18 Uhr Essen für Spende auf dem Sternplatz. Herzliche 
+ Einladung an Alle!\n\nWilliam Chee-Awai ist ein 29 Jahre alter schwedisch-
+ karibischer Musiker\, der seit 2017 in Berlin lebt. Während seiner Zeit i
+ n Berlin hat er Open Mic Nights\, Jam Sessions und unzählige Konzerte org
+ anisiert\, darunter auch die RedRum Sessions in der schrulligen Cocktailba
+ r RedRum Artbar. Chee-Awai hat bisher zwei Singles\, eine EP und ein Debü
+ talbum namens The Land of Thirst veröffentlicht. Er spielt Gitarre und si
+ ngt seine eigenen Songs mit Baritonstimme\, alle auf Englisch\, alle von i
+ hm geschrieben. Inspiration findet er beispielsweise bei den Klängen von 
+ 60s psychedelic rock Bands wie The Doors\, Funkadelic\, Pink Floyd\, Frank
+  Zappa and Neil Young. \n\nhttps://willchee-awai.bandcamp.com/album/the-la
+ nd-of-thirst/
+LOCATION:Lu15 - Bar
+END:VEVENT
 END:VCALENDAR
