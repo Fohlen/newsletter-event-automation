@@ -4210,4 +4210,35 @@ DESCRIPTION:Lauren\, Lilly\, Yvonne\, and Jakob are long-time friends now
  nding time with friends.
 LOCATION:Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rothenburg Event: Massage Your Eardrums!
+DTSTART:20240615T180000
+DTEND:20240615T235959Z
+DTSTAMP:20240523T204043Z
+UID:30b4358e-0990-4508-b930-3da3f1eb35be
+DESCRIPTION:--- english version below ---\nHallo ihr zappelnden Geschöpfe
+ !\n\nam Samstag\, den 15.6. öffnet die Rothenburg ihre Pforten\, euch das
+  Trommelfell zu massieren!\n\nEs wird dunkel\, erdig mit einer Spur S T E 
+ I N.\n\nErscheinen Sie\, sonst weinen Sie\n\nBis bald aus der RoBu\n\n--- 
+ english version ---\n\nHello all you cave-dwellers\,\n\nOn Saturday\, June
+  15\, the Rothenburg will open its doors to massage your eardrums!\n\nIt w
+ ill get dark\, earthy with a hint of S T O N E.\n\nBe present\, or you'll 
+ be absent\n\nRoBu
+LOCATION:Rothenburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spontane SoliHausbar zur Unterstützung der Elektro Stage auf dem 
+ Ract! Festival
+DTSTART:20240525T200000
+DTEND:20240525T235959Z
+DTSTAMP:20240523T204043Z
+UID:65c8f60e-c170-470b-8c4b-a8540ff13750
+DESCRIPTION:Am Samstag\, den 25. Mai findet eine spontane SoliHausbar in d
+ er Münze 7 statt. Ab 20 Uhr gibt es elektronische Musik und Eintritt sowi
+ e Getränke sind auf Spendenbasis erhältlich. Die Veranstaltung sammelt S
+ penden für die Elektro Stage auf dem Ract! Festival im Juni. Kommt vorbei
+  und tanzt für einen guten Zweck! Veranstaltet von Chaos macht Sterne Kol
+ lektiv & Friends.
+LOCATION:Münze 7
+END:VEVENT
 END:VCALENDAR
