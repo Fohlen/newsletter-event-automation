@@ -4181,4 +4181,33 @@ DESCRIPTION:Liebe Leute\, Am Donnerstag\, 23. Mai\, gibt's ein Konzert in
  nd-of-thirst/
 LOCATION:Lu15 - Bar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen gegen Klimakrise und ihre Verursacher*innen
+DTSTART:20240523T190000
+DTEND:20240523T235959Z
+DTSTAMP:20240523T125256Z
+UID:53baa82e-0277-4438-9e1d-6a666c0bc711
+DESCRIPTION:Das Treffen dient dem Austausch über aktuelle Klimafragen\, i
+ nsbesondere das Hochwasser und die EU-Wahlen. Es ist offen für alle\, die
+  sich engagieren möchten.
+LOCATION:Linker Laden Trude Lutz in der Münzgasse 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lauren\, Lilly\, Yvonne\, and Jakob's search for a 4.5-5 room apar
+ tment in Tübingen.
+DTSTART:20241201T000000Z
+DTEND:20241201T235959Z
+DTSTAMP:20240523T125256Z
+UID:d27f96bd-12c1-48ab-9e1f-36b12d9f3c11
+DESCRIPTION:Lauren\, Lilly\, Yvonne\, and Jakob are long-time friends now 
+ on a quest to find a 4.5-5 room apartment in Tübingen. They value a quiet
+  and routine daily life\, clean and orderly living\, and aim to further be
+ autify and make their future home livable. Lauren is studying English and 
+ International Literature\, Lilly is studying Medicine\, Yvonne works as a 
+ Junior Consultant for Carbon Footprinting\, and Jakob is pursuing a Ph.D. 
+ in Human Geography while working for the city administration. They enjoy b
+ eing part of Tübingen's community\, engaging in various hobbies\, and spe
+ nding time with friends.
+LOCATION:Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
