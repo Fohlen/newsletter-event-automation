@@ -4241,4 +4241,18 @@ DESCRIPTION:Am Samstag\, den 25. Mai findet eine spontane SoliHausbar in d
  lektiv & Friends.
 LOCATION:Münze 7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag und Diskussion
+DTSTART:20240529T190000
+DTEND:20240529T235959Z
+DTSTAMP:20240524T125325Z
+UID:24fe2d7c-5bfe-43a5-845f-44fdfa572c57
+DESCRIPTION:Die Veranstaltung fokussiert sich auf die Alternative für Deu
+ tschland (AfD) und deren Positionierung als Friedenspartei im Kontext des 
+ Kriegs in der Ukraine. Die Diskussion wird Widersprüche und Standpunkte b
+ ezüglich Aufrüstung\, Rüstungsunternehmen\, Bundeswehr und NATO beleuch
+ ten. Ziel ist es auch\, zum Protest gegen den Tag der Bundeswehr am 08. Ju
+ ni zu mobilisieren.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
