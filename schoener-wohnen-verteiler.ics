@@ -4255,4 +4255,21 @@ DESCRIPTION:Die Veranstaltung fokussiert sich auf die Alternative für Deu
  ni zu mobilisieren.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MC 43 & Kandiru Performance
+DTSTART:20240531T190000
+DTEND:20240531T230000Z
+DTSTAMP:20240526T125051Z
+UID:c394e644-3b36-489a-a951-3f96ae0654ab
+DESCRIPTION:Starten Sie in den Sommer mit einem hippen Hofkonzert! Erleben
+  Sie ab 19 Uhr satte Beats und entspannte Instrumentale\, ideal um sich be
+ i einem Getränk von der Bar in die Stimmung einzugrooven oder eine Runde 
+ zu Cyphern (Freestylerz welcome). Gegen 20 Uhr bringen MC 43 & Kandiru mit
+  ihrem feinsten dialektalen Sprechgesang den Sound der Alpen in die Tübin
+ ger Voralbregion. Nach 22 Uhr ist die Möglichkeit für ein Absackergeträ
+ nk im Keller\, begleitet von Vinyls und einer Cypher-Session. Das Event bi
+ etet eine Open-Mic-Möglichkeit und findet bei schlechtem Wetter im Keller
+  statt.
+LOCATION:Hofkonzert\; Hegelstrasse 7
+END:VEVENT
 END:VCALENDAR
