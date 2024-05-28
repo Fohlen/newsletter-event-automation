@@ -4272,4 +4272,55 @@ DESCRIPTION:Starten Sie in den Sommer mit einem hippen Hofkonzert! Erleben
   statt.
 LOCATION:Hofkonzert\; Hegelstrasse 7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einen Tag lang Fahrräder selber reparieren und optimieren mit der
+  Schraubbande!
+DTSTART:20240615T110000
+DTEND:20240615T160000Z
+DTSTAMP:20240528T125435Z
+UID:c8d183f9-69c1-4d33-9692-ad3dba2240d8
+DESCRIPTION:Liebe Schrauber*innen und die\, die es noch werden wollen!\\nH
+ ier könnt ihr eure Fahrräder selber reparieren\, optimieren\, pflegen\, 
+ verschönern oder einfach was dazu lernen. Egal ob Platten flicken\, Schal
+ tung einstellen oder Kette wechseln\, ob mit oder ohne Erfahrung… traut 
+ es euch zu und macht’s selber! Wir versorgen euch mit dem notwendigen We
+ rkzeug\, haben diverse Ersatzteile und unterstützen euch. Hier könnt ihr
+  Dinge ausprobieren\, Fragen stellen\, technisch geschickter werden und ne
+ tte Menschen kennen lernen\, ohne dass euch jemand kritisch über die Schu
+ lter schaut\, nervige Kommentare macht oder euch das Werkzeug aus der Hand
+  nimmt\, wenn die Schraube nicht gleich beim ersten Versuch auf geht.\\nWA
+ NN? Samstag\, 15.06.24 - 11-16 Uhr\\nWO? Tübinger Südstadt nahe des Bahn
+ hofs (Adresse wird nach Anmeldung mitgeteilt)\\nWER? Alle schraubinteressi
+ erten FLINTA* (keine Altersbeschränkung!)\\nWAS? Lernt eure Fahrräder be
+ sser kennen und schraubt was ihr wollt! Werkzeug ist für alle Reparaturen
+  da\, speziellere Ersatzteile solltet ihr ggf. mitbringen (gern auch in R
+ ücksprache\, falls ihr euch unsicher seid)\\nWIE? Ihr könnt euch gern in
+  Grüppchen zusammenfinden und euch gegenseitig unterstützen\, ansonsten 
+ sind wir drei vor Ort und haben einiges an Schrauberfahrung\\nWir sehen Mo
+ bilität als ein Grundrecht an\, das allen unabhängig vom Geldbeutel und 
+ Geschlecht offenstehen soll. Wir wollen die Straße zurück\, Meter um Met
+ er. Wir haben einfach Spaß\, Dinge zu reparieren und sehen Wege aus der W
+ egwerfgesellschaft. Wir finden Fahrräder einfach geil\, woke\, knorke und
+  können uns ein Leben ohne nicht vorstellen. Und wir wollen als FLINTA Pe
+ rsonen unabhängig und sichtbar sein.\\nBis dahin\, wir freuen uns schon!\
+ \nConny (sie/ihr)\, Laura (keine/sie) und Judith (sie/ihr)\\n*FLINTA: Frau
+ en\, Lesben\, inter\, nicht-binäre\, trans und agender Personen
+LOCATION:Tübinger Südstadt nahe des Bahnhofs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychedelischer Rock mit Mitgliedern von Kanaan
+DTSTART:20240529T210000Z
+DTEND:20240529T235900Z
+DTSTAMP:20240528T125435Z
+UID:fb24af45-1267-4d1f-b282-11ea36445452
+DESCRIPTION:Hey angefüllte Erdlinge\, am Mittwoch\, den 29. Mai kommen Fu
+ ll Earth in den Blauen Salon. Offen ist wie immer um 21 Uhr\, Showtime geg
+ en 22 Uhr. Full Earth sind das neueste psychedelische Wunderkind aus dem h
+ ohen Norden mit Mitgliedern von Kanaan. Instrumental\, schwer und technisc
+ h einwandfrei\, mit interessanten und unvorhersehbaren Keyboard-Elementen.
+  Cloud Sculptors ist das Debütalbum des experimentellen Osloer Rock-Quint
+ etts\, erschienen am 15. März 2024. Angeführt wird die Band von dem Schl
+ agzeuger und Komponisten Ingvald Vassbø. 
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
