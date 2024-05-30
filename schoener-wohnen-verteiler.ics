@@ -4279,32 +4279,32 @@ DTSTART:20240615T110000
 DTEND:20240615T160000Z
 DTSTAMP:20240528T125435Z
 UID:c8d183f9-69c1-4d33-9692-ad3dba2240d8
-DESCRIPTION:Liebe Schrauber*innen und die\, die es noch werden wollen!\\nH
- ier könnt ihr eure Fahrräder selber reparieren\, optimieren\, pflegen\, 
- verschönern oder einfach was dazu lernen. Egal ob Platten flicken\, Schal
- tung einstellen oder Kette wechseln\, ob mit oder ohne Erfahrung… traut 
- es euch zu und macht’s selber! Wir versorgen euch mit dem notwendigen We
- rkzeug\, haben diverse Ersatzteile und unterstützen euch. Hier könnt ihr
-  Dinge ausprobieren\, Fragen stellen\, technisch geschickter werden und ne
- tte Menschen kennen lernen\, ohne dass euch jemand kritisch über die Schu
- lter schaut\, nervige Kommentare macht oder euch das Werkzeug aus der Hand
-  nimmt\, wenn die Schraube nicht gleich beim ersten Versuch auf geht.\\nWA
- NN? Samstag\, 15.06.24 - 11-16 Uhr\\nWO? Tübinger Südstadt nahe des Bahn
- hofs (Adresse wird nach Anmeldung mitgeteilt)\\nWER? Alle schraubinteressi
- erten FLINTA* (keine Altersbeschränkung!)\\nWAS? Lernt eure Fahrräder be
- sser kennen und schraubt was ihr wollt! Werkzeug ist für alle Reparaturen
-  da\, speziellere Ersatzteile solltet ihr ggf. mitbringen (gern auch in R
- ücksprache\, falls ihr euch unsicher seid)\\nWIE? Ihr könnt euch gern in
-  Grüppchen zusammenfinden und euch gegenseitig unterstützen\, ansonsten 
- sind wir drei vor Ort und haben einiges an Schrauberfahrung\\nWir sehen Mo
- bilität als ein Grundrecht an\, das allen unabhängig vom Geldbeutel und 
- Geschlecht offenstehen soll. Wir wollen die Straße zurück\, Meter um Met
- er. Wir haben einfach Spaß\, Dinge zu reparieren und sehen Wege aus der W
- egwerfgesellschaft. Wir finden Fahrräder einfach geil\, woke\, knorke und
-  können uns ein Leben ohne nicht vorstellen. Und wir wollen als FLINTA Pe
- rsonen unabhängig und sichtbar sein.\\nBis dahin\, wir freuen uns schon!\
- \nConny (sie/ihr)\, Laura (keine/sie) und Judith (sie/ihr)\\n*FLINTA: Frau
- en\, Lesben\, inter\, nicht-binäre\, trans und agender Personen
+DESCRIPTION:Liebe Schrauber*innen und die\, die es noch werden wollen!\nHi
+ er könnt ihr eure Fahrräder selber reparieren\, optimieren\, pflegen\, v
+ erschönern oder einfach was dazu lernen. Egal ob Platten flicken\, Schalt
+ ung einstellen oder Kette wechseln\, ob mit oder ohne Erfahrung… traut e
+ s euch zu und macht’s selber! Wir versorgen euch mit dem notwendigen Wer
+ kzeug\, haben diverse Ersatzteile und unterstützen euch. Hier könnt ihr 
+ Dinge ausprobieren\, Fragen stellen\, technisch geschickter werden und net
+ te Menschen kennen lernen\, ohne dass euch jemand kritisch über die Schul
+ ter schaut\, nervige Kommentare macht oder euch das Werkzeug aus der Hand 
+ nimmt\, wenn die Schraube nicht gleich beim ersten Versuch auf geht.\nWANN
+ ? Samstag\, 15.06.24 - 11-16 Uhr\nWO? Tübinger Südstadt nahe des Bahnhof
+ s (Adresse wird nach Anmeldung mitgeteilt)\nWER? Alle schraubinteressierte
+ n FLINTA* (keine Altersbeschränkung!)\nWAS? Lernt eure Fahrräder besser 
+ kennen und schraubt was ihr wollt! Werkzeug ist für alle Reparaturen da\,
+  speziellere Ersatzteile solltet ihr ggf. mitbringen (gern auch in Rücksp
+ rache\, falls ihr euch unsicher seid)\nWIE? Ihr könnt euch gern in Grüpp
+ chen zusammenfinden und euch gegenseitig unterstützen\, ansonsten sind wi
+ r drei vor Ort und haben einiges an Schrauberfahrung\nWir sehen Mobilität
+  als ein Grundrecht an\, das allen unabhängig vom Geldbeutel und Geschlec
+ ht offenstehen soll. Wir wollen die Straße zurück\, Meter um Meter. Wir 
+ haben einfach Spaß\, Dinge zu reparieren und sehen Wege aus der Wegwerfge
+ sellschaft. Wir finden Fahrräder einfach geil\, woke\, knorke und können
+  uns ein Leben ohne nicht vorstellen. Und wir wollen als FLINTA Personen u
+ nabhängig und sichtbar sein.\nBis dahin\, wir freuen uns schon!\nConny (s
+ ie/ihr)\, Laura (keine/sie) und Judith (sie/ihr)\n*FLINTA: Frauen\, Lesben
+ \, inter\, nicht-binäre\, trans und agender Personen
 LOCATION:Tübinger Südstadt nahe des Bahnhofs
 END:VEVENT
 BEGIN:VEVENT
@@ -4322,5 +4322,33 @@ DESCRIPTION:Hey angefüllte Erdlinge\, am Mittwoch\, den 29. Mai kommen Fu
  etts\, erschienen am 15. März 2024. Angeführt wird die Band von dem Schl
  agzeuger und Komponisten Ingvald Vassbø. 
 LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Musik von den Tübinger Brass Busters.
+DTSTART:20241217T180000
+DTEND:20241217T235900Z
+DTSTAMP:20240530T125429Z
+UID:a94e2876-efcf-45c8-9831-b898d30bd22d
+DESCRIPTION:Genieße eine besondere Ausgabe der Soli KüfA mit Live-Musik.
+  Die Tübinger Band 'Brass Busters' wird für musikalische Unterhaltung so
+ rgen. Es wird Möglichkeiten zum Unterstehen geben\, falls es regnen sollt
+ e. Komme vorbei und unterstütze die lokalen Musiker und die Soli-Küche!
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerparty mit DJs Bae\, Smoothie\, und freihaendig
+DTSTART:20240531T220000Z
+DTEND:20240531T235959Z
+DTSTAMP:20240530T125429Z
+UID:eb0d458b-420c-4a71-ac3d-411ee4b80bdb
+DESCRIPTION:Liebe Partyfreund:innen\, wir laden euch herzlich zu unserer S
+ ommerparty "LugInsGlas - Tanz in den Sommer" ein\, die am 31. Mai stattfin
+ det. Beginn ist um 22 Uhr in der Paul-Lechler-Straße 9. Unsere DJs Bae\, 
+ Smoothie\, und freihaendig werden für großartige Musik sorgen. Wir freue
+ n uns auf einen unvergesslichen Abend\, der den Frühling hinter sich läs
+ st und den Sommer willkommen heißt. Bitte beachtet\, dass wir uns ein wen
+ ig am Wetter orientieren müssen\, insbesondere im Hinblick auf den Betrie
+ b des Pizzaofens im Garten.
+LOCATION:Paul-Lechler-Straße 9
 END:VEVENT
 END:VCALENDAR
