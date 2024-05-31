@@ -4373,4 +4373,50 @@ DESCRIPTION:🎸 Shows Of Schelling (SoS) presents an electrified evening
  , and the sound will kick in shortly after.
 LOCATION:Schelling-Keller
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Umsonstmarkt am Sternplatz wurde um eine Woche verschoben und 
+ findet nun am 09.06. statt. Uhrzeit: 14-17 Uhr.
+DTSTART:20240609T140000Z
+DTEND:20240609T170000Z
+DTSTAMP:20240531T204053Z
+UID:2b21f617-4b62-47f2-99b6-175ef4c929f6
+DESCRIPTION:Aufgrund des schlechten Wetters wird der Umsonstmarkt verschob
+ en. Der neue Termin ist der 09.06.\, von 14-17 Uhr am Sternplatz. Es wird 
+ wieder Kleidung\, Musik\, Kaffee und Kuchen geben. Der Umsonstmarkt bietet
+  eine tolle Gelegenheit\, unseren Umsonstladen draußen zu erleben und neu
+ e Kleidungsschätze zu finden. Bringt gerne auch begrenzt eigene Sachen mi
+ t.
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzertabsage: Shows Of Schelling
+DTSTART:20240601T000000Z
+DTEND:20240601T235959Z
+DTSTAMP:20240531T204053Z
+UID:cc37ccf1-904e-4c6a-ba95-ac6f50617a71
+DESCRIPTION:+++ ABSAGE Konzert Schelling 1.6. +++\n\nHallo zusammen\,\n\na
+ n diesem Wochenende ist echt der Wurm drin. Heute hat uns auch noch die \n
+ zweite der ursprünglich geplanten Bands\, Murks\, absagen müssen. 2 \nAb
+ sagen in einer Woche\, das ist leider zu viel.\n\nDas Konzert\, auf dass w
+ ir uns ungemein gefreut haben\, wird im Herbst \nhoffentlich nachgeholt. E
+ ure Tickets behalten ihre Gültigkeit \;-)\n\n\nLiebe und traurige Grüße
+ \,\n\nShows Of Schelling (SoS) 🖤
+LOCATION:Schelling 1.6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über die EU\, Klimawandel und Wirtschaft
+DTSTART:20240602T110000
+DTEND:20240602T235959Z
+DTSTAMP:20240531T204053Z
+UID:0cd5d2a9-3130-4b58-8148-fcd278c7734e
+DESCRIPTION:Während der EU-Parlamentswahl 2024\, wollen wir\, das Tübing
+ er Offene Antikapitalistische Klimatreffen (TO AKT)\, eine Diskussion übe
+ r das Thema der Europäischen Union als Klimaretter und Wirtschaftsunion a
+ nstoßen. Anstatt eine bestimmte Partei zu unterstützen\, möchten wir di
+ e Bürger*innen dazu einladen\, am 2. Juni ab 11 Uhr auf dem Holzmarkt bei
+  Kaffee und Brezeln mit uns ins Gespräch zu kommen. Ziel ist es\, die Rol
+ le der EU in der Klimapolitik und ihre Auswirkungen auf die Klimagerechtig
+ keit zu diskutieren.
+LOCATION:Holzmarkt
+END:VEVENT
 END:VCALENDAR
