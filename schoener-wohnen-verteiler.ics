@@ -4351,4 +4351,26 @@ DESCRIPTION:Liebe Partyfreund:innen\, wir laden euch herzlich zu unserer S
  b des Pizzaofens im Garten.
 LOCATION:Paul-Lechler-Straße 9
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shows Of Schelling: DEPARTURE & MURKS Live!
+DTSTART:20240601T200000Z
+DTEND:20240601T235959Z
+DTSTAMP:20240531T125350Z
+UID:e11f9ce8-d3d8-4c6b-8256-e2347fef887d
+DESCRIPTION:🎸 Shows Of Schelling (SoS) presents an electrified evening 
+ of grunge\, garage rock\, and more in the heart of the palm-alaya vibe\, T
+ übet! Unfortunately\, due to health reasons\, Günther and the Jauchs can
+ not make it. But fear not\, the night will go on with DEPARTURE\, deliveri
+ ng fresh grunge/garage rock straight from the capital\, and MURKS\, hailin
+ g from Marburg\, diving into your soul with their mix of grunge and surfab
+ le garage-pop. Expect a heady mix of raw emotions\, crunchy guitars\, and 
+ melodies that stick.\n\nJoin us for a journey through the sounds of rebell
+ ion\, vulnerability\, and dreams. Feel the energy\, share the flyer\, brin
+ g friends\, and sip on some bubbly refreshments in support of the local DI
+ Y music scene. Let's channel that pent-up energy from the KommandoCup into
+  some epic moves on the dance floor (but please\, no dangerous tackles!).\
+ n\nEntry is by donation\, with soli-drinks available. Doors open at 20:00\
+ , and the sound will kick in shortly after.
+LOCATION:Schelling-Keller
+END:VEVENT
 END:VCALENDAR
