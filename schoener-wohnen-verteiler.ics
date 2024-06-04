@@ -4419,4 +4419,47 @@ DESCRIPTION:Während der EU-Parlamentswahl 2024\, wollen wir\, das Tübing
  keit zu diskutieren.
 LOCATION:Holzmarkt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag über Reproduktive Gerechtigkeit\, Schwangerschaftsabb
+ rüche\, und das Selbstbestimmungsgesetz.
+DTSTART:20240605T200000
+DTEND:20240605T235959Z
+DTSTAMP:20240604T204040Z
+UID:5027ce1e-ea90-46d5-9311-ea5cd3af492d
+DESCRIPTION:Laura Hessel diskutiert Reproduktive Gerechtigkeit und deren N
+ otwendigkeit über die Pro Choice Bewegung hinaus. Sie deckt Aspekte repro
+ duktiver Unterdrückung\, historische Kontexte und den Ursprung des Konzep
+ ts\, das von Schwarzen Feminist*innen in den USA entwickelt wurde\, ab. Ne
+ ben dem Vortrag wird es eine Diskussion sowie veganes Essen geben.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimastreik in Tübingen
+DTSTART:20240607T130000Z
+DTEND:20240607T235959Z
+DTSTAMP:20240604T204040Z
+UID:1ae85f7f-b6d0-472c-a312-fe948738e5a7
+DESCRIPTION:Wir gehen am 07.06. gemeinsam auf die Straße! Der Klimastreik
+  startet um 13 Uhr in der Uhlandstraße und endet mit einer Abschlusskundg
+ ebung auf dem RACT!-Festival. 
+LOCATION:Uhlandstraße\, Tübingen\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die gesellschaftliche Position von Rheinmetall
+DTSTART:20240604T190000Z
+DTEND:20240604T210000Z
+DTSTAMP:20240604T204040Z
+UID:e0c4447e-c859-4c49-9fa6-61166711f937
+DESCRIPTION:Steigende Umsätze\, ein Rekord-Aktienkurs und gesicherte Auft
+ räge für Jahrzehnte: Der deutsche Rüstungskonzern Rheinmetall-AG gehör
+ t unbestreitbar zu den Profiteuren der aktuellen globalen Aufrüstungs- un
+ d Kriegspolitik. Doch nicht nur wirtschaftlich und politisch gewinnt das U
+ nternehmen an Macht. Auch im öffentlichen Diskurs lassen sich Veränderun
+ gen in der Darstellung und Legitimation erkennen\, die Rheinmetall entgege
+ ngebracht wird. Im Vortrag wird näher erläutert\, auf welche Art und Wei
+ se diese Diskursverschiebung vonstattengeht\, um anschließend zu diskutie
+ ren\, wie mit der neuen gesellschaftlichen Position solcher Konzerne umgeg
+ angen werden kann.
+LOCATION:IMI-Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
+END:VEVENT
 END:VCALENDAR
