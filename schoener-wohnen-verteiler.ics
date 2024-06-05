@@ -4462,4 +4462,36 @@ DESCRIPTION:Steigende Umsätze\, ein Rekord-Aktienkurs und gesicherte Auft
  angen werden kann.
 LOCATION:IMI-Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rescheduling notice for Queers and Women's evening
+DTSTART:20240704T180000
+DTEND:20240704T220000Z
+DTSTAMP:20240605T125511Z
+UID:25ca93cf-28ed-4365-b52f-8eb177307d58
+DESCRIPTION:Due to a planning error\, the Queers and Women's evening initi
+ ally scheduled for the upcoming Thursday is being rescheduled. We are curr
+ ently working on finding an alternative date. In the event that no alterna
+ tive can be found\, we will be excited to welcome you again on the first T
+ hursday of July. Keep an eye out for further updates. Thank you for your u
+ nderstanding.
+LOCATION:Blue Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An evening of capoeira\, music\, and community
+DTSTART;TZID="+02:00":20240603T210000
+DTEND:20240603T220000Z
+DTSTAMP:20240605T125511Z
+UID:1026ce21-85ce-4fa2-a5db-65a101dcad86
+DESCRIPTION:Hello Tübingen! Join us at Österbar\, Haus Lichtenstein for 
+ a capoeira event on Monday\, 3rd June. The Familia Quilombolas de Luz Capo
+ eira Tübingen invites you to experience the world of capoeira - an Afro-B
+ razilian martial arts dance form\, now a World Heritage. Learn the basics\
+ , get moved by the rhythm of the berimbau and pandeiro\, or even sing and 
+ clap along as the capoeira dance unfolds in the roda (circle). If you have
+  a drum (conga or similar)\, feel free to bring it along and\, of course\,
+  wear something comfortable for movement. Bring your friends and enjoy a n
+ ight of culture and camaraderie. Start time: 21:00. Beijos\, Familia Quilo
+ mbolas de Luz Capoeira Tübingen.
+LOCATION:Österbar\, Haus Lichtenstein\, Tübingen
+END:VEVENT
 END:VCALENDAR
