@@ -4494,4 +4494,19 @@ DESCRIPTION:Hello Tübingen! Join us at Österbar\, Haus Lichtenstein for
  mbolas de Luz Capoeira Tübingen.
 LOCATION:Österbar\, Haus Lichtenstein\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neuer Termin für den Umsonstmarkt aufgrund des Wetters
+DTSTART:20240607T163000Z
+DTEND:20240607T193000Z
+DTSTAMP:20240605T204037Z
+UID:9d6aa92a-168c-4963-9755-508f492d8255
+DESCRIPTION:Wegen der Wetterumstände wurde der Umsonstmarkt auf den 07.06
+ . verschoben. Neben dem kostenlosem Austausch von Gegenständen wird es Mu
+ sik\, Kaffee und Kuchen geben. Der Markt findet als Ersatz für den derzei
+ t wegen Renovierungen geschlossenen Umsonstladen statt und zielt darauf ab
+ \, dem Lager etwas „Luft zum Atmen“ zu geben. Teilnehmer sind eingelad
+ en\, ihre Schätze vom Umsonstladen mitzunehmen und begrenzt auch eigene S
+ achen mitzubringen.
+LOCATION:Sternplatz
+END:VEVENT
 END:VCALENDAR
