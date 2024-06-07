@@ -4509,4 +4509,17 @@ DESCRIPTION:Wegen der Wetterumstände wurde der Umsonstmarkt auf den 07.06
  achen mitzubringen.
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung gegen Rechtsextremismus und für Demokratie
+DTSTART:20240608T120000
+DTEND:20240608T235959Z
+DTSTAMP:20240607T204017Z
+UID:99fe14c6-230a-4900-b419-85f041f232b1
+DESCRIPTION:Unsere Kundgebung findet auf dem Marktplatz statt\, um ein sta
+ rkes Zeichen gegen Rechtsextremismus und für unsere Demokratie zu setzen\
+ , vor den Kommunal- und Europawahlen. Wir rufen alle Bündnisse\, Vereine\
+ , Parteien und Privatpersonen auf\, sich anzuschließen. Teilt das Sharepi
+ c und nutzt Eure Reichweite\, um die Botschaft zu verbreiten.
+LOCATION:Marktplatz
+END:VEVENT
 END:VCALENDAR
