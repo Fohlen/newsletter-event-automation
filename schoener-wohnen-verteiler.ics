@@ -4532,4 +4532,24 @@ DESCRIPTION:Freut euch auf ein besonderes Solo-Konzert des Multi-Instrumen
  talisten Cristóbal A.A. Liebe Grüße\, die Lichtis
 LOCATION:Lichti
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussionsveranstaltung zur politischen Dimension des Fußballs
+DTSTART:20240613T190000Z
+DTEND:20240613T235959Z
+DTSTAMP:20240609T204022Z
+UID:eafb8a88-7c7f-4815-a564-d23f1122f906
+DESCRIPTION:Profiteure internationaler Sportveranstaltungen behaupten stet
+ s\, man habe Politik und Sport voneinander zu trennen. Angesichts der Fuß
+ ball-WM in Katar räumen Klaus-Dieter Stork und Jonas Wollenhaupt mit dem 
+ Mythos vom „unpolitischen“ Fußball auf. Sie erinnern an den wilden Fu
+ ßball in England und Italien\, ans Kicken im kaiserlichen Deutschland\, a
+ n den Kampf von Frauen für ihren Sport\, an brasilianische Legenden wie A
+ rthur Friedenreich\, an den Fußballfan Dmitri Schostakowitsch und „die 
+ linke Hand Gottes“. Es ist „die Kurve“\, die den Liebhabern des Fuß
+ balls „die erhsehnte Geborgenheit“ in der kalten globalisierten Welt g
+ ibt. Mit elf konkreten Vorschlägen für die Bewegung „Wir wollen den Fu
+ ßball zurück“. Denn nicht nur in Liverpool gilt: „You’ll never wal
+ k alone.“
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
