@@ -4522,4 +4522,14 @@ DESCRIPTION:Unsere Kundgebung findet auf dem Marktplatz statt\, um ein sta
  c und nutzt Eure Reichweite\, um die Botschaft zu verbreiten.
 LOCATION:Marktplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-Instrumentalist Cristóbal A.A. in Konzert
+DTSTART:20240609T190000
+DTEND:20240609T210000Z
+DTSTAMP:20240609T125218Z
+UID:b76b5a7b-fb16-4dba-9bba-4eba9370c842
+DESCRIPTION:Freut euch auf ein besonderes Solo-Konzert des Multi-Instrumen
+ talisten Cristóbal A.A. Liebe Grüße\, die Lichtis
+LOCATION:Lichti
+END:VEVENT
 END:VCALENDAR
