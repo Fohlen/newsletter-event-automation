@@ -4552,4 +4552,20 @@ DESCRIPTION:Profiteure internationaler Sportveranstaltungen behaupten stet
  k alone.“
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrate summer with us at the Geissweg Summerfest featuring cool
+  workshops and a big party! Sporty outfits encouraged.
+DTSTART:20240615T170000
+DTEND:20240615T235959Z
+DTSTAMP:20240610T204023Z
+UID:150a67f0-9a9f-4b78-bc9c-13fede21a032
+DESCRIPTION:Join us for a day of fun under the sun at Geissweg 15-23! Here
+ 's what we have lined up:\n\n- Cheerleading- Stunning for beggings: 17:00\
+ n- DAW (Digital Audio Workstation): 18:00\n- Songwriting: 19:00\n\nFrom 22
+ :00 onwards\, get ready for the big Geissweg Party\, where the theme is sp
+ ort. From classical sports to e-sports and chess\, all are welcome. Choose
+  your sportiest attire and come celebrate with us! More information can be
+  found on our flyers.
+LOCATION:Geissweg 15-23
+END:VEVENT
 END:VCALENDAR
