@@ -4568,4 +4568,34 @@ DESCRIPTION:Join us for a day of fun under the sun at Geissweg 15-23! Here
   found on our flyers.
 LOCATION:Geissweg 15-23
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protest gegen Missionierungsversuche auf dem Universitäts-Campus 
+ in Tübingen
+DTSTART:20240611T181500
+DTEND:20240611T235959Z
+DTSTAMP:20240611T125541Z
+UID:15752ce8-47e3-4bd3-85ff-5555d2c6f1fa
+DESCRIPTION:Das Bündnis 'Keine Missionierung auf unserem Campus' ruft zu 
+ einer Kundgebung gegen die zunehmende Anzahl an Missionierungsversuchen au
+ f dem Campus der Universität Tübingen auf. Verschiedene Akteure\, inklus
+ ive der Veranstalter*innen der Hochschultage\, werden kritisiert. Die Vera
+ nstaltung findet auf dem Vorplatz des Kupferbaus statt.
+LOCATION:Vorplatz des Kupferbaus\, Universität Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Sommerfest zur Feier des Anbaus der Kita Casa KiTaNa
+DTSTART:20240621T150000Z
+DTEND:20240621T235959Z
+DTSTAMP:20240611T125541Z
+UID:a2228589-a164-48c8-a9ed-1d90f4271c85
+DESCRIPTION:Liebe Unterstützer*innen\, Partner*innen\, Nachbarn\, Freund*
+ innen und Interessierte der Hegel7\, wir möchten Euch zum Sommerfest einl
+ aden\, um den Abschluss unserer Bauarbeiten für den Anbau der Kita Casa K
+ iTaNa zu feiern. Es gibt geführte Besichtigungen des neuen Gebäudes\, ei
+ nen Tauschmarkt\, Verpflegung\, Getränke und ein buntes Rahmenprogramm f
+ ür Kinder\, einschließlich einer Kinderdisco ab 17 Uhr. Alle Spender*inn
+ en können auf einer Metalltafel an der Fassade namentlich erwähnt werden
+ .
+LOCATION:Hegelstraße 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
