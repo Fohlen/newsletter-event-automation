@@ -4598,4 +4598,55 @@ DESCRIPTION:Liebe Unterstützer*innen\, Partner*innen\, Nachbarn\, Freund*
  .
 LOCATION:Hegelstraße 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An unforgettable underground party featuring the finest electronic
+  music.
+DTSTART:20240615T220000Z
+DTEND:20240615T235959Z
+DTSTAMP:20240612T125549Z
+UID:833e12a3-5d79-4c51-9c38-456ace605a99
+DESCRIPTION:Hey Party People\, You are warmly invited to an unforgettable 
+ night beneath the earth at the “Cave Rave - Underground Through the Nigh
+ t” party! Get ready for a night of great music\, delicious drinks\, and 
+ a magical atmosphere. Transform yourself into a caveman/woman\, jump into 
+ your mining outfits\, pack your headlamp\, and bring torches and a good mo
+ od. Dressing up is welcome but not a must! Here is the line up as a teaser
+ :\n\n**1st floor:** DJ Lasagne\, Siggi\, Jane Doom\, Cem\, and Angel\n\n**
+ 2nd floor:** J.P.\, Rudi\, Dunec\, Synth-a-klaus\n\nJoin us as we turn the
+  underground into an all-night rave! We can't wait to see you and have a l
+ egendary cave party!
+LOCATION:Schloßbergstraße 23\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar mit KüFa-Essen\, Tischtennis und Lagerfeuer
+DTSTART:20240115T193000
+DTEND:20240115T235959Z
+DTSTAMP:20240612T125549Z
+UID:b9282696-6d20-44f0-9526-49e540e3a4e9
+DESCRIPTION:Liebe Schöner Wohnende\, \n\nNächsten Montag um 19:30 öffne
+ t das Leibnizhaus II (Stauffenbergstraße 30) seine Pforten und lädt euch
+  zur Hausbar ein. Neben Getränken wird es hervorragendes KüFa-Essen\, Ti
+ schtennis und Lagerfeuer auf der Terrasse geben. Wir freuen uns auf euch\,
+  das LH2
+LOCATION:Leibnizhaus II\, Stauffenbergstraße 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWAP\, DON'T SHOP - Kleidertauschparty
+DTSTART:20240630T140000
+DTEND:20240630T180000Z
+DTSTAMP:20240612T125549Z
+UID:b16fd7cc-518b-4798-af18-cf59b1998c3b
+DESCRIPTION:Liebe alle\, hiermit möchten wir euch gern zu unserer Kleider
+ tauschparty im Fichtehaus einladen. Kommt gern vorbei\, bringt eure alte\,
+  nicht mehr genutzte Kleidung (bitte gewaschen) mit und freut euch auf ein
+ e große Auswahl an tollen Kleidungsstücken\, die nach neuen Besitzer*inn
+ en suchen. Neben musikalischer Untermalung wird es auch einiges an Fingerf
+ ood geben\, welches - im Sinne der Nachhaltigkeit wider die Lebensmittelve
+ rschwendung - gänzlich aus ge-foodsharten Lebensmitteln von uns selbst zu
+ bereitet wird. Wann : Sonntag\, 30.06.\, 14 - 18 Uhr Wo : Johann-Gottlieb-
+ Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen Wir freuen uns auf 
+ euer Kommen!
+LOCATION:Johann-Gottlieb-Fichtehaus\, Herrenberger Straße 40\, 72070 Tüb
+ ingen
+END:VEVENT
 END:VCALENDAR
