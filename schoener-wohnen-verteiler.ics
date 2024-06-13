@@ -4668,4 +4668,20 @@ DESCRIPTION:Das FRANZ!werk lädt herzlich zum jährlichen Sommerfest ein\,
  anisiert ist.
 LOCATION:FRANZ!werk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tauschen Sie saubere und gut erhaltene Kleidung und finden Sie neu
+ e Lieblingsstücke.
+DTSTART:20240615T110000Z
+DTEND:20240615T140000Z
+DTSTAMP:20240613T204133Z
+UID:c52f9dad-3100-4bd2-b47b-2a33f1a79e57
+DESCRIPTION:Das Umweltzentrum Tübingen lädt herzlich zum Kleidertausch e
+ in! Dies ist eine großartige Gelegenheit\, saubere und gut erhaltene Klei
+ dung zu tauschen und neue Lieblingsstücke zu finden. Die Veranstaltung is
+ t kostenlos und für alle offen. Wir freuen uns über eine kleine Spende\,
+  um solche Events auch in Zukunft anbieten zu können. Bei Fragen können 
+ Sie uns unter umweltzentrum.tuebingen@posteo.de erreichen oder uns über I
+ nstagram @umweltzentrum_tuebingen anschreiben.
+LOCATION:Umweltzentrum Tübingen
+END:VEVENT
 END:VCALENDAR
