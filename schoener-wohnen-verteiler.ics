@@ -4649,4 +4649,23 @@ DESCRIPTION:Liebe alle\, hiermit möchten wir euch gern zu unserer Kleider
 LOCATION:Johann-Gottlieb-Fichtehaus\, Herrenberger Straße 40\, 72070 Tüb
  ingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum FRANZ!werk Sommerfest: Musik\, Kunst und Gemeinschaf
+ t
+DTSTART:20240106T160000
+DTEND:20240106T235959Z
+DTSTAMP:20240613T125519Z
+UID:dabfd226-0a8d-47cf-82d1-0d08966e453b
+DESCRIPTION:Das FRANZ!werk lädt herzlich zum jährlichen Sommerfest ein\,
+  wo Sie neben schönen Menschen auch ein unterhaltsames Programm erwarten 
+ können: \n- 16:00 Uhr Beginn & Kinderschminken\n- 17:00 Uhr Essen\n- 18:0
+ 0 Uhr Kunstperformance des Zirkus Primel\n- 20:00 Uhr Live Rock-Konzert vo
+ n den Tucanos\n- 22:00 Uhr Reaggae & Dub von Sista Sassy\n- 23:00 Uhr Elek
+ tro von chrisybaer & Simi\n\nBringen Sie gerne Freunde und Familie mit und
+  genießen Sie die Zeit gemeinsam. Reden Sie zuhast über das FRANZ!werk: 
+ Eine Initiative für eine niedrigschwellige und solidarisch bereitgestellt
+ e Arbeitsinfrastruktur\, die selbstverwaltet und gemeinschaftsgetragen org
+ anisiert ist.
+LOCATION:FRANZ!werk
+END:VEVENT
 END:VCALENDAR
