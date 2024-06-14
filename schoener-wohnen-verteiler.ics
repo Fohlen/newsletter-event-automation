@@ -4684,4 +4684,17 @@ DESCRIPTION:Das Umweltzentrum Tübingen lädt herzlich zum Kleidertausch e
  nstagram @umweltzentrum_tuebingen anschreiben.
 LOCATION:Umweltzentrum Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihausbar gegen Polizeiwillkür
+DTSTART:20240619T180000Z
+DTEND:20240619T235959Z
+DTSTAMP:20240614T204025Z
+UID:72ddc670-39ff-4ee2-bc09-dddc216bd881
+DESCRIPTION:Solihausbar zu Gunsten der Unterstützung im Kampf gegen Poliz
+ eiwillkür. Es wird eine Vielzahl von Specials geben\, einschließlich Get
+ ränke\, Musik\, ein Feuer\, Cocktails (Mojito)\, eine Zwillen-Schießbude
+ \, Pommes\, Curly Fries und vieles mehr. Der Erlös wird zur Deckung von R
+ epressions- und Anwaltskosten verwendet.
+LOCATION:Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
