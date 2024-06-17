@@ -4742,4 +4742,15 @@ DESCRIPTION:Gute Nachrichten für alle Mosher:innen! Das Epplehaus präsen
  ource=linktree_profile_share<sid=edd52b58-d75c-440f-ba0d-e15f06f282e1
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert of the band „E“ from Boston
+DTSTART:20240625T210000
+DTEND:20240625T235900Z
+DTSTAMP:20240617T204028Z
+UID:8ce717b1-ed76-4b61-ba8b-5469e691caf1
+DESCRIPTION:Join us for the concert of the band „E“\, featuring Thalia
+  Zedek\, Jason Sanford\, and Ernie Kim! Doors open at 20:00. Entry is on a
+  donation basis.
+LOCATION:Tübinger Shedhalle\, Schlachthausstraße 13
+END:VEVENT
 END:VCALENDAR
