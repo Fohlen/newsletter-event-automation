@@ -4697,4 +4697,49 @@ DESCRIPTION:Solihausbar zu Gunsten der Unterstützung im Kampf gegen Poliz
  epressions- und Anwaltskosten verwendet.
 LOCATION:Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Punk and Punk/Noise night
+DTSTART:20240617T200000
+DTEND:20240617T210000Z
+DTSTAMP:20240617T125613Z
+UID:f8179e2b-e143-4bbe-a49c-9e7158a68670
+DESCRIPTION:Enjoy a night of energetic punk music with two amazing bands f
+ rom different locales. Pempti Kasta combines street punk vibes from Thessa
+ loniki\, while Nuit Bleue brings their unique blend of punk/noise from Tou
+ louse. Do not miss the chance to experience their live performances!\n\nMo
+ re about the bands:\nPempti Kasta - https://pemptikasta.bandcamp.com/album
+ /no-ceasefire\nNuit Bleue - https://nuitbleue666.bandcamp.com/
+LOCATION:Lu15 Πέμπτη Κάστα Street\, Thessaloniki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrraddemonstration für nachhaltige Mobilität
+DTSTART:20240621T180000Z
+DTEND:20240621T210000Z
+DTSTAMP:20240617T125613Z
+UID:b61ca2ba-a177-48a1-97e5-ad5dfeb98dd4
+DESCRIPTION:Liebe Tübinger RadfahrerInnen und Mobilitätsbegeisterte\, es
+  ist wieder soweit! Am 21.06.24 treffen wir uns zur nächsten Critical Mas
+ s. Lasst uns gemeinsam durch die Straßen radeln und ein Zeichen für eine
+  nachhaltige und fahrradfreundliche Stadt setzen. Jede Teilnahme zählt un
+ d macht unseren Protest für bessere Radinfrastruktur sichtbarer! Schnappt
+  euch eure FreundInnen\, Familie und natürlich eure Fahrräder. Wir freue
+ n uns auf euch! 🌍🚴‍♂💚
+LOCATION:Tübinge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Hardcore-Abend mit Minus Youth\, Prison of Hope\, Deadweight
+DTSTART:20240621T203000
+DTEND:20240621T235900Z
+DTSTAMP:20240617T125613Z
+UID:71b8131d-67e7-4b60-a211-40760345ef2a
+DESCRIPTION:Gute Nachrichten für alle Mosher:innen! Das Epplehaus präsen
+ tiert Süddeutschlands feinster Hardcore mit Minus Youth\, Prison of Hope 
+ und Deadweight. Ein tolles Event für Fans des Genres.\n\nWeitere Infos:\n
+ - Minus Youth: https://linktr.ee/minusyouth?utm_source=linktree_profile_sh
+ are<sid=4de3174b-3a16-45b4-aaa6-9dac9c55017a\n- Prison of Hope: https://li
+ nktr.ee/poh_stuttgart?utm_source=linktree_profile_share<sid=496266ce-89b5-
+ 4c60-8bc9-ea4500d68ab8\n- Deadweight: https://linktr.ee/deadweighthc?utm_s
+ ource=linktree_profile_share<sid=edd52b58-d75c-440f-ba0d-e15f06f282e1
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
