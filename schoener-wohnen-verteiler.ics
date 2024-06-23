@@ -4853,4 +4853,22 @@ DESCRIPTION:Reverend Beat-Man\, the infamous One-Man-Band\, is performing
   Sheeran\, or Coldplay\, this might not be for you.
 LOCATION:Blauen Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebe Antonio San Martín und das Música con Señas Orchester in
+  Tübingen
+DTSTART:20240623T190000Z
+DTEND:20240623T210000Z
+DTSTAMP:20240623T204029Z
+UID:ab48c47b-7394-4b68-8889-b9e8c466b35e
+DESCRIPTION:Freut euch auf eine einzigartige musikalische Erfahrung mit An
+ tonio San Martín\, dem legendären Komponisten\, Multi-Instrumentalisten 
+ und Dirigenten\, und dem Música con Señas Orchester. Nach einer Woche In
+ tensivkurs in der Zeichensprache "Ritmo con Señas" unter der Leitung von 
+ Antonio\, könnt ihr die beeindruckenden Ergebnisse dieser Sessions live i
+ m Franz!Werk erleben. Dieses Event\, inspiriert von "Ritmo con Señas" - e
+ iner Methode und Zeichensprache für gemeinsame Musikimprovisation\, versp
+ richt ein spannender Abend voller Rhythmik\, Harmonik und Melodik zu werde
+ n.
+LOCATION:Franz!Werk\, Pferdeställen 8\, Tübingen
+END:VEVENT
 END:VCALENDAR
