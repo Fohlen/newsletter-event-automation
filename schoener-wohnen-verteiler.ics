@@ -4871,4 +4871,53 @@ DESCRIPTION:Freut euch auf eine einzigartige musikalische Erfahrung mit An
  n.
 LOCATION:Franz!Werk\, Pferdeställen 8\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Event zur Unterstützung der Initiative 'Solardarity - Neue En
+ ergien für Rojava' mit dem Ziel\, für Solarpanels in Rojava 1 Million Eu
+ ro zu sammeln.
+DTSTART:20240626T200000Z
+DTEND:20240626T235959Z
+DTSTAMP:20240624T125624Z
+UID:03ecf994-1053-4499-a01b-cf25888f84dd
+DESCRIPTION:Die Veranstaltung 'Solihbar für Solardarity - Neue Energien f
+ ür Rojava' zielt darauf ab\, Mittel zu sammeln\, um Solarpanels in Rojava
+ \, Nord- und Ostsyrien\, zu finanzieren. Diese Aktion unterstützt die Ini
+ tiative\, eine demokratische und ökologische Alternative im Nahen Osten z
+ u schaffen\, indem sie zur Lösung der Energiekrise in der Region beiträg
+ t. Kommunale Einrichtungen wie Krankenhäuser\, Schulen und Frauenhäuser 
+ sollen mit sauberer Energie versorgt werden\, um den Alltag der Menschen z
+ u verbessern und gleichzeitig einen Beitrag zum ökologischen Wandel zu le
+ isten.
+LOCATION:Hof oder Hausbar der Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entdecke nachhaltige Mode in Tübingen!
+DTSTART;TZID="+02:00":20240626T160000
+DTEND:20240626T180000Z
+DTSTAMP:20240624T125624Z
+UID:a0f13200-3de4-4a05-a7c1-e14f26867abc
+DESCRIPTION:Auf dieser spannenden Tour durch Tübingen erkunden wir gemein
+ sam verschiedene Läden\, die nachhaltige Mode anbieten. Erfahre\, welche 
+ Alternativen es zu Fast Fashion gibt und wie ein verantwortungsvoller Umga
+ ng mit Textilien aussehen kann. Die Tour bietet außerdem die Möglichkeit
+  zum Austausch über nachhaltige Modepraktiken.\n\nTreffpunkt: Georgsbrunn
+ en auf dem Holzmarkt. Die Tour ist rollstuhlzugänglich und findet teilwei
+ se im Freien statt. Bitte kleide dich dem Wetter entsprechend. Teilnahme a
+ uf eigene Gefahr. Anmeldung erwünscht\, aber spontane Teilnehmende sind e
+ benso willkommen.\nOrganisiert von Studierenden der Uni Tübingen in Koope
+ ration mit dem Wissenschaftsladen\, Future Fashion & FAIRstrickt.\nReferen
+ t:innen: Bridjet Schlitt\, Maria Keller\, Misuk Choi
+LOCATION:Holzmarkt\, Tübingen\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert der Band „E“ aus Boston in der Tübinger Shedhalle
+DTSTART:20240625T210000Z
+DTEND:20240625T235959Z
+DTSTAMP:20240624T125624Z
+UID:b44a510c-ceb3-4fb1-bb43-12653177996e
+DESCRIPTION:Die Band 'E'\, bestehend aus Thalia Zedek\, Jason Sanford und 
+ Ernie Kim\, präsentiert ihr fünftes Album 'Living Waters'. Eintritt auf 
+ Spendenbasis.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen\, Deutschland
+END:VEVENT
 END:VCALENDAR
