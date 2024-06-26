@@ -4920,4 +4920,21 @@ DESCRIPTION:Die Band 'E'\, bestehend aus Thalia Zedek\, Jason Sanford und
  Spendenbasis.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen\, Deutschland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung\, Demo\, Innenhoffest\, und Party zum Kampf für queer 
+ Rechte und Anerkennung.
+DTSTART:20240628T160000
+DTEND:20240628T235959Z
+DTSTAMP:20240626T204024Z
+UID:85c6f9f6-d010-49ff-8a76-663a3de6669b
+DESCRIPTION:Die erste Stuttgarter Critical Pride findet am Freitag\, den 2
+ 8. Juni statt\, mit Kundgebungen und einem Demozug durch die Innenstadt\, 
+ einem Innenhoffest in der Schwabenbräupassage in Cannstatt\, und einer Af
+ ter-Party im Prisma. Ein Tag zur Feier von 55 Jahren queerer Kämpfe mit E
+ ssen\, Musik\, Karaoke\, und einem legendären Lineup.\n\nOrganisiert von 
+ Antifaschistische Queere Aktion (AQA)\, Queer & Revolutionär\, SDS Stuttg
+ art\, Sozial – Radikal – Gegens Kapital\, Revolution Stuttgart\, Young
+  Struggle.
+LOCATION:Stuttgart
+END:VEVENT
 END:VCALENDAR
