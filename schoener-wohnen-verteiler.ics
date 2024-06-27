@@ -4937,4 +4937,23 @@ DESCRIPTION:Die erste Stuttgarter Critical Pride findet am Freitag\, den 2
   Struggle.
 LOCATION:Stuttgart
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An evening of music\, food\, and fun in the garden.
+DTSTART:20240701T190000
+DTEND:20240701T235900Z
+DTSTAMP:20240627T204050Z
+UID:cddcc16c-babc-41ec-b3cc-670702e9ad64
+DESCRIPTION:Join us for a special Monday evening at the Österbar at Licht
+ i! We'll enjoy cold drinks\, a campfire\, a workshop & jam session\, and K
+ üfa in our beautiful garden. The highlight of the evening will be a sessi
+ on of improvised music with Música con Señas starting at 19:00. This is 
+ an inclusive session where everyone\, regardless of prior knowledge or whe
+ ther you have an instrument\, is invited to join in. Watch Música con Se
+ ñas in action here: https://www.youtube.com/watch?v=0Z6gAPPqE7k. Addition
+ ally\, there might be an open classical jam session parallel\, afterwards\
+ , or not at all - stay tuned! Food and drinks will be available starting a
+ t 19:30. Come join us for a great start to the week! GaLiGrü\, the Lichti
+ s
+LOCATION:Lichti
+END:VEVENT
 END:VCALENDAR
