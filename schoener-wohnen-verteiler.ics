@@ -4956,4 +4956,33 @@ DESCRIPTION:Join us for a special Monday evening at the Österbar at Licht
  s
 LOCATION:Lichti
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Konzert von Carrie Nation & The Speakeasy
+DTSTART:20240702T220000Z
+DTEND:20240702T235959Z
+DTSTAMP:20240629T204044Z
+UID:e51fa1fa-2593-4dfc-8a49-491d6b33672c
+DESCRIPTION:Carrie Nation & The Speakeasy kehren für einen unvergessliche
+ n Abend voller Punk\, Bluegrass und Dixieland zurück in den Blauen Salon.
+  Bekannt für ihren einzigartigen Sound\, den sie selbst als „eine Postk
+ utsche auf Speed“ beschreiben\, versprechen die Musiker ein mitreißende
+ s Konzert. Mit einer vielseitigen Besetzung\, darunter Akustikgitarre\, Dr
+ ums/Waschbrett\, Kontrabass\, Banjo und Trompete\, laden sie zu einer musi
+ kalischen Reise ein\, die von New Orleans‘ Geschmack bis hin zu virtuose
+ n Instrumentals reicht.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Zimmer in unserer WG wird für Zwischenmiete frei.
+DTSTART:20240801T000000
+DTEND:20240801T235959Z
+DTSTAMP:20240629T204044Z
+UID:28de4027-b527-433c-acb8-ef1c0dbf4644
+DESCRIPTION:Ein Zimmer in unserer WG wird von August bis Ende Dezember zur
+  Zwischenmiete verfügbar. Es besteht zudem die Möglichkeit\, dass anschl
+ ießend weitere Zimmer frei werden und eine Aussicht auf einen unbefristet
+ en Vertrag besteht\, obwohl dies noch nicht zu 100% sicher ist.\n\nMehr In
+ formationen und Bewerbung: https://www.wg-gesucht.de/11039613.html
+LOCATION:https://www.wg-gesucht.de/11039613.html
+END:VEVENT
 END:VCALENDAR
