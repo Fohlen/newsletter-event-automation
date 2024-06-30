@@ -4985,4 +4985,21 @@ DESCRIPTION:Ein Zimmer in unserer WG wird von August bis Ende Dezember zur
  formationen und Bewerbung: https://www.wg-gesucht.de/11039613.html
 LOCATION:https://www.wg-gesucht.de/11039613.html
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geflohen\, Verboten\, Ausgeschlossen - Wie die kurdische Diaspora 
+ in Deutschland mundtot gemacht wird.
+DTSTART:20240703T190000Z
+DTEND:20240703T220000Z
+DTSTAMP:20240630T204030Z
+UID:9c730f5d-6716-44d5-aa60-57b8a28721ee
+DESCRIPTION:Mittwoch\, 03.07.2024\, ab 19 Uhr: veganes Essen\, ab 20 Uhr: 
+ Vortrag und Diskussion\n\nBuchvorstellung und Diskussion\n\nJahrzehntelang
+  wurden sie als „Terroristen“ verunglimpft und ihre Organisationen als
+  „Hauptfeind der inneren Sicherheit“ diffamiert: Kurdinnen und Kurden 
+ in Deutschland. Der Referent Alexander Glasner-Hummel studierte Soziologie
+  an der Ruprecht-Karls-Universität Heidelberg und ist derzeit Promovend i
+ n den Kommunikationswissenschaften an der Ludwig-Maximilians-Universität 
+ München zum Thema »Die Wirkungen von Repression auf Öffentlichkeit«.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
