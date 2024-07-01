@@ -5018,4 +5018,37 @@ DESCRIPTION:Der queer-feministische Lesezirkel lädt ein\, miteinander ins
   unserer Bedürfnisse und Grenzen. 
 LOCATION:Blaues Haus\, Weststadt\, Herrenberger Straße 61
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Österbar Event at Lichti
+DTSTART:20240701T190000
+DTEND:20240701T235959Z
+DTSTAMP:20240701T204032Z
+UID:22bf9659-3c08-49c1-98fd-406888ef2015
+DESCRIPTION:Hello everyone\, we are happy to invite you all to the Österb
+ ar on Monday 01.07 at Lichti wuhuu! We hope for good weather and a nice Mo
+ nday evening in our garden with cold drinks\, campfire\, workshop & jam se
+ ssion and Küfa! From 19:00 there will be a session of improvised music wi
+ th Música con Señas 😊 Everyone with and without previous knowledge & 
+ instrument is invited to join in. Here you can see Música con Señas in a
+ ction: https://www.youtube.com/watch?v=0Z6gAPPqE7k Parallel or afterwards 
+ or not at all... there will also be an open classical jam session\, stay t
+ uned \;) Food and drinks will be available from 19:30 on. So come in numbe
+ rs! GaLiGrü the Lichtis
+LOCATION:Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSD in Tübingen unter dem Motto 'Selbstbestimmung endet nicht bei
+  unseren Namen!'
+DTSTART:20240706T133000Z
+DTEND:20240706T200000Z
+DTSTAMP:20240701T204032Z
+UID:33f0808c-2c14-40b2-a46e-c22032f29066
+DESCRIPTION:Die diesjährige CSD-Demonstration findet in Tübingen statt. 
+ Das Motto lautet 'Selbstbestimmung endet nicht bei unseren Namen!'. Der Ta
+ g beginnt mit der Aufstellung um 13:30 Uhr in der Uhlandstraße 50\, gefol
+ gt von der Demo durch Tübingen ab 14:00 Uhr. Später findet eine Kundgebu
+ ng von 16 bis 17 Uhr statt\, begleitet von Infoständen von 16 bis 20 Uhr.
+  Für mehr Infos\, folge @csd_tuebingen auf Instagram.
+LOCATION:Uhlandstraße 50\, Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
