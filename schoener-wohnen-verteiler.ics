@@ -5002,4 +5002,20 @@ DESCRIPTION:Mittwoch\, 03.07.2024\, ab 19 Uhr: veganes Essen\, ab 20 Uhr:
  München zum Thema »Die Wirkungen von Repression auf Öffentlichkeit«.
 LOCATION:Hausbar der Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen zur Diskussion eines vorher vereinbarten Texte
+ s
+DTSTART:20240703T193000
+DTEND:20240703T210000Z
+DTSTAMP:20240701T125646Z
+UID:c4d02dfe-f46b-4279-9439-96480f1daf69
+DESCRIPTION:Der queer-feministische Lesezirkel lädt ein\, miteinander ins
+  Gespräch zu kommen und gemeinsam ausgewählte Texte (Gedichte\, Kurzpros
+ a\, Auszüge\, Artikel\, Zitate etc.) zu lesen und zu diskutieren. Teilneh
+ mer:innen können Diskussionsimpulse in Form von Texten per E-Mail an quee
+ r-feministischer-lesekreis@web.de einbringen. Das Treffen soll als mutiger
+  Raum dienen\, in dem wir voneinander und miteinander lernen\, beim Achten
+  unserer Bedürfnisse und Grenzen. 
+LOCATION:Blaues Haus\, Weststadt\, Herrenberger Straße 61
+END:VEVENT
 END:VCALENDAR
