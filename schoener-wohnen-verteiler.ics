@@ -5051,4 +5051,20 @@ DESCRIPTION:Die diesjährige CSD-Demonstration findet in Tübingen statt.
   Für mehr Infos\, folge @csd_tuebingen auf Instagram.
 LOCATION:Uhlandstraße 50\, Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Australische Rockband Bad//Dreems aus Adelaide spielen live.
+DTSTART:20240703T220000Z
+DTEND:20240703T235900Z
+DTSTAMP:20240702T204039Z
+UID:3a6388fb-dc84-4254-9eff-7dbdc88b4e97
+DESCRIPTION:Bad//Dreems\, eine australische Rockband aus Adelaide\, werden
+  im Blauen Salon auftreten. Die Band\, bekannt für ihren einflussreichen 
+ Mix aus Rock und Punk mit Einflüssen aus den 1970er und 1980er Jahren sow
+ ie aktuellen politischen Themen\, stellt ihr musikalisches Talent zur Scha
+ u. Bekannt für ihre Auftritte mit Bands wie Midnight Oil und DMA's sowie 
+ für ihre Positionierung gegen die Einstufung ihres Musikstils als 'Pub-Ro
+ ck'\, verspricht dieses Event eine einzigartige musikalische Darbietung. T
+ üren öffnen um 21 Uhr\, Start ist gegen 22 Uhr.
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
