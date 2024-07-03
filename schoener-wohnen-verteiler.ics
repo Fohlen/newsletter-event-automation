@@ -5067,4 +5067,20 @@ DESCRIPTION:Bad//Dreems\, eine australische Rockband aus Adelaide\, werden
  üren öffnen um 21 Uhr\, Start ist gegen 22 Uhr.
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genießen Sie Kaffee\, Kuchen und einen Kleidertausch auf unserer 
+ Terrasse.
+DTSTART:20240705T110000Z
+DTEND:20240705T140000Z
+DTSTAMP:20240703T125544Z
+UID:d3666993-0aee-4e7f-b85c-153e6d412170
+DESCRIPTION:Am Freitag in der Mittagspause noch nichts vor? Dann kommt zum
+  Wilhelma Café! Wir versorgen euch von 11 bis 14 Uhr mit Kaffee und Kuche
+ n auf Spendenbasis. Es gibt auch einen Kleidertausch - bringt also Klamott
+ en mit\, die ihr tauschen wollt. Außerdem wollen wir über Wohnprojekte i
+ nformieren und die Wohnprojekt-Szene diskutieren. Bringt bitte Infomateria
+ l mit. Ihr findet uns in der Wilhelmstraße 30/1\, hinter dem Clubhaus. Ko
+ mmt vorbei\, wir freuen uns auf euch!
+LOCATION:Wilhelma Café\, Wilhelmstraße 30/1
+END:VEVENT
 END:VCALENDAR
