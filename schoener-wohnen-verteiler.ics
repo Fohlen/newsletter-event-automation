@@ -5083,4 +5083,42 @@ DESCRIPTION:Am Freitag in der Mittagspause noch nichts vor? Dann kommt zum
  mmt vorbei\, wir freuen uns auf euch!
 LOCATION:Wilhelma Café\, Wilhelmstraße 30/1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorbereitungsmeeting für das Schutz-Team des Sommerfests
+DTSTART:20240710T190000
+DTEND:20240710T235959Z
+DTSTAMP:20240704T125522Z
+UID:bb8e8ba3-9e03-4e92-b03b-9995c0a91ebd
+DESCRIPTION:Einweisungsmeeting für alle\, die im Schutz-Team bei unserem 
+ Sommerfest mithelfen möchten. Eine Teilnahme ist erforderlich\, um am Fes
+ t als Teil des Schutz-Teams zu agieren. Alle Informationen zum Ablauf und 
+ zur Organisation werden bereitgestellt.
+LOCATION:Schellingsalleinzuhaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum alljährlichen Sommerfest
+DTSTART:20240706T160000Z
+DTEND:20240706T235959Z
+DTSTAMP:20240704T125522Z
+UID:5b9ca044-875b-4002-8bd0-9b5508b7a6b4
+DESCRIPTION:Treten Sie uns im Geigerle für unser alljährliches Sommerfes
+ t bei! Beginn ist um 16:00\, mit Essen\, Getränken\, Live-Musik ab 18:00\
+ , unserer Hausband No Name Until Fame spielt ab 20:00\, und DJs ab 22:00.
+LOCATION:Charlottenstraße 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HipHop\, Disco/Funk\, Acid House\, Techno\, Indie Dance und Downte
+ mpo Party
+DTSTART:20240706T220000
+DTEND:20240706T235959Z
+DTSTAMP:20240704T125522Z
+UID:61afe9cd-32ad-41c0-a139-18e3f15b6484
+DESCRIPTION:Wir laden euch herzlich ein zu einer musikalischen Reise durch
+  verschiedene Genres\, von HipHop über feinste Disco/Funk Vinyl Sounds vo
+ n Mariculix und U-Funk\, bis zu einer wilden Mischung aus Acid House\, Tec
+ hno\, Indie Dance und Downtempo\, präsentiert vom Stuttgarter Kollektiv W
+ altraudt Lichter e.V. Freut euch auf eine Nacht voller Hits und feiert mit
+  uns den Sommer.
+LOCATION:Hegel
+END:VEVENT
 END:VCALENDAR
