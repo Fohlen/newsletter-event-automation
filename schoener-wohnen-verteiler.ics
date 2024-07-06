@@ -5121,4 +5121,33 @@ DESCRIPTION:Wir laden euch herzlich ein zu einer musikalischen Reise durch
   uns den Sommer.
 LOCATION:Hegel
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princess Charming Watch Party
+DTSTART:20241227T183000Z
+DTEND:20241227T235959Z
+DTSTAMP:20240706T125218Z
+UID:ade85d31-e0eb-438f-be94-d84db2a1fd14
+DESCRIPTION:Nächste Woche am Mittwoch findet bei uns im Pfleghof eine Pri
+ ncess Charming Watch Party statt. Kommt vorbei und genießt die Show mit B
+ ar. Freunde sind auch willkommen!
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein offenes Event rund um digitale Freiheit\, organisiert vom Chao
+ streff Tübingen und anderen. Programm mit Vorträgen\, Workshops\, Kunst\
+ , Technikinstallationen und Musik.
+DTSTART:20240629T130000
+DTEND:20240629T235959Z
+DTSTAMP:20240706T125218Z
+UID:31df57de-7f05-4843-a8c9-2fb2cc6eaa8a
+DESCRIPTION:Das Event 'Tag der digitalen Freiheit'\, oft auch Chaostage T
+ übingen genannt\, findet von Samstag 13 Uhr bis Sonntag 13 Uhr an der Wes
+ tspitze (Blaue Brücke\, Eisenbahnstr. 1) statt. Es bietet über 50 Progra
+ mmpunkte in verschiedenen Tracks: Kreativität & Schönheit\, Ethik\, Poli
+ totik & Gesellschaft\, Hardware & Code\, Nachhaltigkeit & Klimagerechtigke
+ it\, Digitalität & Mündigkeit. Nebenbei gibt es Assemblies\, Live-Radio 
+ von Wüste Welle und interessante Vorträge wie 'Still not loving gentrifi
+ cation 2/x' und Technikworkshops.
+LOCATION:Westspitze (Blaue Brücke)\, Eisenbahnstr. 1
+END:VEVENT
 END:VCALENDAR
