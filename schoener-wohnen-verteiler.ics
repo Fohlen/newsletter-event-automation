@@ -5150,4 +5150,32 @@ DESCRIPTION:Das Event 'Tag der digitalen Freiheit'\, oft auch Chaostage T
  cation 2/x' und Technikworkshops.
 LOCATION:Westspitze (Blaue Brücke)\, Eisenbahnstr. 1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung des Leibnizhaus 2 mit Live-Konzerten von Tübinger Band
+  Legenden und DJ-Sets.
+DTSTART:20240712T190000Z
+DTEND:20240712T235959Z
+DTSTAMP:20240709T125704Z
+UID:91510d43-f86f-4095-90ea-5df0e7ee8982
+DESCRIPTION:Die Pforten des Leibnizhaus 2 öffnen sich für euch am Freita
+ g\, den 12. Juli\, um 19:00 Uhr. Los geht es um 20:00 Uhr mit zwei Tübing
+ er Band Legenden: Thier und Prometheus Groove Collective\, die den Abend e
+ instimmen (kommt pünktlich!). Anschließend bringen unterschiedlichste DJ
+ s die Stimmung mit einer Vielfalt von Musikgenres in die Nacht\, von HipHo
+ p über Funk bis hin zu elektronischer Musik. Kommt gerne zum gemeinsamen 
+ Musikhören und Tanzen vorbei. Ciao Bellas!
+LOCATION:Leibnizhaus 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kulturtage mit Kinderprogramm\, Musik\, Workshops und mehr
+DTSTART:20240718T000000Z
+DTEND:20240718T235959Z
+DTSTAMP:20240709T125704Z
+UID:c3f0d8e4-dc84-418e-be9e-4d84a7961d60
+DESCRIPTION:Die Kulturtage bei den Wagenburgen Kuntabunt & Bambule laden z
+ um bunten Programm aus Kinderprogramm\, Musik\, Workshops\, Cafés und kul
+ inarischen Genüssen ein. Alle Informationen finden sich auf der Webseite 
+ www.kububabu.com und im Anhang.
+LOCATION:Wagenburgen Kuntabunt & Bambule
+END:VEVENT
 END:VCALENDAR
