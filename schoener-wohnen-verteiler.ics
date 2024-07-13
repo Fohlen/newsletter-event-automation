@@ -5178,4 +5178,38 @@ DESCRIPTION:Die Kulturtage bei den Wagenburgen Kuntabunt & Bambule laden z
  www.kububabu.com und im Anhang.
 LOCATION:Wagenburgen Kuntabunt & Bambule
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20-jähriges Jubiläum des Häuserkaufs.
+DTSTART:20240805T120000
+DTEND:20240805T235900Z
+DTSTAMP:20240713T125214Z
+UID:42f7c66b-6317-4346-b90a-2a797c3d9f27
+DESCRIPTION:Das Schelling-Sommerfest bietet Musik bis spät in die Nacht\,
+  ein Kinderprogramm\, Vokü\, einen pizzaofen und vieles mehr. Gleichzeiti
+ g feiern wir 20 Jahre Häuserkauf. Es gibt verschiedene Möglichkeiten\, b
+ eim Fest mitzuhelfen: Bar\, Einlass\, Essensausgabe\, Pizzaofen\, Kopfhör
+ er-Ausgabe für die Silent Disco\, Spülstation oder als Springer an der T
+ echnik. Wer Interesse hat mitzuhelfen\, kann sich unter diesem Link eintra
+ gen: https://turno.immerda.ch/s/mv5qgCvpQKTgMTN4vj3rxFCi3IjU8KUV
+LOCATION:Schellingstraße
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend voller kritischer Diskussion gegen Lokalpatriotismus mit
+  Boris Palmer.
+DTSTART:20240717T203000Z
+DTEND:20240717T235959Z
+DTSTAMP:20240713T125214Z
+UID:0c15e213-d435-4402-9e20-f61b7955ac07
+DESCRIPTION:Die Veranstaltung "5. Tübinger Anti-Heimat-Abend: Heimathass 
+ statt Heimatliebe!" fordert zu einer kritischen Auseinandersetzung mit Lok
+ alpatriotismus auf. Es ist eine Gelegenheit\, heimatfeindliche Parolen zu 
+ teilen und ein Verständnis für die kritischen Ansätze gegen Lokalpatrio
+ tismus zu entwickeln. Es werden verschiedene Programmpunkte wie ein Vorwor
+ t von Boris Palmer\, ein Rückblick auf die Anti-Heimat-Kampagne in Reutli
+ ngen 2012\, eine Lesung mit rechten Beschimpfungen gegen ein Tübinger Unt
+ ernehmen und Standup-Comedy angeboten. Teilnehmer sind eingeladen\, eigene
+  Beiträge wie Gedichte oder Rapsongs mitzubringen. Ort: "Blauer Salon"\, 
+ Münzgasse 13\, Tübingen.
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
