@@ -5212,4 +5212,25 @@ DESCRIPTION:Die Veranstaltung "5. Tübinger Anti-Heimat-Abend: Heimathass
  Münzgasse 13\, Tübingen.
 LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine kritische Auseinandersetzung mit den Konzepten von Antisemiti
+ smus und seiner Unterscheidung zu Rassismus\, sowie der Rolle Israels als 
+ Zuflucht für Jüdinnen und Juden.
+DTSTART:20240718T190000Z
+DTEND:20240718T210000Z
+DTSTAMP:20240714T204040Z
+UID:ae553246-e5c9-4c70-b4ab-9f36ea1749cb
+DESCRIPTION:(Fast) alle sind gegen Antisemitismus – und wissen trotzdem 
+ nicht\, was er ist. Viele Linke glauben\, sie seien dagegen immun\, weil s
+ ie Antirassist*innen sind. Doch Antisemitismus ist etwas völlig anderes a
+ ls Rassismus. Er ist eine Verschwörungsideologie mit antikapitalistischem
+  Anspruch\, die nichts vom Kapitalismus kapiert hat. Linke\, die von „de
+ r profitgierigen Kapitalistenklasse“ reden und Klimaaktive\, die glauben
+ \, „die Reichen“ seien an der Klimakrise schuld\, sind deswegen keine 
+ Antisemit*innen – aber anfällig für antisemitische Denkmuster. Auch au
+ f Coronademos wurde von Milliardären phantasiert\, die „schuld sind“.
+ \n\nDer moderne Antisemitismus wurzelt im zwei Jahrtausende alten christli
+ chen Antijudaismus\, der di...
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
