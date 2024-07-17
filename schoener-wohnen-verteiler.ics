@@ -5285,4 +5285,24 @@ DESCRIPTION:Liebe Tübinger RadfahrerInnen und Mobilitätsbegeisterte\, es
  r Datum: 19.07.24
 LOCATION:Uni-Bibliothek\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung gegen die Einführung einer diskriminierenden Bezahlkar
+ te für Geflüchtete im Landkreis Tübingen.
+DTSTART:20240724T143000
+DTEND:20240724T235959Z
+DTSTAMP:20240717T204029Z
+UID:422e4478-bdae-48b1-86d2-9d9226a9de64
+DESCRIPTION:Die Kundgebung fordert eine diskriminierungsarme Bezahlkarte f
+ ür Geflüchtete im Landkreis Tübingen. 22 lokale Initiativen haben sich 
+ zusammengeschlossen\, um Einspruch zu erheben und fordern\, dass die Karte
+  ohne Einschränkungen nutzbar sein muss\, Barabhebungen ohne monatliche O
+ bergrenze ermöglicht\, den bargeldlosen Zahlungsverkehr mit Dritten zulä
+ sst\, auf einen kleinen Personenkreis begrenzt\, zeitlich begrenzt verwend
+ et\, diskriminierungsfrei im Alltag nutzbar\, störungsfrei funktionieren 
+ und keine zusätzliche Belastung für ehrenamtliche Unterstützungsstruktu
+ ren darstellen sollte. Die Kundgebung findet vor dem Landratsamt in Tübin
+ gen statt\, organisiert von lokalen Initiativen und unterstützt von viele
+ n beteiligten Organisationen.
+LOCATION:Landratsamt (Wilhelm-Keilstraße 50\, Tübingen)
+END:VEVENT
 END:VCALENDAR
