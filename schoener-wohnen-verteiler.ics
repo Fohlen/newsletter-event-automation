@@ -5267,4 +5267,22 @@ DESCRIPTION:Hey liebe Schöner Wohnen Community\, da es letzte Woche so sc
   ist Pfleghofstraße 2. Bis dann\, eure Pflegis
 LOCATION:Pfleghofstraße 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RadfahrerInnen und Mobilitätsbegeisterte treffen sich zur nächst
+ en Critical Mass\, um ein Zeichen für nachhaltige Mobilität zu setzen.
+DTSTART:20240719T180000Z
+DTEND:20240719T210000Z
+DTSTAMP:20240717T125618Z
+UID:c588e6d7-7ec3-4587-93c6-862deaf9f283
+DESCRIPTION:Liebe Tübinger RadfahrerInnen und Mobilitätsbegeisterte\, es
+  ist wieder soweit! Am 19.07.24 treffen wir uns zur nächsten Critical Mas
+ s. Das Wetter wird fantastisch\, also lasst uns gemeinsam die Sonne genie
+ ßen und durch die Straßen radeln! Lasst uns ein Zeichen für eine nachha
+ ltige und fahrradfreundliche Stadt setzen. Jede Teilnahme zählt und macht
+  unseren Protest für bessere Radinfrastruktur sichtbarer! Seid dabei und 
+ genießt eine entspannte Fahrt durch unsere schöne Stadt. Je mehr wir sin
+ d\, desto stärker unser Signal! Treffpunkt: Uni-Bibliothek Zeit: 18:00 Uh
+ r Datum: 19.07.24
+LOCATION:Uni-Bibliothek\, Tübingen
+END:VEVENT
 END:VCALENDAR
