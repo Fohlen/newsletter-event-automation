@@ -5305,4 +5305,15 @@ DESCRIPTION:Die Kundgebung fordert eine diskriminierungsarme Bezahlkarte f
  n beteiligten Organisationen.
 LOCATION:Landratsamt (Wilhelm-Keilstraße 50\, Tübingen)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flamenco-Performance mit Ro
+DTSTART:20240719T210000
+DTEND:20240719T235900Z
+DTSTAMP:20240719T125540Z
+UID:e91fb06d-4f5e-4515-8772-1c4a3180928c
+DESCRIPTION:Freunde des Flamencos! Ro singt\, spielt und tanzt Freitag 19.
+ 07.2024 um 21 Uhr im Lichti\, Schwabstraße 6. Wir freuen uns auf euch! Di
+ e Lichtis
+LOCATION:Lichti\, Schwabstraße 6
+END:VEVENT
 END:VCALENDAR
