@@ -5316,4 +5316,18 @@ DESCRIPTION:Freunde des Flamencos! Ro singt\, spielt und tanzt Freitag 19.
  e Lichtis
 LOCATION:Lichti\, Schwabstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freund:innen der elektronischen Tanzmusik zusammenkommen!
+DTSTART:20240728T150000
+DTEND:20240728T220000Z
+DTSTAMP:20240721T204025Z
+UID:026df5e8-3320-41ba-8e0a-c0d6ae3b64ca
+DESCRIPTION:Beim Tanztee treffen sich Freund:innen der elektronischen Tanz
+ musik für einen unvergesslichen Tag im Freien. Mit Live-Performances von 
+ An On Bast aus Wrocław\, Destroyer aus Wien und Michael Graf aus Karlsruh
+ e. Zusätzlich spielen timodufner und Julius Elias. Eintritt ist fair gest
+ affelt\, und wer sich keinen leisten kann\, kommt auch so rein. Details un
+ d Acts: https://gstoo.de/tanztee 
+LOCATION:NULL815\, Reutlinger Strasse 175\, Tübingen
+END:VEVENT
 END:VCALENDAR
