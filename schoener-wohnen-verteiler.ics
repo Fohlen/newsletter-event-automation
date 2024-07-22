@@ -5330,4 +5330,17 @@ DESCRIPTION:Beim Tanztee treffen sich Freund:innen der elektronischen Tanz
  d Acts: https://gstoo.de/tanztee 
 LOCATION:NULL815\, Reutlinger Strasse 175\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan lunch\, coffee\, drinks\, and music
+DTSTART:20240726T120000
+DTEND:20240726T170000Z
+DTSTAMP:20240722T125652Z
+UID:894815a7-51f6-406c-aa2d-9519988ced2b
+DESCRIPTION:Join us at Wilhelma Café for a day filled with vegan lunch\, 
+ coffee\, cold drinks on a donation basis\, and music on our terrace. This 
+ event is also an opportunity to share and learn about housing projects and
+  the housing project scene. Feel free to bring along any informational mat
+ erial. Location: Wilhelmstraße 30/1\, behind the clubhouse.
+LOCATION:Wilhelmstraße 30/1
+END:VEVENT
 END:VCALENDAR
