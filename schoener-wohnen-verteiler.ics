@@ -5404,4 +5404,18 @@ DESCRIPTION:Liebe alte wie neue Haxen\,\n\nFür alle\, die viel Vorplanung
  \nGenießt den Sommer!\nEuer Sauerkraut.
 LOCATION:Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geländespiel Capture-the-Flag
+DTSTART:20240809T160000
+DTEND:20240809T235959Z
+DTSTAMP:20240730T125638Z
+UID:1bbcaeb3-63ca-4d0d-9806-c5fdc112e688
+DESCRIPTION:Wir laden alle Geländespielbegeisterte zu einer Capture-the-F
+ lag Runde auf dem Spitzberg ein. Treffpunkt ist am Wanderparkplatz / Busha
+ ltestelle Bismarckturm. Bitte bringt Wasser\, festes Schuhwerk und Vesper 
+ mit. Nach dem Spiel lassen wir den Abend gemütlich bei einem Feuer in der
+  Wilhelma ausklingen. Anmeldung über das Pad: https://pad.riseup.net/p/Fa
+ ngdieFlagge. Alle sind willkommen\, ob erfahren oder interessiert.
+LOCATION:Wanderparkplatz / Bushaltestelle Bismarckturm\, Spitzberg
+END:VEVENT
 END:VCALENDAR
