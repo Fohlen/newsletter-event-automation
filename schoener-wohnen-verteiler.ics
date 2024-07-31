@@ -5418,4 +5418,28 @@ DESCRIPTION:Wir laden alle Geländespielbegeisterte zu einer Capture-the-F
  ngdieFlagge. Alle sind willkommen\, ob erfahren oder interessiert.
 LOCATION:Wanderparkplatz / Bushaltestelle Bismarckturm\, Spitzberg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princess Charming Public Viewing at Pfleghof Partyraum
+DTSTART:20240731T183000
+DTEND:20240731T210000Z
+DTSTAMP:20240731T125650Z
+UID:0c8775bb-3986-4404-92a2-d1a56cd48d0f
+DESCRIPTION:Liebe Schöner Wohnende\, wir machen diesen Mittwoch (31.07) d
+ irekt weiter mit dem Princess Charming public viewing im Pfleghof Partyrau
+ m (Pfleghofstr. 2). Bar gibt es ab 18:30\, die Folge starten wir um 19 Uhr
+ . Kommt herum und bringt Freund*innen mit. 🌞🌞🌞 Folge 5 let's go! 
+ :D Eure Pflegis
+LOCATION:Pfleghofstr. 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schellinghausbar geöffnet
+DTSTART:20241206T200000
+DTEND:20241206T235959Z
+DTSTAMP:20240731T125650Z
+UID:6aecd542-0133-40e2-b50c-b168206128ec
+DESCRIPTION:Die Schellinghausbar hat heute Abend geöffnet\, unabhängig v
+ om Wetter. Ob Draußen oder drinnen\, kommt zahlreich und bringt Freunde m
+ it!
+LOCATION:Schellinghaus
+END:VEVENT
 END:VCALENDAR
