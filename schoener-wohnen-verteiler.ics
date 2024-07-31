@@ -5442,4 +5442,22 @@ DESCRIPTION:Die Schellinghausbar hat heute Abend geöffnet\, unabhängig v
  it!
 LOCATION:Schellinghaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend mit zuckersüßen Gesprächen und 65.000 geretteten Zuck
+ ersachets\, im Stil eines Speeddatings.
+DTSTART:20240802T193000Z
+DTEND:20240802T235959Z
+DTSTAMP:20240731T204030Z
+UID:39deffc6-58f9-4149-a9df-ebed57d5d212
+DESCRIPTION:🗓️ Am Freitag\, den 02. August\, kurz vor der Sommerpause
+ \, bietet das Mehrrettich eine einzigartige Gelegenheit für zuckersüße 
+ Gespräche. Ab 19:30 Uhr erwachen 65.000 gerettete Zuckersachets à 4g zum
+  Leben\, die darauf warten\, von euch aufgerissen zu werden für das näch
+ ste Bananenbrot. Im Stil eines Speeddatings wird immer wieder der Tisch ge
+ wechselt\, um den Abend mit neuen Begegnungen zu versüßen. 📦 Fühlt e
+ uch frei\, einen eigenen Behälter mitzubringen\, um auch Zucker mit nach 
+ Hause zu nehmen. 🧴 Bitte beachtet die Hygieneregeln vor Ort und kommt n
+ ur\, wenn ihr gesund seid. 🫶🏼 Liebe Grüße\, Euer Mehrrettich-Team.
+LOCATION:Mehrrettich\, Neckarhalde 70\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
