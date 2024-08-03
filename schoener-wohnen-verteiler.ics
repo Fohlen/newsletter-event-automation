@@ -5460,4 +5460,22 @@ DESCRIPTION:🗓️ Am Freitag\, den 02. August\, kurz vor der Sommerpause
  ur\, wenn ihr gesund seid. 🫶🏼 Liebe Grüße\, Euer Mehrrettich-Team.
 LOCATION:Mehrrettich\, Neckarhalde 70\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A blend of indie rock\, downtempo\, house\, hardgroove\, and fast 
+ techno at Münze 7\, with profits supporting people in Palestine.
+DTSTART:20241110T160000Z
+DTEND:20241110T235959Z
+DTSTAMP:20240803T204054Z
+UID:c08f487f-e14b-490d-a069-81d6c481e199
+DESCRIPTION:Münze 7 invites you to Dayrave Reload\, starting later this y
+ ear but going until the early morning hours. The event kicks off in the la
+ te afternoon with newcomer indie rock (live) followed by a seamless transi
+ tion into electronic sounds\, including downtempo\, house\, hardgroove\, a
+ nd fast techno. The venue\, situated in Münzgasse\, offers a chill space\
+ , a kitchen for everyone\, and a house bar. All profits will be donated to
+  support people in Palestine. Bring joy\, friends\, and good vibes. Note: 
+ The event promotes a safe and inclusive environment\, free from any form o
+ f racism or discrimination.
+LOCATION:Münzgasse
+END:VEVENT
 END:VCALENDAR
