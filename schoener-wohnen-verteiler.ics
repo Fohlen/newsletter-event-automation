@@ -5478,4 +5478,17 @@ DESCRIPTION:Münze 7 invites you to Dayrave Reload\, starting later this y
  f racism or discrimination.
 LOCATION:Münzgasse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Diskussion von Klimaschutzmaßnahmen
+DTSTART:20240808T190000
+DTEND:20240808T235959Z
+DTSTAMP:20240805T204056Z
+UID:56bd2a35-b712-49c1-b745-4533058cbec8
+DESCRIPTION:Die Klimakrise macht auch vor der Urlaubszeit nicht Halt. Dies
+ en Monat treffen wir uns nur einmal\, um unsere Aktionen und Kampagnen zu 
+ planen und zu diskutieren\, wie wir gegen den Klimawandel aktiv werden kö
+ nnen. Das Treffen bietet eine gute Gelegenheit\, sich auszutauschen und ge
+ meinsam Strategien zu entwickeln.
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4
+END:VEVENT
 END:VCALENDAR
