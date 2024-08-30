@@ -5671,4 +5671,34 @@ DESCRIPTION:Hallo Leute\, am Freitag\, dem 30.08. gibt es in der Lu15 ein
   gibts Getränke\, um 21 Uhr gehts dann los. Kommt rum!
 LOCATION:Lu15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoner/Metal Duo ZOLLE live in concert
+DTSTART:20240904T190000Z
+DTEND:20240904T235900Z
+DTSTAMP:20240830T204131Z
+UID:b0612b65-fafe-454d-9515-0073bb18a881
+DESCRIPTION:Join us for an electrifying evening with the Italian Stoner/Me
+ tal duo\, ZOLLE\, known for their unconventional rock vibe\, playful voice
+ s\, melodies\, powerful guitar riffs\, and super energetic drums. Don't mi
+ ss out on this dynamic performance! More about ZOLLE at their Bandcamp: ht
+ tps://zolle.bandcamp.com/album/rosa and YouTube: https://m.youtube.com/wat
+ ch?v=uSd1Fn7L-Lo&pp=ygUFem9sbGU%3D
+LOCATION:Der Blaue Auf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Blochwoche findet dieses Jahr vom 15.10. bis 27.10. statt\, mi
+ t dem Highlight AlDi am 17.10.
+DTSTART:20241015T000000Z
+DTEND:20241015T235959Z
+DTSTAMP:20240830T204131Z
+UID:7c7d5f5e-2e7f-4c46-94f0-bfdc3afff2f3
+DESCRIPTION:Die Blochwoche\, organisiert von der Tübinger Studierendensch
+ aft in Zusammenarbeit mit diversen Gruppen\, bietet neuen Studis die Mögl
+ ichkeit\, die politische Landschaft Tübingens kennenzulernen und bietet e
+ in breites Programm von Vorträgen\, Workshops\, Stadtrundgängen\, Filmen
+ \, Partys bis hin zu Flohmärkten. Interessierte Gruppen und Initiativen s
+ ind eingeladen\, sich bis zum 20. September zu melden und eigene Veranstal
+ tungen zu planen und zu bewerben.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
