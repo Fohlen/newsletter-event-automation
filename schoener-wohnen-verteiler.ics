@@ -5660,4 +5660,15 @@ DESCRIPTION:SAVE THE DATE: 20.09.2024 um 17 Uhr auf der Uhlandstraße in T
  bingen
 LOCATION:Uhlandstraße\, Tübingen\, Deutschland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punkkonzert mit Panic Party und Loonatics
+DTSTART:20240830T210000
+DTEND:20240830T235959Z
+DTSTAMP:20240830T125842Z
+UID:c6eb0bf9-b39e-473f-9284-e0fa5ed6ed91
+DESCRIPTION:Hallo Leute\, am Freitag\, dem 30.08. gibt es in der Lu15 ein 
+ Punkkonzert! Es spielen Panic Party und Loonatics aus Pforzheim. Ab 20 Uhr
+  gibts Getränke\, um 21 Uhr gehts dann los. Kommt rum!
+LOCATION:Lu15
+END:VEVENT
 END:VCALENDAR
