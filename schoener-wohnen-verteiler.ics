@@ -5701,4 +5701,40 @@ DESCRIPTION:Die Blochwoche\, organisiert von der Tübinger Studierendensch
  tungen zu planen und zu bewerben.
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über Verschwörungsideologien und autoritären Neolibe
+ ralismus
+DTSTART:20240904T190000
+DTEND:20240904T220000Z
+DTSTAMP:20240901T204059Z
+UID:4a3678d5-1235-4ad4-8aa0-f1cfe4fb6219
+DESCRIPTION:Sebastian Schuller stellt sein neues Buch "Die Freiheit\, die 
+ sie meinen" vor und diskutiert darüber\, wie die Faszination für Weltver
+ schwörungsgeschichten in unserer Gesellschaft zu einem Massenphänomen wi
+ rd und welche Rolle dies im Kontext des entstehenden autoritären Neoliber
+ alismus spielt. Die Veranstaltung beginnt mit veganem Essen und wird gefol
+ gt von der Buchvorstellung und Diskussion.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion zu queeren und feministischen Themen
+DTSTART:20240103T190000
+DTEND:20240103T210000Z
+DTSTAMP:20240901T204059Z
+UID:a894562a-e6b4-4c8a-ae5c-d791a7a6fe09
+DESCRIPTION:Wir laden herzlich zum offenen Lesekreis im Blauen Haus ein\, 
+ der sich mit queeren und feministischen Themen auseinandersetzt. Egal welc
+ hes Alter\, welche sexuelle Orientierung oder welches Geschlecht – alle 
+ sind willkommen! Gemeinsam wollen wir der Frage nachgehen: Was bedeutet es
+  heutzutage „Feminist:in“ zu sein? Unser Lesekreis bietet einen sicher
+ en Raum für offene Diskussionen\, in dem über das gesprochen werden kann
+ \, was bewegt. Die Gespräche basieren auf verschiedenen Texten – von Ku
+ rzprosa und Ly...\n\nInteressierte Teilnehmer:innen können Texte als Disk
+ ussionsimpulse per Mail an queer-feministischer-lesekreis@web.de schicken\
+ , damit sie für alle vervielfältigt werden können. Jeden ersten Mittwoc
+ h im Monat treffen wir uns von 19 bis 21 Uhr im Blauen Haus (Herrenberger 
+ Str.61). Gemeinsam wollen wir dann einen vorausgewählten Text lesen und a
+ nschließend darüber diskutieren.
+LOCATION:Blauen Haus\, Herrenberger Str.61
+END:VEVENT
 END:VCALENDAR
