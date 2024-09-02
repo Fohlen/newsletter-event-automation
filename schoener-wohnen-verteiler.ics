@@ -5737,4 +5737,23 @@ DESCRIPTION:Wir laden herzlich zum offenen Lesekreis im Blauen Haus ein\,
  nschließend darüber diskutieren.
 LOCATION:Blauen Haus\, Herrenberger Str.61
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die dritte Tübingener Südstadtsause bietet ein buntes und abwech
+ slungsreiches Programm mit Techno-Tischtennis\, Hobby-Horsing\, DIY Modens
+ chau und mehr.
+DTSTART:20240921T000000
+DTEND:20240921T235959Z
+DTSTAMP:20240902T204059Z
+UID:f7478571-90f2-46bd-b739-cc461ece7c8a
+DESCRIPTION:**Datum**: 21.09.2024\n\n**Programm**: \n- **Bummelrummel** mi
+ t Techno-Tischtennis Turnier\, Spiel\, Spaß\, Pommes\, Kaffee und Kuchen 
+ beim Wohnprojekt "Tante Huber"\n- **Hobby-Horse basteln** mit anschließen
+ dem Hobby-Horsing Turnier im Hof des Wohnprojekts "Schellingstraße"\n- **
+ DIY Modenschau**\, Live-Musik und KüfA auf dem Sternplatz\n- **Cornern ge
+ gen das Patriarchat:** Ein ortsunabhängiges Special.\n\n**After-Show Part
+ y** mit DJs (Techno/DnB) im Keller des Wohnprojekts Tante Huber.\n\nEin de
+ tailliertes Programm mit genauen Uhrzeiten wird noch bekanntgegeben. Marki
+ eren Sie den Termin!
+LOCATION:Tübingen\, Deutschland
+END:VEVENT
 END:VCALENDAR
