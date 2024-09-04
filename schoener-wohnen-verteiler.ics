@@ -5756,4 +5756,15 @@ DESCRIPTION:**Datum**: 21.09.2024\n\n**Programm**: \n- **Bummelrummel** mi
  eren Sie den Termin!
 LOCATION:Tübingen\, Deutschland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finale von Princess Charming
+DTSTART:20241206T200000Z
+DTEND:20241206T235959Z
+DTSTAMP:20240904T130024Z
+UID:ecb89608-373d-4285-96d8-b975ed43a47c
+DESCRIPTION:Hey liebe Schöner Wohnen Community\, diesen Mittwoch schauen 
+ wir das Finale von Princess Charming bei uns im Pfleghof. Wir starten um 2
+ 0 Uhr. Kommt zahlreich und bringt Friends! 😊 Bis dann\, eure Pflegis
+LOCATION:Pfleghof
+END:VEVENT
 END:VCALENDAR
