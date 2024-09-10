@@ -5790,4 +5790,45 @@ DESCRIPTION:Hitler wurde in seinen jungen Jahren in Wien politisiert. Maß
   Baden-Württemberg.
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tübinger Offenes Antikapitalistisches Klimatreffen
+DTSTART:20240912T190000
+DTEND:20240912T210000Z
+DTSTAMP:20240910T130113Z
+UID:7df8083b-0f09-46d4-866a-1f22b44e037e
+DESCRIPTION:Das Tübinger Offene Antikapitalistische Klimatreffen (TOAKT) 
+ lädt alle ein\, die aktiv für Klimagerechtigkeit kämpfen möchten. Geme
+ insam stellen wir uns Klimakillern und ihrem Greenwashing entgegen\, organ
+ isieren Aktionen und Veranstaltungen rund um die Themen Klima- und Biodive
+ rsitätskrise und arbeiten für eine solidarische Gesellschaft. Schließ d
+ ich uns an und sei Teil der Veränderung!
+LOCATION:Linker Laden Trude Lutz\, Münzgasse 4\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verschiebung des Haxen-Hopping auf den 09. November.
+DTSTART:20241109T000000
+DTEND:20241109T235959Z
+DTSTAMP:20240910T130113Z
+UID:31cdac44-1453-44d8-ba5e-8f8c939e3af6
+DESCRIPTION:Aufgrund mangelnder Anmelde-Zahlen muss das Haxen-Hopping\, da
+ s ursprünglich für kommenden Samstag geplant war\, verschoben werden. De
+ r neue Termin ist der 09. November. Für Anmeldungen: www.aufhaxe.de/de/tu
+ ebingen
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Konzert von Sex Magick Wizards
+DTSTART:20240912T220000Z
+DTEND:20240912T235959Z
+DTSTAMP:20240910T130113Z
+UID:40065742-0189-4291-9ee0-bc0cfab4d16a
+DESCRIPTION:Sex Magick Wizards\, eine Band aus Oslo\, besteht aus 4 Musike
+ rn und spielt eine Mischung aus Prog Rock\, Kraut\, Spiritual und Jazz Ein
+ flüssen. Anlässlich ihres frisch veröffentlichten zweiten Albums\, 'Dea
+ th Grip'\, wird das Konzert stattfinden. Vor dem Konzert gibt es ab 18 Uhr
+  Essen für Spende auf dem Sternplatz und ab 21 Uhr ist die Bar geöffnet.
+  Konzertbeginn ist ca. 22 Uhr. Mehr Informationen zum Album: https://sexma
+ gickwizards.bandcamp.com/album/death-grip/
+LOCATION:Ludwigstraße 15
+END:VEVENT
 END:VCALENDAR
