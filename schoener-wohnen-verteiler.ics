@@ -5831,4 +5831,21 @@ DESCRIPTION:Sex Magick Wizards\, eine Band aus Oslo\, besteht aus 4 Musike
  gickwizards.bandcamp.com/album/death-grip/
 LOCATION:Ludwigstraße 15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung von „Nothing About Us Without Us“ Ausstellung durch
+  das transkulturelle netzwerk medien.vielfalt! und dem Freien Radio Wüste
+ n Welle.
+DTSTART:20240916T170000Z
+DTEND:20240916T235959Z
+DTSTAMP:20240912T125923Z
+UID:fa5d6743-52d1-4650-8535-19383743ecf9
+DESCRIPTION:Kritische Auseinandersetzung mit der deutschen Medienöffentli
+ chkeit durch junge Medienaktivist_innen mit Flucht- und Migrationserfahrun
+ g. Begleitete Veranstaltungen und Workshops sind mehrsprachig und richten 
+ sich insbesondere an Geflüchtete und Personen mit Rassismuserfahrung. Die
+  Ausstellung bietet Grafiken\, Illustrationen\, Fotos\, Texte sowie Video-
+  und Hörstationen an und ist täglich zwischen dem 16. September und 04. 
+ Oktober\, 17-19h geöffnet. Eintritt frei.
+LOCATION:Epplehaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
