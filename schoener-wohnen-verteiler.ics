@@ -5848,4 +5848,23 @@ DESCRIPTION:Kritische Auseinandersetzung mit der deutschen Medienöffentli
  Oktober\, 17-19h geöffnet. Eintritt frei.
 LOCATION:Epplehaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experimental Jazz\, Diverser DJ-Sets und chinesischer Teeauschank
+DTSTART:20240921T170000Z
+DTEND:20240921T235900Z
+DTSTAMP:20240913T125914Z
+UID:04c57f58-55c9-4699-9eeb-7a70e54cfdce
+DESCRIPTION:Jazzmateazz lädt euch zu einem besonderen Abend ein\, der den
+  experimentellen Jazz der Prometheus Groove Collective mit diversen DJ-Set
+ s (inkl. Hip-Hop\, House\, Funk\, Techno\, Jungle\, Rock\, Reggae Dub) und
+  einem chinesischen Teeauschank kombiniert. Mit Einflüssen aus Soul\, Fun
+ k\, HipHop\, Psychedelic Rock und Post-Punk präsentiert die Prometheus Gr
+ oove Collective\, aus Tübingen kommend\, ihre Eigenkompositionen\, die ei
+ n tanzbares Fundament mit jazzy Melodien und ausgedehnten Improvisationen 
+ verbinden. Dies ist ihr allerletztes Konzert und eine einzigartige Gelegen
+ heit\, ihr bald erscheinendes Album vorzubestellen. Beginn des Abends ist 
+ um 17 Uhr mit Tee und Turntable\, die Band spielt zwei Sets um 19:30 und 2
+ 2:00 Uhr. Eintritt frei.
+LOCATION:Der Blaue Salon
+END:VEVENT
 END:VCALENDAR
