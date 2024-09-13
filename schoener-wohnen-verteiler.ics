@@ -5867,4 +5867,46 @@ DESCRIPTION:Jazzmateazz lädt euch zu einem besonderen Abend ein\, der den
  2:00 Uhr. Eintritt frei.
 LOCATION:Der Blaue Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachbarschaftsflohmarkt
+DTSTART:20240914T093000
+DTEND:20240914T153000Z
+DTSTAMP:20240913T204154Z
+UID:89173351-cc73-48df-a534-12f3077b8c8a
+DESCRIPTION:Die Nachbarschaft in der Ulrichstrasse und Ecke Christophstras
+ se lädt ein zum Flohmarkt. Entdecken Sie tolle Sachen und genießen Sie d
+ ie Gemeinschaft. Schönen Gruß aus der Ulrichstrasse!
+LOCATION:Ulrichstrasse und Christophstrasse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zur Vorstellung der GIMA und deren Ziele für einen 
+ sozial gerechteren Wohnungsmarkt.
+DTSTART:20240919T183000
+DTEND:20240919T235959Z
+DTSTAMP:20240913T204154Z
+UID:92a233b4-79b0-446c-a2a3-730d56a75d0f
+DESCRIPTION:Die Gemeinwohlorientierte Immobilien Agentur (GIMA) lädt zu e
+ iner Veranstaltung ein\, um über ihre Ziele und Möglichkeiten zur Gestal
+ tung eines sozial gerechteren Wohnungsmarkts in Tübingen zu informieren. 
+ Die Veranstaltung richtet sich an Eigentümer:innen\, die ihr Haus sozial 
+ verträglich verkaufen möchten und an alle\, die sich für gerechtere Woh
+ nverhältnisse interessieren.
+LOCATION:Gemeindesaal der Eberhardskirche\, Eugenstraße\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Onboarding-Treffen zur aktiven Mitgestaltung des Kaf
+ fee Kollektivs.
+DTSTART:20240918T180000Z
+DTEND:20240918T235959Z
+DTSTAMP:20240913T204154Z
+UID:5166d5ae-c77b-4bf3-865e-c9267bff4310
+DESCRIPTION:Das Kaffee Kollektiv der Münzgasse 13 lädt rechtzeitig zur k
+ alten Jahreszeit wieder seine Tore und sucht Unterstützung. Ziel ist es\,
+  einen inklusiven Ort zu schaffen\, an dem alle willkommen sind\, unabhän
+ gig von finanziellen Mitteln\, durch das Anbieten von preiswerten Heißget
+ ränken und anderen alkoholfreien Getränken. Beim Treffen bietet sich die
+  Gelegenheit\, das Kollektiv aktiv mitzugestalten\, Schichten zu übernehm
+ en oder einfach nur das Kollektiv kennenzulernen.
+LOCATION:Münzgasse 13
+END:VEVENT
 END:VCALENDAR
