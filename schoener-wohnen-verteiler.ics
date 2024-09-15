@@ -5909,4 +5909,27 @@ DESCRIPTION:Das Kaffee Kollektiv der Münzgasse 13 lädt rechtzeitig zur k
  en oder einfach nur das Kollektiv kennenzulernen.
 LOCATION:Münzgasse 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebe live\, wie Rock'n'Roll-Geschichte geschrieben wird mit CHER
+ RY CHEEKS im Blauen Salon.
+DTSTART:20240916T220000
+DTEND:20240916T235959Z
+DTSTAMP:20240915T204032Z
+UID:83271a1d-c81b-4d92-8161-efa1114bc92c
+DESCRIPTION:Ein einmaliges Erlebnis mit CHERRY CHEEKS\, einem Projekt von 
+ Kyle Harms. Tauche ein in die Welt von EGG PUNK\, DEVO-CORE und QUARANTINE
+  PUNK. Eintritt frei.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start der Südstadtsause
+DTSTART:20240921T130000Z
+DTEND:20240921T145900Z
+DTSTAMP:20240915T204032Z
+UID:269c5c68-da8f-4eb3-90d8-edaa72374e25
+DESCRIPTION:Beginne die Südstadtsause mit einem kreativen Hobby-Horse Bas
+ teln am Wohnprojekt Schellingstraße. Ein spaßiger Start für die ganze F
+ amilie!
+LOCATION:Wohnprojekt Schellingstraße
+END:VEVENT
 END:VCALENDAR
