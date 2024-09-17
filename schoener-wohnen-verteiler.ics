@@ -5932,4 +5932,53 @@ DESCRIPTION:Beginne die Südstadtsause mit einem kreativen Hobby-Horse Bas
  amilie!
 LOCATION:Wohnprojekt Schellingstraße
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur aktiven Mitgestaltung und Schichtübernahme im Kaffee 
+ Kollektiv.
+DTSTART:20240918T180000Z
+DTEND:20240918T235959Z
+DTSTAMP:20240917T204111Z
+UID:d086de2a-6ee8-4179-a240-8a44af3e068b
+DESCRIPTION:Das Kaffee Kollektiv der Münzgasse 13 lädt herzlich zum Onbo
+ arding-Treffen ein\, um die kalte Jahreszeit gemeinsam zu begrüßen. Dies
+  bietet die Gelegenheit\, das Kollektiv aktiv mitzugestalten\, Schichten z
+ u übernehmen\, Ideen einzubringen oder einfach das Ambiente zu genießen.
+  Ein Ort\, wo alle willkommen sind\, unabhängig von ihren finanziellen Mi
+ tteln\, mit dem Angebot preiswerter Heißgetränke und alkoholfreier Getr
+ änke. Ein Schritt gegen die Exklusivität und für mehr Gemeinschaft und 
+ Wohlbefinden in Tübingen.
+LOCATION:Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Tag voller interaktiver Übungen zur Demokratiebildung und Mit
+ bestimmung
+DTSTART:20240706T100000
+DTEND:20240706T180000Z
+DTSTAMP:20240917T204111Z
+UID:e7ea78be-d115-4cf7-8100-e9fa50b45c20
+DESCRIPTION:Im Workshop werden gruppendynamische\, erfahrungsorientierte 
+ Übungen der Betzavta-Methode angewandt. Ziel ist es\, das Bewusstsein fü
+ r Mitbestimmung\, gesellschaftliche Teilhabe und Entscheidungsfindung zu s
+ chärfen und nach inklusiven Lösungen zu suchen. Die Workshopleitung übe
+ rnehmen Beke\, Tim und Johanna\, die in selbstverwalteten Wohnprojekten wo
+ hnen und Erfahrung in politischer Bildungs- und Antidiskriminierungsarbeit
+  mitbringen.
+LOCATION:Huberstr. 14\, barrierefrei
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen der Arbeitsgruppe für das Projekt 'Neustart: solidarisch 
+ leben + wohnen'
+DTSTART:20240925T190000
+DTEND:20240925T210000Z
+DTSTAMP:20240917T204111Z
+UID:a825a728-33e6-4299-93df-a002bd357ca8
+DESCRIPTION:Die Genossenschaft 'Neustart: solidarisch leben + wohnen' plan
+ t im Tübinger Süden Wohnungen für 350 bis 450 Menschen zu bauen. Aktuel
+ l wird die Möglichkeit von Hallen mit großer Deckenhöhe und flexiblen R
+ aumteilungsoptionen für experimentelle Wohnformen erkundet. Interessierte
+  für das Projekt und diese Wohnformen können am Treffen der Arbeitsgrupp
+ e teilnehmen. Bitte vorab anmelden bei Holger (group.theory@gmx.de). Weite
+ re Informationen: https://neustart-solewo.de/
+LOCATION:Tübingen Süden
+END:VEVENT
 END:VCALENDAR
