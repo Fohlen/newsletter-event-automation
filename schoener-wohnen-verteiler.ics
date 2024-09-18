@@ -5981,4 +5981,36 @@ DESCRIPTION:Die Genossenschaft 'Neustart: solidarisch leben + wohnen' plan
  re Informationen: https://neustart-solewo.de/
 LOCATION:Tübingen Süden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über die Bedeutung von Medienaktivismus für queere Ge
+ flüchtete.
+DTSTART:20240920T193000
+DTEND:20240920T235959Z
+DTSTAMP:20240918T130006Z
+UID:c9548149-378a-42f1-8b2d-82acfb74a3e6
+DESCRIPTION:Queere Geflüchtete diskutieren über die Bedeutung von Medien
+ aktivismus. Für queere Menschen sind die wenigsten Orte auf dieser Welt s
+ icher. Sie erleben staatliche Verfolgung und persönliche Ächtung. Unsich
+ tbar werden ist häufig die einzige Überlebensstrategie. In diesem Podium
+ sgespräch erzählen queere Medienaktivist_innen der Radio-Redaktion „Ou
+ r Voice“\, wie sie ihre Verwundungen jetzt umwandeln in Stärke. Sie spr
+ echen laut über das\, was vorher verschwiegen werden musste: auf UKW\, au
+ f dem CSD\, auf einer Demo. Sie bekommen Applaus und Kommentare\, sie ermu
+ tigen andere\, es ihnen gleich zu tun. Veranstaltung im Rahmen der Ausstel
+ lung „Nothing About Us Without Us“ vom transkulturellen netzwerk medie
+ n.vielfalt!.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nettes Thekenpersonal\, Musik und Tombola
+DTSTART:20240918T200000
+DTEND:20240918T235959Z
+DTSTAMP:20240918T130006Z
+UID:0b58d8c3-87fe-4a56-a54c-e9034988f890
+DESCRIPTION:Einladung zur Treibhausbar mit nettem Thekenpersonal\, Musik a
+ us der Dose und einer Tombola mit einzigartigen Gewinnen aus der goldenen 
+ Schatzkammer von Kitsch und Gloria. Hinweis: Met gibt es leider nicht\, ab
+ er eine Auswahl an normalen Getränken wird angeboten.
+LOCATION:Schellingstrasse 6\, Garten
+END:VEVENT
 END:VCALENDAR
