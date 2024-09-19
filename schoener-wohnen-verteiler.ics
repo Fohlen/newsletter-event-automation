@@ -6013,4 +6013,46 @@ DESCRIPTION:Einladung zur Treibhausbar mit nettem Thekenpersonal\, Musik a
  er eine Auswahl an normalen Getränken wird angeboten.
 LOCATION:Schellingstrasse 6\, Garten
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raddemo und andere energiearme Fahrzeuge auf der Schnellstraße. A
+ bschluss auf dem Europaplatz/Fahrradparkhaus Tübingen.
+DTSTART:20240922T140000Z
+DTEND:20240922T153000Z
+DTSTAMP:20240919T130136Z
+UID:c722dde1-ffb6-43bc-b5bd-9b83e2fe978d
+DESCRIPTION:Am Aktionstag findet eine Raddemo zusammen mit anderen energie
+ armen Fahrzeugen auf der Schnellstraße von Reutlingen nach Tübingen stat
+ t. Treffpunkt ist um 14 Uhr vor der Stadthalle Reutlingen. Abschluss mit G
+ etränken\, Eis\, etc. um ca. 15.30 Uhr auf dem Europaplatz/Fahrradparkhau
+ s Tübingen. Eine Zubringer/Radexkursion von Tübingen nach Reutlingen sta
+ rtet bereits um 12 Uhr\, Treffpunkt am Uhlanddenkmal. Die Kidical Mass st
+ ößt ab dem Franz Viertel dazu. Der Aktionstag ist von engagierten Bürge
+ rn aus Reutlingen initiiert und ursprünglich war geplant\, die Schnellstr
+ aße für mehrere Stunden in beiden Richtungen für den Autoverkehr zu spe
+ rren\, was jedoch abgelehnt wurde.
+LOCATION:Schnellstraße von Reutlingen nach Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterparty-Programm
+DTSTART:20240921T220000
+DTEND:20240921T235959Z
+DTSTAMP:20240919T130136Z
+UID:d4ed93d3-7066-4e18-b114-c017a815eaa6
+DESCRIPTION:Balkan Disko 22 Uhr mit DJ Magic Mar im Dom Kulture auf Wüste
+ Welle. Hausbar ohne Eintritt. Teil des Südstadtsause Programms.
+LOCATION:Schellingstraße 6\, Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suche nach Unterkunft für einen Künstler
+DTSTART:20240929T000000
+DTEND:20240929T235959Z
+DTSTAMP:20240919T130136Z
+UID:f2ff6d54-4343-4b2e-87ad-c8507fb036ef
+DESCRIPTION:Hey liebe Wohnprojekte und WGs\, ein Künstler\, der in der Sh
+ edhalle eine Wand gestaltet\, bräuchte eine Unterkunft vom 29.9. bis zum 
+ 3.10. Wäre jemand bereit\, für die paar Tage ein Gästezimmer zur Verfü
+ gung zu stellen? Gerne Kontaktdaten an meine Emailadresse: philou.ferge@gm
+ ail.com liebe Grüße\, Philipp
+LOCATION:Shedhalle
+END:VEVENT
 END:VCALENDAR
