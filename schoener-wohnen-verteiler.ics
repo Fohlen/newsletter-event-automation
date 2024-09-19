@@ -6055,4 +6055,20 @@ DESCRIPTION:Hey liebe Wohnprojekte und WGs\, ein Künstler\, der in der Sh
  ail.com liebe Grüße\, Philipp
 LOCATION:Shedhalle
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwei Acts in einem Event! Erleben Sie Coltaine und Magic Shoppe li
+ ve in der Shedhalle.
+DTSTART:20240929T193000Z
+DTEND:20240929T235900Z
+DTSTAMP:20240919T204134Z
+UID:01d6548d-f701-49fc-a6ee-3b9038c0c5ce
+DESCRIPTION:Wir lassen die Sommerpause hinter uns und starten mit einem Kn
+ all! Erleben Sie Coltaine aus Karlsruhe und Hamburg\, gefolgt von unserem 
+ Main Act Magic Shoppe aus Boston\, Massachusetts. Coltaine öffnet den Abe
+ nd um 20 Uhr mit ihrer einzigartigen Mischung aus Doom Metal\, Sludge und 
+ Psychedelic Rock. Ab 21 Uhr übernimmt dann Magic Shoppe die Bühne\, beka
+ nnt für ihren Shoegaze-Sound\, der von Noise-Rock durchsetzt ist. Eintrit
+ t gegen Spende. Doors open um 19:30 Uhr.
+LOCATION:Shedhalle\, Schlachthausstraße 13
+END:VEVENT
 END:VCALENDAR
