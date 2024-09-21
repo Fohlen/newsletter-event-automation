@@ -6071,4 +6071,18 @@ DESCRIPTION:Wir lassen die Sommerpause hinter uns und starten mit einem Kn
  t gegen Spende. Doors open um 19:30 Uhr.
 LOCATION:Shedhalle\, Schlachthausstraße 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online-Umfrage zur Verkehrssituation rund um die B27
+DTSTART:20240101T000000Z
+DTEND:20240101T235959Z
+DTSTAMP:20240921T204012Z
+UID:a3ff7c1d-e228-4e81-976f-9e3b1f5ebd72
+DESCRIPTION:Für die Bewohner der Südstadt Tübingens wird eine Online-Um
+ frage durchgeführt\, um ein besseres Verständnis für die Verkehrssituat
+ ion rund um die B27 zu gewinnen und mögliche Verbesserungen vor Ort zu er
+ uieren. Ziel ist es\, eine Lösung zur Verkehrsberuhigung auf der B27 und 
+ zur Verbesserung der Überquerung für Fußgänger und Radfahrer zu finden
+ .
+LOCATION:Online
+END:VEVENT
 END:VCALENDAR
