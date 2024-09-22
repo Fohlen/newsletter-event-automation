@@ -6085,4 +6085,20 @@ DESCRIPTION:Für die Bewohner der Südstadt Tübingens wird eine Online-Um
  .
 LOCATION:Online
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thema: Obdachlosenhass und Sozialdarwinismus
+DTSTART:20240925T200000
+DTEND:20240925T220000Z
+DTSTAMP:20240922T125813Z
+UID:8f1f0383-d778-4eb1-ae66-c9a80291ae23
+DESCRIPTION:Am 25. September 2024 lädt zu einer besonderen Veranstaltung 
+ über Obdachlosenhass und Sozialdarwinismus in der Schellingstraße 6 ein.
+  Der Abend beginnt mit der Öffnung der Hausbar um 19 Uhr\, gefolgt von Lu
+ cius Teidelbaums Vortrag um 20 Uhr. Er ist freier Journalist\, Publizist u
+ nd Rechercheur zum Thema extreme Rechte und Grauzonen. Der Vortrag befasst
+  sich mit gesellschaftlicher Ausgrenzung und Angriffen gegen Wohnungs- und
+  Obdachlose\, beleuchtet die Rolle des Sozialdarwinismus und betrachtet di
+ e Zustände in Tübingen.
+LOCATION:Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
