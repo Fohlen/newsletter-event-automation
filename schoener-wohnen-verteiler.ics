@@ -6101,4 +6101,32 @@ DESCRIPTION:Am 25. September 2024 lädt zu einer besonderen Veranstaltung
  e Zustände in Tübingen.
 LOCATION:Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tagesseminar "Männer und Berührung"
+DTSTART:20241027T000000
+DTEND:20241027T235959Z
+DTSTAMP:20240923T130154Z
+UID:a1ce5f0c-3193-4bd1-90eb-dc884a406445
+DESCRIPTION:Herzliche Einladung zu dem Tagesseminar "Männer und Berührun
+ g". Alle weiteren Informationen zu Inhalt\, Anmeldung und Kosten findet ih
+ r auf dem Flyer im Anhang.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GET JEALOUS live concert
+DTSTART:20240926T200000Z
+DTEND:20240926T235959Z
+DTSTAMP:20240923T130154Z
+UID:fa4051b2-68fb-49a9-b51c-bfd2d0765102
+DESCRIPTION:Join us at Club Voltaire for a thrilling live performance by t
+ he rapidly rising music trio\, GET JEALOUS. Known for their exhilarating l
+ ive shows and catchy punk songs\, GET JEALOUS has become one of the inside
+ r secrets of the German music scene. With prior appearances supporting the
+  Beatsteaks\, Blond\, or Leoniden\, and at festivals like Southside\, they
+ 've proven their entertainment prowess. Now\, it's Tübingen's turn to exp
+ erience their loud punk anthems and outspoken lyrics that pack a punch. En
+ try is free\; donations for the Ract!festival 2025 are welcome. More info:
+  https://getjealous.bandcamp.com/
+LOCATION:Club Voltaire
+END:VEVENT
 END:VCALENDAR
