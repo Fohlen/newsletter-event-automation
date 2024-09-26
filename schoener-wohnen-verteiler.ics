@@ -6129,4 +6129,21 @@ DESCRIPTION:Join us at Club Voltaire for a thrilling live performance by t
   https://getjealous.bandcamp.com/
 LOCATION:Club Voltaire
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebt zwei bemerkenswerte Bands an einem Abend. Direkt aus Hambur
+ g und Boston kommt\, um euch mit Doom Metal\, Sludge\, Psychedelic Rock un
+ d einem Hauch von Shoegaze zu begeistern.
+DTSTART:20240929T193000Z
+DTEND:20240929T220000Z
+DTSTAMP:20240926T130246Z
+UID:6234605b-106f-40cf-9ce0-8bde0d71827b
+DESCRIPTION:Gönnt euch einen musikalisch eindrucksvollen Abend mit Coltai
+ ne und Magic Shoppe in der Shedhalle. Coltaine eröffnet den Abend um 19.3
+ 0 Uhr mit ihrer einzigartigen Mischung aus Doom Metal\, Sludge und Psyched
+ elic Rock. Direkt im Anschluss\, um 20.30 Uhr\, setzt Magic Shoppe aus Bos
+ ton den Abend mit ihrem durch Verzerrungen und Reverb verstärkten Shoegaz
+ e-Sound fort. Ergreift die Chance\, diesen musikalischen Genuss aus nächs
+ ter Nähe zu erleben. Eintritt auf Spendenbasis.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
