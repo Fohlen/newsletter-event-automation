@@ -6160,4 +6160,18 @@ DESCRIPTION:Join the Siggi11 project group for a goodbye coffee and Küfa
  ble.\n\nProgram:\n- 15:00 Coffee and cake\n- 18:00 Küfa
 LOCATION:Sigwartstr. 11\, 72076 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start der Filmreihe 'Kino&Kritik'
+DTSTART:20241001T200000Z
+DTEND:20241001T230000Z
+DTSTAMP:20240929T204102Z
+UID:e5dcad23-01f5-467b-8c41-3f6983db5b2f
+DESCRIPTION:Freund:innen des Films\, kommen Sie zusammen\, um an der Münz
+ e 7\, Münzgasse 7\, 2024 Pride zu sehen. Ein Event\, das sich darauf konz
+ entriert\, gute Filme frei von der Kulturindustrie zu genießen und dabei 
+ einen kritischen Blick auf Gesellschaft und Politik zu werfen. Genießen S
+ ie Popcorn und Spaßgetränke auf Spendenbasis und bleiben Sie für eine k
+ ritische Diskussion nach dem Film.
+LOCATION:Münzgasse 7
+END:VEVENT
 END:VCALENDAR
