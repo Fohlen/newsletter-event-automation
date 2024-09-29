@@ -6146,4 +6146,18 @@ DESCRIPTION:Gönnt euch einen musikalisch eindrucksvollen Abend mit Coltai
  ter Nähe zu erleben. Eintritt auf Spendenbasis.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A farewell gathering for the Siggi11 community
+DTSTART:20240929T150000Z
+DTEND:20240929T190000Z
+DTSTAMP:20240929T125828Z
+UID:9baf2f89-557e-42eb-ade1-16fc6b916c4d
+DESCRIPTION:Join the Siggi11 project group for a goodbye coffee and Küfa 
+ (Kitchen For All) as we say farewell to an era of affordable housing for s
+ tudents. Since 1978\, Siggi11 has been a home for a diverse community. Wit
+ h the final rental contracts ending\, it's not just a goodbye\, but a new 
+ beginning. Let's stand in solidarity\, share this day\, and make it memora
+ ble.\n\nProgram:\n- 15:00 Coffee and cake\n- 18:00 Küfa
+LOCATION:Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
 END:VCALENDAR
