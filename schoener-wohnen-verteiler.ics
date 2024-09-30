@@ -6174,4 +6174,76 @@ DESCRIPTION:Freund:innen des Films\, kommen Sie zusammen\, um an der Münz
  ritische Diskussion nach dem Film.
 LOCATION:Münzgasse 7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teilnahme am offenen Plenum des CSD Tübingen
+DTSTART:20241007T172000Z
+DTEND:20241007T235959Z
+DTSTAMP:20240930T130423Z
+UID:d9e9fbd9-e60e-41ba-a145-6beed3f0e65d
+DESCRIPTION:Der CSD Tübingen veranstaltet ein offenes Plenum im Queeren Z
+ entrum Tübingen. Neben der Möglichkeit\, das Team und die Arbeit kennenz
+ ulernen\, dreht sich das Treffen um die Planung für den Trans Day of Reme
+ mbrance. Ideal für Interessierte\, die sich beim CSD-Verein engagieren m
+ öchten.
+LOCATION:Queeres Zentrum Tübingen\, Derendinger Str. 41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Abschlussveranstaltung mit Diskussion verschiedener 
+ Sichtweisen.
+DTSTART:20241008T180000Z
+DTEND:20241008T210000Z
+DTSTAMP:20240930T130423Z
+UID:f5b71182-30d5-4cc4-beb6-0aff5e67951a
+DESCRIPTION:Thema des Abends: "Du kannst schon sagen was du denkst\, aber 
+ doch nicht das."\n\nDie Veranstaltung zielt darauf ab\, unterschiedliche M
+ einungen und Ansichten von Menschen aus dem Publikum zu hören\, ohne das 
+ Ziel\, andere von der eigenen Meinung zu überzeugen. Es ist ein Rückblic
+ k auf die vergangenen 6 Veranstaltungen und eine Diskussion darüber\, was
+  für eine erfolgreiche Begegnung mit andersdenkenden Menschen notwendig i
+ st und welche Herausforderungen es gibt.\n\nMusikalische Umrahmung durch d
+ en Tübinger Chor Klangbad. Eintritt frei.
+LOCATION:Wohnprojekt Eyach\, Mietshäusersyndikat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linux für Anfänger
+DTSTART:20241209T150000
+DTEND:20241209T180000Z
+DTSTAMP:20240930T130423Z
+UID:a2adc68c-4903-41f3-a90c-0b2fab6b8374
+DESCRIPTION:Diesen Samstag lädt Anna zu einem Nachmittag rund um Linux im
+  Blauen Haus in der Weststadt ein\, speziell für diejenigen\, die einen a
+ lten Laptop wieder nutzen möchten\, mehr über Linux erfahren möchten od
+ er einfach nur neugierig sind. Keine Vorkenntnisse nötig. Eigene Laptops 
+ können mitgebracht werden\, es wird aber noch nichts installiert\, sonder
+ n nur erkundet und beraten. Anmeldung bei linux@netzhexe.de oder spontanes
+  Erscheinen möglich. Bringt Freunde\, Familie oder wen ihr wollt!
+LOCATION:Blaues Haus\, Weststadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion zu queeren und feministischen Themen
+DTSTART:20240103T190000
+DTEND:20240103T210000Z
+DTSTAMP:20240930T130423Z
+UID:282473bb-a89f-43be-a082-fbbc03399763
+DESCRIPTION:Wir laden herzlich zum offenen Lesekreis im Blauen Haus ein\, 
+ der sich mit queeren und feministischen Themen auseinandersetzt. Egal welc
+ hes Alter\, welche sexuelle Orientierung oder welches Geschlecht – alle 
+ sind willkommen! Gemeinsam wollen wir der Frage nachgehen: Was bedeutet es
+  heutzutage „Feminist:in“ zu sein? Unser Lesekreis bietet einen sicher
+ en Raum für offene Diskussionen\, in dem über das gesprochen werden kann
+ \, was bewegt. Die Gespräche basieren auf verschiedenen Texten – von Ku
+ rzprosa und Lyrik über Zitate bis hin zu Aufsätzen o.ä. Interessierte T
+ eilnehmer:innen können diese als Diskussionsi...                         
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                         adressen der Teilnehmenden an folgende Adresse sch
+ icken: queer-feministischer-lesekreis@web.de. Jeden ersten Mittwoch im Mon
+ at treffen wir uns von 19 bis 21 Uhr im Blauen Haus (Herrenberger Str.61).
+  Gemeinsam wollen wir dann einen vorausgewählten Text lesen und anschlie
+ ßend darüber diskutieren. Wir freuen uns auf zahlreiche Interessierte!
+LOCATION:Blaues Haus\, Herrenberger Str. 61
+END:VEVENT
 END:VCALENDAR
