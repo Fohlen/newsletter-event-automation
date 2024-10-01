@@ -6246,4 +6246,36 @@ DESCRIPTION:Wir laden herzlich zum offenen Lesekreis im Blauen Haus ein\,
  ßend darüber diskutieren. Wir freuen uns auf zahlreiche Interessierte!
 LOCATION:Blaues Haus\, Herrenberger Str. 61
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend mit drei musikalischen Acts: Fjälla\, Inundate und Fele
+ xis
+DTSTART:20241005T200000
+DTEND:20241005T235959Z
+DTSTAMP:20241001T204232Z
+UID:4b183ece-d04c-49a0-b800-70a8bbf8fb4c
+DESCRIPTION:Der Club Voltaire und das Ract!festival laden zum Newcomer-Kon
+ zert ein\, mit Auftritten der jungen Band 'Fjälla' aus der Schweiz\, die 
+ Musik zwischen Indie\, Postpunk und Folk in mehreren Sprachen kombiniert\,
+  'Inundate' mit seinem dramatisch-grungigen Gitarrensound\, und dem Singer
+ -/Songwriter 'Felexis'\, der traurige Musik für spaßige Leute macht. Ein
+ tritt ist frei\, Spenden sind erwünscht. Mehr Infos: https://www.fjaella.
+ ch/\, https://fjaella.bandcamp.com/
+LOCATION:Club Voltaire
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Vorstellung der Arbeit und Austausch zu antirassistisc
+ hen und asylpolitischen Themen.
+DTSTART:20241004T190000Z
+DTEND:20241004T235959Z
+DTSTAMP:20241001T204232Z
+UID:cf521d4f-28f6-4bb7-b7a1-f50e99e52e4d
+DESCRIPTION:Komm vorbei zum Offenen Treffen der Seebrücke Tübingen! Wir 
+ werden unsere Arbeit vorstellen und einen Einblick in unsere Treffen geben
+ . Das ist eine großartige Gelegenheit\, mehr über antirassistische und a
+ sylpolitische Themen zu erfahren und sich für eine solidarische und mensc
+ henrechtsbasierte Migrationspolitik zu engagieren.\n\nKontakt: seebruecke-
+ tuebingen@mtmedia.org\nMehr Infos: https://seebruecke.org/mach-mit/deutsch
+ land/baden-wuerttemberg/tuebingen
+LOCATION:Schellingstraße 6\, Tübingen
+END:VEVENT
 END:VCALENDAR
