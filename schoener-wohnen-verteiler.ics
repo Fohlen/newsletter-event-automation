@@ -6278,4 +6278,18 @@ DESCRIPTION:Komm vorbei zum Offenen Treffen der Seebrücke Tübingen! Wir
  land/baden-wuerttemberg/tuebingen
 LOCATION:Schellingstraße 6\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum offenen Treffen der Seebrücke Tübingen zu antirass
+ istischen und asylpolitischen Themen.
+DTSTART:20241004T190000
+DTEND:20241004T235959Z
+DTSTAMP:20241002T130144Z
+UID:ad2ca574-7e16-473b-a0a0-e656f46fb8ec
+DESCRIPTION:Die Seebrücke Tübingen lädt zu ihrem offenen Treffen ein\, 
+ um die Arbeit der Lokalgruppe vorzustellen und einen Einblick in die Treff
+ en zu geben. Dies bietet eine hervorragende Möglichkeit\, sich über soli
+ darische und menschenrechtsbasierte Migrationspolitik auszutauschen und zu
+  erfahren\, wie man sich engagieren kann.
+LOCATION:Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
