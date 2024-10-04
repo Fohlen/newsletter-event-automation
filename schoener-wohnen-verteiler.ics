@@ -6300,11 +6300,45 @@ DTEND:20241030T235959Z
 DTSTAMP:20241003T130220Z
 UID:f1e74798-7169-49d6-820a-ccb3e9972dc1
 DESCRIPTION:Join us for the HeimatToHell Festival! A packed evening featur
- ing performances from:\\n- CHIENS (Grindviolence\, Ici-et-ailleurs)\\n- Da
- ys of Desolation (CrustGrind\, Halen)\\n- Marasm (Post-Crust\, Karlsruhe)\
- \n- DEFIANCE (Hardcore\, Stuttgart)\\n- MORSE (HC Punk\, Mainz)\\nCome ear
- ly to support all the bands\, and remember to spread the word to your frie
- nds! More info can be found at Epplhaus homepage or d.i.die on Insta/FB.
+ ing performances from:\n- CHIENS (Grindviolence\, Ici-et-ailleurs)\n- Days
+  of Desolation (CrustGrind\, Halen)\n- Marasm (Post-Crust\, Karlsruhe)\n- 
+ DEFIANCE (Hardcore\, Stuttgart)\n- MORSE (HC Punk\, Mainz)\nCome early to 
+ support all the bands\, and remember to spread the word to your friends! M
+ ore info can be found at Epplhaus homepage or d.i.die on Insta/FB.
 LOCATION:Epplhaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jam Session im Lichti
+DTSTART:20241211T203000
+DTEND:20241211T235959Z
+DTSTAMP:20241004T130143Z
+UID:9ecc935f-913f-4838-ad88-6bde86c5a792
+DESCRIPTION:Nächsten Montag findet wieder eine Österbar mit einer Jam Se
+ ssion im Lichti statt. Kommt vorbei zum Zuhören oder Mitspielen ab 20:30 
+ Uhr. Vorhanden sind Drums\, Amps für Bass und 2x Gitarre sowie Mikrofone 
+ und ein Mixer\, möglicherweise auch ein Synthesizer. Ihr könnt gerne eur
+ e Instrumente mitbringen. Alles kann irgendwie angeschlossen werden. Peace
+ !
+LOCATION:Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eintritt gegen Spende
+DTSTART:20241011T210000
+DTEND:20241011T235900Z
+DTSTAMP:20241004T130143Z
+UID:327d80f9-dc5b-4531-9cc1-3d09f4e26451
+DESCRIPTION:TV Cult are an eighties inspired Post-Punk band from Cologne\,
+  Germany. With brooding and dominant bass lines\, cold and frantic guitars
+ \, powerful drums\, and vocals iterating between crooning goth and DC hard
+ core\; TV Cult create a sound that is both reminiscent of bands like Joy D
+ ivision\, Black Flag and Idles\; yet is truly unique. Recorded in the wint
+ er of 2022 at 79 Sound Studios\, the four-piece released their debut LP 
+ ‘Colony’ in November 2023 via Flight 13 Records. After supporting este
+ emed contemporaries in 2023\, such as High Vis\, Ditz\, Militarie Gun and 
+ Home Front\; TV Cult will be hitting the road in 2024 for their first solo
+  shows outside of their beloved Cologne. Spotify: https://open.spotify.com
+ /intl-de/artist/4HFnD2505aJd9mBkw9zgC8?si=uOskNzZ1SkikhNBo4QLVCA Bandcamp:
+  https://tvcult.bandcamp.com/
+LOCATION:Shedhalle Tübingen\, Schlachthausstraße 13
 END:VEVENT
 END:VCALENDAR
