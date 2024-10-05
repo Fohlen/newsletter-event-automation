@@ -6341,4 +6341,20 @@ DESCRIPTION:TV Cult are an eighties inspired Post-Punk band from Cologne\,
   https://tvcult.bandcamp.com/
 LOCATION:Shedhalle Tübingen\, Schlachthausstraße 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidaritätsveranstaltung: Briefeschreiben an politische Gefangen
+ e
+DTSTART:20241010T200000Z
+DTEND:20241010T235959Z
+DTSTAMP:20241005T125835Z
+UID:ac721ba5-20d8-4841-891f-f0e862b85087
+DESCRIPTION:Am 10.10. findet in der Hausbar der LU15 eine Solidaritätsver
+ anstaltung statt\, bei der wir Briefe an politische und andere Gefangene s
+ chreiben\, um unsere Solidarität mit ihnen auszudrücken. Dies ist eine b
+ esondere Gelegenheit\, um mit Menschen in Kontakt zu treten\, die aufgrund
+  ihrer Überzeugungen oder Aktivismus isoliert sind. Unterstützende Mater
+ ialien wie Briefmarken und Briefpapier werden bereitgestellt. Bringen Sie 
+ Ihre Schreibfreude und Solidarität mit!
+LOCATION:Hausbar der LU15
+END:VEVENT
 END:VCALENDAR
