@@ -6357,4 +6357,35 @@ DESCRIPTION:Am 10.10. findet in der Hausbar der LU15 eine Solidaritätsver
  Ihre Schreibfreude und Solidarität mit!
 LOCATION:Hausbar der LU15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cumbia-Konzert mit COMBO CUMBIALE
+DTSTART:20241010T220000
+DTEND:20241010T235959Z
+DTSTAMP:20241007T204325Z
+UID:232eac92-edfa-4c86-855a-b809742a3eba
+DESCRIPTION:Der Oktober beginnt im Blauen Salon mit einem spannenden Konze
+ rt von COMBO CUMBIALE. Diese Künstler*innen aus Tübingen und anderen Tei
+ len der Welt bringen seit 2018 die mitreißende Cumbia-Musik nach Deutschl
+ and. Ihr Repertoire umfasst Liebeslieder und Tanzmusik aus aller Welt und 
+ garantiert eine große Party voller Spaß und guter Laune. Einlass ist fre
+ i.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über die Notwendigkeit der Polizei und abolitionistisc
+ he Bewegungen.
+DTSTART:20241010T190000
+DTEND:20241010T235959Z
+DTSTAMP:20241007T204325Z
+UID:21092020-dc9f-486d-8a69-7e77b125b944
+DESCRIPTION:Die Veranstaltung thematisiert die weltweite Kritik an rassist
+ ischer Polizeigewalt\, inspiriert durch Fälle wie die Tötung von George 
+ Floyd. Es wird diskutiert\, ob die Polizei reformiert oder abgeschafft wer
+ den sollte\, und die abolitionistische Bewegung vorgestellt\, die einen ge
+ sellschaftlichen Wandel über das Ende von Polizei und Strafsystemen hinau
+ s anstrebt. Die Referentin bringt ihre Expertise ein\, welche sie in ihrer
+  Masterarbeit über abolitionistische Perspektiven auf eine sozial-ökolog
+ ische Transformation erarbeitet hat.
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
