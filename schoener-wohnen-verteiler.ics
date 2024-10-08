@@ -6388,4 +6388,48 @@ DESCRIPTION:Die Veranstaltung thematisiert die weltweite Kritik an rassist
  ische Transformation erarbeitet hat.
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verschenkung von 2 elektrischen Hockerkochern gegen Spende
+DTSTART:20241201T000000Z
+DTEND:20240131T235959Z
+DTSTAMP:20241008T204116Z
+UID:1914c73e-e1ac-4949-b22a-4bd27a4c8219
+DESCRIPTION:Die Mensa der Geschwister-Scholl-Schule in Tübingen verschenk
+ t gegen Spende und Abholung zwei funktionsfähige\, elektrisch betriebene 
+ Hockerkocher des Herstellers Buderus. Der gemeinnützige Verein der Freund
+ e der GSS Tübingen e.V. freut sich über eine Weiterverwendung der Gerät
+ e sowie über eine angemessene Spende. \n\nFragen zu den Geräten und Abho
+ lung: mensa@gss-tuebingen.de\nSpendenlink: [Hier Spenden](https://www.vfgs
+ s-tuebingen.de/%C3%BCber-uns/spenden/)
+LOCATION:Geschwister-Scholl-Schule Mensa\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1st Hausbar by Siggi11 supporters
+DTSTART:20241206T200000
+DTEND:20241206T235959Z
+DTSTAMP:20241008T204116Z
+UID:faf7c8ad-cae0-4186-a434-f0fec3cfbf3d
+DESCRIPTION:The Supporters and Residents of Siggi11 will host their first 
+ Hausbar at the Livingproject Schellingstrasse 6. It's an evening of commun
+ ity and relaxation\, featuring tasty food served as KÜFA. Everyone is inv
+ ited to bring themselves and their friends for a relaxed evening.
+LOCATION:Livingproject Schellingstrasse 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein gemütlicher Kulturabend mit Lara und DUO Le Maître
+DTSTART:20241011T200000
+DTEND:20241011T235900Z
+DTSTAMP:20241008T204116Z
+UID:b0a9f950-ba7a-478c-a341-c1c6640b1232
+DESCRIPTION:Freut euch auf einen besonderen Abend mit Live-Musik an der He
+ gel7. Lara\, eine talentierte Singer-Songwriterin\, begleitet von ihrer Gi
+ tarre\, wird euch mit ruhiger\, gefühlsvoller Musik mit spanischen\, engl
+ ischen und deutschen Texten verzaubern. Nach ihr betritt DUO Le Maître di
+ e Bühne\, wo Benjamin Geggus (Gitarre\, Gesang) und Ansgar Schwarzer (Gei
+ ge\, Rap) euch eine einzigartige Mischung aus Jazz\, Pop und Hip-Hop präs
+ entieren. Die Cousins\, die ihre musikalische Reise als Straßenmusiker be
+ gannen\, versprechen eine Show voll improvisierter Soli\, Beats\, Rap und 
+ Gesang.
+LOCATION:Hegelstraße 7
+END:VEVENT
 END:VCALENDAR
