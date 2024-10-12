@@ -6590,4 +6590,36 @@ DESCRIPTION:MOPHING PEOPLE\, eine japanische Alternative-Rockband gegründ
  com und https://www.youtube.com/watch?v=OnFJ2YeFHBk.
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradtour für bessere Fahrrad-Infrastruktur
+DTSTART:20240816T180000
+DTEND:20240816T235959Z
+DTSTAMP:20241012T204143Z
+UID:e7462748-2cd1-485d-b4c1-32b529c91244
+DESCRIPTION:Hallo Radfreunde und Umweltbewusste\, wir laden euch ein zur n
+ ächsten Critical Mass am 18.10.! Lasst uns gemeinsam für eine bessere Fa
+ hrrad-Infrastruktur und mehr Rücksichtnahme einstehen.\n\nWann: 16.08. 18
+ :00\nWo: Vor der Uni-Bib\, Wilhelmstraße 32\nWas: Eine entspannte Fahrrad
+ tour durch unsere Stadt\, um auf die Bedeutung des Radfahrens aufmerksam z
+ u machen.\n\nBringt eure Freunde\, Familie und gute Laune mit! Vergesst ni
+ cht\, eure Fahrräder aufzufrischen und vielleicht ein paar Lichterketten 
+ dran zu hängen :) Je mehr wir sind\, desto lauter wird unsere Stimme! Wir
+  freuen uns auf euch :)
+LOCATION:Vor der Uni-Bib\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-Party mit dem feministischen Auflegekollektiv Tübingen (fak)
+DTSTART:20241025T210000
+DTEND:20241025T235959Z
+DTSTAMP:20241012T204143Z
+UID:fa116e2c-62c6-4b57-b611-49a13375f761
+DESCRIPTION:Wir feiern 3 Jahre TOAKT mit einer dicken Soli-Party unter dem
+  Motto „Party bevor die Welt verreckt!“. Bereitet euch vor auf eine Na
+ cht voller Musik und Tanz mit Auftritten von DJ Saffho (22.00)\, DJ Ronja 
+ Ravertochter (23.30)\, DJ Nymphe (01.00)\, und DJ Paulila (02.30). Außerd
+ em gibt es leckere Soli-Shots für das Linke Zentrum Trude Lutz und neues 
+ Merch vom TOAKT. Eintritt kostet 4€ oder ihr könnt euer Glück mit Wür
+ feln versuchen. Lasst uns zusammenkommen und feiern!
+LOCATION:Münzgasse 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
