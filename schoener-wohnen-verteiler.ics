@@ -6622,4 +6622,35 @@ DESCRIPTION:Wir feiern 3 Jahre TOAKT mit einer dicken Soli-Party unter dem
  feln versuchen. Lasst uns zusammenkommen und feiern!
 LOCATION:Münzgasse 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiere den Herbst und das neue Semester beim Lichternebel!
+DTSTART:20241025T180000Z
+DTEND:20241025T235959Z
+DTSTAMP:20241013T204121Z
+UID:d017b339-d729-4ad9-ac6e-0a27bc678514
+DESCRIPTION:Das Lichternebel Uni-Festival findet am 25. Oktober 2024 in de
+ r ehemaligen Mensa Shedhalle statt und wird von der Verfassten Studierende
+ nschaft Tübingen veranstaltet. Die Gäste können ab 18 Uhr kostenlose Li
+ vemusik von verschiedenen Künstlern wie Kleinstadt\, Sex im Dunkeln\, Pan
+ ik Deluxe\, Nils Keppel und Temmis genießen. Anschließend gibt es eine A
+ fterparty mit DJs des FAK. Alle Infos und die Möglichkeit sich als Helfer
+ *innen einzutragen\, finden Interessenten auf Instagram unter @lichternebe
+ l_tuebingen.
+LOCATION:Ehemalige Mensa Shedhalle\, Universität Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein inspirierender Abend mit Musik und Texten.
+DTSTART:20241013T203000Z
+DTEND:20241013T235959Z
+DTSTAMP:20241013T204121Z
+UID:1a1bcc55-aff6-45c2-b204-65ee984c12a5
+DESCRIPTION:"Liebe Schwestern und Geschwister\, 'Wie ihr wisst\, kommt ihr
+  alle in die Hölle. Wir freuen uns auf euch.' Wir\, das Kollektiv "Strom 
+ und Muskeln" laden euch herzlich zu unserer feministischen\, unreligiösen
+  Messe ein. In unserem Liederabend möchten wir mit euch Schwesternschaft\
+ , inspirierende Texte und natürlich jede Menge Musik teilen. Von Punk üb
+ er Soul bis zu Pink Floyd ist alles dabei. Kommt vorbei und feiert mit uns
+ !\n\nVeranstalter: Emma Schoepe\, Rosalba Salomon\, Sophie Aouami
+LOCATION:Schwabstraße 6\, Tübinger Lichtenstein
+END:VEVENT
 END:VCALENDAR
