@@ -6653,4 +6653,49 @@ DESCRIPTION:"Liebe Schwestern und Geschwister\, 'Wie ihr wisst\, kommt ihr
  !\n\nVeranstalter: Emma Schoepe\, Rosalba Salomon\, Sophie Aouami
 LOCATION:Schwabstraße 6\, Tübinger Lichtenstein
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier mit dem neu gegründeten Solikollektiv „Collectiv“ und u
+ nterstütze soziale Projekte!
+DTSTART:20241019T220000
+DTEND:20241019T235959Z
+DTSTAMP:20241014T130255Z
+UID:e69047dd-9492-427c-9c00-046cb5f305dc
+DESCRIPTION:Das neue Solikollektiv „Collectiv“ lädt euch zur ersten S
+ oliparty ein\, bei der 100% der Einnahmen an soziale Projekte gespendet we
+ rden. Dieses Mal geht der Erlös an Refugio-Stuttgart e.V.\, um geflüchte
+ ten Menschen mit Traumatherapie zu helfen.\n\n- Veranstaltungsdetails:\n- 
+ Datum: Samstag\, den 19.10\n- Uhrzeit: Ab 22.00 Uhr\n- Ort: Geissweg 17\n\
+ nDer Eintritt und die Getränke sind auf PayAsYouWant Basis. Kommt zahlrei
+ ch und unterstützt tanzend einen tollen Verein!
+LOCATION:Geissweg 17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showing of Sold City Part 2 at the Blue Salon as part of the anti-
+ authoritarian week.
+DTSTART:20241019T190000
+DTEND:20241019T230000Z
+DTSTAMP:20241014T130255Z
+UID:87c7c578-c4fa-43f2-8e66-71710a3e860f
+DESCRIPTION:Join us for the screening of Sold City Part 2 during the anti-
+ authoritarian week. The movie will start at 7pm. Enjoy food and punch befo
+ re and after the movie. The Blue Salon will remain open afterwards. Welcom
+ ing guests from 6pm.
+LOCATION:Blue Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radralley-Event: "Wohnen für alle"
+DTSTART:20241020T110000
+DTEND:20241020T123000Z
+DTSTAMP:20241014T130255Z
+UID:1a08b0f0-f886-419f-a1df-c8754173dce3
+DESCRIPTION:Die Hegel7 veranstaltet in Kooperation mit Tübinger Wohnproje
+ kten eine neue Edition der Alleycat (Radralley). Beginn ist ab 11 Uhr in d
+ er Hegelstraße 7. Teams können bis spätestens 12:30 Uhr starten. Erford
+ erlich: fahrtüchtige Räder\, mindestens ein Smartphone mit Kamera pro Gr
+ uppe\, Proviant\, Trinkwasser\, 5 Euro Startgebühr pro Gruppe. Es gibt Au
+ fgaben zu lösen entlang malerischer Bezirke und Wohnprojekte. Für Rückk
+ ehrer gibt es Tee und Kuchen auf Spendenbasis\, sowie Preise für die Sieg
+ er.
+LOCATION:Hegelstraße 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
