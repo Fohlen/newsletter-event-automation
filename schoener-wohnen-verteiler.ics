@@ -6724,4 +6724,30 @@ DESCRIPTION:Liebe Leute\, \n\nam Freitag\, 25. Oktober\, zeigen wir im Clu
  lass 18:30)
 LOCATION:Club Voltaire\, Haaggasse 26b
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzerte: Noise Church & HETE
+DTSTART:20241019T220000
+DTEND:20241019T235959Z
+DTSTAMP:20241015T130255Z
+UID:f2a14af0-dd00-4b01-bd0d-c84c5411018d
+DESCRIPTION:am Samstag\, dem 19.10 gibts in der Lu15 (Ludwigstraße 15) wi
+ eder 2 Konzerte! Es spielen Noise Church (düsterer Hardcore/Postpunk) und
+  HETE (feministischer\, rotziger Punk). ab 21:00 gibts Getränke ab 22:00 
+ gehts los. Kommt rum\, wir freuen uns!
+LOCATION:Lu15\, Ludwigstraße 15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein entspanntes Treffen mit Getränken\, KüfA (Küche für Alle\,
+  pay as you want)\, und Soli-Shots.
+DTSTART:20241021T193000
+DTEND:20241021T235959Z
+DTSTAMP:20241015T130255Z
+UID:b6d3c91c-bb58-41b9-b46d-fbb93e6417a1
+DESCRIPTION:Die Soli-Österbar bietet Gelegenheit\, bei leckeren Getränke
+ n und KüfA (Küche für Alle\, pay as you want) in entspannter Atmosphär
+ e zusammenzukommen. Der Abend dient auch der Unterstützung der Besetzung 
+ in der Sigwartstraße 11 durch den Verkauf von eigens kreierten Soli-Shots
+ .
+LOCATION:LH2\, Stauffenbergtr. 30
+END:VEVENT
 END:VCALENDAR
