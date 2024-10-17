@@ -6878,4 +6878,46 @@ DESCRIPTION:Ein Abendessen unter freiem Himmel auf dem Sternplatz\, bei de
  chaftssuchende und ein Gelegenheit\, neue Leute kennenzulernen.
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Ausnahmetalente SORAH & SPOKE aus Berlin beschließen ihre Deu
+ tschlandtournee mit einem explosiven Auftritt in Tübingen\, unterstützt 
+ von der Stuttgarter Rapperin & Afropop-Musikerin Abenaa.
+DTSTART:20241024T200000
+DTEND:20241024T235959Z
+DTSTAMP:20241017T130224Z
+UID:1d0c5102-7d41-4db1-a451-a7474d7e4d88
+DESCRIPTION:Club Voltaire und Ract!festival präsentieren: SORAH & SPOKE i
+ n Tübingen für den Tourabschluss ihrer Deutschlandtournee\, unterstützt
+  von Abenaa.\n\nDie Berliner Rap-Ausnahmetalente SORAH & SPOKE\, bekannt f
+ ür ihre hochexplosive Mischung aus Grime\, Drill\, Trap\, Soul und Consci
+ ous Rap\, kehren nach Tübingen zurück. Ihre Musik vereint scharfe\, käm
+ pferische Texte in englisch\, deutsch und französisch gegen Diskriminieru
+ ng und für Empowerment. Special Guest: Die Stuttgarter Rapperin und Afrop
+ op-Musikerin Abenaa.\n\nEintritt frei\, um Spenden wird gebeten.
+LOCATION:Club Voltaire\, Haaggasse 26b\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunter Abend mit 3 Live-Bands
+DTSTART:20240113T210000
+DTEND:20240113T235959Z
+DTSTAMP:20241017T130224Z
+UID:ef9eb1d8-b695-4372-b678-9b4ca127d2a7
+DESCRIPTION:Genießen Sie einen bunten Abend voller Musik und guter Laune 
+ im Epplehaus. Mit dabei sind Körpa Klauz und die Sikis Band\, Saidon mit 
+ der Saidon Train Band sowie Tobi und die Discounterboys Band. Wir freuen u
+ ns auf viele nette Leute und jede Menge Peace and Love.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Start um 15 Uhr am Haagtor
+DTSTART:20241026T150000
+DTEND:20241026T180000Z
+DTSTAMP:20241017T130224Z
+UID:29c75b79-2137-40f2-b595-60647ee73119
+DESCRIPTION:Großdemonstration gegen Mietwahnsinn und Verdrängung. Teil e
+ ines breiten Bündnisses im Rahmen der Aktionswochen mit dem Ziel\, Wohnen
+  als Ware zu kritisieren und solidarische Perspektiven aufzuzeigen. Treffp
+ unkt ist am Haagtor.
+LOCATION:Haagtor\, Tübingen
+END:VEVENT
 END:VCALENDAR
