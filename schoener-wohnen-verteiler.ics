@@ -6920,4 +6920,17 @@ DESCRIPTION:Großdemonstration gegen Mietwahnsinn und Verdrängung. Teil e
  unkt ist am Haagtor.
 LOCATION:Haagtor\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert featuring Stress Positions\, Nessel\, and GCU
+DTSTART:20241025T200000
+DTEND:20241025T235959Z
+DTSTAMP:20241018T130215Z
+UID:bb959c9e-abc8-4d42-8f45-cd0a1370ff60
+DESCRIPTION:Lineup:\n- STRESS POSITIONS - HC Punk from Chicago\n- NESSEL -
+  Post Black Metal from Stuttgart\n- GCU - Hardcore from Kirchheim\n\nDoors
+  open at 8 PM\, and the noise starts at 8:30 PM. Come early to support all
+  bands. More information available at epplehaus.de or through d.i.die on I
+ nstagram/Facebook.
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
