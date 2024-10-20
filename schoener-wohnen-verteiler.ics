@@ -6933,4 +6933,45 @@ DESCRIPTION:Lineup:\n- STRESS POSITIONS - HC Punk from Chicago\n- NESSEL -
  nstagram/Facebook.
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorbereitung zur Wohnraum-Demo
+DTSTART:20241023T140000Z
+DTEND:20241023T180000Z
+DTSTAMP:20241020T125933Z
+UID:0a09c30c-dd0a-44bb-a6fd-2403f2eaa52e
+DESCRIPTION:Ein Basteltreffen im Rahmen der Vorbereitungen zur Wohnraum-De
+ mo. Trefft euch mit Gleichgesinnten\, um gemeinsam für einen guten Zweck 
+ zu basteln. Teil der Kampagne -Wohnraum regeln wir selbst-.
+LOCATION:Clubhaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein geführter Spaziergang durch vier offene Werkstätten in Tübi
+ ngen mit dem Chaostreff.
+DTSTART;TZID="+02:00":20240917T174500
+DTEND:20240917T211000Z
+DTSTAMP:20241020T125933Z
+UID:00cbe1bb-e3c0-4c6e-b1b3-cc3396c9ecdd
+DESCRIPTION:Der Chaostreff Tübingen lädt zur Blochwoche zu einem geführ
+ ten Spaziergang durch vier offene Werkstätten ein. Lernen Sie an jeder Lo
+ cation\, was man dort machen kann und wie es läuft. Orte: KI-Makerspace\,
+  FabLab\, FRANZ!werk\, Werkstadthaus. Treffpunkt: vorm KI-Makerspace beim 
+ "Casino"\, Wördstraße 25. Ende der Veranstaltung beim Werkstadthaus mit 
+ Anschluss an den Linienbus 1 Richtung HBF.
+LOCATION:KI-Makerspace beim "Casino"\, Wördstraße 25\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop über die Beziehung zwischen Kapitalismus und Klimakrise
+DTSTART:20241020T150000
+DTEND:20241020T180000Z
+DTSTAMP:20241020T125933Z
+UID:e5feb5c8-5ab0-4c1f-8f26-2e30e2dbf540
+DESCRIPTION:In diesem Workshop erforschst Du den Zusammenhang zwischen Kap
+ italismus und Klimakrise und erarbeitest gemeinsam\, wie „Streiken fürs
+  Klima“ aussehen kann. Themen beinhalten vergangene und kommende Streiks
+  der Busfahrer*innen und einen möglichen Zusammenschluss von Klimagerecht
+ igkeitsbewegung und Beschäftigten.\n\nVeranstaltet von Tübinger Offenes 
+ Antikapitalistisches Klimatreffen (TO AKT). Kein Vorwissen nötig\, keine 
+ Anmeldung erforderlich.
+LOCATION:Clubhaus\, Wilhelmstraße 30
+END:VEVENT
 END:VCALENDAR
