@@ -6974,4 +6974,27 @@ DESCRIPTION:In diesem Workshop erforschst Du den Zusammenhang zwischen Kap
  Anmeldung erforderlich.
 LOCATION:Clubhaus\, Wilhelmstraße 30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock Night
+DTSTART:20241023T220000
+DTEND:20241023T235959Z
+DTSTAMP:20241021T130224Z
+UID:a3268e61-83f9-4ace-abbe-2af02ad87ccb
+DESCRIPTION:Live event featuring THE UNKNOWNS\, the fresh Punk Rock sensat
+ ion from Brisbane\, Queensland. Along with Josh Hardy and Eamon Sandwith f
+ rom the legendary CHATS\, this pub punk quartet is ready to deliver straig
+ ht garage punk. Free entry!
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techno\, Jungle\, PsyTrance\, Hardtekk Party
+DTSTART:20241026T220000
+DTEND:20241026T235959Z
+DTSTAMP:20241021T130224Z
+UID:5ffa926c-f9bc-42df-bae3-c10746c2a240
+DESCRIPTION:Bock auf Party? Bock auf Tanzen? Dann kommt am 26. Oktober\, 2
+ 2 Uhr in die Hegelstr. 7! Es gibt abwechslungsreiche Beats von Techno übe
+ r Jungle bis PsyTrance / Hardtekk <3 Flyer ist angehängt. Bis Samstag :)
+LOCATION:Hegelstr. 7
+END:VEVENT
 END:VCALENDAR
