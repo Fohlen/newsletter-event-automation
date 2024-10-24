@@ -7105,4 +7105,17 @@ DESCRIPTION:Frauen aus der DDR werden über ihre Erfahrungen sprechen und
  nehmer*innen sind eingeladen\, Kuchen oder Muffins mitzubringen.
 LOCATION:Achtbar Tübingen\, Weberstraße 8\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Punk\, Post Black Metal\, and Hardcore bands performing live.
+DTSTART:20241025T200000
+DTEND:20241025T235900Z
+DTSTAMP:20241024T204219Z
+UID:f117fda5-4264-4d39-a424-960230fc2721
+DESCRIPTION:Join us on a thrill-packed night featuring dynamic performance
+ s from STRESS POSITIONS (HC Punk from Chicago)\, NESSEL (Post Black Metal 
+ from Stuttgart)\, and GCU (Hardcore from Kirchheim). Arrive early to suppo
+ rt all the bands. More information is available at epplehaus.de or on Inst
+ agram/Facebook @d.i.die.
+LOCATION:Epplehaus\, Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
