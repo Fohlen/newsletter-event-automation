@@ -7118,4 +7118,41 @@ DESCRIPTION:Join us on a thrill-packed night featuring dynamic performance
  agram/Facebook @d.i.die.
 LOCATION:Epplehaus\, Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Demonstration für das Recht auf Wohnen und gegen Mietwahnsin
+ n. Organisiert von A-Treffen.
+DTSTART:20241207T150000Z
+DTEND:20241207T180000Z
+DTSTAMP:20241025T130200Z
+UID:10839050-ee62-4e4d-a011-cf8aace300be
+DESCRIPTION:Das A-Treffen lädt zur Teilnahme an einer Demonstration gegen
+  Mietwahnsinn und die Verdrängung ein. Diese Veranstaltung steht im Zeich
+ en der Solidarität mit der Siggie11\, der Münze 13 und all jenen\, die s
+ ich keine Wohnung leisten können oder deren Einkommen von den steigenden 
+ Mietpreisen aufgezehrt wird.\n\nDie Demo setzt sich für solidarisches Woh
+ nen in Gemeinwirtschaft ein und widersetzt sich dem Profitprinzip des Wohn
+ ungsmarktes. Eine lebenswerte Stadt für alle ist das Ziel. Komm auch du u
+ nd schließe dich uns und anderen Gruppen an.\n\n"Besetzen\, Kämpfen\, Ve
+ rgesellschaften"-Block direkt hinter der Bündnisdelegation.
+LOCATION:Haagtorplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Wohnprojekt-Szene Tübingens und die politische Linke veransta
+ lten eine Soli-Party bei Lu15.
+DTSTART:20241025T220000Z
+DTEND:20241025T235959Z
+DTSTAMP:20241025T130200Z
+UID:2d9fcb3e-2d67-4baf-8007-462d16dc2144
+DESCRIPTION:Das Studierendenwerk verbietet unsere Soli-Party in der Münzg
+ asse 7 zwei Tage vorher – unter dem Vorwand\, dass es zur Ruhestörung k
+ ommen könnte (?). Kompromisslos und ohne vorherige Absprachen drohte das 
+ StuWe: Findet die Party trotzdem statt\, wird Bewohner:innen fristlos gek
+ ündigt. \n\nEs bleibt unklar\, ob dies für alle zukünftigen Veranstaltu
+ ngen in der Münzgasse 7 gleichermaßen gelten wird. Die Münze 7 ist ein 
+ teil-selbstverwaltetes Wohnheim. Selbstverwaltetes Wohnen gehört zur Tüb
+ inger DNA\, wurde jahrelang erkämpft und wird nicht kampflos aufgegeben. 
+ \n\nLineup: 22:00 Saffho (HipHop)\, 23:30 Ronja Ravertochter (HipHop)\, 01
+ :00 Nymphe (Hard Techno)\, 02:30 Paulila b2b Kimtrails (Psytrance).
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
 END:VCALENDAR
