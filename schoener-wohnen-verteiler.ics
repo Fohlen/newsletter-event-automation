@@ -7155,4 +7155,31 @@ DESCRIPTION:Das Studierendenwerk verbietet unsere Soli-Party in der Münzg
  :00 Nymphe (Hard Techno)\, 02:30 Paulila b2b Kimtrails (Psytrance).
 LOCATION:Ludwigstraße 15\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Auftritt von LOTHARIO im Blauen Salon
+DTSTART:20241025T220000Z
+DTEND:20241025T235959Z
+DTSTAMP:20241027T204400Z
+UID:566af649-952e-4b5e-a465-3297f8596216
+DESCRIPTION:LOTHARIO\, das Soloprojekt von Annaliese Redlich aus Naarm/Mel
+ bourne\, tritt im Blauen Salon auf. Erleben Sie eine Mischung aus Punk\, R
+ ebellion und Verletzlichkeit live. Freier Eintritt.
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enjoy a warm vegan meal on a donation basis to beat the monday-blu
+ es.
+DTSTART:20241028T190000
+DTEND:20241028T235959Z
+DTSTAMP:20241027T204400Z
+UID:8d11215f-0b9e-4886-b3c9-41a8140c4cfc
+DESCRIPTION:Friends of the solidary and culinary joys\, join us for a warm
+  vegan meal at the Fruchtschranne. KüfA (Kitchen for All) is here to offe
+ r food on a donation basis. The idea is that those who have more can give 
+ more\, and those who have less can give less or nothing at all. Tea and ba
+ ckground music will be provided\, and discrimination will only be tolerate
+ d if it is against bad food. Come in large numbers\, we look forward to se
+ eing you!
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
