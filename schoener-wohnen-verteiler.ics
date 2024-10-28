@@ -7182,4 +7182,35 @@ DESCRIPTION:Friends of the solidary and culinary joys\, join us for a warm
  eing you!
 LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piraten-Themenabend im Schelling
+DTSTART:20241130T200000Z
+DTEND:20241130T235959Z
+DTSTAMP:20241028T204238Z
+UID:4210c83e-cd1f-4a2b-aaf2-bba12c9f8f53
+DESCRIPTION:Ahoi\, Schellinx und Freund*innen\, Am 30.11. ab 20 Uhr setzen
+  wir in der Schelling Hausbar die Segel zur Pirat*innenhausbar! Macht euch
+  bereit für einen gemütlichen Abend\, gefüllt mit guter Laune und Seema
+ nnsgarn. Für die Versorgung an Bord ist gesorgt: Neben Grog gibt’s Limo
+ s\, Bier und mehr. Wer im passenden Kostüm kommt\, wird mit einem Freigro
+ g belohnt! Ab 22:30 Uhr übernehmen dann Afrobeats und Amapiano das Steuer
+  – aufgelegt von DJ AI. Lasst euch von den Vibes treiben und auf die Tan
+ zfläche locken! Wir freuen uns auf viele neue und bekannte Gesichter und 
+ eine legendäre Nacht :) Mit besten Grüßen\, Die Biosphäre und die Warm
+ duscher
+LOCATION:Schelling Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KüfA ab 18:00\, Hausbar ab 21:00\, Konzert ab 22:00 mit Zuckerwat
+ temaschine!
+DTSTART:20241214T180000
+DTEND:20241214T235959Z
+DTSTAMP:20241028T204238Z
+UID:1306a595-af83-4f3e-a3f5-f04eac87204f
+DESCRIPTION:Verbringe einen aufregenden Donnerstagabend auf dem Sternplatz
+ ! Beginne mit der KüfA um 18:00\, folge mit der Hausbar ab 21:00\, und kr
+ öne den Abend mit einem Konzert ab 22:00. Nicht zu vergessen: die Zuckerw
+ attemaschine!
+LOCATION:Sternplatz
+END:VEVENT
 END:VCALENDAR
