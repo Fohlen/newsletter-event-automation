@@ -7213,4 +7213,20 @@ DESCRIPTION:Verbringe einen aufregenden Donnerstagabend auf dem Sternplatz
  attemaschine!
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert featuring New Age Doom with a special appearance by Diana 
+ Burkot from Pussy Riot\, followed by an After Show with Karlu Castaneda an
+ d an art exhibition by blaindspot.xyz.
+DTSTART;TZID="+01:00":20241102T200000
+DTEND:20241102T235900Z
+DTSTAMP:20241031T204256Z
+UID:83bff053-e931-43c3-8e0c-3d01a05e17b9
+DESCRIPTION:Join us for an experimental noise and music experience featuri
+ ng New Age Doom and Pussy Riot's Diana Burkot live at Shedhalle. Dive into
+  the unique sound landscapes crafted by these artists\, followed by an eng
+ aging art exhibition by blaindspot.xyz and a mesmerizing After Show perfor
+ mance by Karlu Castaneda in the Art Space. DJ sets by U Funk and Rawspin w
+ ill elevate the night before and after the shows.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
