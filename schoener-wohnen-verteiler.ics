@@ -7229,4 +7229,17 @@ DESCRIPTION:Join us for an experimental noise and music experience featuri
  ill elevate the night before and after the shows.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatlicher Lese- und Diskussionskreis über Feminismus
+DTSTART:20241106T190000
+DTEND:20241106T210000Z
+DTSTAMP:20241101T204202Z
+UID:37ca2999-70be-4eb9-b999-628af98ff7c9
+DESCRIPTION:Dieser monatliche Treff lädt zum gemeinsamen Lesen und Diskut
+ ieren über feminismusbezogene Texte ein. Teilnehmer:innen können Texte\,
+  die sie interessieren\, zur Diskussion stellen. Das Treffen bietet einen 
+ Raum\, um von- und miteinander zu lernen\, während wir unsere Bedürfniss
+ e und Grenzen respektieren.
+LOCATION:Blaues Haus\, Weststadt\, Herrenberger Straße 61
+END:VEVENT
 END:VCALENDAR
