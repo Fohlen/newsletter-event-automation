@@ -7242,4 +7242,30 @@ DESCRIPTION:Dieser monatliche Treff lädt zum gemeinsamen Lesen und Diskut
  e und Grenzen respektieren.
 LOCATION:Blaues Haus\, Weststadt\, Herrenberger Straße 61
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung über die Nelkenrevolution in Portugal
+DTSTART:20241106T190000Z
+DTEND:20241106T220000Z
+DTSTAMP:20241105T204214Z
+UID:12261ee8-6957-4745-a28e-d921cc114c48
+DESCRIPTION:Im Rahmen der Infoladenhausbar am Mittwoch zeigen wir einen Fi
+ lm über die Nelkenrevolution in Portugal\, die vor 50 Jahren stattfand. N
+ ach einem veganen Essen beginnt der Film\, der die revolutionären Ereigni
+ sse des 25. April 1974 und ihre Bedeutung beleuchten wird. Der Sturz einer
+  48 Jahre währenden Diktatur und der Einfluss auf die ehemaligen Kolonien
+  wird thematisiert.
+LOCATION:Hausbar\, Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk- und Garage-Rockband USELESS EATERS live im Blauen Salon
+DTSTART:20241022T220000Z
+DTEND:20241022T235959Z
+DTSTAMP:20241105T204214Z
+UID:74b6d6b6-c7d3-47bb-b748-c19010a59121
+DESCRIPTION:USELESS EATERS\, eine dynamische Punk- und Garage-Rockband aus
+  Memphis\, Tennessee\, spielt live im Blauen Salon. Mit ihrer Energie gela
+ denen Performance bekannt\, verspricht dieses Konzert\, ein unvergessliche
+ s Erlebnis zu werden. Eintritt ist frei. Beginn um 22 Uhr.
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
