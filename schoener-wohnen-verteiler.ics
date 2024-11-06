@@ -7268,4 +7268,20 @@ DESCRIPTION:USELESS EATERS\, eine dynamische Punk- und Garage-Rockband aus
  s Erlebnis zu werden. Eintritt ist frei. Beginn um 22 Uhr.
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drei Floors mit Techno\, HipHop und Karaoke - ein Safe Space für 
+ TräumerInnen\, TänzerInnen und Freigeister.
+DTSTART:20241115T220000Z
+DTEND:20241115T235959Z
+DTSTAMP:20241106T130119Z
+UID:c7f3c7b1-2132-437e-950d-72c51c6fffe3
+DESCRIPTION:🌥 Wolkentempel: Techno und Trance mit freihaendig\, Der Hou
+ sierer\, DJ Nymphe\, Softmax\, Jabalu.\n\n🌫 Nebelland: Live Rap und Hip
+ Hop/D'n'B/Psytrance von Carabonara\, MCB\, Spin\, vhämhop\, Dr Emma\, DJ 
+ Nono\, DJ Mina\, Dilema\, koryphee.\n\n🌙 Traumfabrik: Offenes Karaoke.\
+ n\nSafe Space: Kein Platz für Sexismus\, Rassismus\, Homo- oder Transfein
+ dlichkeit. Awareness Team vor Ort.\n\nKomm in den wildesten Outfits und br
+ inge Freude und Freunde mit!
+LOCATION:Wilhelma\, Wilhelmstr.30/1\, hinter dem Clubhaus
+END:VEVENT
 END:VCALENDAR
