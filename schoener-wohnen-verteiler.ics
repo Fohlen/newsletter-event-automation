@@ -7284,4 +7284,33 @@ DESCRIPTION:🌥 Wolkentempel: Techno und Trance mit freihaendig\, Der Hou
  inge Freude und Freunde mit!
 LOCATION:Wilhelma\, Wilhelmstr.30/1\, hinter dem Clubhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPPLE MOSH VOL II
+DTSTART:20241116T200000Z
+DTEND:20241116T235959Z
+DTSTAMP:20241107T125954Z
+UID:ae809905-f3a2-4a51-9a34-fbcb156b1b34
+DESCRIPTION:16.11. EPPLE MOSH VOL II Hardcore concert with 5 bands. Doors 
+ 19.30 Mosh 20.00 at Epplehaus. Bands: Divine Sentence: Vegan Metalcore / Z
+ ürich (CH) Finalizer: Metallic HC / Berlin Thornspikes: Heavy HC / Berlin
+  Curselife: HC / Nürnberg GCU: Antifascist HC / Kirchheim Be early\, supp
+ ort all the bands\, tell your friends!
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Filmabend zu Ehren von Lothar König bei der Münze 
+ 13.
+DTSTART:20241111T190000Z
+DTEND:20241111T235959Z
+DTSTAMP:20241107T125954Z
+UID:d1f6b514-405d-42e2-bdc9-eb81ca2e40fb
+DESCRIPTION:Anlässlich des Todes von Lothar König lädt die Münze 13 zu
+  einem Filmabend ein\, um das Filmporträt „König hört auf“ zu zeige
+ n\, das das Leben und Wirken von Lothar König\, einem engagierten Stadtju
+ gendpfarrer und Kämpfer gegen Rechtsradikalismus\, porträtiert. Der Film
+  wurde von Tilman König\, seinem Sohn\, erstellt und bietet einen tiefen 
+ Einblick in Lothars Engagement\, seine Herausforderungen und sein Vermäch
+ tnis.
+LOCATION:Münzgasse 13
+END:VEVENT
 END:VCALENDAR
