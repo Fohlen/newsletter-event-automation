@@ -7329,4 +7329,20 @@ DESCRIPTION:Lesung mit Alexander Glasner Hummel zum Thema "Geflohen - Verb
  am Kämpfen Tübingen.
 LOCATION:Kupferbau\, HS 23\, Hölderlinstraße 5\, 72074 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A double-set concert featuring DURY DAVA\, plus a DJ set taking ch
+ arge of the music before and after the live show.
+DTSTART:20241116T210000
+DTEND:20241116T235959Z
+DTSTAMP:20241111T204138Z
+UID:f0a216b5-45c2-43dc-9e9f-18952f4fd220
+DESCRIPTION:DURY DAVA\, a five-member band from Athens\, Greece\, establis
+ hed in 2016\, is known for their explosive live performances. Their music 
+ pays homage to the raw sound of 60s' psychedelia and 70s' Krautrock\, whil
+ e blending elements of Greek-Turkish musical traditions like odd rhythms a
+ nd folk dances with a punk mentality. Join us for an unforgettable night o
+ f music at Shedhalle\, Tübingen. Entrance is donation based. Check out th
+ eir music on Bandcamp and YouTube.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
