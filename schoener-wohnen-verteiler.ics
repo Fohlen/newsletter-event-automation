@@ -7345,4 +7345,61 @@ DESCRIPTION:DURY DAVA\, a five-member band from Athens\, Greece\, establis
  eir music on Bandcamp and YouTube.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theatergruppe Scenario präsentiert "Von Allen Guten Geistern"
+DTSTART:20241116T200000
+DTEND:20241116T235959Z
+DTSTAMP:20241113T204504Z
+UID:fed35a95-bdd6-4fda-b2a4-e1b3a09e8135
+DESCRIPTION:"Von Allen Guten Geistern"\, im Original "Blithe Spirit" von N
+ oël Coward\, bietet eine geistreich witzige Komödienunterhaltung. Ein en
+ glischer Autor veranstaltet eine Séance\, in der Hoffnung\, Inspiration f
+ ür seinen neuen Roman zu finden\, wird jedoch von dem Geist seiner versto
+ rbenen ersten Frau heimgesucht. Der Eintritt ist auf Spendenbasis (5-10 
+ € empfohlen). Reservierungen über das Scenario-Kontaktformular möglich
+ .
+LOCATION:Lichti\, Schwabstr. 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kombiniertes antiautoritäres Plenum und selbstorganisierte Hausba
+ r
+DTSTART:20241113T190000
+DTEND:20241113T235959Z
+DTSTAMP:20241113T204504Z
+UID:a4e04d16-4d95-411b-a783-cfa1805a5ece
+DESCRIPTION:Einladung zum antiautoritären Plenum um 19:00 Uhr\, gefolgt v
+ on einer selbstorganisierten Hausbar um 21:00 Uhr. Beides findet im Wohnpr
+ ojekt Schelling statt. Das Plenum ist offen für alle\, die ihre Ideen ein
+ bringen möchten\, gefolgt von einer lockeren und selbstorganisierten Haus
+ bar ohne Konsumzwang. Ein Abend\, um in guter Gesellschaft kreative Spiele
+  wie Polit-Pantomime zu genießen.
+LOCATION:Wohnprojekt Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutschpunk und Punkrock Melange von MOFAKETTE
+DTSTART:20241101T220000Z
+DTEND:20241101T235959Z
+DTSTAMP:20241113T204504Z
+UID:49bd8685-a892-44f9-99a9-913adb435b60
+DESCRIPTION:MOFAKETTE bringt Deutschpunk in die Live-Musikszene des Blauen
+  Salons. Erlebe energetischen Punkrock mit schönen Melodien und einem fre
+ chen Mittelfinger in die Welt. Vergleiche mit Terrorgruppe\, WIZO\, Supern
+ ichts und Schrottgrenze betonen ihre musikalischen Wurzeln. Ein Eintritt-f
+ reies Event nicht nur für Fans von ehrlichem Punk\, Rock'n'Roll und dreck
+ igem Pop.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Lichterfahrt von Critical Mass und Kidical Mass
+DTSTART:20241122T173000
+DTEND:20241122T235959Z
+DTSTAMP:20241113T204504Z
+UID:494d139b-a714-4b29-bc96-6d0dba9797c6
+DESCRIPTION:Am 22.11. um 17:30 findet die Critical Mass zusammen mit der K
+ idical Mass als gemeinsame Lichterfahrt statt. Nehmt die Kleinen mit\, dek
+ oriert eure Räder (und euch?) mit Lichterketten\, um als leuchtender Umzu
+ g durch die Stadt zu fahren. Länge und Tempo der Route sind kinderfreundl
+ ich angepasst. Wir freuen uns auf eure Teilnahme!
+LOCATION:Stadtzentrum
+END:VEVENT
 END:VCALENDAR
