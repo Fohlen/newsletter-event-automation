@@ -7402,4 +7402,37 @@ DESCRIPTION:Am 22.11. um 17:30 findet die Critical Mass zusammen mit der K
  ich angepasst. Wir freuen uns auf eure Teilnahme!
 LOCATION:Stadtzentrum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag und Diskussion über Anpassungsstrategien an den Klimawand
+ el aus dem Globalen Süden.
+DTSTART:20241119T190000
+DTEND:20241119T235959Z
+DTSTAMP:20241114T204247Z
+UID:d8720945-5278-43ee-8e43-66dae3a15d92
+DESCRIPTION:Der Abend bietet Einblicke in Anpassungsstrategien an den Klim
+ awandel aus Afrika\, Asien und Lateinamerika\, präsentiert von Christine 
+ Lottje. Organisiert von Umweltzentrum Tübingen e.V.\, Stiftskirche Tübin
+ gen und FAKT e.V.\, finanziert von der Reinhold-Beitlich-Stiftung. Teilneh
+ mer lernen wertvolle Strategien kennen und erhalten Einblicke in globale R
+ ahmenprogramme.
+LOCATION:Begegnungsstätte Hirsch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Stadtspaziergang organisiert von GK (Gemeinsam kämpfen) Tübi
+ ngen um geschlechtsspezifische Gewalt zu diskutieren und gemeinsam Stärke
+  zu entwickeln.
+DTSTART:20241124T110000
+DTEND:20241124T130000Z
+DTSTAMP:20241114T204247Z
+UID:5f15ab18-7a29-45b8-97cb-171240d43398
+DESCRIPTION:Liebe Frauen\, liebe Queers\,\n\nGeschlechtsspezifische Gewalt
+  ist überall. Bei einem Stadtspaziergang wollen wir gemeinsam dazu lernen
+ . Wir werden der Frage nachgehen\, was Schlagzeilen wie Gisèle Pelicot\, 
+ der P-Diddy Skandal\, Trumps Wahlsieg\, aber auch unsere eigenen Erfahrung
+ en mit uns machen. Gemeinsam wollen wir Stärke entwickeln\, um uns und ge
+ gen patriarchale Gewalt wehren zu können! Wir wollen mutig sein\, auch we
+ nn dieses Thema schmerzt und werden sanft sein\, wenn es schmerzt.\n\n\nWi
+ r freuen uns auf euer Kommen!\n\nGK (Gemeinsam kämpfen) Tübingen
+LOCATION:Antifeminizidbaum Neckarinsel\, an der kleinen Fußgängerbrücke
+END:VEVENT
 END:VCALENDAR
