@@ -7435,4 +7435,20 @@ DESCRIPTION:Liebe Frauen\, liebe Queers\,\n\nGeschlechtsspezifische Gewalt
  r freuen uns auf euer Kommen!\n\nGK (Gemeinsam kämpfen) Tübingen
 LOCATION:Antifeminizidbaum Neckarinsel\, an der kleinen Fußgängerbrücke
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supporting people on the Balkan refugee route
+DTSTART:20241118T193000
+DTEND:20241118T235959Z
+DTSTAMP:20241115T204254Z
+UID:9b214420-607b-4a34-a200-8198cf92f7df
+DESCRIPTION:Join us for the Solibar event at LH2 (Stauffenbergstraße 30) 
+ on Monday\, 18th November 2024\, starting at 7.30 pm. We are gathering in 
+ support of "Collectivo Rotte Balcaniche\," a collective aiding those on th
+ e Balkan refugee route with essentials and documenting police violence at 
+ European borders. Expect a great atmosphere with delicious drinks\, both a
+ lcoholic and non-alcoholic\, and special offerings like Solishots\, Cuba L
+ ibre\, and Gin Tonic. Plus\, a secret surprise awaits! Don't miss this eve
+ nt to support a great cause.
+LOCATION:LH2\, Stauffenbergstraße 30
+END:VEVENT
 END:VCALENDAR
