@@ -7451,4 +7451,48 @@ DESCRIPTION:Join us for the Solibar event at LH2 (Stauffenbergstraße 30)
  nt to support a great cause.
 LOCATION:LH2\, Stauffenbergstraße 30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Commorate the Black community in Brazil with poetry and music by R
+ enato Panteras.
+DTSTART:20241121T210000
+DTEND:20241121T235959Z
+DTSTAMP:20241118T130533Z
+UID:12a39cb0-f6d4-41e6-b56f-49bbded46b98
+DESCRIPTION:The LU15 invites you to celebrate the Dia da Consciencia Negra
+  on November 21st. This day marks the commemoration of the Black community
+  in Brazil. For the first time\, it's recognized as a national holiday on 
+ November 20th\, 2024. The evening will feature poetry focused on racism an
+ d Afro-Brazilian music by Renato Panteras. Join us for an evening of refle
+ ction and celebration.
+LOCATION:LU15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protest gegen den Schindhautunnel
+DTSTART:20241123T150000
+DTEND:20241123T170000Z
+DTSTAMP:20241118T130533Z
+UID:5ec9bd7b-d58b-49ab-862f-b03db77e69fe
+DESCRIPTION:Ein breites Bündnis aus Tübinger for Future Gruppen\, dem Ju
+ gendgemeinderat\, dem BUND\, Greenpeace und der Critical Mass ruft zur Dem
+ onstration gegen den Schindhautunnel auf. Treffpunkt ist am Sternplatz mit
+  Abschluss des Demozuges am geplanten Bauplatz des Tunnels neben dem Franz
+ ösischen Viertel.
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Woche lang Klimaprotest gegen den Schindhaubasistunnel mit Pr
+ ogramm
+DTSTART:20241211T080000Z
+DTEND:20241211T235959Z
+DTSTAMP:20241118T130533Z
+UID:eaf7a28f-4cea-42dc-9c37-dbc8dcba181d
+DESCRIPTION:Klimaaktivist*innen besetzen seit Montagmorgen ein Waldstück 
+ neben der B27\, um gegen den Bau des Schindhaubasistunnels zu protestieren
+ . Die Aktivist*innen planen ein vielfältiges Programm mit Workshops\, Aus
+ tauschrunden und Vorträgen rund um die Themen Bau- und Verkehrswende. Tä
+ glich um 16 Uhr findet ein 'Tunnel-Talk' mit warmen Tee statt\, um mit Anw
+ ohner*innen und Interessierten ins Gespräch zu kommen.
+LOCATION:Waldstück neben der B27\, Allee des Chasseurs\, bei den kleinen 
+ Unterführungen nahe den Glascontainern
+END:VEVENT
 END:VCALENDAR
