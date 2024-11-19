@@ -7521,4 +7521,16 @@ DESCRIPTION:Sei Teil einer besonderen Storytelling-Night im FRANZ!Werk zum
  emanden mit und genieße die Show!
 LOCATION:FRANZ!Werk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinner and community at Siggi11
+DTSTART:20241119T180000
+DTEND:20241119T220000Z
+DTSTAMP:20241119T130416Z
+UID:12e868c2-77a9-4ea1-b2b1-04e427f996a8
+DESCRIPTION:Join us at Siggi11 for our regular Tuesday Küfa\, where we co
+ me together to enjoy a delicious dinner\, connect\, and build solidarity. 
+ After dinner\, at 20:00\, the House Bar opens with relaxing music and a co
+ zy atmosphere. Instagram: siggi_11_tuebingen Website: http://siggi11.info/
+LOCATION:Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
 END:VCALENDAR
