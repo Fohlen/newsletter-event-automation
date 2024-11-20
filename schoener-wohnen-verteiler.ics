@@ -7533,4 +7533,15 @@ DESCRIPTION:Join us at Siggi11 for our regular Tuesday Küfa\, where we co
  zy atmosphere. Instagram: siggi_11_tuebingen Website: http://siggi11.info/
 LOCATION:Sigwartstr. 11\, 72076 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WG "Schöne" & friends laden ein
+DTSTART:20241120T200000
+DTEND:20241120T235959Z
+DTSTAMP:20241120T130347Z
+UID:e5b936b2-9148-40c2-b3e3-f1d5b0e95602
+DESCRIPTION:Liebe Menschen! Kommt rum zu einer schönen Hausbar\, heute ab
+ end\, Mittwoch\, 20.11. im Schellingkeller - wie immer ab 20h! Schöne Gr
+ üße\, WG "Schöne" & friends
+LOCATION:Schellingkeller
+END:VEVENT
 END:VCALENDAR
