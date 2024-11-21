@@ -7544,4 +7544,21 @@ DESCRIPTION:Liebe Menschen! Kommt rum zu einer schönen Hausbar\, heute ab
  üße\, WG "Schöne" & friends
 LOCATION:Schellingkeller
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An unforgettable night where the realms of science\, investigation
+ \, and mystic dimensions converge in search of the missing powerful cookie
+ .
+DTSTART:20241129T213000
+DTEND:20241129T235959Z
+DTSTAMP:20241121T130502Z
+UID:89641d85-366e-42eb-9250-bee678c3001c
+DESCRIPTION:"Occult Extravaganza – Where Science Meets Madness" brings t
+ ogether esteemed scientists\, distinguished detectives\, mysterious beings
+  from other dimensions\, and bold conspiracy theorists for a night filled 
+ with elixirs\, interrogations\, and uncovering dark secrets. Wear your mos
+ t extravagant and mysterious attire and join the quest for the universe's 
+ balance. Music Line-up features genres like Old-school Hip Hop\, Bouncy Te
+ chno\, Progressive Indiedance\, and more.
+LOCATION:Schloßbergstraße 23\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
