@@ -7561,4 +7561,22 @@ DESCRIPTION:"Occult Extravaganza – Where Science Meets Madness" brings t
  chno\, Progressive Indiedance\, and more.
 LOCATION:Schloßbergstraße 23\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Dokumentarfilmvorstellung von den Macher:innen von „RISE UP
+ “ und „Hamburger Gitter“.
+DTSTART:20241207T180000Z
+DTEND:20241207T235959Z
+DTSTAMP:20241122T130341Z
+UID:8008321f-d411-4e6e-94ea-715d12e0a1f7
+DESCRIPTION:„Null-Euro-Tickets“ sind online verfügbar unter https://t
+ uebinger-kinos.de. Spenden (0–11 Euro Spendenempfehlung) werden am Veran
+ staltungsabend zur Deckung der Unkosten und zur Unterstützung künftiger 
+ Projekte der Filmemacher:innen erbeten. Die Dokumentation bietet seltene E
+ inblicke in die antifaschistische Arbeit der 90er und im Anschluss an die 
+ Vorführung öffnet der Blaue Salon (Münzgasse 13) für einen gemeinsamen
+  Austausch bei einem Getränk. Organisiert vom AKJ (Arbeitskreis Kritische
+ r Jurist:innen) und Einzelpersonen. Weitere Informationen und Trailer zum 
+ Film: https://www.antifa-film.de.
+LOCATION:Kino Museum\, Tübingen
+END:VEVENT
 END:VCALENDAR
