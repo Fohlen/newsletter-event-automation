@@ -7579,4 +7579,23 @@ DESCRIPTION:„Null-Euro-Tickets“ sind online verfügbar unter https://t
  Film: https://www.antifa-film.de.
 LOCATION:Kino Museum\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein offenes Singtreffen für alle\, die gerne rebellische Lieder s
+ ingen.
+DTSTART:20240102T183000
+DTEND:20240102T203000Z
+DTSTAMP:20241122T204335Z
+UID:dce84c40-5dab-4fd4-88bf-1f3d215c8c53
+DESCRIPTION:Wir sind eine offene Gruppe\, die Spaß am Singen verschiedens
+ ter rebellischer Lieder aus unterschiedlichen Epochen und Sprachen (darunt
+ er deutsch\, jiddisch\, italienisch\, englisch\, türkisch\, kurdisch und 
+ mehr) hat. Es geht uns um die Freude am Singen und das Teilen rebellischer
+  Inhalte gegen Staat und Kapital\, Rassismus und Sexismus. Jede*r ist will
+ kommen\, Liedideen und Wünsche einzubringen. Wir verstehen uns nicht als 
+ klassischer Chor\, sondern als eine Gruppe\, die gemeinsam singt und dazu 
+ animiert. Unsere Treffen sollen auch dazu dienen\, rebellische Lieder und 
+ gesungene Parolen auf Demonstrationen zu bringen\, wie es in Südeuropa te
+ ilweise üblich ist.
+LOCATION:Wohnprojekt Schellingstraße 6 Hausbar/Büro (Haupthaus Keller)
+END:VEVENT
 END:VCALENDAR
