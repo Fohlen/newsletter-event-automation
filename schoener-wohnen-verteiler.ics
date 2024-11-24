@@ -7598,4 +7598,39 @@ DESCRIPTION:Wir sind eine offene Gruppe\, die Spaß am Singen verschiedens
  ilweise üblich ist.
 LOCATION:Wohnprojekt Schellingstraße 6 Hausbar/Büro (Haupthaus Keller)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beer Punch Event on 1st Advent Sunday
+DTSTART:20241201T140000Z
+DTEND:20241201T180000Z
+DTSTAMP:20241124T130126Z
+UID:282b810f-cd4f-44bd-9abe-2323d5a593ea
+DESCRIPTION:Join us for the Beer Punch event at Fichtehaus on the 1st Adve
+ nt Sunday. Enjoy homemade Christmas beer punch as a hot beverage\, includi
+ ng "Frau Holle" (elderflower beer punch) and "Goldmarie" (non-alcoholic el
+ derflower punch)\, as well as our own new beer varieties served as cold dr
+ inks: "Weihnachten in Familie" (chocolatey Christmas beer) and "geräucher
+ te Eiche" (Franconian smoked bock). The event is based on donations. Feel 
+ free to stop by during your Advent walk or stay a while to enjoy the festi
+ ve ambience.
+LOCATION:Gehweg vor dem Johann-Gottlieb-Fichtehaus\, Herrenberger Straße 
+ 40\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KüfA at Fruchtschranne
+DTSTART:20241125T190000
+DTEND:20241125T235959Z
+DTSTAMP:20241124T130126Z
+UID:6cb783bd-3aef-45e6-a020-4f305d14f5a1
+DESCRIPTION:Friends of the solidary and culinary joys! Are you hungry\, al
+ one and the TV is full of crap? Forget the monday-blues with a warm vegan 
+ meal on donation basis at the Fruchtschranne. On Monday\, 25.11.2024 at 19
+ :00 there's a nice KüfA. "KüfA" is a short term for "Kitchen for All". T
+ he idea is that we cook food and give you a recommendation for a donation.
+  People who have more can give more and people who don't have so much don'
+ t give so much or nothing at all. Tea and background music will be provide
+ d. Discrimination of any kind will only be tolerated if it is against bad 
+ food. Come in large numbers\, we look forward to seeing you! The adress: B
+ ei der Fruchtschranne 6\, 72070 Tübingen
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
