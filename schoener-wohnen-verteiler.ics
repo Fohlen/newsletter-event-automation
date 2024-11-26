@@ -7633,4 +7633,40 @@ DESCRIPTION:Friends of the solidary and culinary joys! Are you hungry\, al
  ei der Fruchtschranne 6\, 72070 Tübingen
 LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Quiz über die linke Geschichte Reutlingens
+DTSTART:20241129T200000
+DTEND:20241129T235959Z
+DTSTAMP:20241126T130553Z
+UID:bb988f51-4e30-496b-99ef-6aa158964b82
+DESCRIPTION:Input Tübingen goes Reutlingen! Nach den gut besuchten Quiz-V
+ eranstaltungen in Tübingen machen wir uns nach Reutlingen auf. Denn auch 
+ Reutlingen hat eine bewegte\, aber eher unbekannte linke Geschichte. Diese
+  wollen wir gemeinsam mit euch in Form eines Quiz erkunden. Es geht nicht 
+ darum Wissen abzufragen\, sondern gemeinsam dazu zu lernen und Spaß zu ha
+ ben. Dazu werden Teams gebildet\, die gegeneinander antreten. Die drei Gew
+ inner-Teams erhalten sogar Preise. Wer Lust auf einen gemütliches Quiz in
+  netter Gesellschaft hat\, der ist eingeladen am 29. November 2024 20 Uhr 
+ ins Haus der Jugend in Reutlingen zu kommen.\n\nDie Veranstaltung wird gef
+ ördert von der „Rosa-Luxemburg-Stiftung Baden-Württemberg“ und finde
+ t in Kooperation mit ROSA statt.
+LOCATION:Haus der Jugend\, Museumsstraße 7\, Reutlingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Lucius Teidelbaum
+DTSTART:20241128T190000
+DTEND:20241128T235959Z
+DTSTAMP:20241126T130553Z
+UID:208c2ea0-7d4c-4a26-ab77-0242df6a5680
+DESCRIPTION:Lucius Teidelbaum\, Autor des Buches „Vom Querdenken zur Que
+ rfront? Corona-Proteste von rechts"\, hält einen aufschlussreichen Vortra
+ g über rechte und verschwörungsideologische Einflussnahmen auf die Fried
+ ensbewegung. Der Vortrag richtet sich an alle\, die sich gegen solche Umde
+ utungen und Einflussnahmen wappnen\, sie schneller erkennen und fundiert z
+ urückweisen möchten. Mit praktischen Beispielen wird aufgezeigt\, mit we
+ lchen Mitteln gearbeitet wird\, welche Themen eine Rolle spielen und welch
+ e Personen besonders zu benennen sind.
+LOCATION:Schlatterhaus\, Personalzimmer (Erdgeschoss)\, Österbergstr. 2\,
+  Tübingen
+END:VEVENT
 END:VCALENDAR
