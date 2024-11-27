@@ -7669,4 +7669,16 @@ DESCRIPTION:Lucius Teidelbaum\, Autor des Buches „Vom Querdenken zur Que
 LOCATION:Schlatterhaus\, Personalzimmer (Erdgeschoss)\, Österbergstr. 2\,
   Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahamas Hausbar Event
+DTSTART:20241127T200000
+DTEND:20241127T220000Z
+DTSTAMP:20241127T130512Z
+UID:3384905f-f33d-41ea-bbc2-6667154ae39c
+DESCRIPTION:Hallo ihr Lieben\,\n\nwir von den Bahamas freuen uns\, euch mo
+ rgen\, am 27.11. \, zu unserer\nHausbar mit tropischen Sounds und Punsch m
+ it und ohne Schuss einzuladen.\nLos gehts um 20.00 Uhr.\n\nKommet zahlreic
+ h und so motiviert wie wir.\n  Bis dahin alles Liebe
+LOCATION:Bahamas
+END:VEVENT
 END:VCALENDAR
