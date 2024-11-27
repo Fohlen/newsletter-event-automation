@@ -7681,4 +7681,24 @@ DESCRIPTION:Hallo ihr Lieben\,\n\nwir von den Bahamas freuen uns\, euch mo
  h und so motiviert wie wir.\n  Bis dahin alles Liebe
 LOCATION:Bahamas
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen für neue Freiwillige bei der Menschenrechtswoche e.V.
+DTSTART:20240102T190000
+DTEND:20240102T235959Z
+DTSTAMP:20241127T204422Z
+UID:d497b7e9-bc3c-4cfe-a356-39439007eaf3
+DESCRIPTION:Liebe alle\,\n\nHast du Lust auf freiwilliges Engagement? Wir 
+ sind die Menschenrechtswoche e.V. und wir organisieren jedes Jahr eine Woc
+ he zu einem bestimmten Thema\, das besondere Aufmerksamkeit verdient und e
+ ine gewisse Aktualität hat. Wir suchen DRINGEND Menschen\, die Lust haben
+  sich freiwillig zu engagieren. Dies ist eine Einladung zu unserem Treffen
+  für neue Freiwillige\, um mehr über die Menschenrechtswoche zu erfahren
+  und wie du dich einbringen kannst.\n\nWir treffen uns die nächsten Woche
+ n immer DIENSTAGS UM 19 UHR IN DER UNIVERSITÄTSBIBLIOTHEK IM RAUM 422.\n\
+ nWenn du Lust hast teilzunehmen\, schaut einfach mal vorbei oder schreibt 
+ uns gerne. Vor allem\, da wir ein sehr neu aufgestelltes Team sind\, gibt 
+ es die Möglichkeit viel zu lernen und neue Ideen einzubringen!\n\nViele G
+ rüße und hoffentlich bis bald!\nDas Team der MRW
+LOCATION:Universitätsbibliothek\, Raum 422
+END:VEVENT
 END:VCALENDAR
