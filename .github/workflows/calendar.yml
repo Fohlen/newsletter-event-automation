@@ -12,6 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: 'true'
       - name: Install mpop
         run: sudo apt-get install -y mpop
       - name: Configure mpop
