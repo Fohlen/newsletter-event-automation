@@ -11,7 +11,7 @@ from icalendar import Calendar
 from numpy import rint
 from tqdm import tqdm
 
-from newsletter_automation.calendar import merge_calendars
+from newsletter_automation.calender_utils import merge_calendars
 from newsletter_automation.message import read_mbox
 from newsletter_automation.prompt import prompt_model, calendar_from_model
 
