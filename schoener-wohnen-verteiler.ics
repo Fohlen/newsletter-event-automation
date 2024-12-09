@@ -7701,4 +7701,32 @@ DESCRIPTION:Liebe alle\,\n\nHast du Lust auf freiwilliges Engagement? Wir
  rüße und hoffentlich bis bald!\nDas Team der MRW
 LOCATION:Universitätsbibliothek\, Raum 422
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antifaschistischer Jahresrückblick auf die rechten und reaktionä
+ ren Aktivitäten im Kreis Tübingen 2024.
+DTSTART:20241212T190000
+DTEND:20241212T235959Z
+DTSTAMP:20241209T130704Z
+UID:6c9d81d4-6f0d-4558-85ce-fd2e2564cf3d
+DESCRIPTION:Am Jahresende soll dieser Rückblick wichtige Gruppen und Einz
+ elpersonen im Landkreis betrachten\, darunter die AfD\, WerteUnion\, die N
+ eonazi-Kleinstpartei 'Der III. Weg'\, die Reichsbürger*innen und andere M
+ isch-Szenen. Außerdem wird die Veröffentlichung neuer Bücher des Kopp-V
+ erlags thematisiert. Geplant ist eine Einordnung und Bewertung der Akteur*
+ innen.
+LOCATION:Epplehaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music festival featuring multiple bands\, tattoos\, food\, an
+ d fun activities.
+DTSTART:20241214T170000
+DTEND:20241214T230000Z
+DTSTAMP:20241209T130704Z
+UID:b1b373e2-c7ba-4176-a49c-6e4326bddaf4
+DESCRIPTION:HARDCORE WINTERFEST is back after 4 years! Join us for an even
+ ing of hardcore music with various bands. Doors open at 5 PM and performan
+ ces start at 6 PM. Enjoy vegan food\, glühwein\, and support the local mu
+ sic scene!
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
