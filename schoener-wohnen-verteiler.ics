@@ -7729,4 +7729,17 @@ DESCRIPTION:HARDCORE WINTERFEST is back after 4 years! Join us for an even
  sic scene!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MØAA live - Post Punk\, Goth\, Shoegaze (Seattle) supporting Them
+ is from Stuttgart.
+DTSTART:20241213T200000
+DTEND:20241213T230000Z
+DTSTAMP:20241210T204421Z
+UID:88b2bdb0-66e4-4312-bbf8-21fd48b9eaff
+DESCRIPTION:MØAA (Seattle\, USA) brings her gothic shoegaze sound to Tüb
+ ingen with the release of her new album 'Jaywalker'. After successful tour
+ s and performances at major festivals\, she is joined by Themis\, who merg
+ es dark rock melodies with punk attitudes.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
