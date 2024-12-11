@@ -7742,4 +7742,29 @@ DESCRIPTION:MØAA (Seattle\, USA) brings her gothic shoegaze sound to Tüb
  es dark rock melodies with punk attitudes.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine entspannte Fahrradtour durch unsere Stadt
+DTSTART:20241220T180000
+DTEND:20241220T235959Z
+DTSTAMP:20241211T204419Z
+UID:69f7cabc-ef30-4e13-bd8f-0b6432d55fd4
+DESCRIPTION:Lasst uns ein Zeichen für eine nachhaltige und fahrradfreundl
+ iche Stadt setzen! Jede Teilnahme zählt und macht unseren Protest für be
+ ssere Radinfrastruktur sichtbarer! Bringt eure Freunde\, Familie und gute 
+ Laune mit!
+LOCATION:Vor der Uni-Bib\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Süße und herzhafte Crêpes\, Glühwein und andere Getränke.
+DTSTART:20241216T193000
+DTEND:20241216T235959Z
+DTSTAMP:20241211T204419Z
+UID:57dd9564-2758-45a0-b6e4-80df6593dec7
+DESCRIPTION:Besucht unsere winterliche Soli-Österbar im LH2 (Stauffenberg
+ str. 30) am Montag\, den 16. Dezember 2024\, ab 19.30 Uhr. Der gesamte Erl
+ ös geht an Collectivo Rotte Balcaniche\, die Menschen auf der Balkanfluch
+ troute unterstützt und Polizeigewalt dokumentiert. Es erwartet euch eine 
+ entspannte Atmosphäre mit leckeren Speisen und Getränken!
+LOCATION:LH2\, Stauffenbergstr. 30\, 2024
+END:VEVENT
 END:VCALENDAR
