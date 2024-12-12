@@ -7767,4 +7767,28 @@ DESCRIPTION:Besucht unsere winterliche Soli-Österbar im LH2 (Stauffenberg
  entspannte Atmosphäre mit leckeren Speisen und Getränken!
 LOCATION:LH2\, Stauffenbergstr. 30\, 2024
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zu unserer Bierpunschaktion vor dem Fichtehaus an den er
+ sten drei Adventssonntagen.
+DTSTART:20241215T140000
+DTEND:20241215T180000Z
+DTSTAMP:20241212T204414Z
+UID:148b6117-bf00-449a-b97e-0bb13945e194
+DESCRIPTION:Wir servieren weihnachtlichen Bierpunsch und neue Biersorten a
+ uf Spendenbasis. Am 15.12. gibt es eine Neuauflage des beliebten Himbierpu
+ nsches. Kommt vorbei!
+LOCATION:Johann-Gottlieb-Fichtehaus\, Herrenberger Straße 40\, 72070 Tüb
+ ingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Protestmarsch in Stuttgart.
+DTSTART:20241214T160000
+DTEND:20241214T235959Z
+DTSTAMP:20241212T204414Z
+UID:5a312906-d1c4-43c4-8533-651b295d111c
+DESCRIPTION:Gemeinsam für die Befreiung der Völker\, insbesondere Rojava
+  und Palästina\, am 14. Dezember in Stuttgart. Wir treten ein gegen imper
+ ialistische Kriege und für Frauenrechte.
+LOCATION:Lautenschlagerstraße\, Stuttgart
+END:VEVENT
 END:VCALENDAR
