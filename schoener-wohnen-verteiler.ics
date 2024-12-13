@@ -7804,4 +7804,41 @@ DESCRIPTION:MØAA\, coming off her gothic shoegaze debut album "Euphoric R
  de!
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A hardcore music festival featuring multiple bands\, tattoos\, foo
+ d\, and fun activities.
+DTSTART:20241214T170000
+DTEND:20241214T230000Z
+DTSTAMP:20241213T204404Z
+UID:b27551dc-c06e-43e1-98ca-ef96b30cae1f
+DESCRIPTION:HARDCORE WINTERFEST is back after 4 years! Join us on Saturday
+ \, Dec. 14th. Doors open at 5 pm\, and noise starts at 6 pm. Enjoy perform
+ ances from various bands\, vegan food\, and more!
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert by Uragano
+DTSTART:20241216T220000Z
+DTEND:20241216T233000Z
+DTSTAMP:20241213T204404Z
+UID:cd48a55e-c3cb-4d6a-90f5-8e2376d62db6
+DESCRIPTION:Uragano\, founded in Sanremo and now based in London\, will pe
+ rform on Monday\, December 16. They play Lo-fi Synthesizer Screamo with in
+ fluences from Post-Hardcore\, Sludge\, and Drone. Active since 2013\, with
+  4 EPs\, 3 splits\, and 1 remix album\, they are on tour in 2024 with thei
+ r first LP!
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorführung des Films im Genossenschaftskino Kamino.
+DTSTART:20240120T180000
+DTEND:20240120T235959Z
+DTSTAMP:20241213T204404Z
+UID:2d7dca14-2261-4605-bc4b-b6111aeb4c36
+DESCRIPTION:FCK Eigenheim zeigt den MHS-Film 'Das ist unser Haus!' im Geno
+ ssenschaftskino Kamino in Reutlingen. Wir feiern das 1. Projekt in Reutlin
+ gen\, sammeln mit anderen Projekten Direktkredite und wollen mit euch ins 
+ Gespräch kommen.
+LOCATION:Genossenschaftskino Kamino\, Reutlingen
+END:VEVENT
 END:VCALENDAR
