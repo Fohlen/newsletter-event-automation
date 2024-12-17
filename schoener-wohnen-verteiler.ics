@@ -7841,4 +7841,43 @@ DESCRIPTION:FCK Eigenheim zeigt den MHS-Film 'Das ist unser Haus!' im Geno
  Gespräch kommen.
 LOCATION:Genossenschaftskino Kamino\, Reutlingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein besonderes Back-Event zum Jahresende.
+DTSTART:20241229T100000
+DTEND:20241229T235959Z
+DTSTAMP:20241217T130610Z
+UID:54d72baa-e8f8-4e2c-9814-5c8c72169f07
+DESCRIPTION:Vielfältige Entwicklungen\, Krisen und Kriege sind so schnell
+  aufeinander gefolgt\, dass kaum Zeit zum Innehalten geblieben ist. Wir wo
+ llen uns den Gefühlen von Ohnmacht und Kälte gemeinsam stellen und von d
+ er Einsamkeit in die Verbundenheit kommen. Dazu laden wir euch zum Glücks
+ kekse und Plätzchen backen ein. Zusammen wollen wir das Jahr Revue passie
+ ren lassen\, aber auch mutig in die Zukunft blicken. Für Grundbackmittel 
+ (Mehl\, Milch\, Zucker\, Butter\, Eiersatz) sowie Tee und Kaffee ist gesor
+ gt.
+LOCATION:Hechinger Straße 46\, Keller des 4-Häuser-Projekts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahnwache zum 100. Feminizid in Deutschland
+DTSTART:20241218T170000
+DTEND:20241218T190000Z
+DTSTAMP:20241217T130610Z
+UID:4a952d34-603f-4dc2-8ad1-cf396a70e161
+DESCRIPTION:Wir laden ein zur Mahnwache am Holzmarkt in Tübingen\, um gem
+ einsam Trauer und Wut über die Feminizide in Deutschland zu zeigen. Bring
+ t Kerzen mit!
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Geschichtenerzählen zum Oberthema 'Überraschung'
+DTSTART:20241220T190000
+DTEND:20241220T220000Z
+DTSTAMP:20241217T130610Z
+UID:83f57586-505a-44dd-ba52-b18b79caef3f
+DESCRIPTION:Kommt vorbei zum letzten Event im Jahr! Offenes Geschichtenerz
+ ählen mit Anna. Wer selbst eine Geschichte erzählen möchte\, bitte vora
+ b Bescheid geben. Allen einen schönen Urlaub und einen guten Rutsch ins n
+ eue Jahr!
+LOCATION:FRANZ!werk
+END:VEVENT
 END:VCALENDAR
