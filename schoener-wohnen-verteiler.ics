@@ -7880,4 +7880,40 @@ DESCRIPTION:Kommt vorbei zum letzten Event im Jahr! Offenes Geschichtenerz
  eue Jahr!
 LOCATION:FRANZ!werk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protest gegen die Kürzungspläne der Stadtverwaltung Tübingen.
+DTSTART:20241219T163000
+DTEND:20241219T235959Z
+DTSTAMP:20241218T130344Z
+UID:fd0ec75a-5066-4c25-89d8-b20bfdd1d849
+DESCRIPTION:Offene Kundgebung organisiert vom DGB-Kreisverband und Ver.di 
+ Ortsverein Tübingen\, um gegen die massiven Kürzungen in wichtigen Zukun
+ ftsbereichen zu protestieren.
+LOCATION:vor dem Rathaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur letzten Solihausbar des Jahres.
+DTSTART:20241218T193000
+DTEND:20241218T235959Z
+DTSTAMP:20241218T130344Z
+UID:cdd50f02-5c43-4fba-a71f-4d60ddd47923
+DESCRIPTION:Am Mittwoch\, 18.12.2024\, lädt die WG K13 zur letzten Soliha
+ usbar des Jahres in der Schellingstraße 6 ein. Kommt ab 19.30 Uhr vorbei 
+ für ein kühles oder wärmendes Getränk\, etwas zu Essen und gute Gesell
+ schaft. Die Einnahmen gehen an die Organisation 'Mission possible' in Lamb
+ aréné\, Gabun\, die Familien in finanzieller Not unterstützt. Es werden
+  auch Sachspenden gesucht.
+LOCATION:Schellingstraße 6\, 10115 Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jährliches Sonnwendfeuer auf der Salzwiese
+DTSTART:20241221T160000
+DTEND:20241221T235959Z
+DTSTAMP:20241218T130344Z
+UID:801c55c8-061f-42be-8919-76dc01238eea
+DESCRIPTION:Am Samstag\, den 21. Dezember\, findet unser Sonnwendfeuer obe
+ rhalb der Wagenburg statt. Gezündet wird nach Sonnenuntergang. Es gibt wa
+ rmes Essen\, Glühwein\, kaltes Bier\, Punsch und alkoholfreie Getränke.
+LOCATION:Salzwiese oberhalb der Wagenburg
+END:VEVENT
 END:VCALENDAR
