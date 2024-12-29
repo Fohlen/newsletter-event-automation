@@ -7916,4 +7916,15 @@ DESCRIPTION:Am Samstag\, den 21. Dezember\, findet unser Sonnwendfeuer obe
  rmes Essen\, Glühwein\, kaltes Bier\, Punsch und alkoholfreie Getränke.
 LOCATION:Salzwiese oberhalb der Wagenburg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan meal on donation basis.
+DTSTART:20241230T190000
+DTEND:20241230T235959Z
+DTSTAMP:20241229T125703Z
+UID:9b433a92-d1ff-468f-92f6-80fab495fc3c
+DESCRIPTION:Join us for a warm vegan meal and enjoy a cozy atmosphere with
+  tea and background music. Bring friends and forget about the Monday blues
+ !
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
