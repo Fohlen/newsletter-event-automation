@@ -7927,4 +7927,45 @@ DESCRIPTION:Join us for a warm vegan meal and enjoy a cozy atmosphere with
  !
 LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradtour für sichere Straßen
+DTSTART:20250117T180000
+DTEND:20250117T235959Z
+DTSTAMP:20250102T204126Z
+UID:8425552f-ea75-4763-b7cc-da657b290568
+DESCRIPTION:Nehmt am 17.1. an der Critical Mass in Tübingen teil! Kommt m
+ it uns zusammen in die Pedale\, zeigt ein starkes Zeichen für die Verkehr
+ swende und genießt im Anschluss Glühwein oder Punsch an unserem Anhänge
+ r. Wir setzen uns für eine fahrradfreundliche Stadt ein!
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bernd Riexinger referiert über die Broschüre „Was ist Sozialis
+ mus heute? Warum wir den Kapitalismus überwinden müssen.“
+DTSTART:20250108T180000
+DTEND:20250108T235959Z
+DTSTAMP:20250102T204126Z
+UID:c247292a-7047-4f1a-b1ab-8d7c15a38fc9
+DESCRIPTION:Bernd Riexinger\, Mitglied des Vorstands der Rosa-Luxemburg-St
+ iftung\, hat gemeinsam mit Raul Zelik die Broschüre „Was ist Sozialismu
+ s heute? Warum wir den Kapitalismus überwinden müssen.“ verfasst. Ansc
+ hließend backt der SDS für alle Pizza. Die Broschüre kann heruntergelad
+ en werden unter: https://www.rosalux.de/publikation/id/52485/was-ist-sozia
+ lismus-heute
+LOCATION:Gemeindehaus Lamm\, Am Markt 7\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Treffen zu Themen wie die Situation in Syrien\, Repression
+  und Sozialproteste.
+DTSTART:20250108T190000
+DTEND:20250108T235959Z
+DTSTAMP:20250102T204126Z
+UID:a85bff81-58c3-422b-a328-c1547ab89d94
+DESCRIPTION:Wir sind ein Zusammenschluss verschiedener Personen und Positi
+ onen\, der einen offenen Rahmen bietet\, um Kräfte zu bündeln und in Akt
+ ion sowie Austausch zu treten. Vorerfahrungen sind nicht notwendig. Eigene
+ n Themen können mitgebracht werden. Eine halbe Stunde früher kommen\, um
+  sich kennenzulernen\, ist möglich.
+LOCATION:Infoladen Schelling\, Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
