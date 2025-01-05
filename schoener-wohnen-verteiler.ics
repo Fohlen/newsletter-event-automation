@@ -7968,4 +7968,28 @@ DESCRIPTION:Wir sind ein Zusammenschluss verschiedener Personen und Positi
   sich kennenzulernen\, ist möglich.
 LOCATION:Infoladen Schelling\, Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nächstes Dinnerhopping in Tübingen
+DTSTART:20250215T183000
+DTEND:20250215T235500Z
+DTSTAMP:20250105T125754Z
+UID:3cbec3a5-1962-4e94-990e-2dc945fcd38f
+DESCRIPTION:Das Dinnerhopping findet am Samstag\, dem 15. Februar\, ab 18:
+ 30 Uhr statt. Anmelden können sich alle Küchen\, die in ca. 15 Fahrrad-M
+ inuten vom Tübinger Zentrum erreichbar sind. Das Cometogether im Anschlus
+ s findet im Foodsharing Café Mehrrettich in der Neckarhalde 70 statt.
+LOCATION:Foodsharing Café Mehrrettich\, Neckarhalde 70\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Party to support Asylzentrum Tübingen E.V.
+DTSTART:20250110T220000
+DTEND:20250110T235959Z
+DTSTAMP:20250105T125754Z
+UID:b0c453a6-365a-48ee-a941-3d34d90fb744
+DESCRIPTION:Join us for a party organized by co.llectiv to support Asylzen
+ trum Tübingen E.V. 100% of the entry fee and PayAsYouWant drinks will be 
+ donated to the charity. Check our Instagram 'co.llectiv' for more info and
+  reach out to us if you want to help out!
+LOCATION:Geissweg 17\, Tübingen
+END:VEVENT
 END:VCALENDAR
