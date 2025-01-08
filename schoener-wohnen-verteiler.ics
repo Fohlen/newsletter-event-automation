@@ -7992,4 +7992,16 @@ DESCRIPTION:Join us for a party organized by co.llectiv to support Asylzen
   reach out to us if you want to help out!
 LOCATION:Geissweg 17\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening of the new season of the Schelling house bars with drinks\
+ , music\, and karaoke.
+DTSTART:20250108T190000
+DTEND:20250108T235959Z
+DTSTAMP:20250108T130227Z
+UID:cbc26528-d00b-4194-92e9-fcb2a88bf533
+DESCRIPTION:Join us for the opening of the new season of the Schelling hou
+ se bars! Enjoy drinks\, music\, table football\, and karaoke starting at 7
+  pm. Bring your friends and have fun!
+LOCATION:Schelling Haus
+END:VEVENT
 END:VCALENDAR
