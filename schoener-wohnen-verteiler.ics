@@ -8004,4 +8004,18 @@ DESCRIPTION:Join us for the opening of the new season of the Schelling hou
   pm. Bring your friends and have fun!
 LOCATION:Schelling Haus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premiere des Sachbuchs über das Epplehaus in Tübingen.
+DTSTART:20250115T180000
+DTEND:20250115T235959Z
+DTSTAMP:20250111T204130Z
+UID:1796a1af-6faf-4dcf-ad08-c6cc2fe961c1
+DESCRIPTION:Um 18:00 Uhr gibt es eine Lesung mit Fokus auf die Hausbesetzu
+ ng\, die Jugendzentrumsbewegung und die frühere Hausgeschichte. Neben den
+  Herausgebern sind auch Zeitzeugen zum Gespräch geladen. Zudem wird Marc 
+ Amann über die Jugendzentrumsbewegung und Hausbesetzerszene sprechen. Das
+  Buch liefert eine tiefgehende und unterhaltsame historische Aufarbeitung 
+ über das Epplehaus.
+LOCATION:Stadtmuseum\, Kornhausstraße 10\, Tübingen
+END:VEVENT
 END:VCALENDAR
