@@ -8018,4 +8018,31 @@ DESCRIPTION:Um 18:00 Uhr gibt es eine Lesung mit Fokus auf die Hausbesetzu
  über das Epplehaus.
 LOCATION:Stadtmuseum\, Kornhausstraße 10\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar mit Spielen und Aperol
+DTSTART:20250115T200000
+DTEND:20250115T235959Z
+DTSTAMP:20250112T204029Z
+UID:9cc580fa-e912-4256-8e79-ab36859acc60
+DESCRIPTION:Kommenden Mittwoch\, am 15.01.\, gibts eine galaktisch-spieler
+ ische Hausbar in der Schelling. Bringt gern eure schnellsten Würfel\, sch
+ önsten Karten und buntesten Brettspiele! Ab 20:00 Uhr gibts heißen Apero
+ l und alle alten Bekannten aus dem Kühlschrank. Es wird einige Spiele und
+  Puzzles geben!
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Werbeblock zur Vorstellung des Infoladen Tübingen für neue S
+ tudierende und Interessierte.
+DTSTART:20250301T000000
+DTEND:20250301T235959Z
+DTSTAMP:20250112T204029Z
+UID:14b8d78a-64d7-4ede-963d-3fea057bfcaa
+DESCRIPTION:Der Infoladen Tübingen bietet eine umfangreiche Bibliothek\, 
+ ein Archiv zur politischen Geschichte\, einen Kinderinfoladen\, regelmäß
+ ige Veranstaltungen und Unterstützung für politischen Aktivismus. Besuch
+ en Sie uns am Dienstag von 17:30 Uhr bis 19:30 Uhr oder zu unseren Veranst
+ altungen am ersten Mittwoch des Monats!
+LOCATION:Infoladen Tübingen\, Schellingstraße
+END:VEVENT
 END:VCALENDAR
