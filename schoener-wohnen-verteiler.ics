@@ -8085,4 +8085,29 @@ DESCRIPTION:Caren Lay\, die Sprecherin für Mieten-\, Bau- und Wohnungspol
  enspekulation und dringend benötigte Auswege aus der Wohnraumkrise.
 LOCATION:Gemeindehaus Lamm\, Am Markt 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes antikapitalistisches Klimatreffen des Tübinger Offenes An
+ tikapitalistisches Klimatreffen (TO AKT)
+DTSTART:20250123T190000
+DTEND:20250123T235959Z
+DTSTAMP:20250114T204119Z
+UID:e5ff2980-fc53-4b71-bec9-7480efbb3895
+DESCRIPTION:Diskussion über die aktuellen Tarifverhandlungen der Tübinge
+ r Busfahrer*innen und die von der Stadt geplanten Kürzungen. Bring auch g
+ ern eigene Themen mit!
+LOCATION:Linken Zentrum Trude Lutz\, Nauklerstr. 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen zum Thema Feminismus und Diskussion ausgewähl
+ ter Texte.
+DTSTART:20250115T190000
+DTEND:20250115T210000Z
+DTSTAMP:20250114T204119Z
+UID:23fa9aed-b530-4c6c-9a8b-a01685a7acf0
+DESCRIPTION:Wir treffen uns\, um über Feminismus und die Bedeutung von 'F
+ eminist:in' in der heutigen Zeit zu diskutieren. Jede:r Teilnehmer:in brin
+ gt einen Text als Diskussionsimpuls ein. Unser Treffen ist ein sicherer Ra
+ um für den Austausch von Ideen und Erfahrungen.
+LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
+END:VEVENT
 END:VCALENDAR
