@@ -8045,4 +8045,44 @@ DESCRIPTION:Der Infoladen Tübingen bietet eine umfangreiche Bibliothek\,
  altungen am ersten Mittwoch des Monats!
 LOCATION:Infoladen Tübingen\, Schellingstraße
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion über Wohnprojekte und die Wohnungs
+ krise.
+DTSTART:20250120T180000
+DTEND:20250120T235959Z
+DTSTAMP:20250114T125916Z
+UID:2eb82a55-e413-4d58-b529-8d0a3159d533
+DESCRIPTION:Ein Film über das Miethäusersyndikat (MHS) zeigt die Vielfal
+ t der Wohnprojekte. Anschließend gibt es die Möglichkeit\, mit dem Fancl
+ ub über das geplante 1. Wohnprojekt in Reutlingen ins Gespräch zu kommen
+  und die Rolle von Wohnprojekten in der aktuellen Wohnungskrise zu diskuti
+ eren.
+LOCATION:Genossenschaftskino Kamino
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us to repair your favorite clothing items with our sewing mac
+ hines and learn some new skills!
+DTSTART:20250116T120000
+DTEND:20250116T160000Z
+DTSTAMP:20250114T125916Z
+UID:181c91d3-d8ff-4e6b-ada8-4f961cdcf703
+DESCRIPTION:Your favorite socks\, jacket or pants are starting to show som
+ e wear and tear? Come to our Repair Café on Thursday\, the 16th from 12-4
+ pm. At 1pm we’ll give an introduction to darning socks and at 2pm an ove
+ rview of sewing machines. There will be sewing machines\, an iron\, and so
+ me materials provided. The café will provide hot drinks and vegan cake - 
+ donation based\, as always.
+LOCATION:Siggi Soli Café\, Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung mit Caren Lay (MdB) und Gunnar Laufer-Stark
+DTSTART:20250121T190000
+DTEND:20250121T235959Z
+DTSTAMP:20250114T125916Z
+UID:deeea230-98f0-4f09-983f-e418b7480d31
+DESCRIPTION:Caren Lay\, die Sprecherin für Mieten-\, Bau- und Wohnungspol
+ itik der Linken im Bundestag\, spricht über den Mietenwahnsinn\, Immobili
+ enspekulation und dringend benötigte Auswege aus der Wohnraumkrise.
+LOCATION:Gemeindehaus Lamm\, Am Markt 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
