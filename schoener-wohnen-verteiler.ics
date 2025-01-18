@@ -8110,4 +8110,19 @@ DESCRIPTION:Wir treffen uns\, um über Feminismus und die Bedeutung von 'F
  um für den Austausch von Ideen und Erfahrungen.
 LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemütlicher Abend mit Spielen und leckeren Getränken für einen 
+ guten Zweck.
+DTSTART:20250120T193000
+DTEND:20250120T235959Z
+DTSTAMP:20250118T204037Z
+UID:c3385af1-6f78-4596-8fef-d2f33bdb3482
+DESCRIPTION:Kommt vorbei zu entspannter Atmosphäre und bringt gerne Brett
+ - und Kartenspiele mit. An der Bar gibt es wie immer leckere Getränke mit
+  und ohne Alkohol. Sämtlicher Erlös geht an "Collectivo Rotte Balcaniche
+ "\, eine Gruppe die Menschen auf der Balkanfluchtroute direkt mit Lebenswi
+ chtigem unterstützt und Polizeigewalt an den europäischen Grenzen dokume
+ ntiert. Mehr Infos auf Instagram: @collectivo_rotte_balcaniche
+LOCATION:LH2\, Stauffenbergstr. 30
+END:VEVENT
 END:VCALENDAR
