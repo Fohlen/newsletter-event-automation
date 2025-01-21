@@ -8125,4 +8125,15 @@ DESCRIPTION:Kommt vorbei zu entspannter Atmosphäre und bringt gerne Brett
  ntiert. Mehr Infos auf Instagram: @collectivo_rotte_balcaniche
 LOCATION:LH2\, Stauffenbergstr. 30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food\, connection\, and solidarity!
+DTSTART:20250121T180000
+DTEND:20250121T235959Z
+DTSTAMP:20250121T130003Z
+UID:f2cabab6-6c85-4a88-9ded-10b0ea26d6a8
+DESCRIPTION:Every Tuesday\, we come together at Siggi11 to enjoy a meal an
+ d build community. This week\, we will gather on January 21 at 18:00. Come
+  hungry and bring your friends!
+LOCATION:Siggi11\, Tübingen
+END:VEVENT
 END:VCALENDAR
