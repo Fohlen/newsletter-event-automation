@@ -8136,4 +8136,33 @@ DESCRIPTION:Every Tuesday\, we come together at Siggi11 to enjoy a meal an
   hungry and bring your friends!
 LOCATION:Siggi11\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung und Diskussion mit Tadzio Müller über sein Buch 'Zwischen
+  friedlicher Sabotage und Kollaps'.
+DTSTART:20250129T200000
+DTEND:20250129T235959Z
+DTSTAMP:20250122T204026Z
+UID:b86921eb-517b-4254-8d12-f8e80fbadf69
+DESCRIPTION:Tadzio Müller\, der die Klimagerechtigkeitsbewegung in Deutsc
+ hland mit aufbaute\, wird über die Verdrängungsgesellschaft und die Notw
+ endigkeit solidarischer Formen von Prepping sprechen. Es gibt eine Lesung\
+ , Erzählungen und eine Diskussion.
+LOCATION:fünftes Haus (Neubau)\, 4-Häuser-Projekt\, Hechinger Str. 35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung\, die sich mit dem Konzept der transformativen 
+ Gerechtigkeit und neuen Ansätzen zu Sicherheit und Verantwortung beschäf
+ tigt.
+DTSTART:20250131T180000
+DTEND:20250131T235959Z
+DTSTAMP:20250122T204026Z
+UID:395a3400-6a09-4e47-8558-18ee07f29325
+DESCRIPTION:Wir möchten in unserem Vortrag die Fragen der Gerechtigkeit u
+ nd der Sicherheit hinterfragen und neue Perspektiven auf Gewalt und Gerech
+ tigkeit eröffnen. Die Verantwortung von Gewalt wird hierbei nicht nur auf
+  Einzelpersonen gelegt\, sondern das Kollektiv wird einbezogen. Ein intere
+ ssantes Event für alle\, insbesondere für diejenigen in Wohnprojekten od
+ er Wohngemeinschaften.
+LOCATION:Universität Tübingen\, Alte Aula\, Münzgasse 30\, Tübingen
+END:VEVENT
 END:VCALENDAR
