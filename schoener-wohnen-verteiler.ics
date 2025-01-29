@@ -8165,4 +8165,40 @@ DESCRIPTION:Wir möchten in unserem Vortrag die Fragen der Gerechtigkeit u
  er Wohngemeinschaften.
 LOCATION:Universität Tübingen\, Alte Aula\, Münzgasse 30\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorstellung des Epple-Sammelbands 'Wir hol'n jetzt unser Haus! Üb
+ er 50 Jahre Tübinger Jugendzentrum Epplehaus'
+DTSTART:20250130T180000
+DTEND:20250130T235959Z
+DTSTAMP:20250129T204106Z
+UID:6f3c58f4-a9dc-4729-b432-f1b45720f90e
+DESCRIPTION:Am 30. Januar 2025 veranstaltet „Input Tübingen“ eine Buc
+ hpräsentation des Epple-Sammelbands\, herausgegeben von Elias Raatz und L
+ ucius Teidelbaum. Mehrere Autor*innen werden ihre Kapitel vorstellen\, dar
+ unter Marc Amann\, Lucius Teidelbaum\, eine Epple-Ehrenamtliche und Anke G
+ asser. Moderation durch Elias Raatz. Anschließend Raum für Anmerkungen u
+ nd Fragen. Das Buch wird vor Ort vergünstigt erhältlich sein.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spendensammlung für eine Reise nach Melbourne
+DTSTART:20250101T000000
+DTEND:20250101T235959Z
+DTSTAMP:20250129T204106Z
+UID:84b244af-6e46-471f-bc37-9572f9a32d38
+DESCRIPTION:Wir sammeln Geldspenden\, um James Hope\, einem in die Jahre g
+ ekommenen Australier\, eine Reise nach Melbourne und in die Landschaften V
+ ictorias zu ermöglichen. Wir freuen uns über jeden Euro!
+LOCATION:Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aufruf zur DGB-Kundgebung am 30.01.
+DTSTART:20250130T163000
+DTEND:20250130T235959Z
+DTSTAMP:20250129T204106Z
+UID:d15a0147-3974-4ee0-b7d4-4011afea7591
+DESCRIPTION:Kundgebung gegen Kürzungen in Bildung\, Sozialem und Kultur. 
+ Solidarität mit allen Streikenden und betroffenen Beschäftigten!
+LOCATION:Marktplatz
+END:VEVENT
 END:VCALENDAR
