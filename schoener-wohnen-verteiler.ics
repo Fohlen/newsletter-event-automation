@@ -8201,4 +8201,36 @@ DESCRIPTION:Kundgebung gegen Kürzungen in Bildung\, Sozialem und Kultur.
  Solidarität mit allen Streikenden und betroffenen Beschäftigten!
 LOCATION:Marktplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Zeichen gegen rechte Hetze und für Vielfalt und Liebe.
+DTSTART:20251006T180000
+DTEND:20251006T200000Z
+DTSTAMP:20250130T204105Z
+UID:683a8166-5350-49da-b3f6-bf5fc2548dee
+DESCRIPTION:Gemeinsam mit Taschenlampen\, Lichterketten und Laternen versa
+ mmeln wir uns\, um ein Zeichen gegen rechten Hass und Hetze zu setzen. Es 
+ ist unsere Verantwortung\, die Brandmauer aufrecht zu erhalten!
+LOCATION:Stadtplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teilnahme an Klimastreik in Tübingen
+DTSTART:20250214T170000
+DTEND:20250214T235959Z
+DTSTAMP:20250130T204105Z
+UID:200aa8bf-c6c1-4781-bce8-5d1e60980432
+DESCRIPTION:Wir laden euch herzlich zu unserem Klimastreik am 14.02.2025 e
+ in\, um gemeinsam für unsere Zukunft einzustehen! Wir treffen uns um 17 U
+ hr in der Uhlandstraße.
+LOCATION:Uhlandstraße\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration für Vielfalt und gegen rechte Politik
+DTSTART:20251006T180000
+DTEND:20251006T200000Z
+DTSTAMP:20250130T204105Z
+UID:a7b4610c-f1d6-481a-b3a1-c79351cd398e
+DESCRIPTION:Wir setzen ein klares Zeichen gegen rechten Hass und Hetze. Br
+ ingt Taschenlampen\, Lichterketten und Laternen mit!
+LOCATION:(Ort wird noch bekanntgegeben)
+END:VEVENT
 END:VCALENDAR
