@@ -8233,4 +8233,30 @@ DESCRIPTION:Wir setzen ein klares Zeichen gegen rechten Hass und Hetze. Br
  ingt Taschenlampen\, Lichterketten und Laternen mit!
 LOCATION:(Ort wird noch bekanntgegeben)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung gegen die Bezahlkarte für Asylsuchende in Tübingen.
+DTSTART:20250205T143000
+DTEND:20250205T235959Z
+DTSTAMP:20250131T125858Z
+UID:815dbbcf-e1ed-4810-affb-3e9fd2d961a2
+DESCRIPTION:Mit der neu geschaffenen Möglichkeit einer Bezahlkarte im Asy
+ lbewerberleistungsgesetz hat eine migrations- und integrationsfeindliche I
+ dee Eingang in den politischen Mainstream der Bundesrepublik gefunden. Die
+ ser Aufruf richtet sich gegen die Einführung der Bezahlkarte\, die als di
+ skriminierend betrachtet wird. Kommt zur Kundgebung und zeigt\, dass auch 
+ ihr die diskriminierende Bezahlkarte ablehnt!
+LOCATION:Landratsamt\, Wilhelm-Keilstraße 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protestveranstaltung gegen die Politik von Christian Lindner
+DTSTART:20250203T090000
+DTEND:20250203T235959Z
+DTSTAMP:20250131T125858Z
+UID:2627c8a6-59f6-4570-a575-b5371d7f1ad9
+DESCRIPTION:Wir stehen gegen die Politik von Christian Lindner ein\, die s
+ oziale Ungleichheit fördert und ökologische Notwendigkeiten ignoriert. D
+ er Protest findet an der Bushaltestelle Nonnenhaus beim Kino-Museum statt.
+  Kommt vorbei!
+LOCATION:Bushaltestelle Nonnenhaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
