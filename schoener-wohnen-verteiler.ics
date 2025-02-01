@@ -8259,4 +8259,39 @@ DESCRIPTION:Wir stehen gegen die Politik von Christian Lindner ein\, die s
   Kommt vorbei!
 LOCATION:Bushaltestelle Nonnenhaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Straßenmusik-Kollektiv Brass Busters Konzert
+DTSTART:20250201T200000
+DTEND:20250201T235959Z
+DTSTAMP:20250201T204207Z
+UID:05d55cf1-e3ce-46c5-b525-2cdd73d77691
+DESCRIPTION:Das Straßenmusik-Kollektiv Brass Busters spielt ein großes K
+ onzert mit lauter\, bunter und heißer Musik. Eintritt frei\, Spenden will
+ kommen!
+LOCATION:Fichtehaus\, Herrenbergerstraße 40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Eröffnungsfeier mit Angeboten und Musik.
+DTSTART:20250201T080000
+DTEND:20250201T220000Z
+DTSTAMP:20250201T204207Z
+UID:5b8447d3-32a6-4d64-9622-ee1d6e2cb4f7
+DESCRIPTION:Herzliche Einladung: Das Café Hafenblick öffnet um 8 Uhr. Ab
+  11 Uhr gibt's zu jeder vollen Stunde bis 17 Uhr angeleitete Massagewohlta
+ ten für Nacken und Schulter in der Massagepraxis Move your Soul. Ab 16 Uh
+ r Gitarrenklänge und Seemannslieder im Café.
+LOCATION:Hechinger Str. 35\, Neues fünftes Haus des 4-Häuser-Projekts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwei Bands live in der Lu15
+DTSTART:20250207T210000
+DTEND:20250207T235959Z
+DTSTAMP:20250201T204207Z
+UID:5e52d1dc-b131-4114-b5d1-748014fcbdf8
+DESCRIPTION:Kommt zahlreich zu einem unvergesslichen Abend mit zwei großa
+ rtigen Bands. Es spielen: Godzilla was too drunk to destroy Tokyo (Heavy P
+ sych Monster Fuzz) aus Genoa\, Italien und Eure Wunden (DIY Punk und New W
+ ave) aus Balingen.
+LOCATION:Ludwigstraße 15 (Lu15)
+END:VEVENT
 END:VCALENDAR
