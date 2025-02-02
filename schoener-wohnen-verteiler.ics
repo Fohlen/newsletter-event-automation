@@ -8294,4 +8294,28 @@ DESCRIPTION:Kommt zahlreich zu einem unvergesslichen Abend mit zwei großa
  ave) aus Balingen.
 LOCATION:Ludwigstraße 15 (Lu15)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teilnahme an Auf Haxe Event am 12. Februar
+DTSTART:20250212T183000
+DTEND:20250212T235500Z
+DTSTAMP:20250202T125451Z
+UID:0864647b-a2d4-4726-971f-5eaf2ca3e245
+DESCRIPTION:Juhu\, schon viele Teams haben sich angemeldet\, aber es ist n
+ och Platz für mehr! Teilnehmen können alle Küchen\, die in ca. 15 Fahrr
+ ad-Minuten vom Tübinger Zentrum aus erreichbar sind. Die Anmeldefrist ist
+  Mittwoch\, der 12.2. um 23:55 Uhr. Das Event beginnt um 18:30 Uhr im Food
+ sharing Café Mehrrettich.
+LOCATION:Foodsharing Café Mehrrettich\, Neckarhalde 70\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live acoustic punk rock performance by Wollstiefel
+DTSTART:20250215T210000
+DTEND:20250215T230000Z
+DTSTAMP:20250202T125451Z
+UID:aa56c788-84f7-4973-a1ba-17ac11269f89
+DESCRIPTION:Join us for a loud and fluffy evening with Wollstiefel as they
+  perform their fast songs with guitar and cajon\, covering topics from cap
+ italism to climate change. Don't miss it!
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
