@@ -8318,4 +8318,44 @@ DESCRIPTION:Join us for a loud and fluffy evening with Wollstiefel as they
  italism to climate change. Don't miss it!
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt zum Trennen von alten Lieblingsstücken und Stöbern nac
+ h neuen Schätzen.
+DTSTART:20250209T100000
+DTEND:20250209T180000Z
+DTSTAMP:20250204T130358Z
+UID:95501556-6e39-474b-adb1-dde76399d402
+DESCRIPTION:Es ist wieder Zeit\, sich von alten Lieblingsstücken zu trenn
+ en: Weihnachtsgeschenke von Oma\, Erinnerungen an verflossene Lieben und m
+ ehr. Kommt zu unserem Flohmarkt am 9. Februar\, bringt eure Liebsten mit u
+ nd stöbert den ganzen Tag nach neuen (alten) Schätzen! Für Kuchen und l
+ iebevolle Hintergrundmusik ist gesorgt. Möchtet ihr einen Stand gestalten
+ ? Meldet euch unter dalichtiz@proton.com. Wir freuen uns auf euch!
+LOCATION:Lichti
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion über die Antifa-Bewegung in Deutsc
+ hland während der 1990er und 2000er Jahre.
+DTSTART:20250205T190000
+DTEND:20250205T210000Z
+DTSTAMP:20250204T130358Z
+UID:34dece59-670f-4040-a715-fd2c821eabad
+DESCRIPTION:In ihrem Dokumentarfilm beleuchten Marco Heinig und Steffen Ma
+ urer die Entstehung und Entwicklung der Antifa-Bewegung in Deutschland. F
+ ünf Aktivist*innen sprechen über ihre Erlebnisse\, verbunden mit Archivm
+ aterial zu einem intensiven filmischen Porträt.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen zum Lesen und Diskutieren über Feminismus.
+DTSTART:20250205T190000
+DTEND:20250205T210000Z
+DTSTAMP:20250204T130358Z
+UID:4e214645-8523-4c2a-8464-94af13f7ebac
+DESCRIPTION:Wir möchten gemeinsam über das\, was uns bewegt\, ins Gespr
+ äch kommen. Grundlage jedes Treffens ist ein vorausgewählter Text\, den 
+ die Teilnehmer:innen einbringen können. Wir verstehen unser Zusammenkomme
+ n als einen mutigen Raum\, an dem wir voneinander und miteinander lernen.
+LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
+END:VEVENT
 END:VCALENDAR
