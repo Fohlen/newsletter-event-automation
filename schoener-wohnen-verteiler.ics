@@ -8358,4 +8358,28 @@ DESCRIPTION:Wir möchten gemeinsam über das\, was uns bewegt\, ins Gespr
  n als einen mutigen Raum\, an dem wir voneinander und miteinander lernen.
 LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur außergewöhnlichen Messe mit Feiern\, Teilen inspir
+ ierender Texte und Gemeinschaft.
+DTSTART:20250209T200000
+DTEND:20250209T235959Z
+DTSTAMP:20250205T130046Z
+UID:5b633556-1c4c-4a88-8acf-851162d699f0
+DESCRIPTION:Liebe Schwestern und Geschwister\, wir laden euch herzlich zu 
+ unserer außergewöhnlichen Messe ein. Kommt vorbei und lasst uns zusammen
+  feiern! Es wird wild\, es wird lustig\, es wird gerockt!
+LOCATION:Club Voltaire\, Haaggasse 26b\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestellzeitraum für hochwertige und günstige Olivenprodukte und 
+ Feigen
+DTSTART:20250127T000000
+DTEND:20250127T235959Z
+DTSTAMP:20250205T130046Z
+UID:0e4536ca-f55d-4fff-9a66-188cd0ef39ea
+DESCRIPTION:Die Kampagne Soli O li kommt nach Tübingen! Der Bestellzeitra
+ um ist vom 27. Januar bis 28. Februar 2025. Abholung am 11./12. April 2025
+ .
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
