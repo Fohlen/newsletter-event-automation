@@ -8382,4 +8382,18 @@ DESCRIPTION:Die Kampagne Soli O li kommt nach Tübingen! Der Bestellzeitra
  .
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag von Dr. Martyna Linartas über die ungleiche Vermögen
+ sverteilung in Deutschland.
+DTSTART:20250210T180000
+DTEND:20250210T200000Z
+DTSTAMP:20250206T204119Z
+UID:d24d7b6c-a288-4b89-a234-e226a8b24e3a
+DESCRIPTION:Dr. Martyna Linartas\, Co-Gründerin und Projektleiterin von u
+ ngleichheit.info\, spricht über die alarmierenden Ungleichheiten in Deuts
+ chland und zeigt Perspektiven zur Verringerung derselben auf. Inhalte des 
+ Vortrags: ungleiche Vermögensverteilung\, effektive Besteuerung von Verm
+ ögen\, Grunderbe.
+LOCATION:Altes Rathaus\, Rathausstraße 6\, Reutlingen
+END:VEVENT
 END:VCALENDAR
