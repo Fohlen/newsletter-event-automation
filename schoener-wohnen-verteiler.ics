@@ -8396,4 +8396,24 @@ DESCRIPTION:Dr. Martyna Linartas\, Co-Gründerin und Projektleiterin von u
  ögen\, Grunderbe.
 LOCATION:Altes Rathaus\, Rathausstraße 6\, Reutlingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A fabulous cloth swap event!
+DTSTART:20250215T170000
+DTEND:20250215T235959Z
+DTSTAMP:20250207T125940Z
+UID:37defb1d-7676-4def-95e9-7855870c22e9
+DESCRIPTION:Tired of wearing the same old sweater every day? Do you want a
+  bit of change? Then come to Pfleghof to our fabulous cloth swap!!! On the
+  15th of February at 5pm\, Pfleghof welcomes you\, your clothes\, and plan
+ ts if you have. There’ll be snacks\, drinks and some sofas to chill and 
+ relax between finding new old favourite pieces. Everybody come over :) See
+  you then\, the Pflegis. German version: Keinen Bock mehr jeden Tag den gl
+ eichen alten Pullover zu tragen? Lust auf etwas Abwechslung? Dann kommt zu
+ m Pfleghof zu unserer fabulösen Kleidertauschparty!!! Am 15. Februar um 1
+ 7 Uhr seid ihr\, eure Kleider und Pflanzen herzlich in den Pfleghof eingel
+ aden. Es gibt Snacks\, Getränke und ein paar Sofas zum Chillen während d
+ er Suche nach neuen alten Lieblingsfetzen. Kommt alle vorbei :) Bis dann\,
+  eure Pflegis.
+LOCATION:Pfleghof
+END:VEVENT
 END:VCALENDAR
