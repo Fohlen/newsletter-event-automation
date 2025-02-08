@@ -8416,4 +8416,42 @@ DESCRIPTION:Tired of wearing the same old sweater every day? Do you want a
   eure Pflegis.
 LOCATION:Pfleghof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of music and fun!
+DTSTART:20250213T200000
+DTEND:20250213T235900Z
+DTSTAMP:20250208T204022Z
+UID:77ba2ffd-020b-4e1c-8a60-b39161daac59
+DESCRIPTION:The Pfleghof Session is a place for musicians of all levels to
+  make music together. Bring your instruments\, voice\, and friends! The ba
+ r will be open. Come and enjoy fresh ideas from our new team!
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Austausch zu Klimakollaps\, Naturzerstörung und gesellsch
+ aftlichen Themen
+DTSTART:20250215T100000
+DTEND:20250215T235959Z
+DTSTAMP:20250208T204022Z
+UID:8ae03ac7-6c0e-4ecd-92a1-6409e2eee0bb
+DESCRIPTION:In Folge der Veranstaltung mit Tadzio Müller zu "Klimakollaps
+ \, Verdrängungsgesellschaft\, solidarisches Prepping" gab es vor zwei Woc
+ hen den ersten offenen Austausch in lockerer Atmosphäre. Das möchten wir
+  fortsetzen und laden alle ein\, die sich über Gefühle und Gedanken ange
+ sichts Klimakollaps\, Naturzerstörung\, Rassismus\, Faschisierung und ges
+ ellschaftlichen Zusammenbruchsszenarien austauschen wollen.
+LOCATION:fünftes Haus des 4-Häuser-Projekts\, Hechinger Str. 35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einlass: 19:00 Uhr\, Start: 21:30 Uhr\, Eintritt frei
+DTSTART:20250211T213000
+DTEND:20250211T235959Z
+DTSTAMP:20250208T204022Z
+UID:86963a62-b670-443d-a843-6d9f7ffe5df9
+DESCRIPTION:THE SLEEVEENS (Pub Rock/Classic 77er Punk/Power Pop) live im B
+ lauen Salon. Die Band aus Nashville/Dublin hat ihr Debüt-Album bei Dirtna
+ p Records veröffentlicht und ist bekannt für ihre Ohrwurm-Melodien und k
+ reischenden Gitarren.
+LOCATION:Blauen Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
