@@ -8454,4 +8454,29 @@ DESCRIPTION:THE SLEEVEENS (Pub Rock/Classic 77er Punk/Power Pop) live im B
  reischenden Gitarren.
 LOCATION:Blauen Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion zu aktuellen politischen Themen mit solidarischen Mensc
+ hen.
+DTSTART:20251004T190000
+DTEND:20251004T235959Z
+DTSTAMP:20250210T204320Z
+UID:6eeb2246-4fba-49ba-901a-d62ec24b6688
+DESCRIPTION:Am kommenden Mittwoch im Infoladen der Schelling um 19 Uhr. Th
+ emen sind u.a. Nachbesprechung Proteste Lindner-Besuch\, Rojava/Syrien\, T
+ ag der politischen Gefangenen/Repression\, 8. März: Queerfeministischer K
+ ampftag\, Housing Action Day/Wohnraum\, Erster Mai. Weitere Themen können
+  gerne eingebracht werden.
+LOCATION:Infoladen der Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casting für ein freies Zimmer in der WG.
+DTSTART:20250221T180000
+DTEND:20250221T235959Z
+DTSTAMP:20250210T204320Z
+UID:6fe2c178-3f7c-4311-817e-7742537502de
+DESCRIPTION:Am 21. Februar findet ein Casting für das freie Zimmer in der
+  Rothenburg statt. Interessierte sollten sich über die WG-Gesucht Anzeige
+  melden.
+LOCATION:Rothenburg
+END:VEVENT
 END:VCALENDAR
