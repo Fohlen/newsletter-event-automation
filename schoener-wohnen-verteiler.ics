@@ -8479,4 +8479,84 @@ DESCRIPTION:Am 21. Februar findet ein Casting für das freie Zimmer in der
   melden.
 LOCATION:Rothenburg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live performance by Wollstiefel
+DTSTART:20250215T210000
+DTEND:20250215T230000Z
+DTSTAMP:20250212T204213Z
+UID:853107c6-4ba6-4493-9762-337bb59f4011
+DESCRIPTION:Join us for a night of acoustic punk rock with Wollstiefel! En
+ joy fast songs covering topics like capitalism\, climate change\, and more
+ . Come early to grab a good spot!
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jährliche Feier zur Erinnerung an Richie Van Ess.
+DTSTART:20250215T190000
+DTEND:20250215T235900Z
+DTSTAMP:20250212T204213Z
+UID:91f50fa8-55f6-4f68-8192-534e8462c62e
+DESCRIPTION:Kommt vorbei\, feiert Richie und genießt die spacigen Sounds 
+ von ZONE SIX! DJ nach dem Konzert: RED FORD UND FRANK NEROS!!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die Beziehung zwischen Kapitalismus und Liebe\, sowi
+ e alternative Beziehungskonzepte.
+DTSTART:20250213T190000
+DTEND:20250213T235959Z
+DTSTAMP:20250212T204213Z
+UID:7d8c01b7-ce9b-406c-b386-f4c11458bdd6
+DESCRIPTION:Der Vortrag gibt eine Einführung in verschiedene soziologisch
+ e Theorien zu Liebesbeziehungen. Es wird der Frage nachgegangen\, inwiefer
+ n Beziehungskonzepte als Ausdruck politischer oder kapitalistischer Verhä
+ ltnisse begriffen werden können. Der Referent hat Soziologie in Leipzig\,
+  Dresden und New York City studiert und arbeitet als Journalist in Berlin.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Empowermentworkshop zur (Re)Entdeckung des eigenen Rollenreper
+ toires.
+DTSTART:20250222T100000
+DTEND:20250222T235959Z
+DTSTAMP:20250212T204213Z
+UID:f1b5e314-c6de-4e70-8bdd-e3f81e85f26a
+DESCRIPTION:In diesem Workshop laden wir ein\, die eigenen Rollen spieleri
+ sch zu erkunden und zu erweitern. Identität ist verhandelbar und ständig
+  im Wandel. Wir hinterfragen bestehende Rollen und entdecken neue. Der Wor
+ kshop ist Teil einer Workshopreihe zu queer-feministischer Theaterforschun
+ g für FLINTA* ab 18 Jahren. Vorkenntnisse sind nicht notwendig\, Neugier 
+ reicht aus! Um den Zugang niederschwellig zu gestalten\, bitten wir um sol
+ idarische Spende. Snacks für Bring&Share-Buffet und eine Trinkflasche sin
+ d mitzubringen.
+LOCATION:[Location details will follow]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen für FLINTA* Personen über 40 zum Austausch u
+ nd zur Unterstützung.
+DTSTART:20250213T193000
+DTEND:20250213T235959Z
+DTSTAMP:20250212T204213Z
+UID:f3f4e0e0-7a49-4159-ac4a-c09410424c6a
+DESCRIPTION:Wir laden herzlich zu unserem monatlichen Treffen ein\, das ei
+ nen sicheren und offenen Raum für alle FLINTA* (Frauen\, Lesben\, Inter*\
+ , Nicht-Binäre\, Trans* und Agender) Menschen bietet. Es erwartet euch ei
+ n gemütlicher Raum\, in dem wir Spaß haben und uns gegenseitig unterstü
+ tzen können. Kommt vorbei und bringt gerne auch Freund*innen mit!
+LOCATION:Queeres Zentrum Tübingen\, Derendingerstraße 41\, erster Stock
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letzter Tag der symbolischen Wahlen für Leute unter 18 und ohne d
+ eutschen Pass in Tübingen.
+DTSTART:20250315T140000
+DTEND:20250315T200000Z
+DTSTAMP:20250212T204213Z
+UID:827203e0-fcf2-40a9-a653-7227620389f5
+DESCRIPTION:Am Samstag ist der letzte Tag von „Alle Wählen Tübingen“
+ . Beim Abschluss Get Together im Jugencafe Bricks kann nachmittags gewähl
+ t werden\, dann zählen wir bei Musik und leckerem Essen die Stimmen aus. 
+ Um 18 Uhr zeigen wir den Kurzfilm „Das Recht\, Rechte zu haben“ und di
+ skutieren darüber. Danach gibt’s nochmal Musik. Der Eintritt ist frei!
+LOCATION:Jugencafe Bricks\, Tübingen
+END:VEVENT
 END:VCALENDAR
