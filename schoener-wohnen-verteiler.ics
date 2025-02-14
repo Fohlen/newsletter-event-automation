@@ -8559,4 +8559,18 @@ DESCRIPTION:Am Samstag ist der letzte Tag von „Alle Wählen Tübingen“
  skutieren darüber. Danach gibt’s nochmal Musik. Der Eintritt ist frei!
 LOCATION:Jugencafe Bricks\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradtour für eine nachhaltige Stadt
+DTSTART:20250221T000000
+DTEND:20250221T235959Z
+DTSTAMP:20250214T204110Z
+UID:59b03e6e-500c-49f5-b7f7-3c34dafb1d56
+DESCRIPTION:Hallo Tübinger RadfahrerInnen und Mobilitätsbegeisterte! Am 
+ 21.02.25 treffen wir uns zur nächsten Critical Mass. Lasst uns gemeinsam 
+ durch die Straßen radeln und ein Zeichen für eine nachhaltige und fahrra
+ dfreundliche Stadt setzen. Jede Teilnahme zählt und macht unseren Protest
+  sichtbarer! Schnappt euch eure FreundInnen\, Familie und natürlich eure 
+ Fahrräder. Wir freuen uns auf euch!
+LOCATION:Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
