@@ -8573,4 +8573,49 @@ DESCRIPTION:Hallo Tübinger RadfahrerInnen und Mobilitätsbegeisterte! Am
  Fahrräder. Wir freuen uns auf euch!
 LOCATION:Tübingen\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein erlesenes Quiz mit kulinarischen Köstlichkeiten und hochwerti
+ gem Alpirsbacher.
+DTSTART:20251004T180000
+DTEND:20251004T220000Z
+DTSTAMP:20250221T204210Z
+UID:0e9dd91e-6a81-4e81-8cc6-fa7495f14a2d
+DESCRIPTION:Verehrte DenkerInnen und GenießerInnen\, unser Quizabend biet
+ et erlesene Fragen von „Ach\, das wusste ich mal!“ bis „Das ist doch
+  nicht euer Ernst?!“. Kulinarische Köstlichkeiten erwarten euch gegen e
+ ine Spende. Genießt hochwertiges Alpirsbacher und bringt euer bestes Team
+  mit oder schließt euch an Gleichgesinnte an.
+LOCATION:Schellingh ausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine aufregende Nacht mit verschiedenen Musikstilen auf zwei Floor
+ s.
+DTSTART:20250228T230000
+DTEND:20250228T235959Z
+DTSTAMP:20250221T204210Z
+UID:c3d680a4-30cb-4bf5-aeba-68c245b85f0d
+DESCRIPTION:Das LH2 (Stauffenbergstr. 30) öffnet seine Pforten für die F
+ ETTE FEBRUAR FETE (FFF). Genießen Sie von 23 Uhr bis 8 Uhr morgens die be
+ sten Beats von House\, Trash Trance\, DnB\, Speedbass\, Twilightpsy\, Zeno
+ n und Neurofunk. Der Eintritt ist frei\, um Spenden wird gebeten. Der Erl
+ ös des Getränkeverkaufs und der Spendenboxen geht an "Collectivo Rotte B
+ alcaniche"\, die Menschen auf der Balkanfluchtroute unterstützen und Poli
+ zeigewalt dokumentieren.
+LOCATION:LH2\, Stauffenbergstr. 30\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung und Demonstration zur Solidarität mit streikenden Busf
+ ahrern. Thema: Gute Löhne und Arbeitsbedingungen im ÖPNV.
+DTSTART:20250222T110000
+DTEND:20250222T235959Z
+DTSTAMP:20250221T204210Z
+UID:2d1c7815-026c-401c-aa9a-fa6d68693832
+DESCRIPTION:Gemeinsam für einen starken ÖPNV – Solidarität mit den st
+ reikenden Busfahrern. Am Samstag\, den 22. Februar\, um 11 Uhr am Hauptbah
+ nhof Tübingen. Die Veranstaltung wird von ver.di Tübingen und dem Tübin
+ ger Offenen Antikapitalistischen Klimatreffen (TOAKT) organisiert. Ziel is
+ t es\, die Bedürfnisse der Busfahrer*innen zu unterstützen und die Bedeu
+ tung eines gut finanzierten ÖPNV zu betonen.
+LOCATION:Hauptbahnhof Tübingen
+END:VEVENT
 END:VCALENDAR
