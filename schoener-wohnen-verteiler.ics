@@ -8618,4 +8618,29 @@ DESCRIPTION:Gemeinsam für einen starken ÖPNV – Solidarität mit den st
  tung eines gut finanzierten ÖPNV zu betonen.
 LOCATION:Hauptbahnhof Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIY Experimental Punk Singer-Songwriterin aus Brooklyn
+DTSTART:20250225T190000
+DTEND:20250225T230000Z
+DTSTAMP:20250223T204126Z
+UID:fa346fc6-7ba6-415d-be96-fcd410728402
+DESCRIPTION:Shilpa Ray\, eine amerikanische Singer-Songwriterin aus Brookl
+ yn\, New York\, mit einem experimentellen DIY-Punk-Sound. Sie kombiniert e
+ in indisches Harmonium mit kraftvollem Gesang und erzählt in ihren Texten
+  Geschichten einer Schriftstellerin\, die sich weigert\, verschwinden zu w
+ ollen.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Leibi vom CCC Stuttgart
+DTSTART:20250226T190000
+DTEND:20250226T204500Z
+DTSTAMP:20250223T204126Z
+UID:935c8d4d-19c4-4178-89a9-78a49f1bc950
+DESCRIPTION:In der nächsten Schelling-Hausbar dreht sich alles um praktis
+ che Datenschutz- und IT-Sicherheit-Tipps. Wie können wir alle unsere Priv
+ atsphäre im digitalen Zeitalter besser schützen? Vortrag von Leibi\, der
+  praktische Tipps für den Alltag bietet.
+LOCATION:Schelling-Hausbar\, Stuttgart
+END:VEVENT
 END:VCALENDAR
