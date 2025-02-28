@@ -8655,4 +8655,29 @@ DESCRIPTION:Lerne das Tübinger Offene Antikapitalistische Klimatreffen ke
  nnende Themen. Jeder ist willkommen! Keine Vorkenntnisse erforderlich!
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improvised live music gathering
+DTSTART:20250306T200000
+DTEND:20250306T235900Z
+DTSTAMP:20250228T204350Z
+UID:f110160b-9cf3-4e78-a0e0-03a47c51e523
+DESCRIPTION:Join us for an evening of improvised live music at Pfleghof! B
+ ring your instruments\, voice\, and friends. Open for musicians of all lev
+ els. Bar will be open!
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag im Rahmen der Aktionswoche 08. März über Anarchafemi
+ nismus.
+DTSTART:20250304T193000
+DTEND:20250304T235959Z
+DTSTAMP:20250228T204350Z
+UID:9a2bbff0-2682-47a8-b18d-ec9e50c7f290
+DESCRIPTION:Anarchafeminismus verbindet feministische Kämpfe mit dem Wide
+ rstand gegen alle Formen von Herrschaft\, Unterdrückung und Machtstruktur
+ en. In diesem anfängerfreundlichen Vortrag wollen wir gemeinsam erkunden\
+ , was Anarchafeminismus ist\, welche Ideen dahinterstehen und wie diese im
+  Alltag und in politischen Kämpfen praktisch werden können.
+LOCATION:Siggi11
+END:VEVENT
 END:VCALENDAR
