@@ -8680,4 +8680,30 @@ DESCRIPTION:Anarchafeminismus verbindet feministische Kämpfe mit dem Wide
   Alltag und in politischen Kämpfen praktisch werden können.
 LOCATION:Siggi11
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltungen zur Solidarität mit politischen Gefangenen und ge
+ gen Repression.
+DTSTART:20250313T190000
+DTEND:20250313T235959Z
+DTSTAMP:20250301T204120Z
+UID:11568f4f-9d6f-4254-87e7-88ceff9a6b50
+DESCRIPTION:Die Veranstaltungen umfassen Briefe schreiben an politische Ge
+ fangene\, Vorträge zum Budapest-Verfahren\, Kundgebungen zum Tag der poli
+ tischen Gefangenen\, Filmvorführungen und einen Workshop zum Umgang mit R
+ epression.
+LOCATION:Tübingen\, verschiedene Orte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Info-Veranstaltung über Mad Pride Days
+DTSTART:20250312T200000
+DTEND:20250312T235959Z
+DTSTAMP:20250301T204120Z
+UID:080b053e-e0df-43f0-8e9b-e63c73093600
+DESCRIPTION:Am Mittwoch\, den 12. März 2025\, um 20 Uhr in der Hausbar de
+ s Wohnprojekts Schellingstraße. Informationen zur Geschichte und Konzept 
+ von Mad Pride Days sowie zum aktuellen Planungsstand in Stuttgart. Diskuss
+ ion über Themen\, Ideen für Aktionen und Beiträge für den Mad Pride Da
+ y. Offene Bühne für kreative Beiträge.
+LOCATION:Schellingstraße 6\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
