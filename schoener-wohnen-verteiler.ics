@@ -8706,4 +8706,55 @@ DESCRIPTION:Am Mittwoch\, den 12. März 2025\, um 20 Uhr in der Hausbar de
  y. Offene Bühne für kreative Beiträge.
 LOCATION:Schellingstraße 6\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A series of exciting events and actions for the 8.3 queerfeminist 
+ day of struggle.
+DTSTART:20250304T180000
+DTEND:20250304T235959Z
+DTSTAMP:20250302T204149Z
+UID:97f7530b-214f-47ff-8add-c2a0272f0cce
+DESCRIPTION:March 4: Lecture: What is Anarcha-Feminism? A beginner-friendl
+ y talk about what anarcha-feminism is and how it can be practiced. Sigwart
+ straße 11 6 pm KüfA (Community Kitchen) 7:30 pm Lecture Organisers: Anti
+ -Autoritäres Treffen Tübingen & Siggi 11.\nMarch 5: Queerfeminist Film N
+ ight & Banner Painting Schellingstr. 6 (basement) 6 pm Banner painting 7 p
+ m Vegan food 8 pm Film screening Organisers: Infoladen Tübingen.\nMarch 6
+ : Women & Queers Night at Blauer Salon Münzgasse 13 From 9 pm Organisers:
+  @münzgasse13.\nMarch 8: Feminist Brunch at the Linkes Zentrum Trude Lutz
+  Nauklerstr. 50\, 11 am\, no cis men With input on the history of March 8 
+ and the necessity of feminist strikes! Feel free to bring your children! A
+ fterward\, we’ll head to the demo together! Organisers: @linkeszentrum_t
+ uebingen.\nMarch 8\, Stern⭐platz WarmUp! from 12 pm at Sternplatz\, all 
+ genders welcome. We’re getting ready for the demo: Aggro Yoga\, Ironing 
+ away the patriarchy! (Feel free to bring cotton clothes). Need a demo outf
+ it? Get creative at the new Südstadt costume rental! Theatre makeup & gli
+ tter! Sparkling wine and soda.\nMarch 8: DEMONSTRATION 4 pm\, Market Place
+  Organisers: @8m_tuebingen.\nMarch 9\, FLINTA Flitzer Session at 3-in-One 
+ Park From 3 pm FLINTA* skate workshop (for beginners) with cake & coffee/t
+ ea From 3:30 pm FLINTA* breakdance basics workshop From 4 pm Music by DJ S
+ affho & Paulila & open skate session Organisers: @flintaflitzer.
+LOCATION:Various locations in Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metalcore concert by DROWN IN MALICE in the Blauen Salon
+DTSTART:20250304T190000
+DTEND:20250304T235900Z
+DTSTAMP:20250302T204149Z
+UID:baca7403-26c7-477c-95f9-12f278cfbb32
+DESCRIPTION:DROWN IN MALICE macht emotionalen und abwechslungsreichen Meta
+ lcore\, der sich an der Hochphase des Genres orientiert. Eintritt frei!
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infoladenhausbar: Gemeinsames Bannermalen und Filmabend.
+DTSTART:20250305T180000
+DTEND:20250305T220000Z
+DTSTAMP:20250302T204149Z
+UID:878bba62-ea96-4be9-85c9-ac9ce13f2c97
+DESCRIPTION:Wir laden euch zu einem queerfeministischen Filmabend ein\, um
+  mit euch Banner für die Demonstration am 8. März zu malen und einen Fil
+ m zu sehen\, der sich mit der Unterstützung von Minenarbeiter:innen und L
+ GBTQ+ Gemeinschaften befasst.
+LOCATION:Hausbar des Wohnprojekts Schellingstrasse
+END:VEVENT
 END:VCALENDAR
