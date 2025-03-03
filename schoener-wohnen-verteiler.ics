@@ -8757,4 +8757,15 @@ DESCRIPTION:Wir laden euch zu einem queerfeministischen Filmabend ein\, um
  GBTQ+ Gemeinschaften befasst.
 LOCATION:Hausbar des Wohnprojekts Schellingstrasse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Umsonst-Flohmarkt mit Kaffee\, Kuchen und Kindersachen.
+DTSTART:20250309T140000
+DTEND:20250309T173000Z
+DTSTAMP:20250303T204423Z
+UID:25649ab7-9833-456a-b575-03efe69fbc29
+DESCRIPTION:Der Umsonstladen der Lu 15 veranstaltet einen Umsonst-Flohmark
+ t mit Spielzeug\, Baby- und Kinderkleidung. Kommt vorbei und genießt Kaff
+ ee und Kuchen!
+LOCATION:Sternplatz
+END:VEVENT
 END:VCALENDAR
