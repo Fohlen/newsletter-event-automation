@@ -8768,4 +8768,30 @@ DESCRIPTION:Der Umsonstladen der Lu 15 veranstaltet einen Umsonst-Flohmark
  ee und Kuchen!
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein monatliches Treffen zum Austausch über feministische Themen.
+DTSTART:20250305T190000
+DTEND:20250305T210000Z
+DTSTAMP:20250305T204323Z
+UID:60278af0-5299-4559-b207-f81d4cf8bba7
+DESCRIPTION:Was bedeutet es heutzutage "FEMINIST:IN" zu sein?! ...in Zeite
+ n der Gefährdung freiheitlicher Demokratien weltweit\, eines massiven Rec
+ htsrucks\, sprachlicher Verrohung und Entwürdigung... Grundlagen unserer 
+ Treffen sind vorausgewählte Texte\, die als Diskussionsimpuls dienen. Wir
+  kreieren einen mutigen Raum zum Lernen und Austausch.
+LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidaritäts-Abend zum Thema Kuba mit Filmvorführung und Diskuss
+ ion.
+DTSTART:20250315T163000
+DTEND:20250315T235959Z
+DTSTAMP:20250305T204323Z
+UID:e0edb2c0-7bde-4dc0-a3ee-69ce801ecd68
+DESCRIPTION:Einlass ab 16:30 Uhr. 17:00 Uhr: Aktivistische Dokumentation "
+ Klimaschutz - von Kuba lernen" und Diskussion. 19:00 Uhr: Erfahrungsberich
+ t aus Kuba und Diskussion. Anschließend gemütliches Beisammensein mit ku
+ banischen Snacks und Getränken.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, Tübingen
+END:VEVENT
 END:VCALENDAR
