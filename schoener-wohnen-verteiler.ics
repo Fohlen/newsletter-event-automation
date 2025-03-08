@@ -8794,4 +8794,28 @@ DESCRIPTION:Einlass ab 16:30 Uhr. 17:00 Uhr: Aktivistische Dokumentation "
  banischen Snacks und Getränken.
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend mit Workshops zu DJing und Musikproduktion für FLINTA*.
+DTSTART:20250311T180000
+DTEND:20250311T210000Z
+DTSTAMP:20250308T125141Z
+UID:acf1c0fe-d566-47be-8bc3-aa87f195ec59
+DESCRIPTION:Anlässlich des feministischen Kampftags am 8. März veranstal
+ ten wir einen FLINTA* Workshop-Abend. Es gibt Workshops in Digital DJing m
+ it Controller/CDJs\, analogem Auflegen mit Vinyl und Musikproduktion mit A
+ bleton Live. Die Workshops sind kostenlos\, erfordern eine Anmeldung und s
+ ind nur für FLINTA*-Personen gedacht.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine geschlossene Veranstaltung für Frauen und Queers.
+DTSTART:20250308T190000
+DTEND:20250308T235959Z
+DTSTAMP:20250308T125141Z
+UID:13cdc5dd-5f50-4913-be48-de7ba70b278b
+DESCRIPTION:Der Blaue Salon hat seine Türen für die WOMEN & QUEER ONLY H
+ ausbar geöffnet. Kommt vorbei und genießt eine sichere und einladende At
+ mosphäre.
+LOCATION:Blaue Salon
+END:VEVENT
 END:VCALENDAR
