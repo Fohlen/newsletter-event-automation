@@ -8818,4 +8818,41 @@ DESCRIPTION:Der Blaue Salon hat seine Türen für die WOMEN & QUEER ONLY H
  mosphäre.
 LOCATION:Blaue Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Es geht rasant voran mit erneuerbaren Energien in Afrika
+DTSTART:20250311T190000
+DTEND:20250311T235959Z
+DTSTAMP:20250310T130359Z
+UID:87838f51-af0a-4a3d-a31e-ca61d37a83ba
+DESCRIPTION:Rebecca Mast forscht an der Eberhard Karls Universität Tübin
+ gen dazu\, bei den Geoökologen. An diesem Abend berichtet sie vom Ausbau 
+ der Wind- und Solarenergie.
+LOCATION:Club Voltaire\, Haaggasse 26b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Austausch zu Klimakollaps und gesellschaftlichen Themen
+DTSTART:20250316T100000
+DTEND:20250316T235959Z
+DTSTAMP:20250310T130359Z
+UID:46299378-a83d-4dc6-8687-dc79173fdd67
+DESCRIPTION:Wir wollen den Austausch in Folge der Veranstaltung mit Tadzio
+  Müller zu 'Klimakollaps\, Verdrängungsgesellschaft\, solidarisches Prep
+ ping' weiterführen. Eingeladen sind alle\, die sich über Gefühle und Ge
+ danken angesichts Klimakollaps\, Naturzerstörung\, Rassismus\, Faschisier
+ ung und gesellschaftlichen Zusammenbruchsszenarien austauschen wollen.
+LOCATION:Fünftes Haus des 4-Häuser-Projekts Hechinger Str. 35\, Gemeinsc
+ haftsraum im Untergeschoss.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transcultural community music project concert
+DTSTART:20250314T190000
+DTEND:20250314T235959Z
+DTSTAMP:20250310T130359Z
+UID:e02e5189-a77a-4003-a79c-dea18669ef21
+DESCRIPTION:Join us for the TüFolk concert\, a transcultural community mu
+ sic project of Klangfolk e.V. in Tübingen. Open to everyone regardless of
+  age\, musical ability\, or cultural background. Experience the richness o
+ f diverse cultures through music.
+LOCATION:Fichtehaus\, Herrenbergerstr. 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
