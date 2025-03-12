@@ -8855,4 +8855,67 @@ DESCRIPTION:Join us for the TüFolk concert\, a transcultural community mu
  f diverse cultures through music.
 LOCATION:Fichtehaus\, Herrenbergerstr. 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Diskussion über proletarischen und bürgerlichen Fe
+ minismus.
+DTSTART:20250314T190000
+DTEND:20250314T235959Z
+DTSTAMP:20250312T130409Z
+UID:957365ac-ba79-4eb8-b426-98e7389d2af0
+DESCRIPTION:Wir nehmen den bürgerlichen Feminismus kritisch unter die Lup
+ e und stellen ihm die Perspektive des proletarischen Feminismus gegenüber
+ .
+LOCATION:Münzgasse 7\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An epic night at The Blue Salon featuring non-stop vibes from amaz
+ ing DJs.
+DTSTART:20250314T200000
+DTEND:20250314T235959Z
+DTSTAMP:20250312T130409Z
+UID:6b95564e-1adc-4ce9-bf9a-c7a567c41c4e
+DESCRIPTION:Experience non-stop vibes from amazing DJs\, spinning Hip-Hop\
+ , Afrobeats\, Amapiano & Reggaeton—pure energy all night long! Entrance 
+ fee? What entrance fee?!
+LOCATION:The Blue Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Info-Veranstaltung über den Mad Pride Day in Stuttgart.
+DTSTART:20250312T200000
+DTEND:20250312T235959Z
+DTSTAMP:20250312T130409Z
+UID:d4b99ff2-990f-45c9-939a-f50570675cd1
+DESCRIPTION:Am Mittwoch\, den 12. März 2025\, findet ab 20 Uhr in der Hau
+ sbar des Wohnprojekts Schellingstraße eine Info-Veranstaltung statt. Es w
+ ird über die Geschichte und das Konzept von Mad Pride Days informiert sow
+ ie über den aktuellen Planungsstand in Stuttgart. Diskussion über Themen
+  für den Mad Pride Day und mögliche Beiträge oder Aktionen. Teil der Ve
+ ranstaltung ist auch eine offene Bühne.
+LOCATION:Schellingstraße 6\, Tübingen\, Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Drag Karaoke im Blauen Salon.
+DTSTART:20250410T200000
+DTEND:20250410T230000Z
+DTSTAMP:20250312T130409Z
+UID:e9d478ae-5511-4c88-af38-6097fc594ae3
+DESCRIPTION:HOUSE OF HURE goes back to its roots: Drag Karaoke in einer li
+ nken Institution. Genießt Lipsync-Performances und singt eure Lieblings-K
+ araoke-Songs!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsam Briefe an (politische) Gefangene schreiben und Vortrag z
+ um Budapest-Verfahren.
+DTSTART:20250313T190000
+DTEND:20250313T210000Z
+DTSTAMP:20250312T130409Z
+UID:d971af21-6d3e-4e05-af98-730a4489f06f
+DESCRIPTION:Wir laden herzlich zu unserer Veranstaltung am Donnerstag\, de
+ n 13. März in die Lu15 ein. Dort schreiben wir gemeinsam Briefe an (polit
+ ische) Gefangene. Zudem wird es einen Vortrag zum Budapest-Verfahren geben
+ \, das viele als das Verfahren kennen\, in welchem Maja nach Ungarn ausgel
+ iefert wurde. Jedoch sind wesentlich mehr Antifaschist:innen betroffen.
+LOCATION:Lu15
+END:VEVENT
 END:VCALENDAR
