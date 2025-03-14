@@ -8984,4 +8984,20 @@ DESCRIPTION:Kommt am 18.03 um 19 Uhr zu unserem Vortrag im Pfleghof (Pfleg
  Zement möglich ist!
 LOCATION:Pfleghof\, Pfleghofstraße 2\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reden statt Rüsten! Protestkundgebung am 17.03.2025 auf dem Tübi
+ nger Holzmarkt.
+DTSTART:20250317T180000
+DTEND:20250317T235959Z
+DTSTAMP:20250314T204220Z
+UID:ed7c490c-5cae-49a2-8cce-1e9e65bb7bcd
+DESCRIPTION:Wir beteiligen uns an den bundesweiten Aktionstagen der Friede
+ nsbewegung und rufen zu einer Protestkundgebung mit dem Motto „Keine Gru
+ ndgesetzänderung für Hochrüstung und Kriegstüchtigkeit“ auf. Die CDU
+ /CSU\, SPD und die GRÜNEN planen eine Änderung des Grundgesetzes zur Fin
+ anzierung von Aufrüstung. Dies gefährdet den Frieden in Europa und erzeu
+ gt immense soziale und ökologische Kosten. Wir fordern eine Politik des D
+ ialogs und der Abrüstung!
+LOCATION:Tübinger Holzmarkt
+END:VEVENT
 END:VCALENDAR
