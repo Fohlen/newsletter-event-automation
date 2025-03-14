@@ -8918,4 +8918,70 @@ DESCRIPTION:Wir laden herzlich zu unserer Veranstaltung am Donnerstag\, de
  iefert wurde. Jedoch sind wesentlich mehr Antifaschist:innen betroffen.
 LOCATION:Lu15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradtour durch Tübingen zur Förderung der Radinfra
+ struktur.
+DTSTART:20250321T180000
+DTEND:20250321T235959Z
+DTSTAMP:20250314T130132Z
+UID:dc004ba5-d59b-442d-9d81-8671606fdc49
+DESCRIPTION:Treffpunkt zur Critical Mass in Tübingen. Gemeinsam radeln wi
+ r durch die Stadt und setzen ein Zeichen für eine nachhaltige und fahrrad
+ freundliche Stadt!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musical special guests including AISATSANA\, FreeFreeDomDom\, and 
+ The Bousculaires at Schelling.
+DTSTART:20250321T210000
+DTEND:20250321T235959Z
+DTSTAMP:20250314T130132Z
+UID:fe272d37-69e0-4bb7-acd6-a418f422ba85
+DESCRIPTION:Join us for an electrifying night featuring live performances 
+ from AISATSANA\, FreeFreeDomDom\, and The Bousculaires. Enjoy a mix of tri
+ p hop\, pop\, and electro music that will keep you dancing all night long!
+LOCATION:Schelling\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening und Diskussion mit Regisseurin und sudanesischen Aktivis
+ tinnen
+DTSTART:20250322T190000
+DTEND:20250322T235959Z
+DTSTAMP:20250314T130132Z
+UID:7fc4c8ec-fd93-4269-9e3a-71a833d89c46
+DESCRIPTION:Der Dokumentarfilm 'Forgotten Voices' macht Stimmen von Mensch
+ en aus dem Sudan hörbar\, die von einem der vergessenen Kriege unserer Ze
+ it betroffen sind. Nach dem Film gibt es die Möglichkeit\, mit der Produz
+ entin Mai Shatta sowie drei weiteren sudanesischen Aktivistinnen des Bana-
+ Kollektivs ins Gespräch zu kommen.
+LOCATION:franzk Reutlingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung zur Verbesserung der sozialen Gerechtigkeit und gegen d
+ ie Angriffe auf demokratische und soziale Rechte.
+DTSTART:20250315T140000
+DTEND:20250315T235959Z
+DTSTAMP:20250314T130132Z
+UID:e6970957-5d6e-46de-a445-b8e25d953763
+DESCRIPTION:Das Sondierungspapier von CDU/CSU und SPD wurde veröffentlich
+ t: Sie versprechen einen höheren Mindestlohn – aber erst in einem Jahr!
+  Sie reden von Verbesserungen bei der Rente – aber nur für wenige! Mehr
+  Sanktionen bei der Grundsicherung? Nicht vereinbar mit der Menschenwürde
+ ! Kommt zur Kundgebung für echte soziale Gerechtigkeit und ein solidarisc
+ hes Morgen!
+LOCATION:Tübingen\, Holzmarkt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über gerechte und nachhaltige Alternativen zu Zement in d
+ er Bauindustrie.
+DTSTART:20250318T190000
+DTEND:20250318T235959Z
+DTSTAMP:20250314T130132Z
+UID:013a5de8-aa63-48fd-9432-04d4e0331ec4
+DESCRIPTION:Kommt am 18.03 um 19 Uhr zu unserem Vortrag im Pfleghof (Pfleg
+ hofstraße 2) und lernt mit Nils Urbanus darüber\, wie gerechter\, nachha
+ ltiger Wohnraum abseits von menschenverachtendem und naturverschmutzendem 
+ Zement möglich ist!
+LOCATION:Pfleghof\, Pfleghofstraße 2\, Tübingen
+END:VEVENT
 END:VCALENDAR
