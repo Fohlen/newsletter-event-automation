@@ -9000,4 +9000,29 @@ DESCRIPTION:Wir beteiligen uns an den bundesweiten Aktionstagen der Friede
  ialogs und der Abrüstung!
 LOCATION:Tübinger Holzmarkt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techno DJane Angie Taylor performing live with unique beats and en
+ ergy.
+DTSTART:20250321T220000
+DTEND:20250321T235959Z
+DTSTAMP:20250316T204212Z
+UID:15eadf1b-74c9-42bb-86a9-493631793d90
+DESCRIPTION:Erlebt Angie Taylor wieder im Blauen Salon! Ihr Auftritt 'I AM
+  TECHNO' verspricht groovige Beats und Energie. Einlass um 19:00 Uhr\, Beg
+ inn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung und Filmvorführung zum Tag der politischen Gefangenen.
+DTSTART:20250318T180000
+DTEND:20250318T200000Z
+DTSTAMP:20250316T204212Z
+UID:39203b44-9c44-4914-aa0e-424adb0b67c7
+DESCRIPTION:Am Dienstag\, den 18.03.\, gehen wir gemeinsam für die Freihe
+ it aller (politischer) Gefangenen auf die Straße. Es wird Redebeiträge z
+ u verschiedenen Themen geben\, und im Anschluss zeigen wir den Film 'Solid
+ arität verbindet. 100 Jahre Rote Hilfe'. Außerdem gibt es die Möglichke
+ it\, Briefe an (politische) Gefangene zu schreiben. Kommt vorbei!
+LOCATION:Lustnauer Tor\, Blauer Salon
+END:VEVENT
 END:VCALENDAR
