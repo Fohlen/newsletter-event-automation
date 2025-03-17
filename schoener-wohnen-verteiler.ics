@@ -9025,4 +9025,18 @@ DESCRIPTION:Am Dienstag\, den 18.03.\, gehen wir gemeinsam für die Freihe
  it\, Briefe an (politische) Gefangene zu schreiben. Kommt vorbei!
 LOCATION:Lustnauer Tor\, Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über den Schutz der Privatsphäre im digitalen Zeitalter 
+ mit praktischen Tipps.
+DTSTART:20250320T190000
+DTEND:20250320T235959Z
+DTSTAMP:20250317T204350Z
+UID:f8d2879c-098c-44e7-b0ed-4a8f0755f5da
+DESCRIPTION:Wie können wir alle unsere Privatsphäre im digitalen Zeitalt
+ er besser schützen? Viele Menschen empfinden es als unlösbare Aufgabe\, 
+ dabei ist es oft einfacher als gedacht. Leibi vom CCC Stuttgart zeigt in d
+ iesem Vortrag\, wie kleine Schritte viel bewirken können und gibt praktis
+ che Tipps für den Alltag\, die schnell umsetzbar sind.
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
