@@ -9052,4 +9052,49 @@ DESCRIPTION:Am 21.3 (Freitag) feiern wir mit musikalischen Gäste ab 22 Uh
   und Leidenschaft\, ideal zum Tanzen und Genießen.
 LOCATION:Schelling 3
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zur mietrechtlichen Beratung.
+DTSTART:20250322T100000
+DTEND:20250322T113000Z
+DTSTAMP:20250320T204351Z
+UID:8becd627-4e21-47d8-b6e5-f5eb1bffc0d5
+DESCRIPTION:Was tun bei Mietpreisüberhöhung & anderen mietrechtlichen Fr
+ agen? Die Miete nimmt einen steigenden Anteil an den monatlichen Fixkosten
+  von Haushalten ein. Dabei sind viele Mieten höher als rechtlich erlaubt.
+  Bei diesem Vortrag geht es darum\, wie Du herausfinden kannst\, ob eine M
+ iete zu hoch ist und ob eine Mieterhöhung rechtmäßig ist – und was Du
+  dann mit diesem Wissen tun kannst. Der Vortrag ist Teil des neuen Angebot
+ s der Stadt Tübingen zur mietrechtlichen Beratung. Referentin: Marie Grae
+ f
+LOCATION:Cafeteria im technischen Rathaus\, 4. OG\, Brunnenstraße 3\, Tü
+ bingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Diskussion über Klimagerechtigkeit und gegen Kapitali
+ smus.
+DTSTART:20250327T190000
+DTEND:20250327T210000Z
+DTSTAMP:20250320T204351Z
+UID:a08ca684-2f92-49a8-920b-8a011fa2d976
+DESCRIPTION:Das Offene antikapitalistische Klimatreffen beschäftigt sich 
+ mit den Themen Klimaschutz\, Frieden und soziale Gerechtigkeit. Es findet 
+ jeden 4. Donnerstag im Monat statt\, und das nächste Treffen ist am 27. M
+ ärz um 19 Uhr im Linken Zentrum Trude Lutz (Nauklerstraße 50). Kommt vor
+ bei und bringt Freunde mit!
+LOCATION:Nauklerstraße 50\, Tübingen\, Linken Zentrum Trude Lutz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternative Veranstaltung zum Dies Universitatis mit Informationss
+ tänden für Studierende.
+DTSTART:20250416T120000
+DTEND:20250416T160000Z
+DTSTAMP:20250320T204351Z
+UID:18df650c-66fc-47bf-98c1-329601c9eb4c
+DESCRIPTION:Der AlDi bietet Erstis und allen anderen Studis die Möglichke
+ it\, sich über verschiedene Gruppen an der Uni und in Tübingen zu inform
+ ieren. Wichtig: Keine Teilnahme in Uniform oder mit menschenverachtenden S
+ ymbolen/Einstellungen. Der Aufbau beginnt um 11 Uhr\, die Veranstaltung ge
+ ht von 12 bis 16 Uhr.
+LOCATION:Klubhaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
