@@ -9097,4 +9097,16 @@ DESCRIPTION:Der AlDi bietet Erstis und allen anderen Studis die Möglichke
  ht von 12 bis 16 Uhr.
 LOCATION:Klubhaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung über die Umbrüche in Syrien und die Rolle der Frau
+ en.
+DTSTART:20250330T180000
+DTEND:20250330T235959Z
+DTSTAMP:20250323T125934Z
+UID:aa3ddfca-a94a-47e1-980f-1c25b88877ac
+DESCRIPTION:Gemeinsames Lernen über die Entwicklungen in Syrien\, die Dem
+ okratische Selbstverwaltung (DAANES) und die Errungenschaften der Frauen. 
+ Vortrag von Nele Möhlmann und anschließende Diskussion.
+LOCATION:Hirschgasse 9\, 1.OG
+END:VEVENT
 END:VCALENDAR
