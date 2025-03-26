@@ -9109,4 +9109,31 @@ DESCRIPTION:Gemeinsames Lernen über die Entwicklungen in Syrien\, die Dem
  Vortrag von Nele Möhlmann und anschließende Diskussion.
 LOCATION:Hirschgasse 9\, 1.OG
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preiswerte Getränke und Weiße-Bohnen-Eintopf für eine gute Sach
+ e
+DTSTART:20250326T200000
+DTEND:20250326T235959Z
+DTSTAMP:20250326T204335Z
+UID:f48372ee-3d24-4983-b95f-439ab7a32adb
+DESCRIPTION:Liebe Freund:innen der Hausbar\, kommenden Mittwoch\, den 26.0
+ 3. könnt ihr in der Schelling-Hausbar wieder den preiswerten Getränken f
+ rönen\, gegen Spende für eine gute Sache Weiße-Bohnen-Eintopf genießen
+  und euren geschätzten Mitmenschen begegnen. Die Hausbar wird rauchfrei s
+ ein\, das bedeutet\, wir bitten alle\, nur im Hof zu rauchen und nicht im 
+ Keller.
+LOCATION:Schelling-Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch im Umweltzentrum Tübingen e.V.
+DTSTART:20251007T110000
+DTEND:20251007T140000Z
+DTSTAMP:20250326T204335Z
+UID:d605bd54-ef6f-4640-8b6e-b166b283086d
+DESCRIPTION:Bringe deine sauberen\, gefalteten Kleidungsstücke mit und ta
+ usche sie gegen neue Lieblingsteile oder nimm einfach etwas mit. Nachhalti
+ g\, unkompliziert & kostenlos!
+LOCATION:Umweltzentrum Tübingen e.V. (UWZ)\, Kronenstraße 4\, 72070 Tüb
+ ingen
+END:VEVENT
 END:VCALENDAR
