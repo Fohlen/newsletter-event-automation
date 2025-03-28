@@ -9153,4 +9153,17 @@ DESCRIPTION:In Windeseile hat der bereits abgewählte Bundestag mehrere Gr
  nnte.
 LOCATION:IMI Büro\, Hechinger Straße 203\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zur Repression in der linken Szene
+DTSTART:20250330T140000
+DTEND:20250330T235959Z
+DTSTAMP:20250328T204312Z
+UID:d4c40b1d-0cac-4382-8986-20f49db9ec66
+DESCRIPTION:Der Staat geht zunehmend härter gegen die linke Szene vor. Re
+ pression kann alle treffen\, soll entmutigen und vereinzeln. Wissen über 
+ die eigenen Rechte und eine starke Solidarität zwischen Aktivist:innen is
+ t das beste Mittel gegen ihre Einschüchterungsversuche. Meldet euch gerne
+  an\, fragt\, lernt und helft euch gegenseitig.
+LOCATION:Ort wird nach der Anmeldung bekannt gegeben
+END:VEVENT
 END:VCALENDAR
