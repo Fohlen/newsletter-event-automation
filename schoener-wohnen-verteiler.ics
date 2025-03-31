@@ -9166,4 +9166,28 @@ DESCRIPTION:Der Staat geht zunehmend härter gegen die linke Szene vor. Re
   an\, fragt\, lernt und helft euch gegenseitig.
 LOCATION:Ort wird nach der Anmeldung bekannt gegeben
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemütliches Beisammensein für FLINTA*
+DTSTART:20250403T193000
+DTEND:20250403T235959Z
+DTSTAMP:20250331T130555Z
+UID:bb84a7ec-1ea4-4d12-ad6a-81b9824658a2
+DESCRIPTION:Hallo zusammen\, Kommenden Donnerstag\, den 3. April ab 19.30 
+ Uhr treffen wir uns wieder zum FLINTA* Treffen im Queeren Zentrum für ein
+  gemütliches Beisammensein :-) Kommt gerne!
+LOCATION:Queeres Zentrum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Information über die neue Beratungsstelle der Stadtverwaltung Tü
+ bingen für Mietprobleme.
+DTSTART:20250101T090000
+DTEND:20250101T235959Z
+DTSTAMP:20250331T130555Z
+UID:921ad7aa-a43f-435c-9dd9-a102711180c6
+DESCRIPTION:Die Stadtverwaltung Tübingen bietet eine Beratung für Mieter
+ :innen an\, die Probleme mit Vermieter:innen oder zu hohen Mieten haben. D
+ ies ist eine wichtige Ergänzung zu bestehenden Angeboten und richtet sich
+  an alle Betroffenen.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
