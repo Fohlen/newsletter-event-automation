@@ -9190,4 +9190,53 @@ DESCRIPTION:Die Stadtverwaltung Tübingen bietet eine Beratung für Mieter
   an alle Betroffenen.
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration für den Erhalt des Tübinger ÖPNV und die kommunal
+ e Müllabfuhr.
+DTSTART:20250405T140000
+DTEND:20250405T235959Z
+DTSTAMP:20250401T130642Z
+UID:0db4a5ab-7f27-4f4b-beeb-05df205f54bb
+DESCRIPTION:Kundgebung\, um gegen die geplanten Kürzungen im ÖPNV und di
+ e Privatisierung der Müllabfuhr zu protestieren. Alle sind eingeladen\, u
+ m für gute Arbeitsbedingungen und soziale Gerechtigkeit zu kämpfen.
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag & Diskussion mit Ewgeniy Kasakow
+DTSTART:20250402T190000
+DTEND:20250402T235959Z
+DTSTAMP:20250401T130642Z
+UID:69825f7f-5ef0-415b-b924-17414f55a91d
+DESCRIPTION:Ewgeniy Kasakow wird in der Veranstaltung die Gemeinsamkeiten 
+ und Unterschiede zwischen dem "altem" und dem "neuem" Maoismus beleuchten\
+ , die Rolle der maoistischen Strömungen in Industrieländern und im Triko
+ nt in der Vergangenheit und Gegenwart darstellen und verschiedene pro- und
+  anti-maoistische Positionen diskutieren.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über Eurozentrismus und Militarismus in der bürgerlichen
+  Wissenschaft.
+DTSTART:20250403T200000
+DTEND:20250403T210000Z
+DTSTAMP:20250401T130642Z
+UID:d4ae6f15-a8ff-423a-8450-67a93c383834
+DESCRIPTION:Eine experimentelle Lesung zum Eurozentrismus und Militarismus
+  bürgerlicher Wissenschaft\, präsentiert von einem anerkannten Tübinger
+  Literaturwissenschaftler.
+LOCATION:Hausbar der Lu15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Brainstorming über Vorurteile und Irrtümer zu Sozial
+ leistungen.
+DTSTART:20250403T160000
+DTEND:20250403T180000Z
+DTSTAMP:20250401T130642Z
+UID:12942eb4-85db-431d-8474-3ffb67614bf1
+DESCRIPTION:Wir laden alle ein\, ihre Ideen und Erfahrungen zu teilen\, um
+  ein Quiz über Bürgergeld-Mythen vorzubereiten. Kaffee und Kekse stehen 
+ bereit!
+LOCATION:Tübinger Arbeitslosen-Treff (TAT)\, Neckarhalde 40\, 1. OG
+END:VEVENT
 END:VCALENDAR
