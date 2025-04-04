@@ -9239,4 +9239,41 @@ DESCRIPTION:Wir laden alle ein\, ihre Ideen und Erfahrungen zu teilen\, um
  bereit!
 LOCATION:Tübinger Arbeitslosen-Treff (TAT)\, Neckarhalde 40\, 1. OG
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffpunkt für die Fahrrad-Demo
+DTSTART:20250411T180000
+DTEND:20250411T235959Z
+DTSTAMP:20250404T130418Z
+UID:f2d60430-687d-4fc9-bc99-5dbc2a693f0c
+DESCRIPTION:Wir treffen uns um 18:00 an der Uni-Bib\, Wilhelmstraße 32. E
+ s gibt einen Redebeitrag von Fridays for Future zur Klimapolitik in den Ko
+ alitionsverhandlungen. Anschließend fahren wir durch Tübingen und setzen
+  ein Zeichen für eine nachhaltige und fahrradfreundliche Stadt.
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leibi vom Chaos Computer Club Stuttgart spricht über praktische T
+ ipps für Datenschutz und IT-Sicherheit.
+DTSTART:20250408T193000
+DTEND:20250408T235959Z
+DTSTAMP:20250404T130418Z
+UID:71877572-aae8-40af-957c-0dd1cbc866f7
+DESCRIPTION:Der Vortrag findet parallel zur FRANZ!kneipe statt und man kan
+ n sich ungezwungen mit einem Getränk dazu setzen\, lauschen und Fragen st
+ ellen.
+LOCATION:FRANZ!werk\, Bei den Pferdeställen 8\, 72072 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinschaftskonzert mit dem Hamburger Chor der Gewerkschafter*inn
+ en und dem Ernst-Bloch-Chor Tübingen.
+DTSTART:20250405T200000
+DTEND:20250405T235959Z
+DTSTAMP:20250404T130418Z
+UID:e33346cd-6548-480b-bcb0-faf53ea72e82
+DESCRIPTION:Eintritt frei - Spenden erbeten. Die Welt ruft nach Veränderu
+ ng\, aber die Richtung dafür sollte stimmen! Der Hamburger Gewerkschaftsc
+ hor unter Leitung von Natalie Kopp ist am Samstag\, 5. April\, in Tübinge
+ n zu Gast.
+LOCATION:Mensa Uhlandstraße\, Tübingen
+END:VEVENT
 END:VCALENDAR
