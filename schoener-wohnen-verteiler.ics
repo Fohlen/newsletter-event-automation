@@ -9276,4 +9276,17 @@ DESCRIPTION:Eintritt frei - Spenden erbeten. Die Welt ruft nach Veränderu
  n zu Gast.
 LOCATION:Mensa Uhlandstraße\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Treffen mit Frühjahresbowle zur Unterstützung einer 
+ Schulausbildung in Pakistan.
+DTSTART:20250407T180000
+DTEND:20250407T220000Z
+DTSTAMP:20250404T204308Z
+UID:ac705cdb-ac04-4373-882f-d3d37d03a563
+DESCRIPTION:Am Montag\, 7. April\, von 18:00 - 22:00 Uhr. Bei schönem Wet
+ ter im Garten mit Tischtennisplatte\; bei schlechtem Wetter im Wohnzimmer 
+ mit Tischkicker und Ofenfeuer. Einnahmen zur Finanzierung der Schulausbild
+ ung eines ehemaligen Mitbewohners.
+LOCATION:Leibnizhaus 3\, Hauffstraße 23
+END:VEVENT
 END:VCALENDAR
