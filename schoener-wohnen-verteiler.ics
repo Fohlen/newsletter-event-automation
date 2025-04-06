@@ -9289,4 +9289,17 @@ DESCRIPTION:Am Montag\, 7. April\, von 18:00 - 22:00 Uhr. Bei schönem Wet
  ung eines ehemaligen Mitbewohners.
 LOCATION:Leibnizhaus 3\, Hauffstraße 23
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Großer Frühlings-Flohmarkt mit Flohmarktständen\, Tekkno-Tischt
+ ennis\, Jam Session und kulinarischen Angeboten.
+DTSTART:20250413T150000
+DTEND:20250413T200000Z
+DTSTAMP:20250406T130003Z
+UID:79ce7f82-48ed-4525-9c37-bb8e76e08b05
+DESCRIPTION:Feiert mit uns den Frühlingsanfang beim alljährlichen Flohma
+ rkt! Stöbert in entspannter Atmosphäre\, gestaltet eure alten Klamotten 
+ neu\, und genießt Musik und Essen. Alle Einnahmen gehen an das Linke Zent
+ rum und Medico International. Bringt eure Freunde mit!
+LOCATION:Wilhelma\, Stuttgart
+END:VEVENT
 END:VCALENDAR
