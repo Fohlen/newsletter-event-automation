@@ -9302,4 +9302,72 @@ DESCRIPTION:Feiert mit uns den Frühlingsanfang beim alljährlichen Flohma
  rum und Medico International. Bringt eure Freunde mit!
 LOCATION:Wilhelma\, Stuttgart
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tausch von Kleidung und Pflanzen
+DTSTART:20250412T140000
+DTEND:20250412T170000Z
+DTSTAMP:20250407T204409Z
+UID:db550fec-8109-4df3-b6c8-7d3198bb0135
+DESCRIPTION:Wir laden euch herzlich zur Pflanzen- und Kleidertauschparty e
+ in! Bringt gerne gut erhaltene Kleidung mit\, die ihr nicht mehr tragt\, u
+ nd nehmt euch neue Lieblingsteile mit nach Hause. Zusätzlich könnt ihr P
+ flanzen tauschen – Ableger\, Samen oder Töpfe\, alles ist willkommen! K
+ ommt vorbei\, bringt Freund:innen mit und lasst uns gemeinsam nachhaltig t
+ auschen und Spaß haben!
+LOCATION:Fichtehaus\, Herrenberger Straße 40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung mit Dr. Janika Kuge über Sanctuary Policies in
+  den USA und deren Auswirkungen auf die Migrationspolitik.
+DTSTART:20250410T190000
+DTEND:20250410T235959Z
+DTSTAMP:20250407T204409Z
+UID:69c32fa9-ed43-47fa-9ab9-42743d581e53
+DESCRIPTION:In den USA leben und arbeiten Millionen von Menschen ohne lega
+ le Papiere. Eine Reihe progressiver und integrativer Politiken soll den Al
+ ltag für undokumentierte Menschen erleichtern\, insbesondere durch Sanctu
+ ary Policies\, die polizeiliche Migrationskontrollen einschränken und Abs
+ chiebungen verhindern. Dr. Janika Kuge untersucht die Umstände\, unter de
+ nen solche Policies entstehen\, sowie deren Auswirkungen auf rechtliche un
+ d gesellschaftliche Debatten über Bevölkerungs- und Migrationspolitik.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Konzertabend zur Einstimmung auf das Sommerfest
+DTSTART:20250531T180000
+DTEND:20250531T235959Z
+DTSTAMP:20250407T204409Z
+UID:29aa93fc-01c6-41d9-82ac-7e69e1ad12c0
+DESCRIPTION:Am 31.05. ab 18:00 Uhr findet ein offener Konzertabend in der 
+ Wagenburg-Kneipe statt. Bands sind willkommen\, um 30 Minuten zu spielen. 
+ Gespielt wird auf Spendenbasis. Am Ende spielt eine Band aus der Wagenburg
+ -Szene.
+LOCATION:Wagenburg-Kneipe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier zu Gunsten des Fördervereins für krebskranke Kinder
+DTSTART:20250419T220000
+DTEND:20250419T235959Z
+DTSTAMP:20250407T204409Z
+UID:2a2d0926-e442-44e2-b9c0-f2fc00f158c7
+DESCRIPTION:Das co.llectiv organisiert eine Soliparty im Geigerle. Der Ein
+ tritt und die Getränke sind auf pay-as-you-want-Basis und werden 100% an 
+ den Förderverein für krebskranke Kinder gespendet. Weitere Infos auf Ins
+ tagram @co.llectiv.
+LOCATION:Geigerle\, Charlottenstraße 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein grandioses Konzert voller Überraschungen mit GrGr\, Dienstver
+ gehen und Die Neue Sachlichkeit.
+DTSTART:20250509T200000
+DTEND:20250509T235900Z
+DTSTAMP:20250407T204409Z
+UID:5538c168-b781-4139-817e-0afc71e5de18
+DESCRIPTION:Am Freitag\, 9. Mai erwartet euch ein großartiges Konzert mit
+  tanzbarem 8-Bit-Punk (GrGr)\, frischem Synthpunk (Dienstvergehen) und dem
+  Nachfolgeprojekt der Bremer Band Alltag (Die Neue Sachlichkeit). Der Soun
+ d wird von Luna (Jabalu) gemixt. Kommt vorbei und habt Spaß! Wir freuen u
+ ns darauf\, mit euch richtig steil zu gehen!
+LOCATION:Keller der Schelling
+END:VEVENT
 END:VCALENDAR
