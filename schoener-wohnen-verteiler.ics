@@ -9370,4 +9370,15 @@ DESCRIPTION:Am Freitag\, 9. Mai erwartet euch ein großartiges Konzert mit
  ns darauf\, mit euch richtig steil zu gehen!
 LOCATION:Keller der Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Folk Band Konzert
+DTSTART:20250401T190000
+DTEND:20250401T230000Z
+DTSTAMP:20250408T130628Z
+UID:2dfc9842-8d97-4bc3-bb57-1dccc2974694
+DESCRIPTION:Die FREEBORN BROTHERS aus Polen spielen energetischen Gypsy Fo
+ lkpunk. Ein musikalisches Chaos mit einem irren Mix aus verschiedenen Inst
+ rumenten. EINTRITT FREI!!!
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
