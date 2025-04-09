@@ -9381,4 +9381,19 @@ DESCRIPTION:Die FREEBORN BROTHERS aus Polen spielen energetischen Gypsy Fo
  rumenten. EINTRITT FREI!!!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Aufführung\, die sich mit der Vernichtung von Menschen mit B
+ ehinderungen im Nationalsozialismus beschäftigt.
+DTSTART:20250412T160000
+DTEND:20250412T180000Z
+DTSTAMP:20250409T130816Z
+UID:0e9bb1f1-44b3-476b-b860-320ff447549a
+DESCRIPTION:Von 1939 bis 1945 wurden in ganz Europa rund 300.000 Kranke un
+ d Menschen mit Behinderungen als "lebensunwert" aussortiert und umgebracht
+ . Die Theatergruppe ChiBäm spielt\, spricht und liest aus dem Stück "Eri
+ nnerung 2000" von Katja Kandel und Klaus Beer. Schauspieler*innen mit Behi
+ nderung zeigen ihren Blick auf die Schicksale von Menschen im Nationalsozi
+ alismus und reflektieren darüber\, wie es in der Gegenwart aussieht.
+LOCATION:Aula\, Mensa Uhlandstrasse\, Uhlandstrasse 30\, Tübingen
+END:VEVENT
 END:VCALENDAR
