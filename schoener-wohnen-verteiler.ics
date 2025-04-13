@@ -9396,4 +9396,17 @@ DESCRIPTION:Von 1939 bis 1945 wurden in ganz Europa rund 300.000 Kranke un
  alismus und reflektieren darüber\, wie es in der Gegenwart aussieht.
 LOCATION:Aula\, Mensa Uhlandstrasse\, Uhlandstrasse 30\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Zugfahrt von Tübingen nach Stuttgart für den Ostermar
+ sch am 19. April.
+DTSTART:20250419T101500
+DTEND:20250419T140000Z
+DTSTAMP:20250413T130054Z
+UID:f3ccd6f3-59c3-4310-a4e7-e936ef8fba4e
+DESCRIPTION:Treffpunkt: Samstag\, 19. April 2025\, 10:15 Uhr in der Eingan
+ gshalle des Tübinger Hauptbahnhofs. Abfahrt um 10:33 Uhr\, Gleis 5\, mit 
+ MEX 18 nach Stuttgart. Der Ostermarsch beginnt mit einer Kundgebung um 12 
+ Uhr am Schlossplatz und endet mit der Abschlusskundgebung gegen 14 Uhr.
+LOCATION:Tübinger Hauptbahnhof\, Stuttgart Schlossplatz
+END:VEVENT
 END:VCALENDAR
