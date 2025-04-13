@@ -9409,4 +9409,15 @@ DESCRIPTION:Treffpunkt: Samstag\, 19. April 2025\, 10:15 Uhr in der Eingan
  Uhr am Schlossplatz und endet mit der Abschlusskundgebung gegen 14 Uhr.
 LOCATION:Tübinger Hauptbahnhof\, Stuttgart Schlossplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE RAVAGERS kommen am 15. April in den Blauen Salon!
+DTSTART:20250415T190000
+DTEND:20250415T230000Z
+DTSTAMP:20250413T204218Z
+UID:a8f7ffcd-a6e6-4a22-8493-b992716f117c
+DESCRIPTION:The Ravagers haben ihre eigene Art Eastcoast-Punk-Rock'n'Roll 
+ erschaffen. Eine aggressive Mischung aus klassischem Punk\, frühem Hardro
+ ck und Glam. Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr\, Eintritt frei!
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
