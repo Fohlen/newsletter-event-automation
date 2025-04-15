@@ -9433,4 +9433,18 @@ DESCRIPTION:Am 2. Mai findet ein Punk Konzert im Epplehaus statt. Mit DAS
  schen Melodien!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Queer Open Stage event in Tübingen\, providing a safe space
+  for artistic expression and community.
+DTSTART:20250419T190000
+DTEND:20250419T235959Z
+DTSTAMP:20250415T204410Z
+UID:ea17b16b-6c8f-47f8-ae9b-c858dd983985
+DESCRIPTION:Join us for the first Queer Open Stage organized by the ultrav
+ iolett collective in Tübingen! Expect a great evening in a safe space to 
+ be creative\, share thoughts\, or just meet over a drink. Open to queers a
+ nd friends! If you would like to perform or be creatively involved\, feel 
+ free to email us or come spontaneously!
+LOCATION:Frauen*café Achtbar\, Weberstraße 8\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
