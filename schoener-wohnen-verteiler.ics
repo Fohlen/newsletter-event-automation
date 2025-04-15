@@ -9420,4 +9420,17 @@ DESCRIPTION:The Ravagers haben ihre eigene Art Eastcoast-Punk-Rock'n'Roll
  ck und Glam. Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr\, Eintritt frei!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kuschelpunkformation DAS AUS DER JUGEND und Support von SOCKE und 
+ FRAMPADAMPA.
+DTSTART:20250502T200000
+DTEND:20250502T235959Z
+DTSTAMP:20250415T130614Z
+UID:952b6a65-5c86-4e47-bba9-da451fe03e32
+DESCRIPTION:Am 2. Mai findet ein Punk Konzert im Epplehaus statt. Mit DAS 
+ AUS DER JUGEND\, SOCKE und FRAMPADAMPA. Doors & Küfa ab 20 Uhr\, Musik um
+  21 Uhr. Freut euch auf einen Abend mit fetzigen Punkrock-Beats und melodi
+ schen Melodien!
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
