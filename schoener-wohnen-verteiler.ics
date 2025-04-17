@@ -9483,4 +9483,15 @@ DESCRIPTION:Kommt am 1. Mai 2025 um 10:15 Uhr zum Europaplatz in Tübingen
  st ab 14 Uhr in der Nauklerstraße 50 ein.
 LOCATION:Europaplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes antikapitalistisches Klimatreffen
+DTSTART:20250424T190000
+DTEND:20250424T235959Z
+DTSTAMP:20250417T204347Z
+UID:118080e9-3237-4510-8033-209dc57394fc
+DESCRIPTION:Wir setzen uns für Klimagerechtigkeit und soziale Gerechtigke
+ it ein und laden alle ein\, aktiv gegen die Klimakrise und Kapitalismus zu
+  kämpfen. Kommt vorbei!
+LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz
+END:VEVENT
 END:VCALENDAR
