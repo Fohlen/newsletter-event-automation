@@ -9447,4 +9447,40 @@ DESCRIPTION:Join us for the first Queer Open Stage organized by the ultrav
  free to email us or come spontaneously!
 LOCATION:Frauen*café Achtbar\, Weberstraße 8\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Save the Date for Münzgassenfest
+DTSTART:20250621T000000
+DTEND:20250621T235959Z
+DTSTAMP:20250417T130547Z
+UID:cbaee5e6-5e2f-4a59-9200-be0729e53044
+DESCRIPTION:Join us for the annual Münzgassenfest in Tübingen! This even
+ t will feature both new and old highlights\, ensuring fun for all ages. Do
+ n't miss it!
+LOCATION:Münzgasse\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmabend mit anschließender Diskussion.
+DTSTART:20250417T183000
+DTEND:20250417T235959Z
+DTSTAMP:20250417T130547Z
+UID:c0631d7f-0a11-4880-a83b-c5a79f60398b
+DESCRIPTION:Wir veranstalten einen Filmabend anlässlich des Tages der pal
+ ästinensischen politischen Gefangenen\, um auf die Situation von über 10
+ .000 palästinensischen Gefangenen aufmerksam zu machen. Die Veranstaltung
+  umfasst eine Filmvorführung und eine Diskussion.
+LOCATION:[Ort einfügen]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Als Klasse kämpfen für Frieden - gegen Aufrüstung\, Krieg und W
+ irtschaftskrise!
+DTSTART:20250501T101500
+DTEND:20250501T235959Z
+DTSTAMP:20250417T130547Z
+UID:1b4807ee-6d1b-4aa6-b17d-409be3954228
+DESCRIPTION:Kommt am 1. Mai 2025 um 10:15 Uhr zum Europaplatz in Tübingen
+ \, um gemeinsam für eine sozialistische Gesellschaft zu kämpfen. Nach de
+ r DGB-Demonstration lädt das Linke Zentrum Trude Lutz zu einem Straßenfe
+ st ab 14 Uhr in der Nauklerstraße 50 ein.
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
