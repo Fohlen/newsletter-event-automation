@@ -9494,4 +9494,35 @@ DESCRIPTION:Wir setzen uns für Klimagerechtigkeit und soziale Gerechtigke
   kämpfen. Kommt vorbei!
 LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Austausch über Klimakollaps und gesellschaftliche Themen.
+DTSTART:20250427T100000
+DTEND:20250427T120000Z
+DTSTAMP:20250418T204311Z
+UID:8e0eaf24-bfda-4575-b02c-d343a00b431f
+DESCRIPTION:Wir wollen den Austausch in Folge der Veranstaltung mit Tadzio
+  Müller zu "Klimakollaps\, Verdrängungsgesellschaft\, solidarisches Prep
+ ping" weiterführen und laden zu einem offenen Austausch in lockerer Atmos
+ phäre ein. Eingeladen sind alle\, die sich über Gefühle und Gedanken an
+ gesichts Klimakollaps\, Naturzerstörung\, Rassismus\, Faschisierung und g
+ esellschaftlichen Zusammenbruchsszenarien austauschen wollen. Ab 10 Uhr be
+ grüßen wir euch und um 10:15 Uhr beginnen wir gemeinsam mit einer niedri
+ gschwelligen Körperübung. Im Anschluss wollen wir uns in Kleingruppen da
+ rüber austauschen\, was uns beschäftigt. Das Kollaps-Café findet im Gem
+ einschaftsraum im Untergeschoss statt\, Zugang über das Café Hafenblick 
+ oder über die Eingangstür hinter dem Haus.
+LOCATION:Hechinger Str. 35\, Gemeinschaftsraum im Untergeschoss
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for OSTERBAR at Leibnizhaus II
+DTSTART:20250421T193000
+DTEND:20250421T235959Z
+DTSTAMP:20250418T204311Z
+UID:4933077d-5395-4ec3-8039-6f837d102f89
+DESCRIPTION:Hallo Alle\, am Montag 21.04.2025 seid ihr wieder herzlich zur
+  OSTERBAR im Leibnizhaus II (Stauffenbergstraße 30\, Tübingen) eingelade
+ n! Um 19.30 geht es los mit lecker Getränken und ab 20 Uhr zeigen wir –
+  ganz osterlich – eine Überraschung! Wir freuen uns auf euch!
+LOCATION:Leibnizhaus II\, Stauffenbergstraße 30\, Tübingen
+END:VEVENT
 END:VCALENDAR
