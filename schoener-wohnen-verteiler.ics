@@ -9525,4 +9525,15 @@ DESCRIPTION:Hallo Alle\, am Montag 21.04.2025 seid ihr wieder herzlich zur
   ganz osterlich – eine Überraschung! Wir freuen uns auf euch!
 LOCATION:Leibnizhaus II\, Stauffenbergstraße 30\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Save the Date for CSD Tübingen 2025!
+DTSTART:20250607T000000
+DTEND:20250607T235959Z
+DTSTAMP:20250420T204327Z
+UID:d612b07a-7b22-47dd-b594-fd06d896796e
+DESCRIPTION:Join us on June 7\, 2025\, for the CSD in Tübingen during Pri
+ de Month. We are excited to cooperate with the Ract Festival team for a gr
+ eat weekend of celebration! More details to come soon!
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
