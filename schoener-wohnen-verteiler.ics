@@ -9536,4 +9536,51 @@ DESCRIPTION:Join us on June 7\, 2025\, for the CSD in Tübingen during Pri
  eat weekend of celebration! More details to come soon!
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Fest im Rahmen des 4-Häuser-Projekts.
+DTSTART:20250501T170000
+DTEND:20250501T235959Z
+DTSTAMP:20250421T204350Z
+UID:2fc9a26a-85bf-4ab9-b042-8e104d524277
+DESCRIPTION:Grillen auf der Dachterrasse\, Bar auf dem Laubengang\, Tanz i
+ m Café und mehr!
+LOCATION:Hechinger Str. 35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community gathering for dinner and solidarity at Siggi11.
+DTSTART:20250422T180000
+DTEND:20250422T235959Z
+DTSTAMP:20250421T204350Z
+UID:e2c2ad92-8da6-458d-a728-62f104ba2236
+DESCRIPTION:Join us for a cozy evening with delicious food\, relaxing musi
+ c\, and a chance to connect with others. Bring your appetite and come as y
+ ou are!
+LOCATION:Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kletter- und Bauworkshops\, Stadtspaziergang zur Mobilitätswende\
+ , Filmabend\, Waldspaziergang und mehr.
+DTSTART:20250424T100000
+DTEND:20250424T235959Z
+DTSTAMP:20250421T204350Z
+UID:4b66942f-52c8-41c7-9c58-7177006e0f36
+DESCRIPTION:Unter dem Motto 'Wir stoppen den Schindhaubasistunnel und sich
+ ern über 400 Millionen Euro für Klimaschutz' findet ein Workshop-Wochene
+ nde mit spannendem Programm statt. Am Sonntag workshop von FFF zum Thema '
+ Einwendungen gegen den Schindhaubasistunnel schreiben'.
+LOCATION:Schindi-Wald
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffpunkt für den antikapitalistischen Bereich bei der DGB-Demo.
+DTSTART:20250501T101500
+DTEND:20250501T140000Z
+DTSTAMP:20250421T204350Z
+UID:f41214bc-834f-4144-ab6d-6200984894f5
+DESCRIPTION:Am 1. Mai gehen wir als arbeitende Klasse auf die Straße\, um
+  gemeinsam für eine sozialistische Gesellschaft zu kämpfen. Wir sagen: A
+ cht Stunden Arbeit am Tag sind genug\, Schluss mit ihren Kriegen und Geld 
+ her für unsere Lebensgrundlagen! Kommt am 1. Mai in den antikapitalistisc
+ hen Bereich!
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
