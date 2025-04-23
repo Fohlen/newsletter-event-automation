@@ -9612,4 +9612,15 @@ DESCRIPTION:Die Seebrücke Tübingen und mehrere Gruppen organisieren eine
  alle zur Demonstration!
 LOCATION:Holzmarkt\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Schelling-Hausbar öffnet wieder ihre Pforten für alle.
+DTSTART:20250121T180000
+DTEND:20250121T235900Z
+DTSTAMP:20250423T204432Z
+UID:ebe231d7-0e00-4183-8cbe-b6a0319de82f
+DESCRIPTION:Kommt zahlreich\, trinkt Getränke und habt eine gute Zeit. Ge
+ plant haben wir nichts\, aber vielleicht gibt es spontane Überraschungen.
+  Wir werden die Bar rauchfrei halten.
+LOCATION:Schelling-Hausbar
+END:VEVENT
 END:VCALENDAR
