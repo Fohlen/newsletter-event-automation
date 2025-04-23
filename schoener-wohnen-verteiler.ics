@@ -9583,4 +9583,33 @@ DESCRIPTION:Am 1. Mai gehen wir als arbeitende Klasse auf die Straße\, um
  hen Bereich!
 LOCATION:Europaplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dokumentarfilm Vorführung „Echos from Borderland“ und Projekt
+ vorstellung von move.on „welcome solidarity! save our future“
+DTSTART:20250425T190000
+DTEND:20250425T235959Z
+DTSTAMP:20250423T130701Z
+UID:47049297-f399-4f9f-9ec2-eba5f20c4477
+DESCRIPTION:Wir laden euch herzlich zu einem weiteren Programmpunkt in der
+  aktuellen laufenden Ausstellung Pushback in die Shedhalle ein. Es wird ei
+ n spannender und aufwühlender Abend mit Film und einen anschließenden Ei
+ nblick in die Arbeit von move.on einer Tübinger Organisation die seit Anf
+ ang diesen Jahres eine neue Kampagne gestartet hat\, zur Unterstützung vo
+ n afghanischen Frauen. Kommt zahlreich!!! Wir freuen uns auf euch: Zum Fil
+ m Echos from Borderland
+LOCATION:Shedhalle Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aufruf zur Demo gegen den neuen Koalitionsvertrag von Union und SP
+ D.
+DTSTART:20250424T180000
+DTEND:20250424T235959Z
+DTSTAMP:20250423T130701Z
+UID:7a55aae5-32a4-4fe7-aa9f-e34cfb6ee720
+DESCRIPTION:Die Seebrücke Tübingen und mehrere Gruppen organisieren eine
+  Demonstration gegen den ultrarechten Koalitionsvertrag von Union und SPD.
+  Der Vertrag verspricht soziale Verschlechterungen und Aufrüstung. Kommt 
+ alle zur Demonstration!
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
 END:VCALENDAR
