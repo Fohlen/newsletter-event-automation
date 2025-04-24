@@ -9623,4 +9623,29 @@ DESCRIPTION:Kommt zahlreich\, trinkt Getränke und habt eine gute Zeit. Ge
   Wir werden die Bar rauchfrei halten.
 LOCATION:Schelling-Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Maskenball!
+DTSTART:20250426T210000
+DTEND:20250426T235959Z
+DTSTAMP:20250424T204451Z
+UID:e5133609-fc62-46e0-8851-2a4d548febcc
+DESCRIPTION:Maskenball am 26.04.25 ab 21:00 in der Schwabstraße 6. Es gib
+ t eine Gruppe für die Einlassstop-Kommunikation am Abend. Wir brauchen no
+ ch Awarenesschichten!
+LOCATION:Schwabstraße 6\, 26.04.25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Kundgebung gegen Videoüberwachung am ZOB vor dem Ra
+ thaus.
+DTSTART:20251002T161500
+DTEND:20251002T235959Z
+DTSTAMP:20250424T204451Z
+UID:250a3992-93af-4ce6-be8d-585cc8642f5f
+DESCRIPTION:Wir vom Chaostreff Tübingen laden euch zur Kundgebung gegen V
+ ideoüberwachung ein. Im Anschluss wird der Verwaltungsausschuss zu der Fr
+ eigabe der Gelder für die geplante Maßnahme beraten. Wir sind nicht gege
+ n sinnvoll eingesetzte Technologien\, aber gegen die Missachtung von Bürg
+ errechten.
+LOCATION:ZOB vor dem Rathaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
