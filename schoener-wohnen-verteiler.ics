@@ -9648,4 +9648,17 @@ DESCRIPTION:Wir vom Chaostreff Tübingen laden euch zur Kundgebung gegen V
  errechten.
 LOCATION:ZOB vor dem Rathaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarische Feier zum 1. Mai mit Musik\, Vorträgen und Vernetzun
+ g.
+DTSTART:20250501T140000
+DTEND:20250501T235959Z
+DTSTAMP:20250425T204508Z
+UID:c40a3ad6-f39f-4e4f-8133-f9db09f89c36
+DESCRIPTION:Lasst uns am Ersten Mai auf dem Sternplatz solidarisch feiern!
+  Gemeinsam Musik hören\, Vorträge lauschen\, an Infotischen plaudern und
+  uns vernetzen. Es gibt rebellisches Singen\, Soli-Essen & Getränke und L
+ ive-Bands: Amore\, Frampadampa & Vandalismus!
+LOCATION:Sternplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
