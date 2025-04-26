@@ -9661,4 +9661,27 @@ DESCRIPTION:Lasst uns am Ersten Mai auf dem Sternplatz solidarisch feiern!
  ive-Bands: Amore\, Frampadampa & Vandalismus!
 LOCATION:Sternplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zu einem Fahrradworkshop für FLINTA-Personen.
+DTSTART:20250524T110000
+DTEND:20250524T160000Z
+DTSTAMP:20250426T204208Z
+UID:f8f5dda9-2109-40d4-979f-583bf1a7baa4
+DESCRIPTION:Komm zu unserem FLINTA-Fahrradworkshop\, um deine Fahrräder z
+ u reparieren\, zu optimieren oder einfach Neues zu lernen. Werkzeug und Un
+ terstützung stehen zur Verfügung!
+LOCATION:Tübinger Südstadt nahe des Bahnhofs (Adresse wird nach Anmeldun
+ g mitgeteilt)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innovatives Ashtanga Yoga für alle
+DTSTART:20250101T170000
+DTEND:20250101T193000Z
+DTSTAMP:20250426T204208Z
+UID:14f74719-d537-4296-a431-86315200967d
+DESCRIPTION:Wir üben innovatives Ashtanga Yoga. Montags um 17 Uhr Ashtang
+ a Basic mit Hannah und um 18.30 Uhr Ashtanga Advanced mit Zorana (in Engli
+ sh).
+LOCATION:Fichtehaus\, Weststadt
+END:VEVENT
 END:VCALENDAR
