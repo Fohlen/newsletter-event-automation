@@ -9684,4 +9684,17 @@ DESCRIPTION:Wir üben innovatives Ashtanga Yoga. Montags um 17 Uhr Ashtang
  sh).
 LOCATION:Fichtehaus\, Weststadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration gegen patriarchale Strukturen und für mehr Sicherhe
+ it und Sichtbarkeit.
+DTSTART:20250430T203000
+DTEND:20250430T235959Z
+DTSTAMP:20250427T130139Z
+UID:423ee3dd-4a88-4f08-a4b1-d9251f1028b9
+DESCRIPTION:Am 30.04. ist Walpurgisnacht. In Zeiten der Hexenverfolgung wu
+ rde sie mit der Angst vor weiblicher Macht assoziiert. Wir nehmen uns dies
+ es Datum zurück\, um für queere feministische Kämpfe auf die Straße zu
+  gehen. Kommt solidarisch\, gemeinsam und wütend!
+LOCATION:Haagtorplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
