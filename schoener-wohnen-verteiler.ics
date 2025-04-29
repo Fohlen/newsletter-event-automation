@@ -9697,4 +9697,27 @@ DESCRIPTION:Am 30.04. ist Walpurgisnacht. In Zeiten der Hexenverfolgung wu
   gehen. Kommt solidarisch\, gemeinsam und wütend!
 LOCATION:Haagtorplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von Goetherecords im Fichtehaus.
+DTSTART:20250503T200000
+DTEND:20250503T235959Z
+DTSTAMP:20250429T204559Z
+UID:2df5911a-0113-47bb-9420-aa07f8914a1e
+DESCRIPTION:Erlebt eine Nacht voller Musik mit sinnlosem Rap\, Partyschlag
+ ern und unangenehmstem Techno\, gefolgt von einer After-Party im Karl-Heim
+ -Haus mit lokalen DJs. Eintritt ist kostenlos!
+LOCATION:Fichtehaus und Karl-Heim-Haus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert der Leopold Kraus Wellenkapelle mit den Kings of Black For
+ est Surf.
+DTSTART:20250502T190000
+DTEND:20250502T230000Z
+DTSTAMP:20250429T204559Z
+UID:69919196-9852-4ca3-bba5-07138dbf3ddf
+DESCRIPTION:Die Leopold Kraus Wellenkapelle ist bekannt für ihre einzigar
+ tige Mischung aus 60s Rock‘n‘Roll und tanzbarem 60s Beat & Surf. Eintr
+ itt frei!
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
