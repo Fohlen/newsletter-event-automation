@@ -9720,4 +9720,28 @@ DESCRIPTION:Die Leopold Kraus Wellenkapelle ist bekannt für ihre einzigar
  itt frei!
 LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music event featuring Nathaniel J Forrester.
+DTSTART:20250508T220000
+DTEND:20250508T235959Z
+DTSTAMP:20250430T130644Z
+UID:ed5e2282-ba29-446a-882b-12e96a741ddf
+DESCRIPTION:Experience a night of spacy danceable poetic lofi & synth pop 
+ with Nathaniel J Forrester. Küfa starts at 6 PM\, followed by a house bar
+  from 9 PM. Concert starts at 10 PM.
+LOCATION:Lu15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobi-Vortrag über radikale Abtreibungsgegner*innen und deren Meth
+ oden sowie Auswirkungen auf die Gesellschaft.
+DTSTART:20250501T150000
+DTEND:20250501T235959Z
+DTSTAMP:20250430T130644Z
+UID:70226750-1909-46ce-b1e0-260e0394a6a0
+DESCRIPTION:Wir halten einen Mobi-Vortrag auf dem 1. Mai-Fest um 15 Uhr. T
+ hemen: ideologische Grundlagen\, Argumentationsweisen\, Akteur*innen und d
+ eren Netzwerke der radikalen Abtreibungsgegner*innen. Diskutieren wir die 
+ Auswirkungen auf die Gesellschaft und Formen der Gegenbewegungen.
+LOCATION:1. Mai-Fest\, Tübingen
+END:VEVENT
 END:VCALENDAR
