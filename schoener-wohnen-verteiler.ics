@@ -9744,4 +9744,36 @@ DESCRIPTION:Wir halten einen Mobi-Vortrag auf dem 1. Mai-Fest um 15 Uhr. T
  Auswirkungen auf die Gesellschaft und Formen der Gegenbewegungen.
 LOCATION:1. Mai-Fest\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feierlichkeiten zum 1. Mai mit Vorträgen\, Soli-Essen\, Getränke
+ n und Livemusik.
+DTSTART:20250501T140000
+DTEND:20250501T220000Z
+DTSTAMP:20250501T130519Z
+UID:43bd3187-6f20-4228-96d0-f00c8ee777cd
+DESCRIPTION:Kommt morgen zum 1. Mai am Sternplatz! Beginn ist um 14 Uhr. E
+ s gibt Soli-Essen und Getränke\, Infotische und abendliche Livemusik. Vor
+ träge im Garten der Lu15: - 15:00 "Marsch fürs Leben" Antifeministische 
+ Abtreibungsgegner*innen\, Akteur*innen und deren Netzwerke - 16:00 Warum d
+ ie AfD keine Friedenspartei ist - 17:00 Über Syndikalismus von der FAU. E
+ inige Gruppen werden Stände aufbauen\, um mit euch ins Gespräch zu komme
+ n. Auch die Menschenrechtswoche wird einen Infotisch aufbauen und einen So
+ li-Kuchenverkauf unterstützen. Kommt vorbei und lernt euch kennen!
+LOCATION:Sternplatz\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend zum Entdecken und Genießen mit Flohmarkt\, Pizza und Dr
+ inks.
+DTSTART:20250505T170000
+DTEND:20250505T220000Z
+DTSTAMP:20250501T130519Z
+UID:db9f6859-1e6a-40c2-9b44-16e178343dff
+DESCRIPTION:Am 5.5.2025 verwandelt sich das Leibniz Haus 3 von 17 bis 22 U
+ hr in einen Treffpunkt voller Überraschungen\, guter Musik und köstliche
+ r Düfte. Von 17 bis 21 Uhr lädt der Flohmarkt der unerwarteten Schätze 
+ ein. Dazu gibt’s frisch gebackene Pizza aus dem Steinofen und an der Ös
+ terbar Drinks und entspannte Beats. Der gesamte Erlös geht direkt und kom
+ plett an Familien in Gaza.
+LOCATION:Leibniz Haus 3\, Adresse nicht angegeben
+END:VEVENT
 END:VCALENDAR
