@@ -9776,4 +9776,31 @@ DESCRIPTION:Am 5.5.2025 verwandelt sich das Leibniz Haus 3 von 17 bis 22 U
  plett an Familien in Gaza.
 LOCATION:Leibniz Haus 3\, Adresse nicht angegeben
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde belgische Familien-Trash-Pop-Trio Stakattak live in Tübinge
+ n.
+DTSTART:20250518T200000
+DTEND:20250518T235959Z
+DTSTAMP:20250518T204320Z
+UID:ff080d4f-e7b3-4503-91b1-c049a9dc6a48
+DESCRIPTION:Stakattak ist das wilde belgische Familien-Trash-Pop-Trio und 
+ selbsternannter Vorläufer von Raout Rock. Sie haben drei Alben - No Exit 
+ (2020)\, Decoy (2021)\, This Real (2023) - mit mehreren unabhängigen Labe
+ ls veröffentlicht. Freut euch auf eingekochte Songs und explosive Livesho
+ ws.
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gespräch mit Kollegen von exGKN | 24. Mai | ab 19 Uhr | Linkes Ze
+ ntrum Trude Lutz | Für das leibliche Wohl ist gesorgt
+DTSTART:20250524T190000
+DTEND:20250524T235959Z
+DTSTAMP:20250518T204320Z
+UID:22d9078f-3506-4398-97a7-e65a3041ed3c
+DESCRIPTION:Am 24. Mai bekommen wir Besuch von Vertretern des exGKN-Kollek
+ tivs. Sie berichten uns von ihren Erfahrungen und wie sie es geschafft hab
+ en\, ihre Fabrik zu übernehmen. Anschließend lassen wir den Abend mit it
+ alienischen Snacks und Getränken enden. Kommt vorbei!
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50 Tübingen
+END:VEVENT
 END:VCALENDAR
