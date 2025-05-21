@@ -9803,4 +9803,106 @@ DESCRIPTION:Am 24. Mai bekommen wir Besuch von Vertretern des exGKN-Kollek
  alienischen Snacks und Getränken enden. Kommt vorbei!
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt mit Kaffee\, Kuchen und Pommes.
+DTSTART:20250525T150000
+DTEND:20250525T235959Z
+DTSTAMP:20250521T130940Z
+UID:4f0640c3-c853-491a-9ca9-e62eabe76d9e
+DESCRIPTION:Besuchen Sie unseren Flohmarkt im Sachsenhaus\, um zu stöbern
+  und zu genießen! Für Snacks und Getränke ist gesorgt.
+LOCATION:Sachsenhaus\, Schloßbergstraße 33
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein gemütliches Sonntagspicknick zum Austausch und Entspannung.
+DTSTART:20250525T140000
+DTEND:20250525T235959Z
+DTSTAMP:20250521T130940Z
+UID:433d986f-b8e0-4099-8f7f-ca363cb61e36
+DESCRIPTION:Das Picknick widmet sich dem Thema Gemeinschaft und Verbindung
+ . Bringt eure persönlichen Erfahrungen\, Verluste\, Träume und Utopien m
+ it. Für alle Frauen und Queers\, bringt gerne eure Kinder mit!
+LOCATION:Alter Botanischer Garten\, an der Hölderlinstatue\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akustik-Gitarrenduo Kast und Tempeh sowie die Band Soundstic spiel
+ en live.
+DTSTART:20250315T203000
+DTEND:20250315T235959Z
+DTSTAMP:20250521T130940Z
+UID:419b2f6c-90fd-41f0-bb2e-c4c43f82cce2
+DESCRIPTION:Am Samstag findet in der Schelling-Hausbar ein Konzert statt. 
+ Ab 20.30 Uhr spielt das Akustik-Gitarrenduo Kast und Tempeh mit Flamenco u
+ nd Django-Reinhardt. Anschließend spielt Soundstic\, deren Musiker ihre e
+ igenen Kompositionen in verschiedenen Stilen wie Rock\, Jazz\, Reggae\, Bo
+ ssanova und Tango präsentieren. Der Eintritt ist frei\, Spenden sind will
+ kommen. Helfer für die Theke oder beim Aufräumen sind herzlich eingelade
+ n\, sich zu melden.
+LOCATION:Schelling-Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A donation-based concert featuring Claire Hiegel Duo from Strasbou
+ rg\, France.
+DTSTART:20250523T213000
+DTEND:20250523T235959Z
+DTSTAMP:20250521T130940Z
+UID:f9321370-2a27-4dde-a6c6-2bf942fe5a77
+DESCRIPTION:Join us for a serene evening with the Claire Hiegel Duo\, wher
+ e original French songs meet European traditional music. Experience the ca
+ lming sounds created by two guitars and heartfelt vocals in a beautiful se
+ tting.
+LOCATION:Fichtehaus Saal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest mit Spielen\, Essen und Live-Musik.
+DTSTART:20250531T150000
+DTEND:20250531T180000Z
+DTSTAMP:20250521T130940Z
+UID:2af43437-e581-490c-90d3-b6c75a8cbd7b
+DESCRIPTION:Die Genossenschaft Neustart lädt herzlich zum Stadtteil-Fest 
+ in der Maribude ein. Es gibt Spiel\, Spaß\, leckeres Essen\, Kaffee & Kuc
+ hen. Zudem erwartet euch ein abwechslungsreiches Programm mit Workshops un
+ d Live-Musik!
+LOCATION:ehemaliges Autohaus Diedler\, Stuttgarter Straße 90\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationen über Photovoltaik-Anlagen und Fördermöglichkeiten
+ .
+DTSTART:20250522T183000
+DTEND:20250522T235959Z
+DTSTAMP:20250521T130940Z
+UID:89557e0b-26c1-4c1d-b8d7-bc1ecffed7eb
+DESCRIPTION:Am Infoabend der ehrenamtlichen Photovoltaik-Initiative kläre
+ n die Tübinger PV-Mentor:innen Fragen zu Photovoltaik-Anlagen\, von Balko
+ nkraftwerken bis zu Dachanlagen. Außerdem werden finanzielle und ökologi
+ sche Aspekte sowie Fördermöglichkeiten besprochen. Nach dem Vortrag kön
+ nen Fragen gestellt und individuelle Beratungstermine vereinbart werden.
+LOCATION:Mehrrettich\, Neckarhalde 70\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beratungsstunde zur Klärung von Rechten und Unterstützung bei ar
+ beitsrechtlichen Problemen.
+DTSTART:20250129T180000
+DTEND:20250129T190000Z
+DTSTAMP:20250521T130940Z
+UID:48edcb9e-f574-49b5-877e-849500701a24
+DESCRIPTION:In unserer offenen gewerkschaftlichen Beratungsstunde klären 
+ wir dich über deine Rechte auf\, helfen bei der Formulierung von Schreibe
+ n an den Chef\, reichen Klagen ein oder organisieren Kundgebungen. Wir las
+ sen Lohnraub und Ausbeutung nicht gefallen!
+LOCATION:BüroAktiv Tübingen e.V.\, Bei der Fruchtschranne 6\, 72070 Tüb
+ ingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Gewerkschaftskneipe der Freien Arbeiter*innen-Union 
+ Tübingen-Reutlingen.
+DTSTART:20250526T200000
+DTEND:20250526T235959Z
+DTSTAMP:20250521T130940Z
+UID:5763703b-5bd5-47ac-9770-74f3700a2fbc
+DESCRIPTION:Ob Lohnklau\, Mobbing oder miese Verträge – wir reden drüb
+ er. Bei Bier oder Schorle\, entspannt\, solidarisch\, kämpferisch. Organi
+ sierte und Noch-Nicht-Organisierte willkommen!
+LOCATION:Trinkstube c. t.\, Georgstraße 1\, Tübingen
+END:VEVENT
 END:VCALENDAR
