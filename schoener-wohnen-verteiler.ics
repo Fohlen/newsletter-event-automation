@@ -9905,4 +9905,45 @@ DESCRIPTION:Ob Lohnklau\, Mobbing oder miese Verträge – wir reden drüb
  sierte und Noch-Nicht-Organisierte willkommen!
 LOCATION:Trinkstube c. t.\, Georgstraße 1\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Festival in Tübingen mit einer Vielzahl von kulturellen Event
+ s.
+DTSTART:20250724T000000
+DTEND:20250724T235959Z
+DTSTAMP:20250522T204523Z
+UID:043526d9-07aa-46bf-96b5-78c864c53d8b
+DESCRIPTION:Sehen Sie sich eine Vielzahl von Veranstaltungen im Rahmen der
+  Kulturtage in Tübingen an.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erleben Sie einen Abend mit zweispannenden Konzerten von Tamara Qa
+ ddoumi und Wilted Dream.
+DTSTART:20250525T183000
+DTEND:20250525T235959Z
+DTSTAMP:20250522T204523Z
+UID:35bf4e33-e5b6-499c-94bb-78ce1d04c381
+DESCRIPTION:Die plattform:[no budget] öffnet die Shedhalle und freut sich
+  auf die Vorstellung der beiden Bands: Tamara Qaddoumi & Band (20:00) und 
+ Wilted Dream (19:00). Eintritt ist gegen Spende. Tamara Qaddoumi bringt ih
+ ren einzigartigen Sound\, beeinflusst von Trip-Hop und Dream-Pop\, währen
+ d Wilted Dream emotionalen Indiepop kreiert. Verpassen Sie nicht diesen Ab
+ end!
+LOCATION:Shedhalle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt in der Huberstrasse mit kostenlosen Ständen und Angebot
+ en von Nachbarn.
+DTSTART:20251024T103000
+DTEND:20251024T153000Z
+DTSTAMP:20250522T204523Z
+UID:63282de5-3aa6-45d5-b75d-1b950b966f2a
+DESCRIPTION:Herzliche Einladung zum Nachbarschafts-Flohmarkt der Huberstra
+ sse. Jede_r kann umsonst einen Stand machen - einfach kurze Rückmeldung a
+ n huberstrasse-flohmarkt@web.de. Es gibt Essen und Getränke von dem Wohnp
+ rojekt Tante Huber und der KBF\, fairgehandelten Kaffee von Dona Sá und v
+ ielem mehr. Organisiert vom Wohnprojekt Tante Huber\, Nachbar_innen aus de
+ r Huberstrasse und der KBF.
+LOCATION:Huberstrasse
+END:VEVENT
 END:VCALENDAR
