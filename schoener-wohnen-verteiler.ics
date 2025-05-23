@@ -9946,4 +9946,18 @@ DESCRIPTION:Herzliche Einladung zum Nachbarschafts-Flohmarkt der Huberstra
  r Huberstrasse und der KBF.
 LOCATION:Huberstrasse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Nachbarschafts-Flohmarkt
+DTSTART:20250524T103000
+DTEND:20250524T153000Z
+DTSTAMP:20250523T204510Z
+UID:fef15533-0bd4-452a-9636-8b899d73d363
+DESCRIPTION:Herzliche Einladung zum Nachbarschafts- Flohmarkt der Huberstr
+ asse. Jede_r kann umsonst einen Stand machen - einfach kurze Rückmeldung 
+ an huberstrasse-flohmarkt@web.de. Es gibt Essen + Getränke von dem Wohnpr
+ ojekt Tante Huber und der KBF\, fairgehandelten Kaffee von Dona Sá und vi
+ elem mehr. Organisiert vom Wohnprojekt Tante Huber\, Nachbar_innen aus der
+  Huberstrasse und der KBF in der Huberstrasse.
+LOCATION:Huberstrasse
+END:VEVENT
 END:VCALENDAR
