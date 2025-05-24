@@ -9960,4 +9960,17 @@ DESCRIPTION:Herzliche Einladung zum Nachbarschafts- Flohmarkt der Huberstr
   Huberstrasse und der KBF in der Huberstrasse.
 LOCATION:Huberstrasse
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of music and performances!
+DTSTART:20250528T203000
+DTEND:20250528T235959Z
+DTSTAMP:20250524T204436Z
+UID:29224afe-0b92-45e1-9498-375864606202
+DESCRIPTION:Bring your instruments or instrumental tracks with USB access 
+ and showcase your talent. Sign up at the bar if you want to contribute. Op
+ en Doors at 20:30. After sunset\, enjoy an after-show with Disco-Funk Viny
+ ls from Mariculix and live instruments by Rudiru United with fast Jungle/B
+ ass Beats. Let's get Hegelicious!
+LOCATION:Hegel
+END:VEVENT
 END:VCALENDAR
