@@ -9973,4 +9973,26 @@ DESCRIPTION:Bring your instruments or instrumental tracks with USB access
  ass Beats. Let's get Hegelicious!
 LOCATION:Hegel
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demo unter dem Motto: "Gaza Verhungert\, die Welt schaut zu!"
+DTSTART:20250527T180000
+DTEND:20250527T235959Z
+DTSTAMP:20250526T130727Z
+UID:fb9cbd1d-da0f-4517-b569-b707ecb8d801
+DESCRIPTION:Am Dienstag\, 27.05 um 18 Uhr auf dem Tübinger Holzmarkt vera
+ nstaltet das Unikomitee für Palästina Tübingen eine Demo\, um gegen die
+  humanitäre Krise in Gaza zu demonstrieren.
+LOCATION:Tübinger Holzmarkt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jährlicher Mitarbeitenden-Flohmarkt des LTT.
+DTSTART:20250529T130000
+DTEND:20250529T170000Z
+DTSTAMP:20250526T130727Z
+UID:4dc05ec3-9262-4e30-aeb2-f4ab46a8510f
+DESCRIPTION:LTTler*innen laden ein zum jährlichen Flohmarkt! Verbringen S
+ ie einen schönen Nachmittag mit Schallplatten\, Kleidung\, Requisiten und
+  mehr. Das Lokal hat geöffnet\, und es gibt Glühwein!
+LOCATION:Foyer des LTT\, Eberhardstraße 6
+END:VEVENT
 END:VCALENDAR
