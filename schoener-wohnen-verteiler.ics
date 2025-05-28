@@ -9995,4 +9995,52 @@ DESCRIPTION:LTTler*innen laden ein zum jährlichen Flohmarkt! Verbringen S
   mehr. Das Lokal hat geöffnet\, und es gibt Glühwein!
 LOCATION:Foyer des LTT\, Eberhardstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy gathering to eat\, connect\, and build solidari
+ ty every Tuesday.
+DTSTART:20250527T180000
+DTEND:20250527T235959Z
+DTSTAMP:20250528T131053Z
+UID:b615a5ce-f46a-414e-8866-3955a3b02aec
+DESCRIPTION:This week on 27.05. at 18:00\, we are coming together to enjoy
+  a lovely evening in our garden. Come hungry and as you are!
+LOCATION:Siggi11\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a fun-filled street party in Münzgasse!
+DTSTART:20250621T000000
+DTEND:20250621T235959Z
+DTSTAMP:20250528T131053Z
+UID:78f545ee-e321-434e-bb39-01d69cf0beba
+DESCRIPTION:The entire Münzgasse invites you to our third street party! G
+ et ready for a vibrant day in the old town. The program flyer will follow 
+ soon. We look forward to seeing you!
+LOCATION:Münzgasse\, Old Town
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music event featuring William Chee-Awai\, KrokoWorldBeatsDuo\
+ , and DJ n99.
+DTSTART:20251002T200000
+DTEND:20251002T235959Z
+DTSTAMP:20250528T131053Z
+UID:94d2aee6-64bf-4776-9709-fedd3a6f04c0
+DESCRIPTION:Join us for a special house bar with live music featuring sing
+ er-songwriter William Chee-Awai from Berlin. Enjoy performances by KrokoWo
+ rldBeatsDuo and DJ n99 with Jungle/Drum & Bass. Come dance the night away!
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung im Kino Museum mit Regisseurin Jennifer Mallmann.
+DTSTART:20250530T180000
+DTEND:20250530T235959Z
+DTSTAMP:20250528T131053Z
+UID:99030a89-888d-4f9b-9dca-bd8ea3ce6417
+DESCRIPTION:Am Freitag\, 30.05. läuft der Film bei uns im Kino Museum –
+  kommt vorbei! Auch die Regisseurin wird vor Ort sein. In Moria Six erzäh
+ lt Regisseurin Jennifer Mallmann die Geschichte von Hassan\, einem der sec
+ hs Jugendlichen\, die nach dem Brand im Geflüchtetenlager Moria verhaftet
+  und verurteilt wurden – unter fragwürdigen Umständen. Der Film zeigt 
+ eindrücklich\, wie Europas Abschottungspolitik funktioniert.
+LOCATION:Kino Museum
+END:VEVENT
 END:VCALENDAR
