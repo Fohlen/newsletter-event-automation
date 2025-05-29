@@ -10043,4 +10043,19 @@ DESCRIPTION:Am Freitag\, 30.05. läuft der Film bei uns im Kino Museum –
  eindrücklich\, wie Europas Abschottungspolitik funktioniert.
 LOCATION:Kino Museum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freizeitfußballturnier mit Musik und Wettbewerben
+DTSTART:20250621T103000
+DTEND:20250621T235959Z
+DTSTAMP:20250529T130821Z
+UID:6cfef3db-9397-4ea8-b15d-22d91202d25e
+DESCRIPTION:Der 23. Kommando Cup findet am 21. Juni im Kirnbachstadion sta
+ tt. Ab 10:30 Uhr messen sich bis zu 20 Freizeitfußballteams in einem fair
+ en Wettkampf. Fans können sich auf Musik von Averell und den Blutgrätsch
+ enwettbewerb freuen. Nach dem Finale treten Schmidt & Rathmann auf und es 
+ gibt DJ Action und Visuals vom Leuchtwerk. Für Essen und Getränke ist ge
+ sorgt. Unterstützung bei der Theke und beim Abbau am Sonntag ab 10 Uhr is
+ t willkommen.
+LOCATION:Kirnbachstadion
+END:VEVENT
 END:VCALENDAR
