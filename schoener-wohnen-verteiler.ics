@@ -10058,4 +10058,52 @@ DESCRIPTION:Der 23. Kommando Cup findet am 21. Juni im Kirnbachstadion sta
  t willkommen.
 LOCATION:Kirnbachstadion
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garage-Punk aus Luzern mit THE SIDETRACKS – noisig\, kratzig und
+  ein Fest!
+DTSTART:20250729T190000
+DTEND:20250729T235959Z
+DTSTAMP:20250530T130901Z
+UID:b7de07f9-5f2e-4157-82f8-8513dbe35e77
+DESCRIPTION:Die Band The Sidetracks\, gegründet 2023 in Luzern\, begeiste
+ rt mit ihrer einzigartigen Mischung aus Garage-Rock\, Punk und Trash’n
+ ’Roll. Einlass um 19:00 Uhr\, Beginn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzerte mit Experimentalmusikern TSEV und STRZAŁ W KOLANO sowie 
+ dem Improvisationsduo ZDRÓJ.
+DTSTART:20250601T200000
+DTEND:20250601T235959Z
+DTSTAMP:20250530T130901Z
+UID:83f39ae1-1185-40f0-baa6-904320350b19
+DESCRIPTION:Diesen Sonntag freuen wir uns\, die experimentellen Klänge vo
+ n TSEV und STRZAŁ W KOLANO sowie das improvisierende Duo ZDRÓJ im Keller
+  der Ludwigstraße 15 zu begrüßen. Konzerte beginnen um 20 Uhr. Erleben 
+ Sie eine Nacht voller innovativer Musik\, die Grenzen überschreitet. Alle
+  Infos: https://lu15.de/2025/05/03/1-6-25-zdroj-strzal-w-kolano-tsev/
+LOCATION:Ludwigstraße 15\, Keller
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A gathering for FLINTA*+ individuals to express their creativity a
+ nd enjoy an evening in a safe space.
+DTSTART:20250604T190000
+DTEND:20250604T230000Z
+DTSTAMP:20250530T130901Z
+UID:04adb6c9-1053-4134-b078-50f502ea01f9
+DESCRIPTION:Join us for a Creative Night hosted by the queer feminist coll
+ ective Ultraviolett! We invite all FLINTA*+ individuals to come together f
+ or an evening of creativity\, art\, and community. Whether you want to pai
+ nt\, craft\, sew (a sewing machine will likely be provided)\, write\, or e
+ xplore any other form of art\, this is the place for you! Bring your own m
+ aterials to use\, share\, or trade\, and participate in our material excha
+ nge for anything you no longer need (yarn\, beads\, colors\, brushes\, etc
+ .). We are looking forward to a relaxed evening where we create art\, get 
+ to know each other\, and enjoy a lovely summer night! Please note that thi
+ s event is for FLINTA*+ only\, and we do not tolerate any form of racist\,
+  sexist\, queerphobic\, macho\, antisemitic\, or any other discriminatory 
+ behavior. Take care of yourselves and each other and respect each other's 
+ boundaries.
+LOCATION:Garten der Siggi11\, Sigwartstraße 11
+END:VEVENT
 END:VCALENDAR
