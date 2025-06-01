@@ -10106,4 +10106,53 @@ DESCRIPTION:Join us for a Creative Night hosted by the queer feminist coll
  boundaries.
 LOCATION:Garten der Siggi11\, Sigwartstraße 11
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die aufstrebenden Defence-Startups und die Digitalis
+ ierung der Kriegsführung in der BRD.
+DTSTART:20250603T190000
+DTEND:20250603T235959Z
+DTSTAMP:20250601T130614Z
+UID:ccec6b90-b47b-4ad2-b4d2-0d22140c6001
+DESCRIPTION:Im Vortrag wird die Studie über Defence-Startups vorgestellt.
+  Der aktuelle IMI-Praktikant erläutert die Debatte um die Digitalisierung
+  der Kriegsführung\, deren Entwicklung und die Profiteure der aktuellen E
+ reignisse. Diskussion über Inhalte und antimilitaristische Antworten auf 
+ die Entwicklungen.
+LOCATION:IMI-Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open stage evening with colorful impressions
+DTSTART:20250601T190000
+DTEND:20250601T235959Z
+DTSTAMP:20250601T130614Z
+UID:621c12d9-4900-4970-8436-ac1db0634004
+DESCRIPTION:Dear Schöner Wohnen and schöner leben community\, Come along
+  to the Kleinkunstabend (open stage evening) in Fichtehaus (Herrenberger S
+ tr.40) on June 1\, 2025. It starts at 7 pm! We are looking forward to an e
+ vening full of colorful impressions!
+LOCATION:Fichtehaus\, Herrenberger Str.40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food and connection every Tuesday!
+DTSTART:20250603T180000
+DTEND:20250603T235959Z
+DTSTAMP:20250601T130614Z
+UID:171ca0bc-0413-4bc1-9128-8acac62207be
+DESCRIPTION:Dear Schöner-Wohnende\, Join us at Siggi11 for our weekly Kü
+ fa on Tuesday\, 03.06. at 18:00 in the back of our garden. Enjoy delicious
+  dinner\, our open House Bar\, and relaxing music in a cozy atmosphere. Co
+ me hungry and as you are! Hope to see you there!
+LOCATION:Siggi11\, Back of Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Konzert von WONK UNIT aus London.
+DTSTART:20250603T190000
+DTEND:20250603T230000Z
+DTSTAMP:20250601T130614Z
+UID:940802f1-3db9-4d32-a1d9-ccca34235346
+DESCRIPTION:WONK UNIT kommt am 03. Juni zu uns in den Blauen Salon! Einlas
+ s: 19:00 Uhr\, Beginn: 22:00 Uhr. Eintritt frei! Unterstützung der DIY-Pu
+ nkrock Szene in Europa!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
