@@ -10155,4 +10155,33 @@ DESCRIPTION:WONK UNIT kommt am 03. Juni zu uns in den Blauen Salon! Einlas
  nkrock Szene in Europa!
 LOCATION:Blaue Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion über das Hausprojekt in der Günde
+ rrodestraße 5.
+DTSTART:20250604T190000
+DTEND:20250604T210000Z
+DTSTAMP:20250601T204450Z
+UID:76653702-c0a6-46fe-aad3-cebcf16537ae
+DESCRIPTION:Die Dokumentation von Shania Casado Cimring und Medienkollekti
+ v Frankfurt gibt Einblicke in das Hausprojekt. Eine Person aus dem Kollekt
+ iv wird ebenfalls anwesend sein. Der Film wird auf englischer und deutsche
+ r Sprache zugänglich sein. Die Hausbar ist nicht barrierefrei zugänglich
+ .
+LOCATION:Hausbar der Schellingstraße 6\, Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zum Thema Empowerment im Stadtteil.
+DTSTART:20250315T100000
+DTEND:20250315T160000Z
+DTSTAMP:20250601T204450Z
+UID:0ddd7857-9893-4040-89bb-877f3f8d079b
+DESCRIPTION:Wir vom Tübinger Stadtteil Gesundheitszentrum möchten Euch a
+ uf unsere Veranstaltung zum Thema 'Empowerment im Stadtteil' aufmerksam ma
+ chen. Alle Details dazu findet ihr im Anhang. Wenn Ihr mehr über uns erfa
+ hren wollt findet Ihr hier Informationen: https://sgz-tuebingen.de/ Ihr fr
+ agt euch\, was wir sonst so machen? Hier findet ihr unsere kommenden und v
+ ergangenen Veranstaltungen: https://sgz-tuebingen.de/aktuelles.html https:
+ //www.instagram.com/sgz.tuebingen/ Wir freuen uns auf euch!
+LOCATION:Tübingen Stadtteil Gesundheitszentrum
+END:VEVENT
 END:VCALENDAR
