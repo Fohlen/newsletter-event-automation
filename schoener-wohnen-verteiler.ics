@@ -10184,4 +10184,19 @@ DESCRIPTION:Wir vom Tübinger Stadtteil Gesundheitszentrum möchten Euch a
  //www.instagram.com/sgz.tuebingen/ Wir freuen uns auf euch!
 LOCATION:Tübingen Stadtteil Gesundheitszentrum
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Publikumsveranstaltung im Epple zur Förderung linker Subkultur.
+DTSTART:20250605T200000
+DTEND:20250605T235959Z
+DTSTAMP:20250603T131103Z
+UID:d0d99395-a8e6-43ae-81ca-0d83ae5e718e
+DESCRIPTION:Austausch über antiautoritäre Organisation\, ein kleines Pub
+ -Quiz und einfach um den Tag bei lecker Bierchen oder Limo gemeinsam auskl
+ ingen zu lassen – ohne Konsumzwang\, ohne Dresscode\, nur mit guter Stim
+ mung und entspannten Gesprächen! Wir möchten diesen Ort linker Subkultur
+  im sonst so bürgerlichen Tübingen wieder zu etwas mehr Aufmerksamkeit v
+ erhelfen und ihn langfristig bewahren. Kommt vorbei\, bringt Freund*innen 
+ mit!
+LOCATION:Epple\, Tübingen
+END:VEVENT
 END:VCALENDAR
