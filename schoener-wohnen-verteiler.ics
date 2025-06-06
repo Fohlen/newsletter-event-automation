@@ -10199,4 +10199,32 @@ DESCRIPTION:Austausch über antiautoritäre Organisation\, ein kleines Pub
  mit!
 LOCATION:Epple\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Christopher Street Day in Tübingen.
+DTSTART:20250607T123000
+DTEND:20250607T190000Z
+DTSTAMP:20250606T130942Z
+UID:c4aa2b37-e3aa-4cb1-86c4-f20adc6e3376
+DESCRIPTION:Wir laden euch herzlich zum Christopher Street Day Tübingen a
+ m 07. Juni 2025 ein! Wir treffen uns ab 12:30 Uhr auf dem Marktplatz Tübi
+ ngen. Beginn der Demo um 13 Uhr\, Zwischenkundgebung vor dem Kino Museum u
+ m 14 Uhr\, Abschlusskundgebung auf dem Ract! Gelände von 15-16 Uhr und In
+ fostände von 16-19 Uhr. Motto: Queer und Antifaschistisch – gestern\, h
+ eute\, immer!
+LOCATION:Marktplatz Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Synth-Punk Band aus Bloomington\, Indiana.
+DTSTART:20250607T190000
+DTEND:20250607T235959Z
+DTSTAMP:20250606T130942Z
+UID:34ad4268-0257-48fc-b608-2bc226cfdc69
+DESCRIPTION:Auferstanden aus den Gräbern\, bereit um mit dem nächsten Ri
+ tual zu beginnen\, kommen SKULL CULT in den Blauen Salon! Ein großartiges
+  Stück albernen\, chaotischen Keyboard-Punk von einigen der besten Rocker
+ n\, die Bloomington zu bieten hat. Ein wahnsinniges\, absolut ansteckendes
+  Synthie-Punk-Projekt. Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr\, Eintritt f
+ rei!
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
