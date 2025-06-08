@@ -10227,4 +10227,15 @@ DESCRIPTION:Auferstanden aus den Gräbern\, bereit um mit dem nächsten Ri
  rei!
 LOCATION:Blauer Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for food and community building.
+DTSTART:20250610T180000
+DTEND:20250610T235959Z
+DTSTAMP:20250608T204528Z
+UID:1d688187-381b-475c-a85c-a9aaab53f50b
+DESCRIPTION:As every Tuesday\, we are coming together on 10.06. at 18:00 t
+ o eat\, connect and build solidarity. A cozy space will be created in our 
+ garden for everyone to enjoy the evening.
+LOCATION:Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
 END:VCALENDAR
