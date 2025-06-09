@@ -10238,4 +10238,45 @@ DESCRIPTION:As every Tuesday\, we are coming together on 10.06. at 18:00 t
  garden for everyone to enjoy the evening.
 LOCATION:Sigwartstr. 11\, 72076 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag von Jonathan Eibisch über anarchistische Theorie\, Et
+ hik und Organisierung\, gefolgt von einem gemütlichen Abend in der Schell
+ ing-Hausbar.
+DTSTART:20251001T190000
+DTEND:20251001T210000Z
+DTSTAMP:20250609T204542Z
+UID:64a53d04-0be2-4588-93c1-4f0d26878a69
+DESCRIPTION:In dieser Veranstaltung wird die politische Theorie des Anarch
+ ismus vorgestellt\, wobei Fragen zu anarchistischen Gedanken\, ihren Merkm
+ alen und dem Nutzen für die Gesellschaft behandelt werden. Jonathan Eibis
+ ch teilt seine Erfahrungen über seine intensive Beschäftigung mit anarch
+ istischer Theorie\, die in seiner Doktorarbeit und einem Buch resultierte.
+  Nach dem Vortrag sind alle eingeladen\, gemeinsam zur Hausbar zu laufen.
+LOCATION:Hörsaal 9\, Neue Aula & Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier im Geissweg 17
+DTSTART:20250618T220000
+DTEND:20250618T235959Z
+DTSTAMP:20250609T204542Z
+UID:7f566fc6-af0a-4f3f-b729-89d79ec16231
+DESCRIPTION:Am 18.6 macht das Co.llectiv wieder eine Feier. Der Eintritt u
+ nd die Getränke sind auf pay-as-you-want-Basis und werden an die Kinder- 
+ und Jugendfarm in Tübingen gespendet. Mehr Infos zur Feier und zur Organi
+ sation gibts auf Insta @co.llectiv.
+LOCATION:Geissweg 17\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hardgroove Techno und Drum n' Bass Veranstaltung.
+DTSTART:20250613T210000
+DTEND:20250613T235959Z
+DTSTAMP:20250609T204542Z
+UID:746d2083-eaaf-41b4-a7ba-492a8c761d0e
+DESCRIPTION:Am 13.06. findet eine Soliparty in der LU15 um 21 Uhr für all
+ e Hardgroove Techno und Drum n' Bass Begeisterten statt. Freut euch auf Co
+ cktails\, Gartenchillerei und wilde cyber technotische Dekorationen. Der E
+ intritt erfolgt gegen Spende\, um das Cyborx-Festival in der Shedhalle vom
+  1.-4. August zu finanzieren.
+LOCATION:LU15
+END:VEVENT
 END:VCALENDAR
