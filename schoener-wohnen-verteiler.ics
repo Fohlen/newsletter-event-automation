@@ -10279,4 +10279,19 @@ DESCRIPTION:Am 13.06. findet eine Soliparty in der LU15 um 21 Uhr für all
   1.-4. August zu finanzieren.
 LOCATION:LU15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration gegen die Repression und zur Solidarität mit betrof
+ fenen Aktivist*innen\, anlässlich der Hausdurchsuchungen 2020 in der Lu15
+ .
+DTSTART:20250621T173000
+DTEND:20250621T235959Z
+DTSTAMP:20250611T204632Z
+UID:1fc71975-395e-43e7-bb67-acf587ab6f78
+DESCRIPTION:Liebe Freund*innen\, Gefährt*innen und Genoss*innen\,\n\nwir 
+ laden euch ein\, am 21.06.2025 um 17:30 Uhr vom Haagtorplatz Tübingen aus
+  gegen Repression auf die Straße zu gehen. Wir wollen Solidarität mit al
+ len zeigen\, die von Repression betroffen sind. \n\nKommt zahlreich und br
+ ingt eure Freund*innen mit!
+LOCATION:Haagtorplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
