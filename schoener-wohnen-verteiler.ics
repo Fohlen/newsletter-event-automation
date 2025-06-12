@@ -10294,4 +10294,19 @@ DESCRIPTION:Liebe Freund*innen\, Gefährt*innen und Genoss*innen\,\n\nwir
  ingt eure Freund*innen mit!
 LOCATION:Haagtorplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Tübinger Familienband MAORIE bringt mit ihren House- und Tech
+ notracks jede Generation auf den Dancefloor! Eintritt frei.
+DTSTART:20250613T203000Z
+DTEND:20250613T235959Z
+DTSTAMP:20250612T204651Z
+UID:d698870a-0e90-4f45-a24a-07451b6e0f7f
+DESCRIPTION:MAORIE: Valentin Riegger (Freiburg) Laptop\, Rafael Riegger (B
+ erlin) Drums\, Thomas Maos (Tübingen) Space-guitar\, Gast: Finn Bühr (T
+ übingen) Visuals. Die Performance verbindet DJ-Kultur mit live gespielter
+  Musik und kreiert einen unverwechselbaren Sound mit tanzbaren Grooves\, s
+ paceigen Sounds und gefühlvollen Melodien. Finn Bühr zaubert mit seinen 
+ Visuals ein perfektes Ambiente.
+LOCATION:MARIBUDE\, Stuttgarter Straße 90\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
