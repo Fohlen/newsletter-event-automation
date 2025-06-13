@@ -10309,4 +10309,17 @@ DESCRIPTION:MAORIE: Valentin Riegger (Freiburg) Laptop\, Rafael Riegger (B
  Visuals ein perfektes Ambiente.
 LOCATION:MARIBUDE\, Stuttgarter Straße 90\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Critical Mass in Tübingen
+DTSTART:20250620T180000
+DTEND:20250620T235959Z
+DTSTAMP:20250613T130907Z
+UID:ffbdd2c9-02ec-4992-bd82-93bcb21f7b22
+DESCRIPTION:Lasst uns ein Zeichen für eine nachhaltige und fahrradfreundl
+ iche Stadt setzen. Jede Teilnahme zählt und macht unseren Protest für be
+ ssere Radinfrastruktur sichtbarer! Seid dabei und genießt eine entspannte
+  Fahrt durch unsere schöne Stadt. Je mehr wir sind\, desto stärker unser
+  Signal!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
 END:VCALENDAR
