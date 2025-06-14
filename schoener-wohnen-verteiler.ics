@@ -10322,4 +10322,19 @@ DESCRIPTION:Lasst uns ein Zeichen für eine nachhaltige und fahrradfreundl
   Signal!
 LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Empowermentworkshop für FLINTA* zur Erforschung von Körperbi
+ ldern und Verkörperungen.
+DTSTART:20250628T100000
+DTEND:20250628T235959Z
+DTSTAMP:20250614T204451Z
+UID:287ab47c-e81e-4d90-8061-d9d709850743
+DESCRIPTION:In diesem Workshop laden wir dich ein\, gemeinsam spielerisch 
+ zu forschen und mit vollem Körpereinsatz den individuellen und Gruppenkö
+ rper wahrzunehmen und zu erkunden. Wir kreieren einen Möglichkeitsraum\, 
+ um neue\, unbekannte Körperbilder kennenzulernen. Vorkenntnisse sind nich
+ t notwendig. Der Workshop findet am 28. und 29. Juni 2025 von 10-14 Uhr in
+  Tübingen statt. Bitte meldet euch bis zum 20. Juni 2025 verbindlich an.
+LOCATION:Adis\, Tübingen
+END:VEVENT
 END:VCALENDAR
