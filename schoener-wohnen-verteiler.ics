@@ -10350,4 +10350,30 @@ DESCRIPTION:Dieser Vortrag behandelt die zentrale Rolle der Burschenschaft
  und welche Strategien von extrem rechten AkteurInnen angewendet werden.
 LOCATION:Hörsaal der alten Archäologie
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a communal dinner to eat\, connect\, and build solidar
+ ity.
+DTSTART:20250617T180000
+DTEND:20250617T235959Z
+DTSTAMP:20250617T131159Z
+UID:cd42b7e2-3ded-4cb5-9877-63c4990c271a
+DESCRIPTION:Come hungry and enjoy a delicious dinner at our Küfa. Our Hou
+ se Bar will be open with relaxing music to create a cozy atmosphere. This 
+ week\, the Küfa will be in the back of our garden! We look forward to see
+ ing you there!
+LOCATION:Siggi11\, Sigwartstr. 11\, 72076 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Jahr Antiautoritäres Treffen und einige Aktionen später freu
+ en wir uns\, einen Abend mit Theorie und Partys zu verbringen.
+DTSTART:20250618T190000
+DTEND:20250618T235959Z
+DTSTAMP:20250617T131159Z
+UID:80b3e8b4-831e-48df-927e-6cbf0c050c8c
+DESCRIPTION:Vortrag "Politische Theorie des Anarchismus" von Jonathan Eibi
+ sch (19-21 Uhr\, HS9 Neue Aula). Hausbar mit Küfa\, Cocktails & Kurzen ab
+  20 Uhr in der Schellingstraße 6. Kommt vorbei für gute Gespräche und M
+ usik!
+LOCATION:HS9 Neue Aula und Schellingstraße 6\, Tübingen
+END:VEVENT
 END:VCALENDAR
