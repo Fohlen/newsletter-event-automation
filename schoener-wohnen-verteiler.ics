@@ -10388,4 +10388,15 @@ DESCRIPTION:Ein energiegeladenes Konzert mit Marley Wildthing\, die mit Uk
  les' wird auch präsentiert.
 LOCATION:Fichtehaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Party at Fichtehaus with live music and dancing
+DTSTART:20250705T200000
+DTEND:20250705T235959Z
+DTSTAMP:20250618T204723Z
+UID:c0dc5282-aeb8-4b58-aaed-d29d8b5cc9f2
+DESCRIPTION:Join us for a party in a large supermarket setting at the Fich
+ tehaus. Enjoy live music at 8 PM in the garden and continue dancing inside
+  on two floors from 10 PM. Costumes are welcome!
+LOCATION:Herrenberger Str. 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
