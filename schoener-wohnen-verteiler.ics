@@ -10412,4 +10412,39 @@ DESCRIPTION:Am 21. Juni findet der 23. Kommando Cup im Kirnbachstadion sta
  twerk. Für leckeres Essen und kühle Drinks ist gesorgt.
 LOCATION:Kirnbachstadion
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrate Pride Month with a queer Oesterbar in Tuebingen.
+DTSTART:20250623T193000
+DTEND:20250623T233000Z
+DTSTAMP:20250619T204641Z
+UID:feae2d75-1aef-471b-bc02-0368e48bbc98
+DESCRIPTION:Join us at LH2 for a relaxed atmosphere\, interesting conversa
+ tions\, and cool beverages. A queer German film classic will be shown at 2
+ 0.00.
+LOCATION:LH2\, Stauffenbergstr. 30\, 72074 Tuebingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Straßenfest voller Musik\, Geschichten und kreativer Energie.
+DTSTART:20250621T130000
+DTEND:20250621T235959Z
+DTSTAMP:20250619T204641Z
+UID:9d8a64de-530b-4e80-8db6-ce7ea01b046a
+DESCRIPTION:Kommt zum Straßenfest Vol. 3 in der Münzgasse\, Tübingen\, 
+ am 21. Juni 2025! Erlebt ein lebendiges Programm mit Bobby Car Rennen\, Sc
+ hreibwerkstatt\, Musikbühne\, Flohmarkt\, Kinderprogramm und Livebands bi
+ s in die Nacht!
+LOCATION:Münzgasse\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infos zu 5 Jahre Razzien in der Lu15 und Briefeschreiben in den Kn
+ ast
+DTSTART:20250619T210000
+DTEND:20250619T235959Z
+DTSTAMP:20250619T204641Z
+UID:b8594c8c-fd5c-4f1c-83c8-c2bc52fedeb2
+DESCRIPTION:Die Hausbar ist auch zur Mobilisierung für die Demo am Samsta
+ g 21.6. ab 17:30 am Haagtorplatz Gemeinsam gegen Repression - 5 Jahre Razz
+ ien in der LU15 - Antifaschismus bleibt notwendig.
+LOCATION:LU15
+END:VEVENT
 END:VCALENDAR
