@@ -10399,4 +10399,17 @@ DESCRIPTION:Join us for a party in a large supermarket setting at the Fich
   on two floors from 10 PM. Costumes are welcome!
 LOCATION:Herrenberger Str. 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freizeitfußballturnier mit 15 Teams und Rahmenprogramm
+DTSTART:20250621T103000
+DTEND:20250621T235959Z
+DTSTAMP:20250619T130947Z
+UID:99109f80-5bb5-4a29-9855-e1f24644550e
+DESCRIPTION:Am 21. Juni findet der 23. Kommando Cup im Kirnbachstadion sta
+ tt. Ab 10:30 Uhr messen sich 15 Freizeitfußballteams in einem fairen Wett
+ kampf. Musik von Averell\, Reporter-Schnipsel\, Blutgrätschenwettbewerb\,
+  Band Schmidt & Rathmann nach dem Finale\, DJ Action und Visuals vom Leuch
+ twerk. Für leckeres Essen und kühle Drinks ist gesorgt.
+LOCATION:Kirnbachstadion
+END:VEVENT
 END:VCALENDAR
