@@ -10447,4 +10447,16 @@ DESCRIPTION:Die Hausbar ist auch zur Mobilisierung für die Demo am Samsta
  ien in der LU15 - Antifaschismus bleibt notwendig.
 LOCATION:LU15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gespräch über Berufsverbote und deren historische sowie politisc
+ he Dimension.
+DTSTART:20250621T190000
+DTEND:20250621T235959Z
+DTSTAMP:20250621T130553Z
+UID:7f805b6f-e71c-4273-b5f7-8508fcc562a8
+DESCRIPTION:Dürfen Marxist:innen Lehrer:innen werden? Veranstaltung zum T
+ hema Berufsverbote in Deutschland mit Lisa Pöttinger und Gisela Kehrer-Bl
+ eicher\, die von vergangenen Berufsverboten betroffen war.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, 72074 Tübingen
+END:VEVENT
 END:VCALENDAR
