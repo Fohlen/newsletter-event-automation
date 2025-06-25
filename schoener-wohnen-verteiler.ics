@@ -10545,4 +10545,26 @@ DESCRIPTION:Die gesellschaftliche Diskriminierung und Ungleichbehandlung v
  die Medizin kritisch in den Blick. Herzliche Einladung zur Lesung!
 LOCATION:Eckstein (Lange Gasse 16\, Tübingen)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porträt-Zeichnungen zum Gräberfeld X von Sophie Linde
+DTSTART:20250515T100000
+DTEND:20250515T235959Z
+DTSTAMP:20250625T131849Z
+UID:928f2d1e-165d-40e5-8992-349238caff2e
+DESCRIPTION:Eine Ausstellung\, die die Porträt-Zeichnungen von Sophie Lin
+ de zeigt\, die sich mit dem Thema Widerstand und Gedenken auseinandersetzt
+ .
+LOCATION:Galerie für Gegenwartskunst\, Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein unvergessliches Heimfest mit Disco-Hits und toller Stimmung.
+DTSTART:20250628T200000
+DTEND:20250628T235959Z
+DTSTAMP:20250625T131849Z
+UID:e6ed0dfc-342d-42d8-b4bc-e3f48f2b1b7e
+DESCRIPTION:Verwandle dein Outfit in ein Glanzstück und tanze zu den best
+ en 70s/80s Disco-Hits sowie Techno und Mixed Floor Beats. Genieße GRATIS 
+ SHOTS bei passender Verkleidung!
+LOCATION:Karl Heim Wohnheim
+END:VEVENT
 END:VCALENDAR
