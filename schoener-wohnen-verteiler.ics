@@ -10567,4 +10567,22 @@ DESCRIPTION:Verwandle dein Outfit in ein Glanzstück und tanze zu den best
  SHOTS bei passender Verkleidung!
 LOCATION:Karl Heim Wohnheim
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Kinderdisco im Zauberwald mit DJ-Workshop.
+DTSTART:20250628T140000
+DTEND:20250628T200000Z
+DTSTAMP:20250626T204728Z
+UID:ea07713f-cd2d-4e40-9840-2ae0e47a5fdc
+DESCRIPTION:Alle kleinen Feen\, Elfen und magischen Kreaturen sind eingela
+ den zur Zauberwald-Kinderdisco im Fichtehaus Tübingen! Am Samstag\, 28. J
+ uni\, verwandelt sich das Fichtehaus in einen funkelnden Zauberwald voller
+  Musik\, Süßigkeiten und erfrischender alkoholfreier Cocktails. Los geht
+ ’s mit einem DJ-Workshop um 14 Uhr\, bei dem interessierte Kinder sich a
+ m DJ-Controller ausprobieren und ihre Lieblingsmusik abspielen können. Ab
+  16 Uhr startet dann die große Disco-Party zum freien Tanzen und Feiern 
+ – natürlich mit freiem Eintritt! Verkleidungen sind ausdrücklich erwü
+ nscht\; Kinder werden gebeten\, eine erwachsene Begleitperson mitzubringen
+ .
+LOCATION:Fichtehaus Tübingen\, grosser Saal\, Herrenbergerstraße 40
+END:VEVENT
 END:VCALENDAR
