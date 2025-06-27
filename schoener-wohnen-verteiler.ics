@@ -10585,4 +10585,42 @@ DESCRIPTION:Alle kleinen Feen\, Elfen und magischen Kreaturen sind eingela
  .
 LOCATION:Fichtehaus Tübingen\, grosser Saal\, Herrenbergerstraße 40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antifaschistische Soliparty vom OTFR-Tübingen
+DTSTART:20250628T220000
+DTEND:20250628T235959Z
+DTSTAMP:20250627T204440Z
+UID:fb788190-76c1-47b3-8b1c-431b9fe0b061
+DESCRIPTION:Feiert mit uns die Soliparty vom OTFR-Tübingen! Unterstützt 
+ die antifaschistische Praxis und genießt die Musik von NATZE SCHRÖDER\, 
+ LEKTROKÄTZ\, NO.AH B2B\, FLEMMY\, leckere Cocktails und eine tolle Crowd!
+LOCATION:Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einblicke und kritische Betrachtung der Deutschen Bahn und ihrer R
+ olle in der Mobilität der Zukunft.
+DTSTART:20250627T190000
+DTEND:20250627T235959Z
+DTSTAMP:20250627T204440Z
+UID:a4109e0a-8223-46a0-85e1-c14eca0d1c97
+DESCRIPTION:Das Antikapitalistische Klimatreffen Karlsruhe präsentiert ei
+ ne Broschüre über die Deutsche Bahn\, die historische Hintergründe\, ak
+ tuelle Herausforderungen und mögliche Zukunftsperspektiven behandelt. Sei
+ d dabei\, wenn wir am 27.06. um 19 Uhr im Linken Zentrum Trude Lutz in Tü
+ bingen über die DB sprechen! Für das leibliche Wohl ist gesorgt.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zur nachhaltigen Entwicklung mit über 20 Initiative
+ n und mehr als 25 Beiträgen.
+DTSTART:20250704T170000
+DTEND:20250704T220000Z
+DTSTAMP:20250627T204440Z
+UID:9f499d06-dc46-4d79-bd33-d59eaf673f1d
+DESCRIPTION:Die 7. Nacht der Nachhaltigkeit findet in Tübingen statt\, or
+ ganisiert vom Umweltzentrum Tübingen e.V. Das Programm umfasst Stadtrundg
+ änge\, Filme\, Präsentationen\, Mitmachaktionen und Informationen zu nac
+ hhaltigen Themen.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
