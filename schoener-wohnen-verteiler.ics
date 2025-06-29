@@ -10623,4 +10623,28 @@ DESCRIPTION:Die 7. Nacht der Nachhaltigkeit findet in Tübingen statt\, or
  hhaltigen Themen.
 LOCATION:Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan meal on donation basis
+DTSTART:20250630T190000
+DTEND:20250630T235959Z
+DTSTAMP:20250629T130700Z
+UID:e51e65f8-8b36-4302-80e6-8c007c1d7935
+DESCRIPTION:Join us for a warm vegan meal on donation basis at Fruchtschra
+ nne. Everyone is welcome\, no one turned away based on ability to pay. Tea
+  and music will be provided. Discrimination tolerated only against bad foo
+ d.
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wohnprojekte Tübingens präsentieren ein grandioses Programm.
+DTSTART:20250711T090000
+DTEND:20250711T235959Z
+DTSTAMP:20250629T130700Z
+UID:734ad6ee-7cb4-4c23-a675-2300957ad2f9
+DESCRIPTION:Am 11. und 12. Juli findet an der Fruchtschranne die Schöner-
+ Wohnen-Bühne statt. Das Orga-Team benötigt Unterstützung für Schichtpl
+ äne (Donnerstag: Aufbau\, Freitag\, Samstag und Sonntag: Abbau). Es werde
+ n auch Fragen für ein Mitmachquiz beim Infostand gesucht.
+LOCATION:Fruchtschranne\, Tübingen
+END:VEVENT
 END:VCALENDAR
