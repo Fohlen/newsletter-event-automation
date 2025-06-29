@@ -10647,4 +10647,17 @@ DESCRIPTION:Am 11. und 12. Juli findet an der Fruchtschranne die Schöner-
  n auch Fragen für ein Mitmachquiz beim Infostand gesucht.
 LOCATION:Fruchtschranne\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt und Informationsstand zu unserem Hausprojekt und energet
+ ischer Sanierung.
+DTSTART:20250705T150000
+DTEND:20250705T200000Z
+DTSTAMP:20250629T204541Z
+UID:03390e47-7ed3-4830-b5b5-ea2c36f4843d
+DESCRIPTION:Kommt am Samstag den 05. Juli 2025\, ab 15 Uhr bis ca. 20 Uhr 
+ bei uns in der Schranne vorbei. Es gibt gekühlte Getränke\, Cold-brew Ka
+ ffee und vegane Naschereien auf Spendenbasis. Ab 18 Uhr wird es auch eine 
+ Küfa (vegan) geben.
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
