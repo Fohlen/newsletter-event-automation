@@ -10660,4 +10660,50 @@ DESCRIPTION:Kommt am Samstag den 05. Juli 2025\, ab 15 Uhr bis ca. 20 Uhr
  Küfa (vegan) geben.
 LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine energiegeladene Show mit britischem Punk.
+DTSTART:20250630T210000
+DTEND:20250630T230000Z
+DTSTAMP:20250630T204546Z
+UID:3aaa25b6-ee90-45b9-b66f-2547868a32e2
+DESCRIPTION:Die Subhumans\, echte Anarcho-Punk Legenden aus Wiltshire (GB)
+ \, kommen am 30. Juni 2025 zum ersten Mal in den Blauen Salon. Einlass ist
+  um 21:00 Uhr und der Beginn der Show um 22:00 Uhr. Eintritt frei!
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jährliches Sommerfest mit Live-Musik und DJ.
+DTSTART:20250504T170000
+DTEND:20250504T235900Z
+DTSTAMP:20250630T204546Z
+UID:d985fa10-286e-417c-b879-490c04ca6604
+DESCRIPTION:Feiere mit uns unser jährliches Sommerfest im Geigerle Wohnhe
+ im! Es gibt Live-Musik\, später DJ-Musik und reichlich Essen und Trinken.
+LOCATION:Geigerle Wohnheim\, Charlottenstraße 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Präsentation einer Studie über die veränderte Lage in Syrien\, 
+ internationale Interessen und deren Implikationen.
+DTSTART:20250701T190000
+DTEND:20250701T235959Z
+DTSTAMP:20250630T204546Z
+UID:71457fae-0537-4f45-b4ba-84525e36c183
+DESCRIPTION:Eine Diskussion über die Nutzung und Kapern von humanitärer 
+ Hilfe und Entwicklungszusammenarbeit in Konflikträumen mit geschwächter 
+ staatlicher Souveränität\, basierend auf einer Präsentation eines Prakt
+ ikanten.
+LOCATION:IMI-Büro im Sudhaus\, Hechinger Str. 203\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Party zur Unterstützung politischer Arbeit durch Spendensamm
+ lung.
+DTSTART:20250704T220000
+DTEND:20250704T235959Z
+DTSTAMP:20250630T204546Z
+UID:18d2e012-649a-4d18-a7af-dc287b4cff48
+DESCRIPTION:Am Donnerstag\, den 4. Juli\, laden wir zur Soli-Party „Rave
+ n bis zum Sozialismus“ ein. Feiere mit uns und unterstütze unsere polit
+ ische Arbeit!
+LOCATION:Geissweg 17\, Tübingen
+END:VEVENT
 END:VCALENDAR
