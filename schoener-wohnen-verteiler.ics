@@ -10706,4 +10706,16 @@ DESCRIPTION:Am Donnerstag\, den 4. Juli\, laden wir zur Soli-Party „Rave
  ische Arbeit!
 LOCATION:Geissweg 17\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hof- Aufräum- und Bautag mit musikalischer Untermalung von Pin No
+ ir
+DTSTART:20250712T000000
+DTEND:20250712T235959Z
+DTSTAMP:20250702T204527Z
+UID:f65e4811-fada-4098-a7d5-439478d9c41b
+DESCRIPTION:Am 12.07.25 macht die Hegel einen Hof- Aufräum- und Bautag un
+ d würde diesen gern mit euch ausklingen lassen! Aus Biel reisen die groß
+ artigen Folkpunks 'Pin Noir' an für die musikalische Untermalung.
+LOCATION:Hegel
+END:VEVENT
 END:VCALENDAR
