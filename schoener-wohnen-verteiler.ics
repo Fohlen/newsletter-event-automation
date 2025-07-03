@@ -10718,4 +10718,15 @@ DESCRIPTION:Am 12.07.25 macht die Hegel einen Hof- Aufräum- und Bautag un
  artigen Folkpunks 'Pin Noir' an für die musikalische Untermalung.
 LOCATION:Hegel
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleidertausch im Rahmen der Nacht der Nachhaltigkeit
+DTSTART:20250704T170000
+DTEND:20250704T220000Z
+DTSTAMP:20250703T130838Z
+UID:c067305d-a382-4c9c-95db-eab6b34035bf
+DESCRIPTION:Bringe deine sauberen\, gefalteten Kleidungsstücke mit (MAX. 
+ 10 Kleidungsstücke). Tausche sie gegen neue Lieblingsteile oder nimm einf
+ ach etwas mit. Nachhaltig\, unkompliziert & kostenlos!
+LOCATION:Marktplatz
+END:VEVENT
 END:VCALENDAR
