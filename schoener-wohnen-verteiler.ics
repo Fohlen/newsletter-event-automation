@@ -10742,4 +10742,16 @@ DESCRIPTION:Treffen im Eckladen zur Information über Mitgliedschaft und F
  e Form des Wirtschaftens mit ökologischen und sozialen Prinzipien.
 LOCATION:Eckladen\, Hechinger Straße 82\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feierabend mit DJ's und guter Stimmung
+DTSTART:20251006T200000
+DTEND:20251006T235959Z
+DTSTAMP:20250704T204546Z
+UID:af2de388-1120-48c7-8316-b29eabf2a35d
+DESCRIPTION:Wir laden zur SDS-Soli Party in der Lu15 (Ludwigstraße 15) ei
+ n. Beginn ist um 20 Uhr im Garten\, und um 22 Uhr geht die Party richtig l
+ os! DJ AI\, DJ Schnotz\, 171neighbors und jabalu werden für die musikalis
+ che Unterhaltung sorgen.
+LOCATION:Lu15\, Ludwigstraße 15\, Tübingen
+END:VEVENT
 END:VCALENDAR
