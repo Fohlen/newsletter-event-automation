@@ -10729,4 +10729,17 @@ DESCRIPTION:Bringe deine sauberen\, gefalteten Kleidungsstücke mit (MAX.
  ach etwas mit. Nachhaltig\, unkompliziert & kostenlos!
 LOCATION:Marktplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationsveranstaltung über Kennenlernen\, Mitmachen und Mitgl
+ iedschaft sowie Finanzierungskonzept.
+DTSTART:20250707T173000
+DTEND:20250707T183000Z
+DTSTAMP:20250704T130856Z
+UID:5b89ac48-c975-4a77-807d-af8170d46761
+DESCRIPTION:Treffen im Eckladen zur Information über Mitgliedschaft und F
+ inanzierung\, inklusive Verkostung von Produkten von GEPA. Der Eckladen is
+ t Teil des gemeinnützigen Vereins Plattsalat e.V. und fördert eine ander
+ e Form des Wirtschaftens mit ökologischen und sozialen Prinzipien.
+LOCATION:Eckladen\, Hechinger Straße 82\, Tübingen
+END:VEVENT
 END:VCALENDAR
