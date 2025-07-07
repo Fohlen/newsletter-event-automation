@@ -10754,4 +10754,78 @@ DESCRIPTION:Wir laden zur SDS-Soli Party in der Lu15 (Ludwigstraße 15) ei
  che Unterhaltung sorgen.
 LOCATION:Lu15\, Ludwigstraße 15\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Chaos-Community-Event in Tübingen.
+DTSTART:20250726T110000
+DTEND:20250726T235959Z
+DTSTAMP:20250707T204651Z
+UID:a108e8f5-b34f-4881-933a-0672bf3e5f0a
+DESCRIPTION:Das Event beinhaltet Workshops und Vorträge zu Themen wie Kre
+ ativität\, Ethik\, Politik\, Hardware\, Digitalität\, Nachhaltigkeit und
+  mehr. Kommt vorbei zum Chillen\, Gespräche und zum Hacken!
+LOCATION:Westspitze\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sneak Preview zu den Tagen der digitalen Freiheit
+DTSTART:20250709T190000
+DTEND:20250709T235959Z
+DTSTAMP:20250707T204651Z
+UID:787fcd09-f7af-4f4e-88b1-32d42145407f
+DESCRIPTION:Am Mittwoch\, 9 Juli\, ab 19 Uhr öffnet die Schelling Tür zu
+ r Hausbar zusammen mit dem Caostreff Tübingen. Es gibt eine Sneak Preview
+  zu den Tagen der digitalen Freiheit a.k.a. Chaostage Tübingen\, die am 2
+ 6. und 27. Juli stattfinden. Community-Event mit Vorträgen\, Workshops un
+ d vielen lieben Menschen im Spannungsfeld Gesellschaft und Technologie.
+LOCATION:Schelling Tür\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarität mit Maja\, die rechtswidrig nach Ungarn ausgeliefert 
+ wurde.
+DTSTART:20250708T210000
+DTEND:20250708T235959Z
+DTSTAMP:20250707T204651Z
+UID:0ff9078a-b296-4a86-a262-d6e0cafe2369
+DESCRIPTION:Wir rufen zur Kundgebung auf\, um Maja zu unterstützen\, die 
+ im Hungerstreik ist. Forderung: Sofortige Rücküberstellung nach Deutschl
+ and und ein faires Verfahren!
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Critical Mass in Tübingen.
+DTSTART:20250718T180000
+DTEND:20250718T235959Z
+DTSTAMP:20250707T204651Z
+UID:d9e41fa8-b4d3-44bd-b63c-38ebbe72015b
+DESCRIPTION:Lasst uns ein Zeichen für eine nachhaltige und fahrradfreundl
+ iche Stadt setzen. Jede Teilnahme zählt und macht unseren Protest für be
+ ssere Radinfrastruktur sichtbarer! Seid dabei und genießt eine entspannte
+  Fahrt durch unsere schöne Stadt.
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening to eat\, connect\, and build solidarity
+ !
+DTSTART:20250708T180000
+DTEND:20250708T235959Z
+DTSTAMP:20250707T204651Z
+UID:eb8f038d-3a7d-499f-87c1-3dad6c28cb2d
+DESCRIPTION:Every Tuesday we gather to enjoy a meal\, connect with each ot
+ her\, and build solidarity. This week on 08.07. at 18:00\, we will create 
+ a cozy space in our garden for you to enjoy the evening.
+LOCATION:Siggi11\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über Content-Moderation und die Rolle von Algorithmen und
+  menschlichen Moderatoren.
+DTSTART:20250710T190000
+DTEND:20250710T235959Z
+DTSTAMP:20250707T204651Z
+UID:7bd17e78-35e8-4a39-8f9d-43b0802b2c3a
+DESCRIPTION:In diesem Vortrag erfahren wir\, warum und wie Plattformen ihr
+ en Content moderieren und welche Akteure neben Algorithmen daran beteiligt
+  sind. Der Referent Elias Raatz\, ein freier Journalist und Medienwissensc
+ haftler\, beleuchtet die Herausforderungen der Content-Moderation und die 
+ traumatischen Erfahrungen von 'Cleaners'.
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
