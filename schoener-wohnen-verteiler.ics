@@ -10828,4 +10828,30 @@ DESCRIPTION:In diesem Vortrag erfahren wir\, warum und wie Plattformen ihr
  traumatischen Erfahrungen von 'Cleaners'.
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier der 30 Jahre Kulturtage mit verschiedenen Veranstaltungen un
+ d Auftritten.
+DTSTART:20250724T193000
+DTEND:20250724T235959Z
+DTSTAMP:20250710T131836Z
+UID:2f4fa9b4-2318-4821-9a31-ee4826590a0e
+DESCRIPTION:Von Donnerstag\, den 24. Juli bis Samstag\, den 26. Juli 2025 
+ feiern wir 30 Jahre Kulturtage in Tübingen mit einer Vielzahl an Programm
+ punkten wie Straßentheater\, Musik\, Kinderprogrammen und Disco. Der gesa
+ mte Erlös kommt sozialen Projekten zugute.
+LOCATION:Wagenburgen Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Support for a refugee friend in need with delicious crêpes and sp
+ ecial drinks.
+DTSTART:20250714T190000
+DTEND:20250714T235959Z
+DTSTAMP:20250710T131836Z
+UID:51d845c7-3b55-4baa-a7e1-640de087ac33
+DESCRIPTION:Join us at LH2 for a summer evening featuring sweet and savory
+  crêpes (vegan options available) on a donation basis\, along with Amaret
+ to frappés and Soléro cocktails. Take a break from everyday stress and e
+ njoy the evening with friends!
+LOCATION:Stauffenbergstraße 30\, LH2
+END:VEVENT
 END:VCALENDAR
