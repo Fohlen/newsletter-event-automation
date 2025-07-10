@@ -10854,4 +10854,17 @@ DESCRIPTION:Join us at LH2 for a summer evening featuring sweet and savory
  njoy the evening with friends!
 LOCATION:Stauffenbergstraße 30\, LH2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Linke lädt zu einer Stadtführung\, die ungenutzten Wohnraum 
+ in der Tübinger Altstadt zeigt.
+DTSTART:20250712T140000
+DTEND:20250712T235959Z
+DTSTAMP:20250710T204730Z
+UID:d3b7e26a-e168-4d68-a673-1e9ab93ecf07
+DESCRIPTION:Führung durch die Tübinger Altstadt\, um ungenutzten Wohnrau
+ m zu thematisieren. Beginn um 14 Uhr bei der Hollywoodschaukel am Haagtorp
+ latz. Ziel ist es auf die Problematik des Leerstands hinzuweisen und den D
+ ruck auf die Wohnraumbereitstellung zu erhöhen.
+LOCATION:Hollywoodschaukel am Haagtorplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
