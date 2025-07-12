@@ -10867,4 +10867,16 @@ DESCRIPTION:Führung durch die Tübinger Altstadt\, um ungenutzten Wohnrau
  ruck auf die Wohnraumbereitstellung zu erhöhen.
 LOCATION:Hollywoodschaukel am Haagtorplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protestveranstaltung zur Verteidigung der Mindestlöhne für Saiso
+ narbeiter*innen.
+DTSTART:20250717T193000
+DTEND:20250717T235959Z
+DTSTAMP:20250712T204600Z
+UID:0aaee8bf-4e55-4f02-a6ac-a07e0080811c
+DESCRIPTION:Schließe dich uns an\, um gegen die diskutierte Senkung der M
+ indestlöhne für Saisonarbeiter*innen zu protestieren. Gemeinsam kämpfen
+  wir für gleiche Bezahlung und bessere Arbeitsbedingungen!
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
 END:VCALENDAR
