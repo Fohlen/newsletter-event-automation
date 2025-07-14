@@ -10879,4 +10879,14 @@ DESCRIPTION:Schließe dich uns an\, um gegen die diskutierte Senkung der M
   wir für gleiche Bezahlung und bessere Arbeitsbedingungen!
 LOCATION:Holzmarkt\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garage-Psychedelic-Rock aus Seattle
+DTSTART:20250715T220000
+DTEND:20250715T235959Z
+DTSTAMP:20250714T132119Z
+UID:d0088684-43f0-4f5d-a600-1d4d535783c8
+DESCRIPTION:ACID TONGUE kommt am Dienstag\, dem 15. Juli\, in den Blauen S
+ alon! Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr. Eintritt frei!
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
