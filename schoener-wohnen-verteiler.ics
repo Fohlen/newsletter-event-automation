@@ -10889,4 +10889,42 @@ DESCRIPTION:ACID TONGUE kommt am Dienstag\, dem 15. Juli\, in den Blauen S
  alon! Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr. Eintritt frei!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein offener Veranstaltungskalender für kulturelle\, politische un
+ d gesellschaftliche Events in Tübingen.
+DTSTART:20250101T000000Z
+DTEND:20250101T235959Z
+DTSTAMP:20250716T204824Z
+UID:ad514ace-89bf-4465-9ee9-3aea623005eb
+DESCRIPTION:Der Veranstaltungskalender von tue4.org bietet einen gemeinsam
+ en Ort für alle Veranstaltungen in der Region\, von Konzerten über Theat
+ er bis hin zu Workshops. Unabhängig\, nicht-kommerziell und datenschutzfr
+ eundlich. Alle können mitmachen\, indem sie selbst Veranstaltungen eintra
+ gen.
+LOCATION:Tübingen\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ska-Punk aus Italien live im Blauen Salon
+DTSTART:20250717T220000
+DTEND:20250717T235959Z
+DTSTAMP:20250716T204824Z
+UID:1fce79ac-6e84-404e-8dd9-f5356c02f9b9
+DESCRIPTION:THE SNOUTERS kommen am Donnerstag dem 17. Juli in den Blauen S
+ alon! Diese energiegeladene Ska-Punk Band wird zum ersten Mal im Blauen Sa
+ lon spielen. Freut euch auf furiosen und tanzbaren Ska-Punk!
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsfeier zum 30-jährigen Bestehen des Freien Radios Wüste
+  Welle.
+DTSTART:20250915T150000
+DTEND:20250915T235959Z
+DTSTAMP:20250716T204824Z
+UID:99e6d5be-0cf6-40db-bb30-0c3464b418a4
+DESCRIPTION:Feiert mit uns ab 15 Uhr im Innenhof der Schelling! Nachmittag
+ s Grußworte\, Kleinkunst und Podiumsdiskussion\, ab 18 Uhr Live-Bands und
+  nachts DJs. Radioquiz\, Küfa-Stände\, Eis\, Kaffee und neue Wüste Well
+ e Merch. Kinderbespaßung vorhanden!
+LOCATION:Innenhof der Schelling
+END:VEVENT
 END:VCALENDAR
