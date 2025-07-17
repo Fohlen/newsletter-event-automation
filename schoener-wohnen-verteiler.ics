@@ -10927,4 +10927,36 @@ DESCRIPTION:Feiert mit uns ab 15 Uhr im Innenhof der Schelling! Nachmittag
  e Merch. Kinderbespaßung vorhanden!
 LOCATION:Innenhof der Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Kundgebung über die aktuellen Konflikte im Nahen Os
+ ten und die Notwendigkeit zur Solidarität mit den Menschen in Israel und 
+ Palästina.
+DTSTART:20250722T180000Z
+DTEND:20250722T235959Z
+DTSTAMP:20250717T204804Z
+UID:a1622307-8fde-429f-983a-b5d2cd5242b7
+DESCRIPTION:Von Woche zu Woche wächst die Verzweiflung über die eskalier
+ enden Konflikte im Nahen Osten. Den Terror der Hamas beantwortet die israe
+ lische Regierung mit einem erbarmungslosen Vertreibungskrieg im Gazastreif
+ en. Mehr als eine Million Menschen sind von jeglicher Versorgung mit Hilfs
+ gütern abgeschnitten. Unsere Kundgebung hat daher eine klare aktuelle Bot
+ schaft: Der Krieg und die Landnahme müssen beendet werden. Gleichzeitig s
+ ehen wir das Leid der Menschen in Israel und die Bedrohung durch den Iran.
+  Wir halten an unserer „doppelten Solidarität“ fest\, trotz aller Wid
+ ersprüche.
+LOCATION:Holzmarkt Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebe Tattoos und Kunst an einem schönen Sonntag!
+DTSTART:20250720T140000
+DTEND:20250720T200000Z
+DTSTAMP:20250717T204804Z
+UID:fa494a70-9380-4905-ac06-a81c9f7c01bc
+DESCRIPTION:Am Sonntag\, den 20. Juli\, findet von 14:00 bis ca. 20:00 Uhr
+  ein Tattoo Walk In Day und Artisan Market in der Siggi 11 statt. Tattoos 
+ bekommt ihr von @divinarum.tattoo und @tonitintetue\, Kunst von @thinksart
+ .creations\, @trylo.bite\, @amageddondiy und "london". Wir freuen uns\, we
+ nn ihr vorbei schaut!
+LOCATION:Siggi 11
+END:VEVENT
 END:VCALENDAR
