@@ -10959,4 +10959,15 @@ DESCRIPTION:Am Sonntag\, den 20. Juli\, findet von 14:00 bis ca. 20:00 Uhr
  nn ihr vorbei schaut!
 LOCATION:Siggi 11
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsamer Kampf für Klimagerechtigkeit in Tübingen
+DTSTART:20250626T190000
+DTEND:20250626T210000Z
+DTSTAMP:20250718T204701Z
+UID:93d27f72-bcf7-4c73-975c-53e3c39de792
+DESCRIPTION:Nach den jüngsten Hitzerekorden und den verheerenden Waldbrä
+ nden setzen wir uns für eine klimagerechte Welt ein. Kommt vorbei und wer
+ det aktiv für Klimagerechtigkeit!
+LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz\, Tübingen
+END:VEVENT
 END:VCALENDAR
