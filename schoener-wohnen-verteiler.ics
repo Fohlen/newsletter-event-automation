@@ -10970,4 +10970,30 @@ DESCRIPTION:Nach den jüngsten Hitzerekorden und den verheerenden Waldbrä
  det aktiv für Klimagerechtigkeit!
 LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Küfa (Kitchen for All) opening event
+DTSTART:20250721T190000
+DTEND:20250721T235959Z
+DTSTAMP:20250719T130922Z
+UID:a811c27f-5d51-4b2a-a644-09deb7cde0f2
+DESCRIPTION:Join us for the opening of our new Küfa at Münze 7! Every th
+ ird Monday of the month\, we provide a space for everyone to eat\, relax\,
+  and connect. Come hungry and bring your friends! Our house bar will be op
+ en as well. We do not tolerate any discriminatory behavior.
+LOCATION:Münzgasse 7\, Münze 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Promo video shoot for the Mad Pride Day to mobilize support.
+DTSTART:20250721T180000Z
+DTEND:20250721T235959Z
+DTSTAMP:20250719T130922Z
+UID:a377f1d6-d808-4d3a-96e4-2ea732a047bc
+DESCRIPTION:We're filming scenes for the Mad Pride Day taking place for th
+ e first time in Southern Germany on October 11 in Stuttgart. We are lookin
+ g for people to participate. You can choose to show your face or not. The 
+ filming will take place on Monday\, July 21\, starting at 6 PM near the Wo
+ hnprojekt Schellingstraße. If you are interested\, please contact rahmann
+ @lvpebw.de.
+LOCATION:Near Wohnprojekt Schellingstraße\, Stuttgart
+END:VEVENT
 END:VCALENDAR
