@@ -10996,4 +10996,24 @@ DESCRIPTION:We're filming scenes for the Mad Pride Day taking place for th
  @lvpebw.de.
 LOCATION:Near Wohnprojekt Schellingstraße\, Stuttgart
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Schauen der neuen Staffel von Princess Charming
+DTSTART:20250724T200000
+DTEND:20250724T235959Z
+DTSTAMP:20250721T204819Z
+UID:c899905a-9b41-4c9d-82a8-e8c81bc4494b
+DESCRIPTION:Schaut die neue Staffel von Princess Charming gemeinsam! Getr
+ änke gegen Spende sind vorhanden. Bringt gerne Snacks mit\, um zu teilen.
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sleepytime Gorilla Museum & Faun Fables
+DTSTART:20250725T180000
+DTEND:20250725T235959Z
+DTSTAMP:20250721T204819Z
+UID:f7e9ad3d-e7b7-4040-a8d6-370418f0e62c
+DESCRIPTION:A curious & delicious AMBUGATON nightmare fever curated by Mad
+ ameMacario
+LOCATION:Sigwartstraße 11\, Tübingen
+END:VEVENT
 END:VCALENDAR
