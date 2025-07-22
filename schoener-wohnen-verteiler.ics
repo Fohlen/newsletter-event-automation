@@ -11016,4 +11016,28 @@ DESCRIPTION:A curious & delicious AMBUGATON nightmare fever curated by Mad
  ameMacario
 LOCATION:Sigwartstraße 11\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live performance by The Myrrors in Lu15 Garden.
+DTSTART:20250727T180000
+DTEND:20250727T200000Z
+DTSTAMP:20250722T204909Z
+UID:f5aafba6-0eb9-4421-90f1-f29dff27e9d2
+DESCRIPTION:Experience the unique sound of The Myrrors\, a drone rock band
+ \, in the beautiful setting of the Lu15 Garden. In case of rain\, the conc
+ ert will be held in the cellar. Come and support the band by donating duri
+ ng the performance.
+LOCATION:Lu15 Garden\, Lu15\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Support for the alternative housing project Zelle 79.
+DTSTART:20250726T200000Z
+DTEND:20250726T235959Z
+DTSTAMP:20250722T204909Z
+UID:bae7545f-7cb5-46ba-9c3b-4b4188c10bee
+DESCRIPTION:Join us in solidarity with the alternative housing project Zel
+ le 79 in response to the recent right-wing attack. Antifascism is necessar
+ y\, and we stand against hate and violence. Let's support our community an
+ d promote alternative culture\, education\, and antifascist work.
+LOCATION:Hegelstraße 7\, Cottbus
+END:VEVENT
 END:VCALENDAR
