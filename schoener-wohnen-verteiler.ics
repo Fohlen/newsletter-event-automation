@@ -11040,4 +11040,17 @@ DESCRIPTION:Join us in solidarity with the alternative housing project Zel
  d promote alternative culture\, education\, and antifascist work.
 LOCATION:Hegelstraße 7\, Cottbus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend zur Feier von Solidarität und Subkultur.
+DTSTART:20250726T180000
+DTEND:20250726T235959Z
+DTSTAMP:20250725T132029Z
+UID:c5a00c52-37e1-4eca-abb2-33ca5d7f29c2
+DESCRIPTION:Wir laden euch herzlich ein zu unserer allerersten Münze 13 G
+ ala – ein Abend\, um Solidarität und Subkultur zu feiern! Dieser Abend 
+ ist unser Dankeschön an alle\, die uns auf unserem Weg bisher unterstütz
+ t haben und gibt uns die Gelegenheit\, über den aktuellen Stand unseres H
+ auskauf-Prozesses zu informieren.
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
