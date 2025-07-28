@@ -11053,4 +11053,40 @@ DESCRIPTION:Wir laden euch herzlich ein zu unserer allerersten Münze 13 G
  auskauf-Prozesses zu informieren.
 LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kabel für Deko gesucht!
+DTSTART:20250801T000000
+DTEND:20250801T235959Z
+DTSTAMP:20250728T132336Z
+UID:f74f6cab-9d2e-4bc9-a943-ed8d7bcb2b3d
+DESCRIPTION:Für das Cyborx-Festival vom 1. bis 4. August in der Shedhalle
+  benötigen wir noch Kabel für die dekorative Ausstattung. Wenn ihr Kabel
+  aus Elektromüll habt\, die ihr spenden möchtet\, meldet euch bitte!
+LOCATION:Shedhalle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kultureller Abend mit senegalesischer Küche und westafrikanischen
+  Klängen
+DTSTART:20250727T190000
+DTEND:20250727T220000Z
+DTSTAMP:20250728T132336Z
+UID:8d614480-bdb8-49c7-a598-eb8226b86280
+DESCRIPTION:Unser Verein Guiss e.V. lädt euch herzlich ein zu einem kultu
+ rellen Abend mit senegalesischer Küche\, westafrikanischen Klängen und E
+ inblick in unsere Vereinsarbeit.
+LOCATION:Café Mehrrettich\, Neckarhalde 70\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informiere dich über den Eckladen\, Mitgliedschaft und Direktkred
+ ite.
+DTSTART:20250729T170000
+DTEND:20250729T180000Z
+DTSTAMP:20250728T132336Z
+UID:2b2b2c48-4f7f-4313-9f18-1797cceec6f4
+DESCRIPTION:Einladung zur Informationsveranstaltung über den selbstverwal
+ teten Bio-(Mitglieder-)Eckladen. Fragen zum Konzept des Eckladens\, der Mi
+ tgliedschaft und Unterstützung durch Direktkredite werden beantwortet. Le
+ ckere fair gehandelte GEPA-Süßigkeiten werden zum Probieren angeboten.
+LOCATION:Hechinger Straße 82
+END:VEVENT
 END:VCALENDAR
