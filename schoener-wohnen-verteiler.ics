@@ -11089,4 +11089,26 @@ DESCRIPTION:Einladung zur Informationsveranstaltung über den selbstverwal
  ckere fair gehandelte GEPA-Süßigkeiten werden zum Probieren angeboten.
 LOCATION:Hechinger Straße 82
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zweite Folge der Filmreihe mit Snacks und Getränken.
+DTSTART:20251005T180000Z
+DTEND:20251005T210000Z
+DTSTAMP:20250729T205028Z
+UID:0ba64043-f888-463d-8ec4-b9b8a82236fe
+DESCRIPTION:Wir freuen uns über zahlreiche Teilnehmende zur zweiten Folge
+  der Filmreihe. Aufgrund des schlechten Wetters findet die Veranstaltung i
+ m Pfleghof statt. Snacks zum Teilen sind willkommen!
+LOCATION:Pfleghof\, Hegel7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dokumentation über Migrationspolitik
+DTSTART:20250804T190000
+DTEND:20250804T210000Z
+DTSTAMP:20250729T205028Z
+UID:2a4a3f46-33d2-4a16-9c34-46ede712fd1c
+DESCRIPTION:Die Seebrücke Tübingen zeigt die Dokumentation "Kein Land f
+ ür Niemand – Abschottung eines Einwanderungslandes"\, die die Ursachen 
+ der aktuellen politischen Zäsur beleuchtet.
+LOCATION:Kino Museum\, Tübingen
+END:VEVENT
 END:VCALENDAR
