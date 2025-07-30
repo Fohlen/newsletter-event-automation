@@ -11111,4 +11111,16 @@ DESCRIPTION:Die Seebrücke Tübingen zeigt die Dokumentation "Kein Land f
  der aktuellen politischen Zäsur beleuchtet.
 LOCATION:Kino Museum\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antiautoritäres Treffen Tübingen – Soli-Hausbar
+DTSTART:20251018T180000
+DTEND:20251018T235900Z
+DTSTAMP:20250730T204814Z
+UID:658833f6-7051-4f48-9dc4-4e92daa10126
+DESCRIPTION:Diese Woche unterstützen wir vom Antiautoritären Treffen Tü
+ bingen mit Reste von der letzten Soli-Hausbar. Kommt vorbei für Cocktails
+ \, Sangria\, die üblichen Hausbargetränke\, ein trockenes Dach über dem
+  Kopf\, nicer Musik und zum Kennenlernen.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
