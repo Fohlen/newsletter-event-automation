@@ -11123,4 +11123,18 @@ DESCRIPTION:Diese Woche unterstützen wir vom Antiautoritären Treffen Tü
   Kopf\, nicer Musik und zum Kennenlernen.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selbstorganisiertes Haus- und Kulturprojekt 'Solijanka' in Grasleb
+ en
+DTSTART:20250101T000000Z
+DTEND:20250101T235959Z
+DTSTAMP:20250731T132222Z
+UID:209f477b-f52e-4232-beac-313e8572acc1
+DESCRIPTION:Wir suchen neue Mitbewohner:innen für unser selbstorganisiert
+ es Haus- und Kulturprojekt 'Solijanka'. Unser Projekt befindet sich im Auf
+ bau\, bietet aber bereits viel Raum zur Mitgestaltung und viele Möglichke
+ iten für gemeinsames Leben\, Kultur und Widerstand. Detaillierte Informat
+ ionen sind in der angehängten PDF zu finden.
+LOCATION:Grasleben\, zwischen Magdeburg & Braunschweig
+END:VEVENT
 END:VCALENDAR
