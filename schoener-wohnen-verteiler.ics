@@ -11137,4 +11137,17 @@ DESCRIPTION:Wir suchen neue Mitbewohner:innen für unser selbstorganisiert
  ionen sind in der angehängten PDF zu finden.
 LOCATION:Grasleben\, zwischen Magdeburg & Braunschweig
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum offenen Treffen zur Gestaltung einer gerechteren Woh
+ npolitik in Tübingen.
+DTSTART:20250930T170000
+DTEND:20250930T235959Z
+DTSTAMP:20250804T132624Z
+UID:f47ea2b0-6a05-4512-9949-1436c3f20d83
+DESCRIPTION:Das Wohnraumbündnis Tübingen lädt ein zu einem offenen Tref
+ fen\, um sich gegen hohe Mieten und Wohnungsnot einzusetzen. Alle interess
+ ierten Personen sind herzlich eingeladen\, sich einzubringen und aktiv an 
+ einer besseren Wohnpolitik zu arbeiten.
+LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
+END:VEVENT
 END:VCALENDAR
