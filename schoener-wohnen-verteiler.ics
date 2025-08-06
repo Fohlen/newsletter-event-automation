@@ -11150,4 +11150,28 @@ DESCRIPTION:Das Wohnraumbündnis Tübingen lädt ein zu einem offenen Tref
  einer besseren Wohnpolitik zu arbeiten.
 LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Air Screening of the third episode of Princess Charming.
+DTSTART:20251012T200000
+DTEND:20251012T220000Z
+DTSTAMP:20250806T205011Z
+UID:e34ac43c-ec7d-4543-b063-5a16e25dc1c0
+DESCRIPTION:Join us this Thursday for the outdoor screening of the third e
+ pisode of Princess Charming in the courtyard of Hegel7. Enjoy non-alcoholi
+ c drinks and Radler available for donations. Feel free to bring your own s
+ nacks to share!
+LOCATION:Hegelstraße 7\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hip-Hop Concert featuring Kandiru & MC43 and Support from Benjo da
+  Ruff Rhyme
+DTSTART:20250815T200000
+DTEND:20250815T235959Z
+DTSTAMP:20250806T205011Z
+UID:2904ac16-9ae3-4a86-bc80-3a29beecce3e
+DESCRIPTION:Join us for a lively Hip-Hop evening with concerts\, vinyls\, 
+ cyphers\, and more! Featuring performances from Kandiru & MC43 (Bremgarten
+ ) and support by Benjo da Ruff Rhyme (Kirchheim Teck).
+LOCATION:Hegel7
+END:VEVENT
 END:VCALENDAR
