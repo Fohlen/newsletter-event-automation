@@ -11174,4 +11174,18 @@ DESCRIPTION:Join us for a lively Hip-Hop evening with concerts\, vinyls\,
  ) and support by Benjo da Ruff Rhyme (Kirchheim Teck).
 LOCATION:Hegel7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for two tasting events featuring our new home-brewed beers
+ .
+DTSTART:20250818T190000
+DTEND:20250818T230000Z
+DTSTAMP:20250807T204914Z
+UID:53996740-fb91-4b38-b236-63c4aa10bf7c
+DESCRIPTION:We are excited to share three new types of home-brewed beer: -
+  "San Francisco Sunshine"\, a Californian-inspired Belgian Blonde Ale\, 6.
+ 5 % vol. - "Hoppy Trinity"\, a dry-hopped Triple IPA with 10 types of hops
+  & 10 % vol. - "Obstgarten"\, a Fruited Sour Ale with a mix of seasonal be
+ rries & 7.5 % vol. Come join us to taste these new creations!
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
