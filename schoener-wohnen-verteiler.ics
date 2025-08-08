@@ -11188,4 +11188,18 @@ DESCRIPTION:We are excited to share three new types of home-brewed beer: -
  rries & 7.5 % vol. Come join us to taste these new creations!
 LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Indie-Pop Doppelkonzert mit Cassiopeia aus Berlin und Wilted D
+ ream aus Tübingen.
+DTSTART:20250812T190000
+DTEND:20250812T230000Z
+DTSTAMP:20250808T204808Z
+UID:c57ae01e-4018-4baf-adfb-b9b52bdd6b40
+DESCRIPTION:Am Dienstag\, den 12. August\, findet ein Indie-Pop Doppelkonz
+ ert im Garten der Lu15 statt. Cassiopeia sorgt für spontane lange Groove 
+ Jams und fusioniert Psychedelic Jazz mit Deutsch-Pop. Wilted Dream bietet 
+ eine bewegende Mischung aus Indiepop und synthetischer Eigenwilligkeit. DJ
+  Support von DonnoD mit House und Disko Vinyl.
+LOCATION:Garten der Lu15
+END:VEVENT
 END:VCALENDAR
