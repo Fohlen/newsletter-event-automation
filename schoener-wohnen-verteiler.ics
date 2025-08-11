@@ -11202,4 +11202,25 @@ DESCRIPTION:Am Dienstag\, den 12. August\, findet ein Indie-Pop Doppelkonz
   Support von DonnoD mit House und Disko Vinyl.
 LOCATION:Garten der Lu15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening filled with food and community.
+DTSTART:20250812T180000
+DTEND:20250812T235959Z
+DTSTAMP:20250811T204540Z
+UID:8784b1f5-70bd-4396-b8e8-fbb368ffb852
+DESCRIPTION:On August 12th at 18:00\, come together at Siggi11 for a Küfa
+  evening. All are welcome to eat\, connect\, and build solidarity. We will
+  create a cozy atmosphere in our garden for everyone.
+LOCATION:Siggi11\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wir rollen gemeinsam durch die Stadt und zeigen: Mehr Platz fürs 
+ Rad!
+DTSTART:20250815T180000
+DTEND:20250815T235959Z
+DTSTAMP:20250811T204540Z
+UID:9e712d92-3df2-40e4-b5da-3dfcc585cd4d
+DESCRIPTION:Danach Abschluss im Bota – um Getränke kümmern wir uns.
+LOCATION:Uni-Bib (Wilhelmstraße 32)
+END:VEVENT
 END:VCALENDAR
