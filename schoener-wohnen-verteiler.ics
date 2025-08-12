@@ -11223,4 +11223,14 @@ UID:9e712d92-3df2-40e4-b5da-3dfcc585cd4d
 DESCRIPTION:Danach Abschluss im Bota – um Getränke kümmern wir uns.
 LOCATION:Uni-Bib (Wilhelmstraße 32)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leckere Getränke und sommerliche Drinks bei der Schelling
+DTSTART:20250830T200000
+DTEND:20250830T235959Z
+DTSTAMP:20250812T204637Z
+UID:dc7d3922-0bc1-482a-aae3-1b51304f3e5c
+DESCRIPTION:Genießt die Abendfrische im Schellinghof und -garten mit unse
+ ren leckeren Getränken. Kommt vorbei!
+LOCATION:Schellinghof und -garten
+END:VEVENT
 END:VCALENDAR
