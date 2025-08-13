@@ -11233,4 +11233,44 @@ DESCRIPTION:Genießt die Abendfrische im Schellinghof und -garten mit unse
  ren leckeren Getränken. Kommt vorbei!
 LOCATION:Schellinghof und -garten
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Schauen der vierten Folge von Princess Charming.
+DTSTART:20250501T190000
+DTEND:20250501T210000Z
+DTSTAMP:20250813T131946Z
+UID:5b8674d6-31a5-419d-b21a-937e8a458b56
+DESCRIPTION:Wir schauen die neue Folge von Princess Charming und bieten al
+ koholfreie Getränke und Radler gegen Spende an. Bringt gerne Snacks mit\,
+  um sie zu teilen!
+LOCATION:Pfleghof oder Open Air im Hof der Hegel7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Briefeschreiben an Politiker*innen der Landesregierung
+  von Baden-Württemberg
+DTSTART:20250816T150000
+DTEND:20250816T235959Z
+DTSTAMP:20250813T131946Z
+UID:d76a9843-012c-4409-8aa7-e1c3494569e6
+DESCRIPTION:Wir treffen uns im Café Hafenblick\, um individuelle Briefe a
+ n die Politiker*innen zu schreiben und sie auf die Gefahren des Faschismus
+  hinzuweisen. Alle sind willkommen\, um gemeinsam für die Demokratie akti
+ v zu werden.
+LOCATION:Café Hafenblick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Workshop zur Erkundung von Freund*innenschaften und alternativ
+ en Lebensmodellen.
+DTSTART:20251024T150000
+DTEND:20251024T235959Z
+DTSTAMP:20250813T131946Z
+UID:b8e11ae0-4221-4bd6-8eb8-8c8a667239f6
+DESCRIPTION:Der Workshop richtet sich an Queers*\, die Interesse an einem 
+ intensiven Austausch über Freund*innenschaften und deren Bedeutung im Leb
+ en haben. Es erwarten euch Inputs der Referent*innen sowie vielfältige Me
+ thoden im Einzel-\, Klein- und Großgruppensetting. Ziel ist es\, einen Ra
+ um zu schaffen\, in dem alle Fragen Platz haben\, und die Teilnehmer*innen
+  am Ende voller Inspiration und neuen Ideen den Workshop verlassen. Wir fr
+ euen uns darauf\, mit euch gemeinsam zu lernen und zu feiern!
+LOCATION:adis e.V.\, Bi*smarckstraße 136\, barrierefrei
+END:VEVENT
 END:VCALENDAR
