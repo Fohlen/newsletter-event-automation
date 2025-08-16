@@ -11286,4 +11286,28 @@ DESCRIPTION:Wir freuen uns riesig\, den Mitgliederladen offiziell zu eröf
  ernt das Team kennen.
 LOCATION:Eckladen\, Hechinger Straße 82\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for two tasting evenings showcasing our new brews.
+DTSTART:20250818T190000
+DTEND:20250818T235959Z
+DTSTAMP:20250816T204509Z
+UID:14826e11-1ce7-44ea-916d-c90d620615fc
+DESCRIPTION:Fichtehaus Homebrewing is back after a six-month break with th
+ ree new beers: ‘San Francisco Sunshine’\, a Belgian Blonde Ale\, ‘Ho
+ ppy Trinity’\, a Triple IPA\, and ‘Obstgarten’\, a Fruited Sour Ale.
+  We invite you to our tasting events.
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von Clemente Verdugo im Fichtehaus mit neuen Liedern und b
+ esonderen Gästen.
+DTSTART:20250830T200000
+DTEND:20250830T235959Z
+DTSTAMP:20250816T204509Z
+UID:3f204ace-aa5a-45f2-9c0e-8373f1ecdab8
+DESCRIPTION:Ein Konzert\, das die Seele berührt und Brücken zwischen Kul
+ turen schlägt. Clemente Verdugo präsentiert seine neue Tour 'Por El Cami
+ no'\, mit einem Abend voller Musik\, Mitsingen und Tanzen.
+LOCATION:Fichtehaus\, Herrenberger Str. 40\, Tübingen
+END:VEVENT
 END:VCALENDAR
