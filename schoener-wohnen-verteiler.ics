@@ -11273,4 +11273,17 @@ DESCRIPTION:Der Workshop richtet sich an Queers*\, die Interesse an einem
  euen uns darauf\, mit euch gemeinsam zu lernen und zu feiern!
 LOCATION:adis e.V.\, Bi*smarckstraße 136\, barrierefrei
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Eckladen eröffnet seinen Mitgliederladen am 1. September 2025
+ .
+DTSTART:20250901T100000
+DTEND:20250901T170000Z
+DTSTAMP:20250816T130623Z
+UID:c75df54a-c453-4e77-9026-09cd74b4b5ef
+DESCRIPTION:Wir freuen uns riesig\, den Mitgliederladen offiziell zu eröf
+ fnen. Es wird ein Ort zum Begegnen\, Mitmachen und Wohlfühlen - für alle
+ \, die Einkaufen anders denken wollen! Kommt vorbei\, schaut euch um und l
+ ernt das Team kennen.
+LOCATION:Eckladen\, Hechinger Straße 82\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
