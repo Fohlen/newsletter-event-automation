@@ -11310,4 +11310,16 @@ DESCRIPTION:Ein Konzert\, das die Seele berührt und Brücken zwischen Kul
  no'\, mit einem Abend voller Musik\, Mitsingen und Tanzen.
 LOCATION:Fichtehaus\, Herrenberger Str. 40\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit Tommy and the Teleboys im Blauen Salon.
+DTSTART:20250901T220000
+DTEND:20250901T235959Z
+DTSTAMP:20250820T204631Z
+UID:190bceea-a4ec-480a-ada5-6177ecc0c757
+DESCRIPTION:Erwartet uns am Montag\, dem 01. September\, pünktlich ab 22:
+ 00 Uhr im Blauen Salon mit den Garagenrock- und Psychedelia-Klängen von T
+ ommy and the Teleboys. Einlass beginnt um 21:00 Uhr. Der Eintritt ist frei
+ !
+LOCATION:Blaue Salon
+END:VEVENT
 END:VCALENDAR
