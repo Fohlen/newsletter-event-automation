@@ -11322,4 +11322,24 @@ DESCRIPTION:Erwartet uns am Montag\, dem 01. September\, pünktlich ab 22:
  !
 LOCATION:Blaue Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nächste Folge von Princess Charming
+DTSTART:20251012T200000
+DTEND:20251012T235959Z
+DTSTAMP:20250822T130756Z
+UID:20bfbeba-8804-42e0-bea3-eacbfb16184c
+DESCRIPTION:Schaut mit uns die nächste Folge von Princess Charming im Pfl
+ eghof! Alkoholfreie Getränke und Radler gegen Spende.
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nächste Folge Princess Charming im Pfleghof
+DTSTART:20251012T200000
+DTEND:20251012T235959Z
+DTSTAMP:20250822T130756Z
+UID:4e39c9f6-83a3-40f5-858e-fa34dd484a66
+DESCRIPTION:Gemeinsames Schauen der neuesten Folge von Princess Charming. 
+ Alkoholfreie Getränke und Radler gegen Spende. Bringt gerne Snacks mit!
+LOCATION:Pfleghof
+END:VEVENT
 END:VCALENDAR
