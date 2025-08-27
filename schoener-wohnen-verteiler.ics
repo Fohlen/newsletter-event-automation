@@ -11342,4 +11342,18 @@ DESCRIPTION:Gemeinsames Schauen der neuesten Folge von Princess Charming.
  Alkoholfreie Getränke und Radler gegen Spende. Bringt gerne Snacks mit!
 LOCATION:Pfleghof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for the next episode of Princess Charming!
+DTSTART:20250327T200000
+DTEND:20250327T235959Z
+DTSTAMP:20250827T130722Z
+UID:9b6279fd-bffb-4ad7-9275-55b2df394cfc
+DESCRIPTION:The next episode of Princess Charming will take place on Thurs
+ day at Pfleghof. We'll start at 20:00. As always\, we have non-alcoholic d
+ rinks and Radler for a donation. Feel free to bring snacks to share if you
+ 'd like. We watch the new episode every Thursday evening this year\, alter
+ nating between Pfleghof and open air in the courtyard of Hegel7. Stay tune
+ d for updates! Any spontaneous changes due to weather will be posted here.
+LOCATION:Pfleghof
+END:VEVENT
 END:VCALENDAR
