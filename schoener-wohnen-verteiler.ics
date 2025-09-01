@@ -11356,4 +11356,24 @@ DESCRIPTION:The next episode of Princess Charming will take place on Thurs
  d for updates! Any spontaneous changes due to weather will be posted here.
 LOCATION:Pfleghof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychedelic-Fuzz-Rock aus Halle & Berlin!
+DTSTART:20250901T210000
+DTEND:20250901T235900Z
+DTSTAMP:20250901T130938Z
+UID:5ed00dce-8518-4154-a042-5d2bbe298a98
+DESCRIPTION:Erlebt TOMMY AND THE TELEBOYS mit ihrem neuen Album im Blauen 
+ Salon! Einlass um 21:00 Uhr\, Beginn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussionsrunde über Feminismus
+DTSTART:20250903T190000
+DTEND:20250903T203000Z
+DTSTAMP:20250901T130938Z
+UID:416d46d5-3db6-44f4-881d-f6ff47f44b98
+DESCRIPTION:Gemeinsames Lesen und Diskutieren eines vorausgewählten Texte
+ s über feministische Themen. Bringt Texte ein\, die euch interessieren!
+LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
+END:VEVENT
 END:VCALENDAR
