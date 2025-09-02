@@ -11389,4 +11389,27 @@ DESCRIPTION:Jeden Montag von 17:30 bis 19:00 Uhr findet die Tauschaktion s
  cial/bezahlkarte/de/kartentausch.
 LOCATION:Tauschstelle\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening of Episode 7 of Princess Charming due to bad weather.
+DTSTART:20251012T190000
+DTEND:20251012T210000Z
+DTSTAMP:20250902T204337Z
+UID:86b35c94-5e9f-420e-a0ad-0b964dd9b4af
+DESCRIPTION:As usual\, we will have non-alcoholic drinks and radler availa
+ ble for donation. Feel free to bring your own snacks to share as well!
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feierliches Richtfest für das Bauprojekt K39
+DTSTART:20250913T150000
+DTEND:20250913T210000Z
+DTSTAMP:20250902T204337Z
+UID:d7a49e2e-27e2-4493-b321-3c14941a017d
+DESCRIPTION:Nach vielen Monaten Planen\, Werkeln und gemeinsamer Anstrengu
+ ng feiern wir die Errungenschaften unseres Bauprojekts K39. Kommt vorbei\,
+  schaut euch den Baufortschritt an und feiert mit uns! Es erwartet euch ei
+ n Kinderprogramm\, ein Kuchenbuffet\, Essen & Getränke gegen Spende sowie
+  Musik ab 17 Uhr.
+LOCATION:K39 Baustelle
+END:VEVENT
 END:VCALENDAR
