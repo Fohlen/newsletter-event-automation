@@ -11376,4 +11376,17 @@ DESCRIPTION:Gemeinsames Lesen und Diskutieren eines vorausgewählten Texte
  s über feministische Themen. Bringt Texte ein\, die euch interessieren!
 LOCATION:Blaues Haus\, Herrenberger Straße 61\, Weststadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tauschaktion für Gutscheine von Lidl und dm gegen Bargeld.
+DTSTART:20250101T173000
+DTEND:20250101T235959Z
+DTSTAMP:20250902T130855Z
+UID:1b1e02e2-5f1a-43ac-af1f-50f5d5cfe700
+DESCRIPTION:Jeden Montag von 17:30 bis 19:00 Uhr findet die Tauschaktion s
+ tatt. Die Gutscheine haben einen Wert von 50 Euro und werden gegen Bargeld
+  von solidarischen Personen getauscht. Weitere Informationen und Details z
+ ur Tauschaktion sind auf der Website verfügbar: https://keep.tuebingen.so
+ cial/bezahlkarte/de/kartentausch.
+LOCATION:Tauschstelle\, Tübingen
+END:VEVENT
 END:VCALENDAR
