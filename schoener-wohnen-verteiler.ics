@@ -11412,4 +11412,25 @@ DESCRIPTION:Nach vielen Monaten Planen\, Werkeln und gemeinsamer Anstrengu
   Musik ab 17 Uhr.
 LOCATION:K39 Baustelle
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spontane Schelling-Draußen-Hausbar
+DTSTART:20250821T180000
+DTEND:20250821T235900Z
+DTSTAMP:20250903T204329Z
+UID:53ca1d72-ae76-4937-8e1f-8074f7610eee
+DESCRIPTION:Genießt die gemütliche Sommeratmosphäre mit kühlen Geträn
+ ken\, Musik und netter Beleuchtung.
+LOCATION:Schellingstraße\, 12345 Musterstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebe die heißeste Mischung aus Balkan Trash vintage und Ska\, S
+ wing und Balkan Beats!
+DTSTART:20250920T220000
+DTEND:20250920T235959Z
+DTSTAMP:20250903T204329Z
+UID:9cae011f-2020-474b-b8c1-09c805ee6552
+DESCRIPTION:Der Balkan kommt in die Hegel 7 – mit Beats\, die direkt ins
+  Herz und in die Beine gehen. Mit DJ Maja und Dr. Ivan!
+LOCATION:Hegel 7
+END:VEVENT
 END:VCALENDAR
