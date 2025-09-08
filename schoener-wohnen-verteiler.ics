@@ -11433,4 +11433,68 @@ DESCRIPTION:Der Balkan kommt in die Hegel 7 – mit Beats\, die direkt ins
   Herz und in die Beine gehen. Mit DJ Maja und Dr. Ivan!
 LOCATION:Hegel 7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradtour durch Tübingen
+DTSTART:20250919T180000
+DTEND:20250919T235959Z
+DTSTAMP:20250908T130826Z
+UID:4588904c-2a75-4b5b-8708-794965b03f8c
+DESCRIPTION:Wir starten gemeinsam zur Critical Mass durch Tübingen\, erob
+ ern die Straßen mit positiver Energie und setzen ein sichtbares Zeichen f
+ ür die Verkehrswende. Der Abschluss ist im botanischen Garten\, wo wir di
+ e Fahrt entspannt ausklingen lassen – mit guter Stimmung\, ein paar Sonn
+ enstrahlen und netter Gesellschaft.
+LOCATION:vor der Uni-Bib\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt mit den Motto 'Zahl so viel du willst' – Kleidung\, B
+ ücher\, Pflanzen\, Essen und Drinks erwarten euch!
+DTSTART:20250928T130000
+DTEND:20250928T180000Z
+DTSTAMP:20250908T130826Z
+UID:5a0eff83-9165-4558-b642-3e8b3e967462
+DESCRIPTION:Am 28. September von 13 - 18 Uhr findet im Linken Zentrum Trud
+ e Lutz (Nauklerstr. 50) ein Flohmarkt zum International Safe Abortion Day 
+ statt. Informationen zur Geschichte des Paragraphen 218 und dem Widerstand
+  dagegen werden bereitgestellt. Ein Kinderprogramm für die jungen Besuche
+ r*innen wird ebenfalls angeboten. Die Spenden gehen an das Frauen*Projekte
+ Zentrum Tübingen und das Linke Zentrum Trude Lutz.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Umsonstladen im Rahmen der Zukunftswerkstatt
+DTSTART:20250101T100000
+DTEND:20250101T130000Z
+DTSTAMP:20250908T130826Z
+UID:b26931cf-4ef8-49a2-8ab1-08486f5deba3
+DESCRIPTION:Besucht unseren Umsonstladen in WHO\, Weidenweg 14! Wir freuen
+  uns auf euch!
+LOCATION:WHO\, Weidenweg 14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nächstes Dinnerhopping am 3. Oktober
+DTSTART:20251003T183000
+DTEND:20251003T235959Z
+DTSTAMP:20250908T130826Z
+UID:837e7163-b338-4aaa-a14b-d615b9579708
+DESCRIPTION:Start mit der Vorspeise um 18:30. Alle Küchen\, die in ca. 15
+  Fahrrad-Minuten vom Tübinger Zentrum aus erreichbar sind\, können teiln
+ ehmen. Anmeldungen unter: www.aufhaxe.de/de/tuebingen. Anmeldefrist ist de
+ r 30.09. um 23:55 Uhr. Das Cometogether im Anschluss findet im Foodsharing
+  Café Mehrrettich in der Neckarhalde 70 statt.
+LOCATION:Foodsharing Café Mehrrettich\, Neckarhalde 70\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert der australischen Band THE VOVOS im Blauen Salon
+DTSTART:20250909T190000
+DTEND:20250909T235959Z
+DTSTAMP:20250908T130826Z
+UID:12c891e7-32bd-49d5-8baa-2299853150ed
+DESCRIPTION:Fünf seelenverwandte „simple horses from Naarm“ mit berü
+ chtigter Punk Bitch Attitüde: THE VOVOS. Die Musik der 5 jungen Australie
+ rinnen ist die perfekte Kombination aus fett\, energisch & görenhaft. Zum
+  ersten Mal auf Tour in Europa. Einlass um 19:00 Uhr\, Beginn um 22:00 Uhr
+ . Eintritt frei!
+LOCATION:Blaue Salon
+END:VEVENT
 END:VCALENDAR
