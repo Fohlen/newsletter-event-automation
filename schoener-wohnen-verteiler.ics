@@ -11497,4 +11497,27 @@ DESCRIPTION:Fünf seelenverwandte „simple horses from Naarm“ mit berü
  . Eintritt frei!
 LOCATION:Blaue Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Air Screening of Princess Charming Episode 8
+DTSTART:20251003T190000
+DTEND:20251003T220000Z
+DTSTAMP:20250909T204254Z
+UID:168bb5fa-f621-4b41-b5d7-45fc66bb1f12
+DESCRIPTION:Join us for the screening of the 8th episode of Princess Charm
+ ing in the courtyard of Hegel7. Bring a warm sweater as it gets a bit chil
+ ly in the evenings. We will provide non-alcoholic drinks and Radler for do
+ nations. Feel free to bring food to share or for yourselves!
+LOCATION:Hegel7 Courtyard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Ausstellung der architecture designs.
+DTSTART:20250915T190000
+DTEND:20250915T210000Z
+DTSTAMP:20250909T204254Z
+UID:9f8c1921-6e33-4302-94e2-ed1a90470cec
+DESCRIPTION:Die Ausstellung zeigt fünf prämierten Entwürfe aus dem Neus
+ tart-Architekturwettbewerb mit Plakaten\, Modellen und Informationen. Es g
+ ibt auch Führungen und Veranstaltungen im Rahmen der Ausstellung.
+LOCATION:Technisches Rathaus\, Brunnenstraße 3\, Tübingen
+END:VEVENT
 END:VCALENDAR
