@@ -11520,4 +11520,16 @@ DESCRIPTION:Die Ausstellung zeigt fünf prämierten Entwürfe aus dem Neus
  ibt auch Führungen und Veranstaltungen im Rahmen der Ausstellung.
 LOCATION:Technisches Rathaus\, Brunnenstraße 3\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feierlichkeiten in der Südstadt mit Musik\, Essen und Spielen
+DTSTART:20251002T180000Z
+DTEND:20251002T235959Z
+DTSTAMP:20250910T130502Z
+UID:1fadb463-c519-4161-82c1-b537475a6e80
+DESCRIPTION:Wir feiern den Tag der kunterbunten Südstadt mit einem vielf
+ ältigen Programm\, einschließlich Open-Air Konzerten\, Sektfrühstück\,
+  Techno-Tischtennis\, Hobby-Horse-Turnier und einer DIY Dragshow. Kommt un
+ d feiert mit uns!
+LOCATION:Hechinger Straße 72\, Tübingen und andere Veranstaltungsorte
+END:VEVENT
 END:VCALENDAR
