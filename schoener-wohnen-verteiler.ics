@@ -11532,4 +11532,14 @@ DESCRIPTION:Wir feiern den Tag der kunterbunten Südstadt mit einem vielf
  d feiert mit uns!
 LOCATION:Hechinger Straße 72\, Tübingen und andere Veranstaltungsorte
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jährliches Event am 14. September
+DTSTART:20250914T140000
+DTEND:20250914T180000Z
+DTSTAMP:20250912T204255Z
+UID:17dac1a0-792d-4204-afde-f639843014fd
+DESCRIPTION:Die Schelling öffnet ihre Tore mit Nachmittagskaffee und Kuch
+ en. Führungen um 14 Uhr und 16 Uhr.
+LOCATION:Schellingstraße
+END:VEVENT
 END:VCALENDAR
