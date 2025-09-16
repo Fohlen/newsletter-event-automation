@@ -11542,4 +11542,27 @@ DESCRIPTION:Die Schelling öffnet ihre Tore mit Nachmittagskaffee und Kuch
  en. Führungen um 14 Uhr und 16 Uhr.
 LOCATION:Schellingstraße
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viewing party for the next episode of Princess Charming.
+DTSTART:20250101T190000
+DTEND:20250101T210000Z
+DTSTAMP:20250916T130633Z
+UID:16e5ad13-bcf7-41bb-abf4-52d7803ac4e7
+DESCRIPTION:Join us for the next episode of Princess Charming at the Pfleg
+ hof! Bring snacks to enjoy and share. We will be watching every Thursday e
+ vening\, alternating between the Pfleghof and Open Air in the Hof der Hege
+ l7. Stay tuned for any weather-related updates!
+LOCATION:Pfleghof
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen für Klimagerechtigkeit
+DTSTART:20250925T190000
+DTEND:20250925T210000Z
+DTSTAMP:20250916T130633Z
+UID:e513cb3d-9227-45ff-af2c-f6fdf3f4e178
+DESCRIPTION:Das Treffen wird sich mit den Folgen des Klimawandels\, dem Ka
+ mpf für Klimagerechtigkeit und dem antikapitalistischen Ansatz befassen. 
+ Es ist offen für alle\, die aktiv werden wollen.
+LOCATION:Nauklerstraße 50\, Linken Zentrum Trude Lutz\, Tübingen
+END:VEVENT
 END:VCALENDAR
