@@ -11565,4 +11565,46 @@ DESCRIPTION:Das Treffen wird sich mit den Folgen des Klimawandels\, dem Ka
  Es ist offen für alle\, die aktiv werden wollen.
 LOCATION:Nauklerstraße 50\, Linken Zentrum Trude Lutz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert der argentinischen Band LAS MANOS DE FILIPPI in der Shedha
+ lle Tübingen.
+DTSTART:20250923T190000
+DTEND:20250923T213000Z
+DTSTAMP:20250919T130656Z
+UID:38fa90c6-f17b-469b-9a8a-db2d15fd8f22
+DESCRIPTION:Erleben Sie LAS MANOS DE FILIPPI\, eine der wichtigsten Bands 
+ Argentiniens\, live! Das Konzert feiert das dreißigste Jubiläum des ikon
+ ischen Songs 'Sr. Cobranza' und verspricht eine abwechslungsreiche Mischun
+ g aus Rock\, Punk\, Rap\, Ska\, Cumbia und elektronischer Musik mit antika
+ pitalistischen Lyrics. Ein DJ wird vor und nach dem Konzert auflegen.
+LOCATION:Shedhalle Tübingen\, Schlachthausstr. 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt mit dem Motto 'Zahl so viel du willst' für sicheren Zug
+ ang zu Abtreibungen.
+DTSTART:20250928T130000
+DTEND:20250928T180000Z
+DTSTAMP:20250919T130656Z
+UID:aecf430f-20b3-4ed2-9a17-da20d541acb2
+DESCRIPTION:Am 28. September von 13 - 18 Uhr findet im Linken Zentrum Trud
+ e Lutz (Nauklerstr. 50) ein Flohmarkt statt. Es gibt Kleidung\, Bücher un
+ d Pflanzen\, sowie Essen und Drinks. Informationen zur Geschichte des Para
+ graphen 218 und Kinderprogramm für junge Besucher*innen.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Record release Tour
+DTSTART:20251022T200000Z
+DTEND:20251022T235959Z
+DTSTAMP:20250919T130656Z
+UID:b423991d-afa5-48ed-a47d-1ddbc04a2574
+DESCRIPTION:Draußen wird es düster\, drinnen auch! Am 22.10 werden in de
+ n Katakomben der Schelling Hausbar die Fledermäuse aufgeschreckt! Miss De
+ meanor die Freiburger:innen schlagen\, lederjackentragend mir ihren Leopri
+ nt Baseballschlägern auf alles ein was da kommt! Staat\, Patriarchat\, Ka
+ pital? Scheisze! Breathe//Die Das Berliner Duo bewegt sich mit düsteren G
+ itarrenwänden und gewaltbereitem Schlagzeug irgendwo im Spektrum zwischen
+  Death Metal\, Hardcore Punk und Grindcore. Optimismus? Nein danke!
+LOCATION:Schelling Hausbar
+END:VEVENT
 END:VCALENDAR
