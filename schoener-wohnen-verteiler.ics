@@ -11607,4 +11607,16 @@ DESCRIPTION:Draußen wird es düster\, drinnen auch! Am 22.10 werden in de
   Death Metal\, Hardcore Punk und Grindcore. Optimismus? Nein danke!
 LOCATION:Schelling Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von HYPERDOG mit Aftershowparty im Blauen Salon.
+DTSTART:20250922T210000
+DTEND:20250922T235959Z
+DTSTAMP:20250920T130211Z
+UID:49dd1f94-010d-4b70-acee-25975cf7b59c
+DESCRIPTION:HYPERDOG ist eine Garage-Punk-Band aus Linz\, Österreich. Sie
+  werden am Montag\, dem 22. September\, im Blauen Salon auftreten. Einlass
+  ist um 21:00 Uhr und der Beginn um 22:00 Uhr. Eintritt frei! Kommt vorbei
+  und lasst euch überzeugen!
+LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
