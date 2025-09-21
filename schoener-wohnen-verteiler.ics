@@ -11619,4 +11619,31 @@ DESCRIPTION:HYPERDOG ist eine Garage-Punk-Band aus Linz\, Österreich. Sie
   und lasst euch überzeugen!
 LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über soziale Konflikte und Lösungsansätze jenseits v
+ on Überwachung und Kriminalisierung.
+DTSTART:20250925T190000
+DTEND:20250925T235959Z
+DTSTAMP:20250921T204219Z
+UID:014c696f-78c2-46b4-81c9-f9d0fdef7eb5
+DESCRIPTION:Die Perspektive der Mehrheitsgesellschaft auf marginalisierte 
+ Menschen ist oft so lange ignorant\, bis sie (vermeintliche) Probleme veru
+ rsachen. In dieser Veranstaltung diskutieren Experten\, wie soziale Fragen
+  gelöst werden können\, bevor sie eskalieren. Vertreter*innen der Aidshi
+ lfe\, Sozialplaner*innen von der Stadt\, ein Streetworker und Ex-User*inne
+ n sind Teil des Podiums.
+LOCATION:Epplehaus\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erlebe die beeindruckende Post-Punk Band CDSM aus Atlanta!
+DTSTART:20250924T190000
+DTEND:20250924T235959Z
+DTSTAMP:20250921T204219Z
+UID:d7d48234-d69b-45a2-864b-4c43bd6435a5
+DESCRIPTION:CDSM\, die faszinierende Post-Punk-Gruppe aus Atlanta\, kehrt 
+ nach einem großartigen Auftritt zurück in den Blauen Salon! Kommt vorbei
+  und feiert mit uns! Einlass: 19:00 Uhr\, Beginn: 22:00 Uhr\, Eintritt fre
+ i!
+LOCATION:Blaue Salon\, Münzgasse 13
+END:VEVENT
 END:VCALENDAR
