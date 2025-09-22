@@ -11646,4 +11646,37 @@ DESCRIPTION:CDSM\, die faszinierende Post-Punk-Gruppe aus Atlanta\, kehrt
  i!
 LOCATION:Blaue Salon\, Münzgasse 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein fröhliches Fest für alle Generationen im 4+Häuserprojekt.
+DTSTART:20250930T140000
+DTEND:20250930T220000Z
+DTSTAMP:20250922T204410Z
+UID:60c8f3aa-392e-4588-bed4-60949e71dfa5
+DESCRIPTION:Kommt vorbei zur fröhlichen Sause im 4+Häuserprojekt! Es ist
+  für alle Generationen etwas dabei. Wir freuen uns auf Euch!
+LOCATION:4+Häuserprojekt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watch the latest episode of Princess Charming
+DTSTART:20250101T200000
+DTEND:20250101T210000Z
+DTSTAMP:20250922T204410Z
+UID:22aa5579-1300-4f30-ab72-029fc645b458
+DESCRIPTION:Join us for the latest episode of Princess Charming every Thur
+ sday evening! This year we alternate between the Pfleghof and Open Air in 
+ the Hof der Hegel7.
+LOCATION:Pfleghof / Hof der Hegel7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Treffen für alle\, die sich für bezahlbares Wohnen einse
+ tzen möchten.
+DTSTART:20250930T170000Z
+DTEND:20250930T235959Z
+DTSTAMP:20250922T204410Z
+UID:388b3c1b-c50d-4565-8050-2a1357b10960
+DESCRIPTION:Das Wohnraumbündnis Tübingen setzt sich aktiv gegen hohe Mie
+ ten\, Verdrängung und Wohnungsnot ein. Kommt vorbei\, um gemeinsam eine g
+ erechtere Wohnpolitik zu gestalten!
+LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
+END:VEVENT
 END:VCALENDAR
