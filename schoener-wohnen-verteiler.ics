@@ -11679,4 +11679,29 @@ DESCRIPTION:Das Wohnraumbündnis Tübingen setzt sich aktiv gegen hohe Mie
  erechtere Wohnpolitik zu gestalten!
 LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Willkommen zur Scheißwetter-Hausbar!
+DTSTART:20250924T200000
+DTEND:20250924T235959Z
+DTSTAMP:20250924T204230Z
+UID:1aa5a91d-d894-4bb5-860d-562cd066d0b7
+DESCRIPTION:Bei uns gibt es trockene Räume\, feuchte Getränke\, behaglic
+ he Musik\, einen angenehmen Tischkicker\, gemütliche Sitzegelegenheiten u
+ nd nette Gesellschaft.
+LOCATION:Hausbar im Wohnprojekt Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmabend und Gespräch mit dem Olympiateilnehmer Saeid Fazloula 
+ über seine Flucht aus dem Iran und seinen Weg zu Olympia.
+DTSTART:20251001T183000
+DTEND:20251001T235959Z
+DTSTAMP:20250924T204230Z
+UID:04b3e9ec-871e-4844-a212-d2b4b2dbda05
+DESCRIPTION:Der WLSB organisiert am 01.10.2025 einen Filmabend mit dem ehe
+ maligen Profikanuten Saeid Fazloula. Er erzählt von seiner Flucht aus dem
+  Iran\, seinem Weg zu Olympia und seinem Verein 'Rheinbrüder'. Es gibt Fi
+ lmvorführungen und Lesungen aus seinem eigenen Buch sowie eine offene Ges
+ prächsrunde für Fragen.
+LOCATION:VHS Rottenburg am Neckar
+END:VEVENT
 END:VCALENDAR
