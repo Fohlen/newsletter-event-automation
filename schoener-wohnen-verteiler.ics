@@ -11731,4 +11731,15 @@ DESCRIPTION:Gemeinsamer Vortragsabend mit Café Mehrrettich. Keine Reservi
  erung erforderlich. Alles auf pay-what-you-want-Basis.
 LOCATION:Café Mehrrettich\, Neckerhalde 70\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wöchentliche Tauschaktion für Bezahlkarteninhaber*innen
+DTSTART:20251023T173000
+DTEND:20251023T190000Z
+DTSTAMP:20250926T204449Z
+UID:775a78e3-3722-4090-8942-9bf93829b418
+DESCRIPTION:Jeden Montag von 17.30 bis 19 Uhr findet die Tauschaktion in d
+ er Bachgasse 5 während des 'Coffee to stay' statt. Bezahlkarteninhaber*in
+ nen können Gutscheine gegen Bargeld eintauschen.
+LOCATION:Bachgasse 5\, Tübingen
+END:VEVENT
 END:VCALENDAR
