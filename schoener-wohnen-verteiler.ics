@@ -11704,4 +11704,31 @@ DESCRIPTION:Der WLSB organisiert am 01.10.2025 einen Filmabend mit dem ehe
  prächsrunde für Fragen.
 LOCATION:VHS Rottenburg am Neckar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jürgen 'tante' Geuter diskutiert\, wie Firmen wie Palantir die De
+ mokratie aushöhlen.
+DTSTART:20250929T200000
+DTEND:20250929T235959Z
+DTSTAMP:20250926T130746Z
+UID:ac696c00-ce95-4020-8ccb-6218c41e7b67
+DESCRIPTION:Am Montag den 29.9. zeigt im Epplehaus Jürgen 'tante' Geuter 
+ seinen Vortrag "Faschismus durch die Infrastrukturhintertür: Wie Firmen w
+ ie Palantir die Demokratie aushöhlen". Einlass: 19:30 Uhr\, Beginn: 20:00
+  Uhr\, Ort: Epplehaus\, Karlsstraße 13\, Tübingen. Beschreibung und Kont
+ ext zur Thematik werden auch behandelt: viele Fragen zur Nutzung von Palan
+ tirs Software im Innenministerium Baden-Württemberg und deren Auswirkunge
+ n auf die Gesellschaft.
+LOCATION:Epplehaus\, Karlsstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag zum Thema Homebrewing und Tasting aller aktuellen Sorten v
+ on Fichtehaus Homebrewing.
+DTSTART:20251009T180000
+DTEND:20251009T235959Z
+DTSTAMP:20250926T130746Z
+UID:aa3502a3-1fe3-4dea-9e20-ce121aa288e9
+DESCRIPTION:Gemeinsamer Vortragsabend mit Café Mehrrettich. Keine Reservi
+ erung erforderlich. Alles auf pay-what-you-want-Basis.
+LOCATION:Café Mehrrettich\, Neckerhalde 70\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
