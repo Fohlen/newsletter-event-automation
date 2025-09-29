@@ -11742,4 +11742,42 @@ DESCRIPTION:Jeden Montag von 17.30 bis 19 Uhr findet die Tauschaktion in d
  nen können Gutscheine gegen Bargeld eintauschen.
 LOCATION:Bachgasse 5\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend mit drei außergewöhnlichen Duos in der Shedhalle Tübi
+ ngen.
+DTSTART:20251003T200000
+DTEND:20251003T230000Z
+DTSTAMP:20250929T131019Z
+UID:6d1ab1b0-83d9-4ad3-b9bd-6993214574ef
+DESCRIPTION:Die plattform:[no budget] freut sich auf ein sagenhaftes LineU
+ P am 3. Oktober 2025 mit GUTS PIE EARSHOT\, UNICORN PARTISANS und SCHMIDT 
+ & RATHMANN. Eintritt gegen Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dinnerhopping zum Tag der Deutschen Haxen-Einheit in Tübingen.
+DTSTART:20251003T183000
+DTEND:20251003T235959Z
+DTSTAMP:20250929T131019Z
+UID:fae3d386-3277-410e-a022-c9a90c0fb53f
+DESCRIPTION:Feier zum Tag der Deutschen Haxen-Einheit am 3. Oktober mit Di
+ nnerhopping und anschließendem Cometogether im Foodsharing Café Mehrrett
+ ich. Beginn um 18:30 Uhr. Anmeldung bis 30.09. um 23:55 Uhr unter www.aufh
+ axe.de/de/tuebingen. Alle Küchen\, die in ca. 15 Fahrrad-Minuten vom Tüb
+ inger Zentrum erreichbar sind\, sind willkommen. Vegetarische und vegane O
+ ptionen verfügbar.
+LOCATION:Tübingen\, Foodsharing Café Mehrrettich\, Neckarhalde 70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food and connection at Siggi11.
+DTSTART:20250930T180000
+DTEND:20250930T235959Z
+DTSTAMP:20250929T131019Z
+UID:29a40e6a-1ae8-46c6-9980-8d703e45ac0c
+DESCRIPTION:As every Tuesday\, we are coming together this week on 30.09 a
+ t 18:00 to eat\, connect and build solidarity. We will create a cozy space
+  in our garden for you to enjoy the evening. Come hungry\, in large number
+ s and most importantly\, come as you are.
+LOCATION:Siggi11\, Tübingen
+END:VEVENT
 END:VCALENDAR
