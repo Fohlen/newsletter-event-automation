@@ -11801,4 +11801,32 @@ DESCRIPTION:Verschwörungstheorien finden im öffentlichen Diskurs über d
  tion und zu Möglichkeiten gesellschaftliche Polarisierung abzubauen.
 LOCATION:Hausbar der Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimmer frei in der Rothenburg - Casting.
+DTSTART:20251012T170000
+DTEND:20251012T235959Z
+DTSTAMP:20250930T204547Z
+UID:cd01ca8d-263e-40c6-889e-30039079c7d8
+DESCRIPTION:Am Sonntag\, den 12. Oktober\, ab 17 Uhr findet ein Casting f
+ ür die freien Zimmer in der Rothenburg statt. Wir freuen uns auf zahlreic
+ he neue Gesichter!
+LOCATION:Rothenburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Feiertag voller Musik\, Spaß und gemeinschaftlichen Aktivitä
+ ten in Tübingen.
+DTSTART:20251002T180000
+DTEND:20251002T235959Z
+DTSTAMP:20250930T204547Z
+UID:9dce0ed6-c5aa-478a-beb7-607500753088
+DESCRIPTION:Am 02.10.2025 beginnt das Programm mit einem Warm-Up und Open-
+ Air Konzert des Duos 'Tzitzifrikia' um 18 Uhr. Am 03.10.2025 ab 11 Uhr gib
+ t es ein Sektfrühstück auf der Dachterrasse des HECKpilot mit Vinyl Sess
+ ion und Lesung. Ab 13 Uhr Techno-Tischtennis und Hobby-Horse-Turnier mit l
+ eckeren Waffeln und weiterer Unterhaltung. Ab 15 Uhr Tischkickerturnier un
+ d DJ Petardo. Essen und Open-Air Konzerte ab 16 Uhr auf dem Sternplatz. DI
+ Y Dragshow und ab 21 Uhr Partys im Wohnprojekt Schellingsstraße mit versc
+ hiedenen Bands und DJs bis in den Morgen.
+LOCATION:Sternplatz\, Tübingen sowie verschiedene Veranstaltungsorte
+END:VEVENT
 END:VCALENDAR
