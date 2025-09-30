@@ -11780,4 +11780,25 @@ DESCRIPTION:As every Tuesday\, we are coming together this week on 30.09 a
  s and most importantly\, come as you are.
 LOCATION:Siggi11\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag & Diskussion mit Dr. Kevin Winter
+DTSTART:20251001T190000
+DTEND:20251001T210000Z
+DTSTAMP:20250930T131000Z
+UID:124e58f2-86df-40cf-bea6-9e8921dcb526
+DESCRIPTION:Verschwörungstheorien finden im öffentlichen Diskurs über d
+ en Klimawandel und die sozial-ökologische Transformation zunehmend Verbre
+ itung. Diese reichen von Zweifeln an der Existenz des Klimawandels bis hin
+  zu Annahmen über geheime Machenschaften hinter konkreten klimapolitische
+ n Maßnahmen. Der Vortrag widmet sich den Fragen\, wie verbreitet der Glau
+ be an bestimmte Verschwörungstheorien ist\, welche psychologischen Mechan
+ ismen zu dessen Entstehung beitragen und welche gesellschaftlichen Konsequ
+ enzen sich daraus ergeben. Weiterhin werden Ansätze aus der psychologisch
+ en Forschung vorgestellt\, die zum Umgang mit Verschwörungstheorien im ö
+ ffentlichen Diskurs beitragen können. Dr. Kevin Winter forscht an der Uni
+ versität Hohenheim (Fachgebiet Nachhaltiges Handeln und Wirtschaften) zur
+  Rolle von Verschwörungstheorien im Kontext der Nachhaltigkeitstransforma
+ tion und zu Möglichkeiten gesellschaftliche Polarisierung abzubauen.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
