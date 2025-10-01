@@ -11829,4 +11829,16 @@ DESCRIPTION:Am 02.10.2025 beginnt das Programm mit einem Warm-Up und Open-
  hiedenen Bands und DJs bis in den Morgen.
 LOCATION:Sternplatz\, Tübingen sowie verschiedene Veranstaltungsorte
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop über alternative queer-feministische Lebensentwürfe
+DTSTART:20251024T150000
+DTEND:20251024T235959Z
+DTSTAMP:20251001T130811Z
+UID:44baaf43-3518-47cf-88ba-58cebde265d2
+DESCRIPTION:Inhalt des Workshops: Erforschen der Bedürfnisse nach Sicherh
+ eit\, Verbundenheit und Commitment. Diskussion über die Rolle von Freund*
+ innen\, wichtige Fragen zu Freund*innenschaften und kollektive Antworten f
+ inden. Raum für Unsicherheiten und offene Fragen.
+LOCATION:adis e.V.\, Bi*smarckstraße 136\, barrierefrei
+END:VEVENT
 END:VCALENDAR
