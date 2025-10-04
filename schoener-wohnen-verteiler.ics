@@ -11841,4 +11841,27 @@ DESCRIPTION:Inhalt des Workshops: Erforschen der Bedürfnisse nach Sicherh
  inden. Raum für Unsicherheiten und offene Fragen.
 LOCATION:adis e.V.\, Bi*smarckstraße 136\, barrierefrei
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kostenloses Aktionstraining zur Protestvorbereitung.
+DTSTART:20251004T090000
+DTEND:20251004T150000Z
+DTSTAMP:20251004T130707Z
+UID:41580179-f126-486f-85cd-c7ab4d508ee0
+DESCRIPTION:Am kommenden Samstag (4.10.) findet ein kostenloses Aktionstra
+ ining in Tübingen statt. Es dauert ca. 6 Stunden und bereitet auf die Pro
+ teste gegen die Gründung einer neuen AfD-Jugendorganisation in Gießen am
+  29.11. vor. Zudem gibt es einen Infovortrag am 3.10. ab 16 Uhr auf dem St
+ ernplatz.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommer ist rum - Zeit für ne Hegelparty✨
+DTSTART:20251011T220000
+DTEND:20251011T235959Z
+DTSTAMP:20251004T130707Z
+UID:09c09541-2f52-46ab-8d0f-3502afa95ec0
+DESCRIPTION:Wir freuen uns am 11.10. ab 22Uhr zusammen mit dir die Hüften
+  zu wackeln! Ps: wer in Trashy outfit kommt bekommt nen Shot :)
+LOCATION:
+END:VEVENT
 END:VCALENDAR
