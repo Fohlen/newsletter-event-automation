@@ -11864,4 +11864,48 @@ DESCRIPTION:Wir freuen uns am 11.10. ab 22Uhr zusammen mit dir die Hüften
   zu wackeln! Ps: wer in Trashy outfit kommt bekommt nen Shot :)
 LOCATION:
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradfahrt durch Tübingen
+DTSTART:20250919T180000
+DTEND:20250919T235959Z
+DTSTAMP:20251006T130844Z
+UID:16c72f94-dc51-4e40-9712-41a65315f158
+DESCRIPTION:Wir starten gemeinsam zur Critical Mass durch Tübingen\, erob
+ ern die Straßen mit positiver Energie und setzen ein sichtbares Zeichen f
+ ür die Verkehrswende. Der Abschluss ist im botanischen Garten\, wo wir di
+ e Fahrt entspannt ausklingen lassen.
+LOCATION:vor der Uni-Bib\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of food and solidarity
+DTSTART:20251007T180000
+DTEND:20251007T235959Z
+DTSTAMP:20251006T130844Z
+UID:b3077b67-e324-4ce6-9e76-87a369847f57
+DESCRIPTION:Are you hungry on Tuesday night and think there is no Küfa in
+  the city? You are wrong 🙂 Here we are\, Siggi11! As every Tuesday\, we
+  are coming together this week on 07.10. at 18:00 to eat\, connect and bui
+ ld solidarity. We will create a cozy space in our garden for you to enjoy 
+ the evening. Come hungry\, in large numbers and most importantly\, come as
+  you are. Hope to see you there!
+LOCATION:Siggi11 Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Ausstellung über die Geschichte der Umwelt- und Klimabewegun
+ g.
+DTSTART:20251026T170000
+DTEND:20251026T235959Z
+DTSTAMP:20251006T130844Z
+UID:f3f9fd6a-858b-4d59-a80a-78bd56d81998
+DESCRIPTION:Die Klimakrise ist da und niemanden juckt's? Falsch! Seit viel
+ en Jahrzehnten stellen sich Menschen weltweit dem menschengemachten Klimaw
+ andel entgegen und kämpfen für eine ökologische\, eine bessere\, eine k
+ limagerechte Welt. Was können wir daraus heute lernen? Wie kann der Kampf
+  für Klimagerechtigkeit in dieser sich immer schnelleren Welt weitergehen
+ ? Vom 26. Oktober bis zum 2. November findet im Linken Zentrum 'Trude Lutz
+ ' eine Ausstellung statt. Freut euch auf einzigartigen Aufnahmen der letzt
+ en Jahre Umwelt- und Klimakampf\, spannende Vorträge und vieles mehr. Kom
+ mt vorbei!
+LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz
+END:VEVENT
 END:VCALENDAR
