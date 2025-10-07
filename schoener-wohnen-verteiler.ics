@@ -11908,4 +11908,17 @@ DESCRIPTION:Die Klimakrise ist da und niemanden juckt's? Falsch! Seit viel
  mt vorbei!
 LOCATION:Nauklerstraße 50\, Linkes Zentrum Trude Lutz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dokumentarfilm von Jean-Baptiste Bonnet
+DTSTART:20251009T200000
+DTEND:20251009T235959Z
+DTSTAMP:20251007T204325Z
+UID:99138fa1-7536-476e-b363-8985c54e9e8d
+DESCRIPTION:Zum Kinostart in Deutschland zeigt der Club Voltaire exklusiv 
+ in Tübingen den Dokumentarfilm "Save Our Souls"\, der die Seenotretter:in
+ nen der "Ocean Viking" im Mittelmeer begleitete. Im Anschluss an die Filmv
+ orführung gibt es ein Gespräch mit Vertreter:innen von Seebrücke Tübin
+ gen und Amnesty International.
+LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
+END:VEVENT
 END:VCALENDAR
