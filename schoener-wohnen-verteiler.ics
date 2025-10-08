@@ -11921,4 +11921,15 @@ DESCRIPTION:Zum Kinostart in Deutschland zeigt der Club Voltaire exklusiv
  gen und Amnesty International.
 LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Schelling Hausbar entfällt in dieser Woche.
+DTSTART:20251008T000000
+DTEND:20251008T235959Z
+DTSTAMP:20251008T130750Z
+UID:26b07caa-8e7a-4d49-8576-2d3499f4e8b5
+DESCRIPTION:Liebe schöner Wohnende\, leider entfällt diese Woche am 8.10
+ .25 die Schelling Hausbar u.a. wegen einer Baustelle im Eingangsbereich. A
+ b nächste Woche sind wir wieder wöchentlich für euch am Start.
+LOCATION:Schelling Haus
+END:VEVENT
 END:VCALENDAR
