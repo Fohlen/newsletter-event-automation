@@ -11932,4 +11932,32 @@ DESCRIPTION:Liebe schöner Wohnende\, leider entfällt diese Woche am 8.10
  b nächste Woche sind wir wieder wöchentlich für euch am Start.
 LOCATION:Schelling Haus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein musikalisches Abenteuer für Kinder mit neu interpretierter Mu
+ sik von Antonio Vivaldi\, bei dem der Hase Vivo und die Eule Antonia zusam
+ men mit den Kindern die verschwundenen Jahreszeiten suchen.
+DTSTART:20251012T160000
+DTEND:20251012T235959Z
+DTSTAMP:20251009T204350Z
+UID:26008e2d-57b7-43a5-92cb-73ab37a248ae
+DESCRIPTION:Eines Morgens wachen der schlaue Hase Vivo und die pfiffige Eu
+ le Antonia auf und entdecken\, dass die Jahreszeiten verschwunden sind. Zu
+ sammen mit den Kindern machen sie sich auf eine aufregende Suche\, unterst
+ ützt von der wunderschönen Musik von Vivaldi. Die Geigerin Melanie Kirch
+  und der Pianist Johannes Söllner nehmen die Kinder mit auf eine klangvol
+ le Reise\, um die Jahreszeiten in der Musik zu entdecken. Ein Erlebnis fü
+ r Kinder von 3 bis 8 Jahren!
+LOCATION:Fichtehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nächstes Onboarding-Treffen zur Besprechung der Tauschaktion und 
+ Planung von Kooperationen.
+DTSTART:20251020T183000
+DTEND:20251020T200000Z
+DTSTAMP:20251009T204350Z
+UID:ce9a2383-22fe-497e-bfef-9dbbf59b90fa
+DESCRIPTION:Wir wollen die Funktion der Tauschaktion besprechen\, bestehen
+ de Kooperationen planen und die politische Arbeit stärken.
+LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
+END:VEVENT
 END:VCALENDAR
