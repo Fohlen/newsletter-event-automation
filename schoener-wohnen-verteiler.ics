@@ -11960,4 +11960,51 @@ DESCRIPTION:Wir wollen die Funktion der Tauschaktion besprechen\, bestehen
  de Kooperationen planen und die politische Arbeit stärken.
 LOCATION:Café Hafenblick\, Hechinger Straße 35\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angebot für Solawi-Gemüse- und Obstanteile zur Abgabe in Derendi
+ ngen.
+DTSTART:20250101T150000
+DTEND:20250101T235959Z
+DTSTAMP:20251010T130723Z
+UID:1abbea25-c5e2-4de8-ac40-30264f6e1e1b
+DESCRIPTION:Ich möchte einen Solawi-Gemüse-Anteil und einen Solawi-Obst-
+ Anteil abgeben\, entweder dauerhaft oder auch vorübergehend monatsweise z
+ um Ausprobieren. Obst und Gemüse können jeden Freitag nachmittags ab 15 
+ Uhr in Derendingen in der Waldstraße abgeholt werden. Alles in Bio-Qualit
+ ät aus Tübingen und der Region. Aktuelle Ernte: Kopfsalat\, Brokkoli\, G
+ emüsezwiebeln\, Schwarzkohl\, Petersilie\, Kürbis\, Zuckermais\, Kartoff
+ eln. Kosten: Gemüseanteil 85 Euro/Monat\, Obstanteil 30 Euro/Monat. Bei I
+ nteresse gerne per Mail melden.
+LOCATION:Derendingen\, Waldstraße
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abendveranstaltung mit Kafalo Sékongo über die politischen Wahle
+ n in der Elfenbeinküste
+DTSTART:20251017T190000
+DTEND:20251017T235959Z
+DTSTAMP:20251010T130723Z
+UID:e3a3f195-d84f-40ff-a08b-8713e0c2b379
+DESCRIPTION:Am 25.Oktober 2025 wird es Wahlen in der westafrikanischen Rep
+ ublik Côte d’Ivoire (Elfenbeinküste) geben. Der Referent Kafalo Sékon
+ go vom Städtepartnerschaftsverein Reutlingen-Bouaké e.V. wird unterschie
+ dliche Perspektiven auf das aktuelle politische Geschehen des Landes geben
+  und welche gesellschaftlichen Fragen mit der Wahl verknüpft sind. Dabei 
+ geht es u.a. um die Zukunft der Demokratie im Land und vor allem um das Ü
+ berleben der kolonialen Beziehungen zu Frankreich\, der ehemaligen Kolonia
+ lmacht mit ihrer strittigen Politik der Franceafrique.
+LOCATION:Citykirche Reutlingen\, Nikolaiplatz 1\, 72764 Reutlingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einstiegscrashkurs für Música con Señas Orchestra im Franz!Werk
+ .
+DTSTART:20251013T200000
+DTEND:20251013T235959Z
+DTSTAMP:20251010T130723Z
+UID:5cc20b7f-ccc4-4688-93b1-4b7bd34afaac
+DESCRIPTION:Lust zu lernen Musik zu improvisieren\, ein Ensemble zu dirigi
+ eren und frei gemeinsam zu kreieren? Sei dabei mit Instrument oder Stimme\
+ , mit oder ohne Vorerfahrung. Alle dürfen dabei sein – gerne mit Anmeld
+ ung unter mcs@klangfolk.de.
+LOCATION:Franz!Werk\, Pferdeställen 8
+END:VEVENT
 END:VCALENDAR
