@@ -12007,4 +12007,17 @@ DESCRIPTION:Lust zu lernen Musik zu improvisieren\, ein Ensemble zu dirigi
  ung unter mcs@klangfolk.de.
 LOCATION:Franz!Werk\, Pferdeställen 8
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A diverse D.I.Y. festival featuring 6 Antinational Doom/Metalpunk/
+ Sludge/D-Beat/Thrash bands.
+DTSTART:20251018T180000Z
+DTEND:20251018T230000Z
+DTSTAMP:20251012T130815Z
+UID:a9ba6965-c021-4c84-88c6-7e5a9b52ef1e
+DESCRIPTION:Join us for the HeimatToHell Festival at Epplehaus featuring b
+ ands like FÓRN\, ORYX\, Wretched Blessing\, Malatesta\, Monuments to Mise
+ ry\, and Violent Vortex. Doors open at 18:00 and the noise starts at 19:00
+ . Come early and support all bands!
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
