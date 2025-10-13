@@ -12020,4 +12020,86 @@ DESCRIPTION:Join us for the HeimatToHell Festival at Epplehaus featuring b
  . Come early and support all bands!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy gathering to eat and connect.
+DTSTART:20251014T180000
+DTEND:20251014T235959Z
+DTSTAMP:20251013T204431Z
+UID:da84cb8b-df16-4547-8df0-735fbd88816b
+DESCRIPTION:Dear Schöner-Wohnende\, Are you hungry on Tuesday night and t
+ hink there is no Küfa in the city? You are wrong 🙂 Here we are\, Siggi
+ 11! As every Tuesday\, we are coming together this week on 14.10. at 18:00
+  to eat\, connect and build solidarity. We will create a cozy space in our
+  garden for you to enjoy the evening. Come hungry\, in large numbers and m
+ ost importantly\, come as you are. Hope to see you there! Instagram: siggi
+ _11_tuebingen With solidarity\, Your Siggi11
+LOCATION:Siggi11 garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti-Western-Synth-Punk aus Berlin!
+DTSTART:20251014T220000
+DTEND:20251014T235900Z
+DTSTAMP:20251013T204431Z
+UID:64238599-bae9-4a80-8c6a-2b7d40e4b20e
+DESCRIPTION:DIE ANSTALT ist ein Berliner Trio\, das eine explosive Mischun
+ g aus NDW\, EBM der frühen 80er\, Synthie-Wave/Punk und Surf-Gitarre der 
+ 60er Jahre auf die Bühne bringt. Nach ihrer Debüt-EP und dem bald ersche
+ inenden Debüt-Album präsentieren sie ihre energiegeladenen Live-Performa
+ nces.
+LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noise Rock Konzert von Mossaï Mossaï
+DTSTART:20251016T220000
+DTEND:20251016T235959Z
+DTSTAMP:20251013T204431Z
+UID:c5b74a86-fbdb-45d3-b534-fbea5d673613
+DESCRIPTION:Konzert von Mossaï Mossaï\, einem Noise Rock-Band\, die musi
+ kalische Grenzen überschreitet und eine halluzinatorische Performance bie
+ tet. Die Band hat sich mit ihrem letzten Album 'Faces' einen Namen gemacht
+ \, das einen Experimentierraum für innovative Klänge bietet. Der Abend b
+ ietet auch die Möglichkeit\, sich auf das Album einzustellen und die auß
+ ergewöhnliche Stimmkunst von Marie und die musikalische Vielfalt der Band
+  zu erleben!
+LOCATION:Lu15-Hausbar\, Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstfest mit neuem Wein und Zwiebelkuchen.
+DTSTART:20251001T200000
+DTEND:20251001T235959Z
+DTSTAMP:20251013T204431Z
+UID:6607234c-d921-434c-8d91-c78a5f4ce092
+DESCRIPTION:Feier mit der WG Lummerland in der frisch renovierten Schellin
+ ghausbar. Genießt den Herbstwind mit neuem Wein und veganem Zwiebelkuchen
+ .
+LOCATION:Schellinghausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Uni-Festival 'Lichternebel' feiert den Beginn des Wintersemest
+ ers 25/26 mit Live-Bands.
+DTSTART:20251024T180000
+DTEND:20251024T235959Z
+DTSTAMP:20251013T204431Z
+UID:7c6b2247-ee85-46d8-81c5-a8f809327832
+DESCRIPTION:Am 24. Oktober 2025 verwandelt sich die alte Mensa Shedhalle i
+ n Tübingen in eine Festhalle\, wo Bands wie Lovehead\, Strahlemann und Di
+ ggidaniel auftreten – komplett umsonst! Egal ob Studi oder nicht\, das L
+ ichternebel ist der perfekte Ort\, um das neue Semester und den Herbst geb
+ ührend zu feiern! Helfer*innen sind willkommen und erhalten ein T-Shirt s
+ owie Verpflegung.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Bühnenstück 'Normal' beschäftigt sich satirisch mit dem 'No
+ rmalen' und dem gesellschaftlichen Umgang mit aktuellen Krisen.
+DTSTART:20251017T180000
+DTEND:20251017T210000Z
+DTSTAMP:20251013T204431Z
+UID:573fdad1-e628-4afe-808f-3de7f5b75aff
+DESCRIPTION:Das Stück wird geschrieben und dargestellt von Thomas Eberman
+ n\, Thorsten Mense und Flo Thamer. Es thematisiert Krisen wie Pandemie\, K
+ limawandel und Krieg und beleuchtet den gesellschaftlichen Umgang damit. E
+ inlass ist kostenlos.
+LOCATION:Clubhaus\, Wilhelmstraße 30\, Tübingen
+END:VEVENT
 END:VCALENDAR
