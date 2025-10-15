@@ -12102,4 +12102,66 @@ DESCRIPTION:Das Stück wird geschrieben und dargestellt von Thomas Eberman
  inlass ist kostenlos.
 LOCATION:Clubhaus\, Wilhelmstraße 30\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstrations- und Aktionstraining bei franz.K in Reutlingen.
+DTSTART:20251018T153000
+DTEND:20251018T183000Z
+DTSTAMP:20251015T204507Z
+UID:8501b760-5fa9-4fc1-a557-cd7f25638862
+DESCRIPTION:Einlass 19 Uhr - Beginn 20 Uhr: Livemusik mit Akne Kid Joe // 
+ Support: BSK.\nDas Aktionstraining bietet eine Vorbereitung auf politische
+  Aktionen und die damit verbundenen Rechte und Herausforderungen. Mit Roll
+ enspielen wird das Verhalten in verschiedenen Situationen geübt. Ab 22:30
+  Aftershow bei der Kollektiv:Tanzbar mit R.kollektiv\, Samy Bell\, Stricke
+ &Seel.
+LOCATION:franz.K\, Reutlingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spontane Zusatzband: Christina Mantis - Rock-Punk-Sängerin
+DTSTART:20251016T213000
+DTEND:20251016T230000Z
+DTSTAMP:20251015T204507Z
+UID:11257201-3a8f-4084-bca8-406fdaadcdd7
+DESCRIPTION:Das Konzert beginnt mit der ersten Band zwischen 21:30 und 22 
+ Uhr. Freut euch auf tolle Live-Musik!
+LOCATION:Lu15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A performance by Thomas Ebermann\, Thorsten Mense\, and Flo Thamer
+DTSTART:20251018T180000
+DTEND:20251018T235959Z
+DTSTAMP:20251015T204507Z
+UID:ba8e6cd7-f659-40dd-aa52-fc616e1b094e
+DESCRIPTION:Das Bühnenstück 'Normal' wird am 18.10 im Clubhaus Tübingen
+  aufgeführt. Einlass ab 18 Uhr\, der Eintritt ist kostenlos.
+LOCATION:Clubhaus Tübingen\, Wilhelmstraße 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Reihe von Veranstaltungen im Rahmen des Queeren Herbstes des 
+ queeren Zentrums (QuZ) in Tübingen.
+DTSTART:20251018T150000Z
+DTEND:20251018T235959Z
+DTSTAMP:20251015T204507Z
+UID:4583c42d-f82f-4e85-8d50-319028c2eb1f
+DESCRIPTION:Im Queeren Herbst finden folgende Veranstaltungen statt: Offen
+ es Café montags und samstags (15-18:00)\, International Games Café (18.1
+ 0. 15:00)\, Queeres Kicken (19.10. 15:00)\, Buchclub (22.10. 17:00)\, Quee
+ r Refugee Meetup (25.10. 11:00)\, Queerer Chor (26.10. 11:00)\, Hyperfocus
+  Meetup (30.10. 18:00)\, International Gamesnight (31.10. 17:00)\, Trans D
+ ay of Remembrance Blutspendeaktion (20.11. ab 15:00) und offene Gedenkvera
+ nstaltung (20.11. 17:00).
+LOCATION:Derendinger Straße 41\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Ausstellung über die Geschichte der Umwelt- und Klimabewegun
+ g.
+DTSTART:20251026T000000
+DTEND:20251026T235959Z
+DTSTAMP:20251015T204507Z
+UID:f245dac5-73c7-4620-aa7c-60d7784bd636
+DESCRIPTION:Vom 26. Oktober bis zum 2. November 2025 im Linken Zentrum Tru
+ de Lutz in Tübingen. Veranstaltungen einschließlich Vorträge und Klimac
+ afés zur Diskussion über Klimagerechtigkeit und ökologische Themen.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, Tübingen
+END:VEVENT
 END:VCALENDAR
