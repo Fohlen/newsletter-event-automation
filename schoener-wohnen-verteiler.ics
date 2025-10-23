@@ -12264,4 +12264,18 @@ DESCRIPTION:We would like to remind all interested parties about the meeti
  like to get involved in the exchange campaign in various ways.
 LOCATION:Bachgasse 5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein ganzes Wochenende mit Dalarna Dubz und ihrem eigenen Soundsyst
+ em in Tübingen!
+DTSTART:20251024T210000
+DTEND:20251024T235959Z
+DTSTAMP:20251023T130959Z
+UID:060cf9c3-617e-49be-8a51-a027fb1a4d2d
+DESCRIPTION:Vor zwei Jahren hatten wir Dalarna Dubz bei unserem ersten WE 
+ DUB Weekender. Jetzt kommen sie mit ihrem eigenen Soundsystem! Mit einem F
+ okus auf nordischen und obskuren Produktionen sowie bewussten Botschaften 
+ spielen sie eine Vielzahl von Genres\, von Roots Reggae bis Steppas und da
+ rüber hinaus. Dazu gibt es Workshops und viel Musik.
+LOCATION:Wueste Welle\, Tübingen
+END:VEVENT
 END:VCALENDAR
