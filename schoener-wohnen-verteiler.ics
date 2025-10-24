@@ -12278,4 +12278,35 @@ DESCRIPTION:Vor zwei Jahren hatten wir Dalarna Dubz bei unserem ersten WE
  rüber hinaus. Dazu gibt es Workshops und viel Musik.
 LOCATION:Wueste Welle\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dokuserie über die Situation Geflüchteter an der französisch-br
+ itischen Grenze.
+DTSTART:20251028T200000
+DTEND:20251028T235959Z
+DTSTAMP:20251024T130915Z
+UID:1a5a95d6-0b4a-4af5-8a86-a6d0099baff6
+DESCRIPTION:Calais\, Nordfrankreich: eine in Deutschland wenig diskutierte
+  europäische Außengrenze. ‚Entre les frontieres/Between the borders‘
+  zeigt die gewaltvolle Realität vor Ort. Die Dokuserie begleitet Freiwill
+ ige der Organisation Utopia56 bei ihrer Arbeit und bietet einen Einblick i
+ n die Situation Geflüchteter an der französisch-britischen Grenze. Der C
+ lub Voltaire\, die Hochschulgruppe Amnesty International und die Seebrück
+ e Tübingen schaffen einen Raum\, um über Calais zu sprechen und zu lerne
+ n. Zudem sammeln wir Spenden für La Capuche Mobilisée\, die Zelte und Sc
+ hlafsäcke an Geflüchtete verteilen.
+LOCATION:Club Voltaire\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über Reichtumsverteilung und soziale Ungleichheit in D
+ eutschland.
+DTSTART:20251104T180000
+DTEND:20251104T235959Z
+DTSTAMP:20251024T130915Z
+UID:905b1978-854e-46c9-8d75-1eaaf3633a26
+DESCRIPTION:Der Soziologe Michael Hartmann gibt in seinem Vortrag wichtige
+  Informationen zu den Themen Reichtum\, soziale Gerechtigkeit und die aktu
+ elle Diskussion über Kürzungen im Sozialstaat. Komm vorbei\, informier d
+ ich und diskutier mit!
+LOCATION:WESTSPITZE | Eisenbahnstr. 1 | 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
