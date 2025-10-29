@@ -12405,4 +12405,80 @@ DESCRIPTION:Hegelkrach is happening! On November 8th\, Quip will play thei
   punk days. Let's move forward! We look forward to seeing you!
 LOCATION:Hegelkeller\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a tasting of our six latest beer styles!
+DTSTART:20251105T190000
+DTEND:20251105T235959Z
+DTSTAMP:20251029T204719Z
+UID:e9029819-6cfc-4b24-86e2-536a539b68c8
+DESCRIPTION:We from Fichtehaus Homebrewing are organizing a tasting of our
+  six latest styles: Weizenbrot (5.9% vol.)\, Cultus et Humanitas Belgarum 
+ (9% vol.)\, Geräucherte Eiche (7.8% vol.)\, Nachteule (5.5% vol.)\, Cervi
+ sator (7.5% vol.)\, Halloween Party (8% vol.). No advance registration is 
+ required\, but please let us know if you plan to attend.
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein spannendes Quiz über die Haus- und Wohnprojekte in Tübingen.
+DTSTART:20251030T200000
+DTEND:20251030T235959Z
+DTSTAMP:20251029T204719Z
+UID:77f3cefe-250d-46e9-b3d4-5e767497702e
+DESCRIPTION:Haus- und Wohnprojekte bilden im Tübinger Stadtbild eine Kett
+ e utopischer Inseln. Wir möchten uns Geschichte und Gegenwart dieser kunt
+ erbunten Parallelwelt in Form eines Quiz genauer anschauen. Dabei wird es 
+ sowohl um Spannendes als auch Skurriles gehen! Wir betrachten die autonome
+ n und semi-autonomen Haus- und Wohnprojekte Tübingens ebenso wie Besetzun
+ gen\, die wieder aufgegeben wurden. Verschiedene Teams werden gegeneinande
+ r antreten und den Gewinner-Teams winken Preise und ewiger Ruhm.
+LOCATION:Blauer Salon\, Münze 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung über die Geschichte der Umwelt- und Klimabewegung.
+DTSTART:20251026T000000
+DTEND:20251026T235959Z
+DTSTAMP:20251029T204719Z
+UID:d145f145-a616-4da4-88b6-d78d8ba4fb97
+DESCRIPTION:Die Klimakrise ist da und niemanden juckt's? Falsch! Seit viel
+ en Jahrzehnten stellen sich Menschen weltweit dem menschengemachten Klimaw
+ andel entgegen und kämpfen für eine ökologische\, eine bessere\, eine k
+ limagerechte Welt. Die Ausstellung zeigt Ursprünge und Entwicklungen der 
+ Umwelt- und Klimabewegungen sowie aktuelle Ansätze auf. Veranstaltungen i
+ m Rahmen der Ausstellung: 30.10. 19 Uhr Vortrag: 'Climate crisis as a cris
+ is of patriarchy and capitalism in Kurdistan' (auf Englisch) von Menekşe 
+ Kızıldere\, 31.10. 18 Uhr Vortrag: 'Lehren aus der Anti-Atomkraftbewegun
+ g – Der Kampf um nachhaltige erneuerbare Energien' von Herbert Würth\, 
+ 1.11. 14 - 17 Uhr Klimacafé mit Input zu Klimakrise und Marxismus\, 2.11.
+  14 – 17 Uhr Klimacafé (ohne Input).
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag über die Situation in der Westsahara und das Leben de
+ r Sahrauis im Exil.
+DTSTART:20251107T190000
+DTEND:20251107T235959Z
+DTSTAMP:20251029T204719Z
+UID:9d1d40f4-bde4-4c5c-921b-08c10a2d7db1
+DESCRIPTION:Der Vortrag behandelt die Geschichte und die aktuellen Herausf
+ orderungen der Westsahara\, die als die letzte Kolonie Afrikas bezeichnet 
+ wird. Jan Sander und Mohamed Abba Badati teilen ihre Erfahrungen und Einbl
+ icke in die Lebensrealitäten der Sahrauis im algerischen Exil und die pol
+ itischen Zusammenhänge mit Deutschland und der EU.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstraße 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A night of funky grooves and bouncy trance with local DJs and Mood
+ rich from Berlin.
+DTSTART:20251107T200000
+DTEND:20251107T235959Z
+DTSTAMP:20251029T204719Z
+UID:3d22f5f3-bfed-4958-ae60-304bbdda10f4
+DESCRIPTION:Join us for the 6th round of Soli Raves at Schlachthaus on 07.
+ 11.2025. All proceeds from ticket sales go to the charity DKMS. We will al
+ so have onsite registration for potential stem cell donors. Each registrat
+ ion takes just a few minutes and can save lives. Tickets are available onl
+ ine and at the entrance. We have zero tolerance for discrimination and ina
+ ppropriate behavior. If you feel uncomfortable\, please contact our team.
+LOCATION:Schlachthaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
