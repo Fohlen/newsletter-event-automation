@@ -12481,4 +12481,20 @@ DESCRIPTION:Join us for the 6th round of Soli Raves at Schlachthaus on 07.
  ppropriate behavior. If you feel uncomfortable\, please contact our team.
 LOCATION:Schlachthaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion über Feminismus
+DTSTART:20251105T190000
+DTEND:20251105T220000Z
+DTSTAMP:20251102T130143Z
+UID:aacd1b75-e701-4396-9841-3e30aa98965e
+DESCRIPTION:Der Dokumentarfilm FEMINISM WTF (What the Fuck) schlüsselt au
+ f\, welche Themenvielfalt 2023 unter dem Begriff Feminismus verhandelt wir
+ d. Experts gehen der Frage nach\, wie wir alle zum Aufbrechen von Macht- u
+ nd Abhängigkeitsverhältnissen beitragen können. Fragen zu Geschlechterr
+ ollen\, unbezahlter Haus- und Kinderarbeitsarbeit\, Kapitalismus vs. Femin
+ ismus und der europäische Kolonialismus werden thematisiert. Die Regisseu
+ rin Katharina Mückstein setzt die Experts in einen filmischen Dialog mit 
+ Musikvideo-Sequenzen zum elektronischen Soundtrack von Tony Renaissance.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
