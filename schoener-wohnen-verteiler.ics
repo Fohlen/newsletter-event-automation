@@ -12497,4 +12497,27 @@ DESCRIPTION:Der Dokumentarfilm FEMINISM WTF (What the Fuck) schlüsselt au
  Musikvideo-Sequenzen zum elektronischen Soundtrack von Tony Renaissance.
 LOCATION:Hausbar der Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heimfest unter dem Motto 'Tribute von KHHanem'
+DTSTART:20251108T180000
+DTEND:20251108T235959Z
+DTSTAMP:20251104T204728Z
+UID:aa019f11-e1bd-4065-bdcd-0b575e132f94
+DESCRIPTION:Wir laden herzlich zur kommenden Party im Karl-Heim-Haus am 8.
+  November ein. Alle wichtigen Infos findet ihr im angehängten Flyer. Wir 
+ freuen uns auf euch und einen tollen Abend!
+LOCATION:Karl-Heim-Haus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intensive und mitreißende Klanglandschaften von MOJA
+DTSTART:20251105T220000
+DTEND:20251105T235900Z
+DTSTAMP:20251104T204728Z
+UID:5873689c-82e2-4673-8506-f9f7f894711a
+DESCRIPTION:MOJA ist eine japanische Instrumentalband\, die Rock-\, Punk- 
+ und Alternative-Sounds mit elektrisierender Energie vermischt. Ihr neues A
+ lbum wurde im September 2025 veröffentlicht. Lasst euch dieses musikalisc
+ he Feuerwerk nicht entgehen!
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
