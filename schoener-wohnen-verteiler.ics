@@ -12520,4 +12520,43 @@ DESCRIPTION:MOJA ist eine japanische Instrumentalband\, die Rock-\, Punk-
  he Feuerwerk nicht entgehen!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmreihe\, die verschiedene Formen von Widerstand greifbar macht\
+ , begleitet von Gemeinschaft und aktivem Austausch.
+DTSTART:20251117T183000
+DTEND:20251117T235959Z
+DTSTAMP:20251105T204637Z
+UID:41b73587-4e38-4ea1-8f22-72707248fb14
+DESCRIPTION:In dieser Filmreihe zeigen wir eine Auswahl bewegender Filme u
+ nd Dokus über Widerstand – damals wie heute. Von Jugendlichen gegen die
+  Nazis bis hin zu aktuellen Themen wie Überwachung und politisches Engage
+ ment. Es geht nicht nur ums Zuschauen\, sondern ums Zusammenkommen und akt
+ ives Teilnehmen. Erster Film: 'Deckname Jenny' am 17. November\, Einlass 1
+ 8.30 Uhr\, Eintritt frei.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorführung des intimen Films von Malte Ludin über den Umgang sei
+ ner Familie mit der NS Täterschaft seines Vaters.
+DTSTART:20251109T200000
+DTEND:20251109T235959Z
+DTSTAMP:20251105T204637Z
+UID:bcfd14e6-761b-459b-978a-257c0c308f36
+DESCRIPTION:Dokumentarfilm von Malte Ludin über die Wahrheit und die Fami
+ liengeschichte der Familie Ludin im Kontext der NS-Zeit und der Schuld des
+  Vaters\, Hanns Ludin.
+LOCATION:schellinghausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super reich und super unfair. Wer zahlt wirklich Steuern?
+DTSTART:20251126T180000
+DTEND:20251126T235959Z
+DTSTAMP:20251105T204637Z
+UID:721a5b54-68d8-45ea-90cb-2887f8817641
+DESCRIPTION:Die Millionenerbin und taxmenow Aktivistin Stefanie Bremer gib
+ t uns in ihrem Vortrag wichtige Informationen über die Ungerechtigkeiten 
+ im Steuersystem und diskutiert Möglichkeiten einer fairen Besteuerung von
+  Vermögen und Erbschaft.
+LOCATION:WESTSPITZE\, Eisenbahnstraße 1\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
