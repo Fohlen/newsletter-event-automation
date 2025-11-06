@@ -12559,4 +12559,28 @@ DESCRIPTION:Die Millionenerbin und taxmenow Aktivistin Stefanie Bremer gib
   Vermögen und Erbschaft.
 LOCATION:WESTSPITZE\, Eisenbahnstraße 1\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Darkwave/Post-Punk aus Belarus
+DTSTART:20251107T190000
+DTEND:20251107T235959Z
+DTSTAMP:20251106T204705Z
+UID:cb5eb439-d163-459f-8e50-6f83f8941304
+DESCRIPTION:Das Konzert von DLINA VOLNY\, einem Trio aus Belarus\, das ein
+ e einzigartige Mischung aus osteuropäischem Post-Punk und westlichem Dark
+ -Wave bietet. Im Anschluss findet eine Aftershow mit DJs statt.
+LOCATION:Blaue Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Bild-Text-Musik-Performance über den Ersten Weltkrieg und T
+ übinger Denkmale.
+DTSTART:20251111T200000
+DTEND:20251111T235959Z
+DTSTAMP:20251106T204705Z
+UID:2802902c-99a3-458e-baac-978dd76fb6b9
+DESCRIPTION:Der Club Voltaire setzt sich in einer künstlerischen Performa
+ nce mit dem Grauen des Ersten Weltkrieges und der Geschichte der Ehren-\, 
+ Denk- und Mahnmale auseinander\, ergänzt durch zeitgenössische Fotos\, F
+ eldpostbriefe und musikalische Improvisationen.
+LOCATION:Club Voltaire\, Tübingen
+END:VEVENT
 END:VCALENDAR
