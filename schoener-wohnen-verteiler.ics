@@ -12583,4 +12583,16 @@ DESCRIPTION:Der Club Voltaire setzt sich in einer künstlerischen Performa
  eldpostbriefe und musikalische Improvisationen.
 LOCATION:Club Voltaire\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Kundgebung der Feministischen Vernetzung im Linken Zent
+ rum Trude Lutz.
+DTSTART:20251125T190000
+DTEND:20251125T235959Z
+DTSTAMP:20251107T204328Z
+UID:2292d14e-8ef5-46c4-bfc4-819942fd028b
+DESCRIPTION:Wir Frauen und FLINTA setzen ein Zeichen gegen patriarchale Ge
+ walt. Am 25. November um 19 Uhr im Alten Botanischen Garten Tübingen. Kun
+ dgebung mit Redebeiträgen.
+LOCATION:Alter Botanischer Garten Tübingen
+END:VEVENT
 END:VCALENDAR
