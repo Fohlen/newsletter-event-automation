@@ -12607,4 +12607,19 @@ DESCRIPTION:Die Band DANA\, gegründet von Madeline Jackson\, bringt eine
  ving". Euer Eintritt ist frei!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film screening featuring a short film and a documentary from Colom
+ bia.
+DTSTART:20251113T180000
+DTEND:20251113T235959Z
+DTSTAMP:20251109T204258Z
+UID:6ad3a835-ead6-412e-95e7-84356f0c5d60
+DESCRIPTION:Presented by El Espejo\, we will be screening the following fi
+ lms: \n\n1. **Divinas Melodias** - A mystical experience in the life of Pa
+ cho\, an afrokolumbian farmer. (2019\, 33min) \n2. **Rapsodia Negra** - A 
+ portrait of Alfonso Córdoba 'El Brujo'\, a living legend of afrokolumbian
+  music. \n\nBoth films are in Spanish with English subtitles. Enjoy Glühp
+ unsch!
+LOCATION:Sternplatz KüfA\, Ludwigstraße 15
+END:VEVENT
 END:VCALENDAR
