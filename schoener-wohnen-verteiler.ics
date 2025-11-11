@@ -12622,4 +12622,17 @@ DESCRIPTION:Presented by El Espejo\, we will be screening the following fi
  unsch!
 LOCATION:Sternplatz KüfA\, Ludwigstraße 15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Frauen*buchladen Thalestris wird übernommen. Unterstütze den
+  neuen Bunter Buchladen!
+DTSTART:20250101T000000
+DTEND:20250101T235959Z
+DTSTAMP:20251111T130942Z
+UID:845b6ae5-2047-4ee5-9884-f04f1db9ce1e
+DESCRIPTION:Seit über 46 Jahren ist der Frauen*buchladen Thalestris in T
+ übingen ein besonderer Ort. Wir möchten den Buchladen übernehmen und br
+ auchen deine Unterstützung\, um ein Startkapital von mindestens 10.000 
+ € zu sammeln. Jeder Beitrag hilft!
+LOCATION:Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
