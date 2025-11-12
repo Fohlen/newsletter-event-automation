@@ -12635,4 +12635,51 @@ DESCRIPTION:Seit über 46 Jahren ist der Frauen*buchladen Thalestris in T
  € zu sammeln. Jeder Beitrag hilft!
 LOCATION:Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Kneipe im Epplehaus Tübingen mit Electro-Musik
+DTSTART:20251113T190000
+DTEND:20251113T235959Z
+DTSTAMP:20251112T131248Z
+UID:bce02844-71b3-4ec9-9835-b31408b02cc0
+DESCRIPTION:Es ist Herbst und die Blätter fallen\, aber leider nicht Patr
+ iarchat oder der Kapitalismus. Um die Wartezeit auf Postpatriarchat und -k
+ apitalismus zu überbrücken öffnet das Epplehaus am 13. November ab 19 U
+ hr seine Pforten für eine offene Kneipe. Zu fairen Preisen kann man entsp
+ annen nach Lohnarbeit und Studium bei einem Getränk der Electro-Musik lau
+ schen\, plauschen oder einfach nur in sein Glas starren. Veranstalter der 
+ Epple-Donnerstagskneipe ist „Input Tübingen“\, die linke Vortragsvera
+ nstaltungsgruppe im Epplehaus.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shopping for Christmas party using vouchers
+DTSTART:20251201T173000
+DTEND:20251201T190000Z
+DTSTAMP:20251112T131248Z
+UID:3d7f018e-00e1-44c6-b63e-48e62fde668f
+DESCRIPTION:Join us for shopping for your Christmas party! Before you shop
+ \, visit the swap station to exchange for a payment card and use vouchers 
+ from Lidl\, Rewe\, dm\, Aldi. The swap happens every Monday from 5.30 PM t
+ o 7 PM at Bachgasse 5.
+LOCATION:Bachgasse 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alljährlicher Kongress der Informationsstelle Militarisierung (IM
+ I) e.V. mit Vorträgen\, Diskussionen und kulturellen Veranstaltungen zu T
+ hemen rund um Militär und Gesellschaft.
+DTSTART:20251115T120000
+DTEND:20251115T235959Z
+DTSTAMP:20251112T131248Z
+UID:7e0a2e80-c434-4c07-8c0b-9836bec5b5bb
+DESCRIPTION:Am kommenden Wochenende (15./16.11.25) findet wieder unser all
+ jährlicher Kongress der Informationsstelle Militarisierung (IMI) e.V. unt
+ er dem Motto 'Militärrepublik? Verweigern!' in der Aula Uhlandstraße 30 
+ in Tübingen ab 12 Uhr statt! Die Teilnahme ist kostenlos und ohne Anmeldu
+ ng möglich. \nInfos zum Programm: \n- Auftakt: Freitag 14. November 2025 
+ ab 19 Uhr mit Küfa und Barbetrieb.\n- Samstag 15.11.2025: Begrüßung\, V
+ orträge zu KRIEGSBUDGET\, KRIEGSWIRTSCHAFT\, KRIEGSGESELLSCHAFT und KRIEG
+ &RECHT.\n- Sonntag 16.11.2025: Vorträge zu KRIEGSDIENST\, KRIEGSTÜCHTIGK
+ EIT und ABSCHLUSSPODIUM.
+LOCATION:Aula Uhlandstraße 30\, Tübingen
+END:VEVENT
 END:VCALENDAR
