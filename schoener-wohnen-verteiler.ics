@@ -12682,4 +12682,17 @@ DESCRIPTION:Am kommenden Wochenende (15./16.11.25) findet wieder unser all
  EIT und ABSCHLUSSPODIUM.
 LOCATION:Aula Uhlandstraße 30\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Gedenken zum TDoR und Malaktion für trans* Sichtbarke
+ it.
+DTSTART:20251120T170000
+DTEND:20251120T190000Z
+DTSTAMP:20251112T204451Z
+UID:21abd37f-b6a1-4ea2-bbfa-f28ca9aaa142
+DESCRIPTION:Am 20. November veranstalten wir ein gemeinsames Gedenken zum 
+ Trans* Day of Remembrance (TDoR) auf dem Marktplatz in Tübingen. Wir stel
+ len Kerzen auf und informieren über Anlaufstellen für trans* Menschen. A
+ m 16. November findet eine Malaktion im Queeren Zentrum Tübingen statt.
+LOCATION:Marktplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
