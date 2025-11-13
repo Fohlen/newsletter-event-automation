@@ -12695,4 +12695,24 @@ DESCRIPTION:Am 20. November veranstalten wir ein gemeinsames Gedenken zum
  m 16. November findet eine Malaktion im Queeren Zentrum Tübingen statt.
 LOCATION:Marktplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration für Klimagerechtigkeit
+DTSTART:20251114T170000
+DTEND:20251114T235959Z
+DTSTAMP:20251113T204611Z
+UID:b2191ace-2e3b-46c7-b781-4045d15c9113
+DESCRIPTION:Am 14.11. um 17 Uhr auf dem Holzmarkt in Tübingen.
+LOCATION:Holzmarkt\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a fun baking event to save food!
+DTSTART:20251117T170000Z
+DTEND:20251117T200000Z
+DTSTAMP:20251113T204611Z
+UID:5d657d54-b66d-42c6-98e9-f94076166122
+DESCRIPTION:You would like to bake something delicious and save food at th
+ e same time? We will be baking sweet or sweet-savory cookies & special bre
+ ad creations with spent grain. All helpers can take plenty home with them!
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
