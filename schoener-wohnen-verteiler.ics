@@ -12715,4 +12715,96 @@ DESCRIPTION:You would like to bake something delicious and save food at th
  ad creations with spent grain. All helpers can take plenty home with them!
 LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gegenprotest gegen den AfD-Landesparteitag am 23. November 2025.
+DTSTART:20251123T070000
+DTEND:20251123T150000Z
+DTSTAMP:20251117T131051Z
+UID:415223a6-7eff-44bb-8925-d1a087439044
+DESCRIPTION:Am 23. November 2025 findet im „Museum“ in Hechingen der l
+ etzte AfD-Landesparteitag vor den Landtagswahlen in Baden-Württemberg sta
+ tt. Beginn des Gegenprotests ab 7 Uhr in der Nähe des Museums. Kundgebung
+ en ab 9.30 Uhr und ab 13 Uhr auf dem Obertorplatz.
+LOCATION:Museum\, Hechingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Vernetzungstreffen für Kolleg*innen\, Azubis und Mi
+ tstreiter*innen im grünen Bereich.
+DTSTART:20251123T140000
+DTEND:20251123T235959Z
+DTSTAMP:20251117T131051Z
+UID:92bb4b3f-e2e1-4d5b-bd5d-9f0020f32275
+DESCRIPTION:Wir treffen uns\, um über unsere Arbeitsbedingungen im grüne
+ n Bereich zu diskutieren und uns zu vernetzen. Thema sind Überstunden\, U
+ rlaubstage\, Diskriminierung\, Arbeitsunfälle und der Austausch über die
+  Initiative Grüne Gewerke. Kommt vorbei!
+LOCATION:Schellingstraße 6\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrraddemo in Tübingen zur Verbesserung der Lebensqualität und 
+ Sicherheit in der Südstadt.
+DTSTART:20251121T180000
+DTEND:20251121T235959Z
+DTSTAMP:20251117T131051Z
+UID:debde591-60c2-4bcd-8abc-f86647d3d309
+DESCRIPTION:Autolärm\, Abgase\, schlechte Überwege – das ist die Stutt
+ garter Straße\, die die Tübinger Südstadt spaltet. Die Straße führt z
+ u enormer Belastung durch Lärm\, (Fein-)Staub und Abgase. Außerdem versp
+ äten sich die Busse durch Staus und für Menschen\, die nicht so gut zu F
+ uß sind\, ist es fast unmöglich die Straße während einer der kurzen un
+ d seltenen Ampelphase zu überqueren.\n\nStatt schon vor Jahren konkrete M
+ aßnahmen zur Entlastung der Südstadt umzusetzen\, wird immer wieder mit 
+ dem Verweis auf den Schindhaubasistunnel auf dem Rücken der Anwohner*inne
+ n gespart. Der Tunnel wird aber frühestens in den 2030ern fertig sein.\n\
+ nAnstatt 500 Millionen in kapitalistische Verkehrsprojekte zu stecken\, br
+ aucht es jetzt schon konkrete Entlastungen für die Südstadt: Sichere Üb
+ erwege und längere Grünphasen für Fußgänger*innen\, konsequenten Lär
+ mschutz und ein besseres Fahrradnetz! An erster Stelle dieser Baupläne da
+ rf nicht der Gewinn von Unternehmen\, sondern müssen die Lebensqualität 
+ und Sicherheit vor Ort stehen.\n\nKommt mit uns auf die Straße für eine 
+ lebenswerte Südstadt! Am 21. November nehmen wir uns die Straße bei der 
+ Critical Mass-Fahrraddemo: Wir treffen uns um 18 Uhr an der Uni-Bib.
+LOCATION:Uni-Bib\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A bus journey to the protests against AfD.
+DTSTART:20251014T090000
+DTEND:20251014T200000Z
+DTSTAMP:20251117T131051Z
+UID:dfe3a1c9-f58b-4461-8c30-501a0c444f9b
+DESCRIPTION:Join us for a bus trip from Tübingen to Gießen for the prote
+ sts against the AfD. Tickets for the first bus are sold out\, and we're ho
+ ping to fill a second bus. Please add your name to the waiting list if you
+ 're interested.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Podiumsdiskussion zu Themen rund um das Ökosy
+ stem Meer und dessen Schutz.
+DTSTART:20251126T200000
+DTEND:20251126T235959Z
+DTSTAMP:20251117T131051Z
+UID:d1ca54dd-bd11-4783-b1fc-c421ec881d52
+DESCRIPTION:Im Rahmen des DEEPWAVE Filmfestivals findet ein Kurzfilmabend 
+ mit anschließender Podiumsdiskussion statt. Der Abend ist kostenlos und b
+ ietet die Möglichkeit zu einem interaktiven Austausch über den Meeressch
+ utz.
+LOCATION:Kino Museum\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag und Gespräch mit Klimaaktivistin Line Niedeggen
+DTSTART:20251122T160000
+DTEND:20251122T235959Z
+DTSTAMP:20251117T131051Z
+UID:ca3fd252-0d52-4413-8f4c-3a7ecfdb3a55
+DESCRIPTION:Wenig wird in der Klimabewegung so genau beobachtet wie die j
+ ährliche UN-Klimakonferenz (COP). Wenig wird von Politik und Medien so se
+ hr als Erfolg verkauft\, wie das Pariser Klimaabkommen von 2015. Während 
+ in Brasilien die diesjährige COP stattfindet\, spricht Line Niedeggen üb
+ er ihre Erfahrungen bei den Klimakonferenzen der vergangenen Jahre. Sie wi
+ rd erzählen\, was dort abläuft\, wie die Stimmung ist\, was Klimaaktivis
+ t*innen dort erreichen können und auch\, warum sie dieses Jahr nicht dara
+ n teilnimmt.
+LOCATION:Linken Zentrum Trude Lutz (Nauklerstr. 50)
+END:VEVENT
 END:VCALENDAR
