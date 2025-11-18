@@ -12807,4 +12807,17 @@ DESCRIPTION:Wenig wird in der Klimabewegung so genau beobachtet wie die j
  n teilnimmt.
 LOCATION:Linken Zentrum Trude Lutz (Nauklerstr. 50)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine neue Band aus Amsterdam mit extrem ansteckendem Punkrock!
+DTSTART:20251120T190000Z
+DTEND:20251120T235959Z
+DTSTAMP:20251118T130951Z
+UID:c5ff58e1-b7e1-4020-b727-28edf1d71446
+DESCRIPTION:THE COVIDS kommen am Donnerstag\, dem 20. November\, zu uns in
+  den Blauen Salon! Die Band gründete sich während der ersten Pandemieabr
+ iegelung in den Niederlanden. Sie sind bekannt für ihren einzigartigen So
+ und\, der von 77er Punkrock beeinflusst ist. Einlass ist um 19:00 Uhr\, un
+ d der Beginn ist um 22:00 Uhr. Eintritt frei!
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
