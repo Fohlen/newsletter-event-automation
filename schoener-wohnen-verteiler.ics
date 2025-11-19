@@ -12820,4 +12820,68 @@ DESCRIPTION:THE COVIDS kommen am Donnerstag\, dem 20. November\, zu uns in
  d der Beginn ist um 22:00 Uhr. Eintritt frei!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit den Bands FVZZ POPVLI und DOGGOD.
+DTSTART:20251120T200000
+DTEND:20251120T235959Z
+DTSTAMP:20251119T131046Z
+UID:4b821dc6-0084-4c32-985a-5424b7f9e678
+DESCRIPTION:Das Power Trio FVZZ POPVLI liefert mit schwer verzerrten Riffs
+  und einer rauen Attitüde einen einzigartigen Sound\, der Garage-Punk-Ele
+ mente und 70er-Jahre-Psychedelia verbindet. DOGGOD hingegen bringt schwere
+  Riffs und atmosphärische Songs mit einem starken 70er-Jahre-Touch und er
+ kundet eine eigene Version von Stoner-Rock\, Sludge und Doom. Eintritt geg
+ en Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kostenloses gemeinsames Essen ohne Anmeldung.
+DTSTART:20251118T180000
+DTEND:20251118T235959Z
+DTSTAMP:20251119T131046Z
+UID:a22cc436-33f2-4162-be3a-4d63c14d4aaf
+DESCRIPTION:Liebe Menschen\, ihr seid herzlich eingeladen: Gemeinsam Essen
+ . Bist du hungrig oder suchst Gemeinschaft? Dann bist du herzlich eingelad
+ en ins Werkstadthaus. Mirna und Nadja kochen leckeres\, gesund und vegetar
+ isch. Das Essen steht pünktlich um 18 Uhr auf dem Tisch. Wir freuen uns 
+ über Wertschätzung: eine Blume\, ein schöner Gedanke\, eine Münze in d
+ er Spendenbox\, eine gute Tat an anderer Stelle. Du kannst aber einfach au
+ ch so kommen. Wir freuen uns auf dich auf jeden Fall!
+LOCATION:Werkstadthaus\, Aixer Straße 72\, Tübingen - Französisches Vie
+ rtel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Special event with gift vouchers and support for refugees.
+DTSTART:20251119T200000
+DTEND:20251119T235959Z
+DTSTAMP:20251119T131046Z
+UID:4e063a22-7f00-4847-a0fd-116a1bee5a30
+DESCRIPTION:Kommt herbei! Diesmal special in der Hausbar: Ihr könnt bei u
+ ns 50€-Gutscheine von der Bezahlkarten-Tauschaktion bekommen. Bringt als
+ o eure Fuffis mit! Wir haben welche für Rewe\, Aldi und DM. Hintergrund i
+ st\, dass seit diesem Jahr auch im Landkreis Tübingen Bezahlkarten an Gef
+ lüchtete ausgegeben werden und sie nur sehr begrenzt Zugriff auf Bargeld 
+ haben. Mit dem Kauf eines Gutscheins von Supermärkten/Drogerien ist es f
+ ür Geflüchtete möglich\, diese gegen Bargeld zu tauschen. Kommt zahlrei
+ ch und bringt Freunde mit!
+LOCATION:Schellinghausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit den Bands 'bunt&laut!' und 'Brass Busters' für eine o
+ ffene\, tolerante Gesellschaft.
+DTSTART:20251122T160000
+DTEND:20251122T180000Z
+DTSTAMP:20251119T131046Z
+UID:09b6ea2c-010a-41a9-ac49-5c5e7c454bf9
+DESCRIPTION:Unter dem Motto 'Die Menschlichkeit bewahren!' geben die Bands
+  'bunt&laut!' aus Karlsruhe und 'Brass Busters' aus Tübingen ein Konzert 
+ in der Panzerhalle im Französischen Viertel. Die Band 'bunt&laut!' macht 
+ Musik für eine offene\, tolerante Gesellschaft und bereichert gesellschaf
+ tliche Kämpfe mit Coverversionen politischer Lieder. Das Straßenmusik-Ko
+ llektiv 'Brass Busters' ist bekannt für seine leidenschaftliche Spielfreu
+ de\, Lautstärke und den perfekten Groove. Heißer Punsch wird gegen die K
+ älte gereicht (bitte Tasse mitbringen). Alle Einnahmen gehen an die solid
+ arische Flüchtlingshilfe von 'move on'.
+LOCATION:Panzerhalle\, Französisches Viertel
+END:VEVENT
 END:VCALENDAR
