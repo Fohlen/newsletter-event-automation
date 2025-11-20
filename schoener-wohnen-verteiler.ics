@@ -12884,4 +12884,60 @@ DESCRIPTION:Unter dem Motto 'Die Menschlichkeit bewahren!' geben die Bands
  arische Flüchtlingshilfe von 'move on'.
 LOCATION:Panzerhalle\, Französisches Viertel
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsam ein Zeichen setzen gegen patriarchale Gewalt.
+DTSTART:20251127T160000
+DTEND:20251127T235959Z
+DTSTAMP:20251120T130909Z
+UID:e7e99180-c5d3-4323-9869-65e00ef660ef
+DESCRIPTION:Das Ereignis beinhaltet kreatives Arbeiten wie Banner malen un
+ d Textilien bedrucken sowie aktive Stände wie Pratzen schlagen. Ein Rück
+ zugsort wird bereitgestellt und zum Abschluss gibt es eine Küfa mit Musik
+  und Drinks.
+LOCATION:Epplehaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Personalize labels for Christmas brews with messages for your love
+ d ones at Fichtehaus Homebrewing.
+DTSTART:20251130T000000
+DTEND:20251130T235959Z
+DTSTAMP:20251120T130909Z
+UID:d42cce2b-9e16-4ea3-aa7b-08d44077b71f
+DESCRIPTION:Opportunity to personalize labels for Christmas brews with ind
+ ividual messages. Submit your messages by November 29 to Benny. Pickup sta
+ rts on November 30 at Fichtehaus\; delivery options available.
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene gewerkschaftliche Beratung und Gewerkschaftskneipe
+DTSTART:20251124T180000
+DTEND:20251124T210000Z
+DTSTAMP:20251120T130909Z
+UID:174cfd10-d64a-471b-ad9c-d65755bedf99
+DESCRIPTION:18:00–19:00 Uhr – Offene gewerkschaftliche Beratung im Bü
+ roAktiv\, Bei der Fruchtschranne 6\, Tübingen. Du hast Stress auf der Arb
+ eit\, Lohnprobleme oder willst dich einfach über deine Rechte informieren
+ ? Komm vorbei – wir beraten dich solidarisch und finden gemeinsam Lösun
+ gen.\n\nAb 20:00 Uhr – Gewerkschaftskneipe in der Trinkstube c. t.\, Geo
+ rgstraße 1\, Tübingen. Danach geht’s gemütlich weiter mit leckeren S
+ äften\, Erdnüssen und solidarischem Austausch in entspannter Runde. Ob o
+ rganisiert oder einfach interessiert – alle sind willkommen. \n\nBeide V
+ eranstaltungen finden jeden letzten Montag im Monat statt. Wir freuen uns 
+ auf euch – zuerst beim Reden\, dann beim Trinken.
+LOCATION:BüroAktiv\, Bei der Fruchtschranne 6\, Tübingen und Trinkstube 
+ c. t.\, Georgstraße 1\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planungstreffen für den Tübinger Weihnachtsmarkt der Wohnprojekt
+ e
+DTSTART:20251124T200000
+DTEND:20251124T235959Z
+DTSTAMP:20251120T130909Z
+UID:e805db97-3ab9-4a7b-8ab2-dffa6c2f8624
+DESCRIPTION:Wir laden alle Interessierten zu unserem Planungstreffen ein\,
+  um gemeinsam über den Stand des Weihnachtsmarktes zu sprechen. Es besteh
+ t die Möglichkeit\, sich aktiv einzubringen und Ideen für das Angebot zu
+  entwickeln.
+LOCATION:Hechinger Str. 40\, Tübingen
+END:VEVENT
 END:VCALENDAR
