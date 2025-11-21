@@ -12940,4 +12940,31 @@ DESCRIPTION:Wir laden alle Interessierten zu unserem Planungstreffen ein\,
   entwickeln.
 LOCATION:Hechinger Str. 40\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleider-Kreisel im Französischen Viertel mit Waffeln\, Punsch und
+  selbst hergestellten Sachen. Spenden für den Bunten Buchladen.
+DTSTART:20251207T140000
+DTEND:20251207T180000Z
+DTSTAMP:20251121T130732Z
+UID:665f177b-59df-4a3d-ada7-20d85574a6f2
+DESCRIPTION:Herzliche Einladung zum Kleider-Kreisel im 009 im Französisch
+ en Viertel. Es wird Waffeln und Punsch geben sowie selbst hergestellte sch
+ öne Dinge von Menschen\, die im Haus wohnen. Die Spenden kommen dem Bunte
+ n Buchladen zugute. Kleider können auch ab Freitag schon angenommen werde
+ n. Kontaktiert uns dafür gerne per Mail. Wir freuen uns auf euch!
+LOCATION:Provenceweg 3\, Eingang über Französische Allee\, 72070 Tübing
+ en
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiere mit uns zu Gunsten einer BIPoC-Person im Asylverfahren
+DTSTART:20251205T190000
+DTEND:20251205T235959Z
+DTSTAMP:20251121T130732Z
+UID:c6ab856a-7503-4ff5-8de7-6f6bc532515d
+DESCRIPTION:Ein Abend voller Wärme\, Musik und Solidarität. Programm: 19
+ :00 Flohmarkt\, 20:00 Küfa\, 22:00–04:00 Konzert + DJ Funk mit Trompete
+ \, Oldschool + Italo Disco & Afrobeat. Der gesamte Erlös geht an eine unt
+ erstützungswürdige BIPoC-Person.
+LOCATION:Leibnizhaus 2\, Stauffenbergstr 30\, Berlin
+END:VEVENT
 END:VCALENDAR
