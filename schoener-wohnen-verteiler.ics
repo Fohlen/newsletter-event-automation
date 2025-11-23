@@ -12967,4 +12967,14 @@ DESCRIPTION:Ein Abend voller Wärme\, Musik und Solidarität. Programm: 19
  erstützungswürdige BIPoC-Person.
 LOCATION:Leibnizhaus 2\, Stauffenbergstr 30\, Berlin
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaßige Polit-Collagen Hausbar
+DTSTART:20251014T180000
+DTEND:20251014T220000Z
+DTSTAMP:20251123T204412Z
+UID:804d31d2-0459-4b95-b239-f2a491f8eb08
+DESCRIPTION:Kommt vorbei\, bringt Magazine mit\, schnappt euch ’n Drink 
+ und bastelt euch mit uns durch den Abend!
+LOCATION:Schellinghausbar
+END:VEVENT
 END:VCALENDAR
