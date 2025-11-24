@@ -12977,4 +12977,27 @@ DESCRIPTION:Kommt vorbei\, bringt Magazine mit\, schnappt euch ’n Drink
  und bastelt euch mit uns durch den Abend!
 LOCATION:Schellinghausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a Küfa supporting the rally against patriarchal viole
+ nce for women and FLINTA.
+DTSTART:20251125T180000
+DTEND:20251125T190000Z
+DTSTAMP:20251124T204354Z
+UID:a31625ae-dbc2-4a1f-ada5-0666aa29a938
+DESCRIPTION:Come hungry and ready to support an important cause! The Küfa
+  will take place at the Old Botanical Garden in Tübingen before the rally
+ .
+LOCATION:Old Botanical Garden\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsamer Infoabend der Bewohner*innen der Münze13
+DTSTART:20251127T180000
+DTEND:20251127T235959Z
+DTSTAMP:20251124T204354Z
+UID:6410965c-c100-47d9-b76c-d85d3750e0d3
+DESCRIPTION:Wir informieren über den aktuellen Stand des Hauskaufs und ha
+ ben ein spannendes Quiz sowie eine Tombola mit Gewinnchance vorbereitet. D
+ er Eintritt ist frei!
+LOCATION:Münzgasse 13\, Blauer Salon
+END:VEVENT
 END:VCALENDAR
