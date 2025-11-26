@@ -13000,4 +13000,38 @@ DESCRIPTION:Wir informieren über den aktuellen Stand des Hauskaufs und ha
  er Eintritt ist frei!
 LOCATION:Münzgasse 13\, Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punkband FLASYD aus NYC und support FRAMPADAMPA aus Tübingen live
+  in Shedhalle.
+DTSTART:20251128T203000
+DTEND:20251128T235959Z
+DTSTAMP:20251126T132011Z
+UID:7aea8b50-4a84-4ea9-b98b-3735e27e0a9c
+DESCRIPTION:Erleben Sie einen Abend mit roher Intensität und mitreißende
+ r Musik von FLASYD und FRAMPADAMPA. Eintritt gegen Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein kreatives Treffen um ein Zeichen gegen patriarchale Gewalt zu 
+ setzen.
+DTSTART:20251127T160000
+DTEND:20251127T200000Z
+DTSTAMP:20251126T132011Z
+UID:9a642b87-19b7-4fdd-8190-15053a25789f
+DESCRIPTION:Wir malen ein Banner\, bedrucken Textilien und bieten die Mög
+ lichkeit\, sich an Pratzen abzureagieren. Für Pausen gibt es einen Rückz
+ ugsort und Unterstützung vor Ort. Den Tag schließen wir mit einer Küfa 
+ und Musik ab.
+LOCATION:Epplehaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feminist Brunch for women and genderqueer persons
+DTSTART:20251130T110000
+DTEND:20251130T235959Z
+DTSTAMP:20251126T132011Z
+UID:afae1933-07fc-4a6a-b6da-e94569b8613d
+DESCRIPTION:Join us for a feminist brunch where we can come together\, exc
+ hange ideas\, and support one another in a safe space.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50
+END:VEVENT
 END:VCALENDAR
