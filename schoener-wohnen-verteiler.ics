@@ -13034,4 +13034,63 @@ DESCRIPTION:Join us for a feminist brunch where we can come together\, exc
  hange ideas\, and support one another in a safe space.
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Präsentation zum Thema Homebrewing & Tasting der neuesten Biersor
+ ten von Fichtehaus Homebrewing.
+DTSTART:20251206T180000
+DTEND:20251206T235959Z
+DTSTAMP:20251127T204342Z
+UID:ba2a57c3-815b-4922-bfea-23f9197a0db6
+DESCRIPTION:An diesem Abend haben Sie die Möglichkeit\, mehr über Homebr
+ ewing zu erfahren und die aktuellen Biersorten von Fichtehaus Homebrewing 
+ zu probieren. Es wird keine Reservierung benötigt und es gibt die Möglic
+ hkeit\, den Eintrittspreis selbst zu bestimmen.
+LOCATION:Café Mehrrettich\, Neckerhalde 70\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag und Diskussion mit Tobi Rosswog über kreative Interventio
+ nen im Aktivismus.
+DTSTART:20251203T190000
+DTEND:20251203T210000Z
+DTSTAMP:20251127T204342Z
+UID:423270c6-b7d6-4a2c-abc9-accdea22e974
+DESCRIPTION:Tobi Rosswog wird in seinem Impulsvortrag die Möglichkeiten u
+ nd Strategien für kreative Interventionen gegen den Normalzustand erläut
+ ern. Einige Beispiele aus über 15 Jahren Aktivismus werden vorgestellt\, 
+ einschließlich der Herausforderungen durch Repression und dem Vorgehen ge
+ gen Versuchungen zur Einschüchterung. Der Abend schließt mit der Möglic
+ hkeit\, sich zu vernetzen und Banden zu bilden.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protest für soziale Gerechtigkeit und gegen Kürzungen der Grunds
+ icherung.
+DTSTART:20251127T173000
+DTEND:20251127T235959Z
+DTSTAMP:20251127T204342Z
+UID:a4378142-4a8e-4540-9c19-c5deee16da80
+DESCRIPTION:Es wird immer kälter da draußen. Das ist nicht der Winter. D
+ as ist die CDU! Bürgergeldempfänger*innen werden zum Arbeiten gezwungen.
+  Diese Maßnahmen reihen sich in eine menschenfeindliche Politik ein - ang
+ epasst auf rechtsextreme Ressentiments. Wir werden niemals müde\, für ei
+ ne gerechte\, inklusive Gesellschaft für Alle zu kämpfen! Füllt mit uns
+  die Gassen\, reiht euch in unseren Protest ein.
+LOCATION:Holzmarkt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung des Landtagswahlkampfs mit Kim Sophie Bohnen und Kathar
+ ina Poppei.
+DTSTART:20251205T190000
+DTEND:20251205T235959Z
+DTSTAMP:20251127T204342Z
+UID:81411d23-8157-40cc-9f2d-6e7ca253ea91
+DESCRIPTION:Gemeinsam mit unserer Spitzenkandidatin Kim Sophie Bohnen und 
+ der Tübinger Landtagskandidatin Katharina Poppei eröffnen wir den Landta
+ gswahlkampf – mit einem Thema\, das aktuell so viele Menschen bewegt wie
+  kaum ein anderes: Wohnungsmangel und explodierende Mieten. Kim wird unser
+  Landtagswahlprogramm zum Thema Miete vorstellen\, erklären\, wie wir Mie
+ twucher\, spekulativen Leerstand und explodierende Mieten stoppen wollen u
+ nd was ein bundesweiter Mietendeckel bringen würde.
+LOCATION:Hofstüble beim Bürgerheim\, Schmiedtorstr. 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
