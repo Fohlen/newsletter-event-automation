@@ -13093,4 +13093,32 @@ DESCRIPTION:Gemeinsam mit unserer Spitzenkandidatin Kim Sophie Bohnen und
  nd was ein bundesweiter Mietendeckel bringen würde.
 LOCATION:Hofstüble beim Bürgerheim\, Schmiedtorstr. 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interaktive Eröffnungsveranstaltung zur Ausstellung über Gesells
+ chaft und Gesundheit.
+DTSTART:20251127T170000
+DTEND:20251127T235959Z
+DTSTAMP:20251129T204348Z
+UID:ae086fac-7972-429a-8375-0ad57c98826e
+DESCRIPTION:Kommt zur Eröffnungsveranstaltung der Ausstellung "Säulen de
+ r Gesundheit - Wie die Gesellschaft unsere Gesundheit formt". Die Veransta
+ ltung findet am 27. November 2025 um 17:00 Uhr in der Apotheke pharmaphant
+  statt. Der Ausstellungsbesuch ist bis zum 31. Januar 2026 während der Ö
+ ffnungszeiten der Apotheke möglich.
+LOCATION:Apotheke pharmaphant\, Hechinger Strasse 70\, 72072 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladun zu Glühweinparty
+DTSTART:20251205T170000
+DTEND:20251205T235959Z
+DTSTAMP:20251129T204348Z
+UID:c324c156-cabd-462a-9293-df3b088f89e5
+DESCRIPTION:Seid herzlich eingeladen zu unserer Glühweinparty: HEck-Pilot
+  öffnet wieder seine Türen! Kommt vorbei und begrüßt mit uns die kält
+ eren Tage – mit hausgemachtem Glühwein\, knusprigen Leckereien\, smooth
+ er Soulmusic und einer gemütlich-festlichen Atmosphäre. Unterstützt das
+  Projekt\, verbringt einen schönen Abend mit uns und lasst uns gemeinsam 
+ anstoßen!
+LOCATION:Hechinger Straße 72
+END:VEVENT
 END:VCALENDAR
