@@ -13121,4 +13121,17 @@ DESCRIPTION:Seid herzlich eingeladen zu unserer Glühweinparty: HEck-Pilot
  anstoßen!
 LOCATION:Hechinger Straße 72
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan und auf Spendenbasis
+DTSTART:20251201T180000
+DTEND:20251201T235959Z
+DTSTAMP:20251130T204449Z
+UID:ba4d2d03-7c7a-467c-ac6e-6c26dc7b0b84
+DESCRIPTION:Morgen am 01.12. wollen wir unsere erste Huber Küche für all
+ e (Küfa) bei uns im Wohnprojekt Tante Huber in der Huberstraße veranstal
+ ten. Wir schaffen einen entspannten Raum zum Zusammenkommen mit lecker Ess
+ en und Getränken – klassisch gibt es bei der ersten Küfa eine leckere 
+ Bolognese!
+LOCATION:Huberstraße 14/16\, Gemeinschaftsraum (barrierefrei)
+END:VEVENT
 END:VCALENDAR
