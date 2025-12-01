@@ -13134,4 +13134,25 @@ DESCRIPTION:Morgen am 01.12. wollen wir unsere erste Huber Küche für all
  Bolognese!
 LOCATION:Huberstraße 14/16\, Gemeinschaftsraum (barrierefrei)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garage-Punk aus Paris
+DTSTART:20251202T220000
+DTEND:20251202T235900Z
+DTSTAMP:20251201T132032Z
+UID:b2344063-ecf4-4a29-a404-30e34a115d7e
+DESCRIPTION:HUMAN TOYS kommen zu uns in den Blauen Salon! Das Pariser Gara
+ ge-Punk-Duo sorgt für eine super Stimmung. Eintritt frei!
+LOCATION:Blauer Salon\, Münzgasse 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 18th edition of the Hardcore Winterfest is happening!
+DTSTART:20251206T170000
+DTEND:20251206T235959Z
+DTSTAMP:20251201T132032Z
+UID:64c247b8-1bb1-4fc3-8366-2e9011a3fb0f
+DESCRIPTION:On the 6th of December\, Santa won't bring any sweets but will
+  deliver awesome bands\, vegan food\, tattoos\, merch\, art\, games\, and 
+ an aftershow party!
+LOCATION:Epplehaus Tübingen
+END:VEVENT
 END:VCALENDAR
