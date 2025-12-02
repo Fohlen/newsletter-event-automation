@@ -13155,4 +13155,18 @@ DESCRIPTION:On the 6th of December\, Santa won't bring any sweets but will
  an aftershow party!
 LOCATION:Epplehaus Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ankündigung zum Vortrag mit Bildern über den Künstler Georg Fri
+ edrich Zundel zum 150. Geburtstag.
+DTSTART:20251202T190000
+DTEND:20251202T235959Z
+DTSTAMP:20251202T132310Z
+UID:46432eeb-5f18-48ee-83d5-2c26329334a7
+DESCRIPTION:Der Vortrag der Tübinger Künstlerin Sophie Linde beleuchtet 
+ Zundels künstlerische Entwicklung\, seine Beziehung zu Clara Zetkin und i
+ hre Vorstellung einer Kunst im Sinne der Befreiung. Zundels Leben und Werk
+  spiegeln grundlegende und aktuelle Fragen nach dem Verhältnis von Kunst 
+ und politischen Kämpfen wider.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, Tübingen
+END:VEVENT
 END:VCALENDAR
