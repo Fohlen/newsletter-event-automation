@@ -13169,4 +13169,16 @@ DESCRIPTION:Der Vortrag der Tübinger Künstlerin Sophie Linde beleuchtet
  und politischen Kämpfen wider.
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wöchentliches Treffen zur Abholung von Gutscheinen für Weihnacht
+ sfeiern.
+DTSTART:20251127T173000
+DTEND:20251127T190000Z
+DTSTAMP:20251202T204731Z
+UID:ae63c01d-33b2-4fb6-9c04-5764657281c2
+DESCRIPTION:Die Tauschaktion findet jeden Montag von 17.30 bis 19 Uhr in d
+ er Bachgasse 5 statt. Bringt eure Bezahlkarte mit und holt euch Gutscheine
+  von Lidl\, Rewe\, dm\, Aldi für eure Weihnachtsfeier!
+LOCATION:Bachgasse 5\, Tübingen
+END:VEVENT
 END:VCALENDAR
