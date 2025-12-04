@@ -13181,4 +13181,14 @@ DESCRIPTION:Die Tauschaktion findet jeden Montag von 17.30 bis 19 Uhr in d
   von Lidl\, Rewe\, dm\, Aldi für eure Weihnachtsfeier!
 LOCATION:Bachgasse 5\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend voller Wärme\, Musik und Solidarität.
+DTSTART:20251205T190000
+DTEND:20251205T235959Z
+DTSTAMP:20251204T132050Z
+UID:9039d886-91aa-4618-9f12-93e13f20b0b9
+DESCRIPTION:Gemeinschaftsveranstaltung mit Flohmarkt\, Küfa\, Konzerten u
+ nd DJ-Set zur Unterstützung einer BIPoC-Person im Asylverfahren.
+LOCATION:Leibnizhaus 2 - Stauffenbergstr 30
+END:VEVENT
 END:VCALENDAR
