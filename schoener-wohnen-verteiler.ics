@@ -13191,4 +13191,17 @@ DESCRIPTION:Gemeinschaftsveranstaltung mit Flohmarkt\, Küfa\, Konzerten u
  nd DJ-Set zur Unterstützung einer BIPoC-Person im Asylverfahren.
 LOCATION:Leibnizhaus 2 - Stauffenbergstr 30
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skillshare für FLINTA* Personen zur Einführung in DJ-Technik.
+DTSTART:20251211T193000
+DTEND:20251211T235959Z
+DTSTAMP:20251206T204319Z
+UID:7d93eb34-7272-4ea9-83ac-b57aef92cc5c
+DESCRIPTION:Das queerfeministische Kollektiv ultraviolett lädt FLINTA* (F
+ rauen\, Lesben\, Inter-\, Nicht-binär\, Trans und Agender) Personen zu ei
+ nem DJ-Technik-Skillshare ein. Lerne alles über DJ-Equipment\, Kabel und 
+ wie man eine Party auf die Beine stellt. Bring deinen USB-Stick mit Musik 
+ mit und experimentiere mit dem Setup!
+LOCATION:Münzgasse 7
+END:VEVENT
 END:VCALENDAR
