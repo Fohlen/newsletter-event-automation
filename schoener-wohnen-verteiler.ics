@@ -13293,4 +13293,41 @@ DESCRIPTION:Rechtspopulistische und rechtsradikale Orientierungen unter ab
  ematisiert die Gründe dafür und mögliche Gegenmaßnahmen.
 LOCATION:Tübingen\, Gemeindehaus Lamm\, Am Markt 7
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen zum Austausch und zur Planung von Aktionen.
+DTSTART:20251210T190000
+DTEND:20251210T235959Z
+DTSTAMP:20251210T132153Z
+UID:9c29c71e-48c7-430c-8ed4-4ea5d13364c4
+DESCRIPTION:Wir treffen uns\, um eigene Themen zu besprechen und Aktionen 
+ zu planen. Vorerfahrungen sind nicht notwendig! Kommt gern eine halbe Stun
+ de früher\, um uns kennenzulernen.
+LOCATION:Infoladen Schelling\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A festive and inclusive party for FLINTA* individuals featuring an
+  exciting lineup of DJs.
+DTSTART:20251201T220000
+DTEND:20251201T235959Z
+DTSTAMP:20251210T132153Z
+UID:33c22c3c-a5f1-479a-ab10-1edb06f4728e
+DESCRIPTION:Join us for the Cunty Christmas Party at Münze 7! An evening 
+ designed as a safer space for FLINTA* individuals with a lineup of talente
+ d DJs\, themed fun\, and a commitment to respect and inclusivity. Suggeste
+ d donation: €5–10.
+LOCATION:Münze 7\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of language exchange and cultural connectio
+ n!
+DTSTART:20251212T190000
+DTEND:20251212T235959Z
+DTSTAMP:20251210T132153Z
+UID:1b20046d-8a77-4996-842e-7c9f56dc7a94
+DESCRIPTION:An opportunity to speak different languages in a comfortable a
+ tmosphere\, help others learn your native language\, or simply meet people
+  from around the world. You can switch tables and engage in various langua
+ ges throughout the evening.
+LOCATION:Café Mehrrettich
+END:VEVENT
 END:VCALENDAR
