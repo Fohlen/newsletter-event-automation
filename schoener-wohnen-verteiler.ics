@@ -13330,4 +13330,63 @@ DESCRIPTION:An opportunity to speak different languages in a comfortable a
  ges throughout the evening.
 LOCATION:Café Mehrrettich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Brief fordert bessere Busanbindung zu Kliniken und Morgens
+ telle in Tübingen.
+DTSTART:20251208T090000
+DTEND:20251208T235959Z
+DTSTAMP:20251211T132251Z
+UID:01c21885-273a-4f87-bdf4-753cec422557
+DESCRIPTION:Das Bündnis T.ü.B.u.S. fordert eine Verbesserung der Busanbi
+ ndung zwischen dem Hauptbahnhof\, den Kliniken und der Morgenstelle. Über
+  500 Unterschriften wurden für den offenen Brief gesammelt. Die Forderung
+ en beinhalten höhere Taktung zu Stoßzeiten\, zusätzliche Expressverbind
+ ungen\, Rücknahme von Kürzungen bei Zubringerlinien\, sowie verlässlich
+ e Investitionen in den ÖPNV. Der offene Brief wurde an Oberbürgermeister
+  Boris Palmer\, den Gemeinderat und die Stadtwerke Tübingen gerichtet.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soziale Veranstaltung während des Weihnachtsmarkts in Tübingen.
+DTSTART:20251212T130000
+DTEND:20251212T210000Z
+DTSTAMP:20251211T132251Z
+UID:a4457af9-a128-43a2-b2f9-6a4083d4e438
+DESCRIPTION:Am 12. Dezember 2025 bieten wir im Parteibüro der Linkspartei
+  eine Küfa an\, um Menschen mit geringem Einkommen die Teilnahme am Weihn
+ achtsmarkt zu erleichtern. Ab 13 Uhr gibt es Kaffee\, Kuchen und Punsch\, 
+ sowie ab 15 Uhr warmes Essen – alles auf Spendenbasis. Dosenwerfen für 
+ Kinder wird ebenfalls angeboten. Kommt vorbei und wärmt euch auf!
+LOCATION:Parteibüro Die Linke Tübingen\, Metzgergasse 8\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterwummern in der Hegel7
+DTSTART:20251213T220000
+DTEND:20251213T235959Z
+DTSTAMP:20251211T132251Z
+UID:0119e19f-5dad-45cc-9bff-1294162179a2
+DESCRIPTION:Es ist wieder soweit\, am heiligen 13.12. findet in der Hegel7
+  das Winterwummern statt. Die Tore öffnen ab 22Uhr und es wird ordentlich
+  Funkig\, Schummrig\, Wummrig und Bissig Bassig. Von Oldschooligen Vinyl-T
+ unes bis zu flimmerndem Live-Techno wird einiges zu bieten sein\, dafür h
+ eizen Mariculix mit Funk/Disco und Jane Doom mit House erstmal hörbar die
+  Bude ein\, bis die Techno-Beats von SC Hell und dmon das Fundament zum Wa
+ ckeln bringen\, so dass sich mit minimal/house von Schemm im Anschluss die
+  Mauern wieder einp-hegeln und alle gemeinsam ausbouncen können. Come wit
+ h friends :)
+LOCATION:Hegel7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helfer gesucht für unseren Stand auf dem Weihnachtsmarkt.
+DTSTART:20251201T120000
+DTEND:20251201T140000Z
+DTSTAMP:20251211T132251Z
+UID:8a925da8-b30e-4cfe-898a-f28b8b125b97
+DESCRIPTION:Wir suchen Unterstützung für unseren Stand auf dem Weihnacht
+ smarkt\, um Waffeln\, Punsch\, Glühwein und Schupfnudeln für einen guten
+  Zweck zu verkaufen. Vorrangig haben wir noch Plätze für Sonntag von 12:
+ 00-14:00 und 17:00-19:30. Auch Freitag Vormittag sind noch Plätze frei.
+LOCATION:BüroAktiv Tübingen e.V.\, Bei der Fruchtschranne 6\, 72070 Tüb
+ ingen
+END:VEVENT
 END:VCALENDAR
