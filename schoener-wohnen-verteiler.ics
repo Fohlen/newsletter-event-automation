@@ -13389,4 +13389,26 @@ DESCRIPTION:Wir suchen Unterstützung für unseren Stand auf dem Weihnacht
 LOCATION:BüroAktiv Tübingen e.V.\, Bei der Fruchtschranne 6\, 72070 Tüb
  ingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Konzert von SHAM69 mit Tim V.
+DTSTART:20251215T190000
+DTEND:20251215T235959Z
+DTSTAMP:20251215T132411Z
+UID:27f173c8-6d18-462e-b594-f4c5533b46b8
+DESCRIPTION:Erlebt eine Nacht voller Punkrock-Geschichte mit der Band SHAM
+ 69. Einlass um 19:00 Uhr\, Beginn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrrad-Protest für bessere Radinfrastruktur
+DTSTART:20251219T180000
+DTEND:20251219T235959Z
+DTSTAMP:20251215T132411Z
+UID:678c0700-1d81-409e-916d-b54daba10b8d
+DESCRIPTION:Wir treffen uns wie immer um 18:00 an der Uni-Bib\, Wilhelmstr
+ aße 32. Es geht kreuz und quer durch Tübingen\, auch wieder durch den Sc
+ hlossberg-Autotunnel! Im Anschluss ist für Glühwein\, Punsch und Knabber
+ ein gesorgt. Bringt bitte eigene Tassen mit!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
 END:VCALENDAR
