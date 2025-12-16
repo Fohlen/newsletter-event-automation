@@ -13411,4 +13411,16 @@ DESCRIPTION:Wir treffen uns wie immer um 18:00 an der Uni-Bib\, Wilhelmstr
  ein gesorgt. Bringt bitte eigene Tassen mit!
 LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öffnung der Schelling-Hausbar mit winterlichen Getränken
+DTSTART:20251101T200000
+DTEND:20251101T230000Z
+DTSTAMP:20251216T132221Z
+UID:d6f0af3a-a0c0-481d-bd2c-b96d49f7eaa6
+DESCRIPTION:Am Mittwoch\, findet in den Katakomben der Schellingstr. 6 die
+  Schelling-Hausbar statt. Neben Kaltgetränken werden selbstgebrauter wint
+ erlicher Glühwein und Punsch serviert. Erleben Sie ausgewählte Klänge u
+ nd Kerzenschein. Wir freuen uns auf Ihr Kommen!
+LOCATION:Schellingstr. 6\, Katakomben
+END:VEVENT
 END:VCALENDAR
