@@ -13423,4 +13423,17 @@ DESCRIPTION:Am Mittwoch\, findet in den Katakomben der Schellingstr. 6 die
  nd Kerzenschein. Wir freuen uns auf Ihr Kommen!
 LOCATION:Schellingstr. 6\, Katakomben
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wintersonnwendfeuer auf der Salzwiese.
+DTSTART:20251221T161500
+DTEND:20251221T200000Z
+DTSTAMP:20251217T132015Z
+UID:3810ec98-3d15-43f4-acaa-ed85b081e5d7
+DESCRIPTION:Das Wintersonnwendfeuer findet auf der Salzwiese statt und wir
+ d mit dem Sonnenuntergang gezündet. Geplant ist eine Zündung zwischen 16
+ :15 und 17:00 Uhr. Es wird Bier\, Säfte\, Glühwein\, Kinderpunsch\, Gem
+ üseeintopf\, Gulasch und rote Würste zum selber Grillen verkauft. Unters
+ tützung für zukünftige Veranstaltungen wird benötigt.
+LOCATION:Salzwiese
+END:VEVENT
 END:VCALENDAR
