@@ -13436,4 +13436,15 @@ DESCRIPTION:Das Wintersonnwendfeuer findet auf der Salzwiese statt und wir
  tützung für zukünftige Veranstaltungen wird benötigt.
 LOCATION:Salzwiese
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarität mit allen Gefangenen
+DTSTART:20251231T170000
+DTEND:20251231T190000Z
+DTSTAMP:20251226T204518Z
+UID:0fa25ed9-86b4-4cb9-b105-1be11e742fd8
+DESCRIPTION:Kommt mit uns an Silvester zur JVA Rottenburg! Während drauß
+ en gefeiert wird\, zeigen wir den Gefangenen\, dass sie nicht alleine sind
+ . Für eine Welt ohne Knäste!
+LOCATION:JVA Rottenburg/Burgäckerstr.
+END:VEVENT
 END:VCALENDAR
