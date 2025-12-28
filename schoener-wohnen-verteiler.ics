@@ -13447,4 +13447,16 @@ DESCRIPTION:Kommt mit uns an Silvester zur JVA Rottenburg! Während drauß
  . Für eine Welt ohne Knäste!
 LOCATION:JVA Rottenburg/Burgäckerstr.
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tauschen von Bezahlkarten während der Feiertage.
+DTSTART:20251218T173000
+DTEND:20251218T190000Z
+DTSTAMP:20251228T204642Z
+UID:29c9a4b5-0367-4e8a-a08f-3632cf6e70b4
+DESCRIPTION:Die Tauschstation für Bezahlkarten bleibt während der Feiert
+ age geöffnet. Tauschen findet jeden Montag zwischen 17:30 und 19:00 Uhr i
+ n der Bachgasse 5 statt. Weitere Informationen auf der Website und Instagr
+ am.
+LOCATION:Bachgasse 5\, Tübingen
+END:VEVENT
 END:VCALENDAR
