@@ -13459,4 +13459,41 @@ DESCRIPTION:Die Tauschstation für Bezahlkarten bleibt während der Feiert
  am.
 LOCATION:Bachgasse 5\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag mit Mitarbeitenden der Gedenkstätte
+DTSTART:20260107T190000
+DTEND:20260107T235959Z
+DTSTAMP:20260107T132324Z
+UID:163bb87e-3c65-4303-bc34-0d939605fc07
+DESCRIPTION:Eine Veranstaltung über die Geschichte von Grafeneck\, einen 
+ Ort der nationalsozialistischen Gewaltgeschichte\, präsentiert von Mitarb
+ eitenden der Gedenkstätte. Es wird Einblicke in die Geschichte\, Kontinui
+ täten und verschiedene Perspektiven des Ortes geben.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz und Party zur Unterstützung der Protestbewegung gegen Repres
+ sion.
+DTSTART:20260117T200000
+DTEND:20260117T235959Z
+DTSTAMP:20260107T132324Z
+UID:dcab5957-9812-422c-8ecf-1b7e5bcfe67c
+DESCRIPTION:Wir laden ein zum Protest-Event am 17. Januar ab 20 Uhr in die
+  Lu. Gemeinsam quizzen und dann gegen die Repression feiern! Musik von Dog
+ ma F10 und weiteren Künstlern. Cocktails und Soli-Schlauchis erhältlich!
+LOCATION:Lu\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrskneipe von Input Tübingen
+DTSTART:20260108T190000
+DTEND:20260108T235959Z
+DTSTAMP:20260107T132324Z
+UID:b0c1c4df-1ba7-4f37-a3d1-4a29e6b43b64
+DESCRIPTION:Das Jahr ist noch jung und „Input Tübingen“ lädt euch am
+  8. Januar 2026 ab 19 Uhr ins Epple zur Neujahrskneipe ein. Es gibt Glühw
+ ein und Punsch. Am Epple-Tresen könnt ihr politische Pläne schmieden\, 
+ über Boris Palmer lästern oder einfach nur in aller Ruhe den Abend auskl
+ ingen lassen.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
 END:VCALENDAR
