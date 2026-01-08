@@ -13496,4 +13496,50 @@ DESCRIPTION:Das Jahr ist noch jung und „Input Tübingen“ lädt euch am
  ingen lassen.
 LOCATION:Epplehaus Tübingen\, Karlstraße 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zu den Aktionswochen zum Holocaust Gedenktag mit Vorträ
+ gen und Workshops.
+DTSTART:20260119T170000
+DTEND:20260119T235959Z
+DTSTAMP:20260108T132410Z
+UID:32789288-ca72-42e5-8a0a-164fd719fe56
+DESCRIPTION:Die Studierendenschaft Tübingen lädt zu den Aktionswochen zu
+ m Holocaust Gedenktag ein. Vom 19.01. bis zum 31.01. erwarten euch 13 Vort
+ räge und Workshops rund um die Shoah\, Erinnerungskultur und Antisemitism
+ us. Details zu den Veranstaltungen sind auf unserer Website zu finden.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannah Helbig thematisiert die Funktionsweisen von Macht und Hiera
+ rchie am Theater.
+DTSTART:20260111T190000
+DTEND:20260111T235959Z
+DTSTAMP:20260108T132410Z
+UID:c6470b34-d528-4e92-9c9c-bdc7d106e8b5
+DESCRIPTION:Ausgehend von eigenen Erfahrungen als Regiehospitantin themati
+ siert die Lecture Performance die Funktionsweisen von Macht und Hierarchie
+  am Theater aus einer radikal persönlichen Perspektive. Mithilfe von Tage
+ bucheinträgen und Sprachnachrichten an ihre beste Freundin erinnert sich 
+ die Performerin an ihre Zeit an einer der bekanntesten deutschen Bühnen. 
+ Die individuelle Geschichte verweist auf etwas Größeres\, auf ein System
+ : Wieso sind im institutionalisierten Theaterbetrieb bestimmte autoritäre
+  Praktiken und Dynamiken völlig akzeptiert? Wieso werden auf den Bühnen 
+ Fragen von Emanzipation und Pluralismus verhandelt\, während es im Produk
+ tionsprozess oft ganz anders aussieht?
+LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Prof. Dr. Michael Grünberger über soziale Barrieren 
+ und Bildungsungleichheit.
+DTSTART:20260109T181500
+DTEND:20260109T235959Z
+DTSTAMP:20260108T132410Z
+UID:619643e5-2eb6-4121-8558-0080147148c4
+DESCRIPTION:Sozialer Aufstieg bleibt in Deutschland für viele Menschen mi
+ t erheblichen Hürden verbunden. Professor Grünberger wird von seiner Leb
+ ensgeschichte erzählen und diskutieren\, welche Verantwortung Hochschulen
+  und Bildungsinstitutionen tragen\, um mehr Chancengerechtigkeit zu ermög
+ lichen.
+LOCATION:Alte Aula\, Münzgasse 30\, Institut für Erziehungswissenschaft
+END:VEVENT
 END:VCALENDAR
