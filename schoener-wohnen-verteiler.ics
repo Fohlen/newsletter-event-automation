@@ -13542,4 +13542,56 @@ DESCRIPTION:Sozialer Aufstieg bleibt in Deutschland für viele Menschen mi
  lichen.
 LOCATION:Alte Aula\, Münzgasse 30\, Institut für Erziehungswissenschaft
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suche nach einem Bufdi für das Jugendhaus Epple.
+DTSTART:20260330T000000
+DTEND:20260330T235959Z
+DTSTAMP:20260110T204603Z
+UID:52666456-4d69-4221-8cb3-8c1bcd5bc03e
+DESCRIPTION:Das Epplehaus in Tübingen vergibt im Zeitraum vom 30.03. bis 
+ 30.09.2026 eine Bufdi-Stelle. Wir erwarten Eigeninitiative\, Selbstständi
+ gkeit\, stabile Positionen gegen Menschenfeindlichkeit und die Bereitschaf
+ t zur Teilnahme an Diskussionen. Wir bieten eine gelebte Basisdemokratie\,
+  eine Entlohnung von 500 Euro pro Monat\, kostenlose Getränke und die Mö
+ glichkeit\, neue Dinge auszuprobieren.
+LOCATION:Epplehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Soli-Konzert zugunsten des Ract!festivals.
+DTSTART:20260110T200000
+DTEND:20260110T235959Z
+DTSTAMP:20260110T204603Z
+UID:b4243780-57d1-4d32-aebe-73f9e6d426b2
+DESCRIPTION:Kommt zum Soli-Konzert mit Suit Up! Am Samstag\, dem 10. Janua
+ r\, ab 20 Uhr im Café Haag. Der Eintritt erfolgt gegen Spende\, um das Ra
+ ct!festival zu unterstützen. Ein Hut wird rumgehen\, und der Erlös geht 
+ an Suit Up!. Wir freuen uns auf euer zahlreiches Erscheinen! Kommt vorbei 
+ und bringt gute Laune mit!
+LOCATION:Café Haag\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrraddemo durch Tübingen
+DTSTART:20260116T180000
+DTEND:20260116T235959Z
+DTSTAMP:20260110T204603Z
+UID:d18d122e-5c9a-4a3d-b913-651cbdd6af3c
+DESCRIPTION:Wir treffen uns wie gewohnt um 18:00 an der Uni-Bib\, Wilhelms
+ traße 32. Es geht kreuz und quer durch Tübingen\, auch durch den Schloss
+ berg-Autotunnel! Es gibt anschließend Glühwein\, Punsch und was zu knabb
+ ern\, bringt bitte Tassen mit :) Lasst uns gemeinsam ein Zeichen für eine
+  nachhaltige und fahrradfreundliche Stadt setzen. Jede Teilnahme zählt un
+ d macht unseren Protest für bessere Radinfrastruktur sichtbarer!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung zum Gedenken an die Befreiung von Ausschwitz.
+DTSTART:20260127T180000
+DTEND:20260127T210000Z
+DTSTAMP:20260110T204603Z
+UID:a8d8ab7d-4b4f-44ed-89cb-b1ff337b4c76
+DESCRIPTION:Anlässlich des Gedenktags zur Befreiung des Vernichtungslager
+ s Ausschwitzt zeigen wir einen Film über den organisierten jüdischen Wid
+ erstand in Polen.
+LOCATION:Lokales Kino\, Beispielstraße 1\, Stadt
+END:VEVENT
 END:VCALENDAR
