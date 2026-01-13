@@ -13617,4 +13617,40 @@ DESCRIPTION:KAI & FUNKY von TON STEINE SCHERBEN feat. BIRTE VOLTA kommen a
   Uhr\, Beginn um 22:00 Uhr. Eintritt frei!
 LOCATION:Blaue Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techno Live Act aus Mannheim
+DTSTART:20260116T220000
+DTEND:20260116T235959Z
+DTSTAMP:20260113T205045Z
+UID:a76a51a3-90cb-4a2f-bf23-9914463af02d
+DESCRIPTION:Angie Taylor\, eine temperamentvolle Import-Künstlerin aus De
+ utschland\, bringt ihren einzigartigen Stil\, intensiven Techno und ihre g
+ renzenlose Energie in Clubs und auf Festivals weltweit! Einlass um 19:00 U
+ hr\, Beginn um 22:00 Uhr\, Eintritt frei!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Konzert mit den Bands MØRF und HIDEBOUND GARDEN.
+DTSTART:20260116T200000
+DTEND:20260116T235959Z
+DTSTAMP:20260113T205045Z
+UID:5b698d54-9c4a-4485-85c6-98565d36561d
+DESCRIPTION:Erlebt ein mitreißendes Konzert mit organischen Blues Klänge
+ n und druckvollem Stonerrock. Eintritt gegen Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aufführung eines Tanztheater Stücks im Fichtehaus Tübingen
+DTSTART:20260125T180000
+DTEND:20260125T200000Z
+DTSTAMP:20260113T205045Z
+UID:28f4a668-9f53-4103-92f7-aa9ee24000c7
+DESCRIPTION:Leonie Günther und Zoe Diuna Frank laden herzlich zu ihrer Ta
+ nzperformance ein. Sie haben gemeinsam mit 13 Menschen eine Tanzperformanc
+ e entwickelt und werden dieses am 25. Januar 2026 um 18:00 im Fichtehaus T
+ übingen aufführen. BEING GAZE ist eine Auseinandersetzung mit dem Blick 
+ auf weiblich gelesene Körper und (Um)-Wege in die Schwesternschaft. Eine 
+ Ode an den Atem\, die Wut und den Aufbruch. Eintritt auf Spendenbasis.
+LOCATION:Fichtehaus Tübingen\, Herrenbergstr. 40\, Fichtesaal
+END:VEVENT
 END:VCALENDAR
