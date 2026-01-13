@@ -13594,4 +13594,27 @@ DESCRIPTION:Anlässlich des Gedenktags zur Befreiung des Vernichtungslager
  erstand in Polen.
 LOCATION:Lokales Kino\, Beispielstraße 1\, Stadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung und Diskussion mit Regisseur Hercli Bundi.
+DTSTART:20260115T200000
+DTEND:20260115T235959Z
+DTSTAMP:20260113T132504Z
+UID:58165194-01dc-4e5a-8325-34f9d6495c0e
+DESCRIPTION:Eine Reise in das fragile Universum des Geldes\, die zwiespäl
+ tige Macht des Geldes wird durch verschiedene Perspektiven\, darunter ein 
+ Bankräuber und ein Kryptoexperte\, beleuchtet. Diskussion über die Frage
+ : Dienen wir dem Geld oder dient es uns?
+LOCATION:Club Voltaire\, Haaggasse 26b\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutschrock Legenden aus Berlin im Blauen Salon!
+DTSTART:20260115T190000
+DTEND:20260115T230000Z
+DTSTAMP:20260113T132504Z
+UID:cbfc1926-020e-489e-a4f2-c56e5acd9c25
+DESCRIPTION:KAI & FUNKY von TON STEINE SCHERBEN feat. BIRTE VOLTA kommen a
+ m Donnerstag\, dem 15. Januar zu uns in den Blauen Salon! Einlass um 19:00
+  Uhr\, Beginn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
