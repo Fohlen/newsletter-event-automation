@@ -13653,4 +13653,29 @@ DESCRIPTION:Leonie Günther und Zoe Diuna Frank laden herzlich zu ihrer Ta
  Ode an den Atem\, die Wut und den Aufbruch. Eintritt auf Spendenbasis.
 LOCATION:Fichtehaus Tübingen\, Herrenbergstr. 40\, Fichtesaal
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening night of the Schelling Hausbar with a special DJ and reque
+ st concert.
+DTSTART:20260114T200000
+DTEND:20260114T000000Z
+DTSTAMP:20260114T132501Z
+UID:2162ce9d-6ef8-46e5-9fcd-55a4286e3b99
+DESCRIPTION:Join us for an exciting evening at Schelling Hausbar! A DJ is 
+ not a Juke Box\, but our request bar is! Everyone can make 3 song requests
+ . Enjoy chilled drinks with and without alcohol\, table football\, and a c
+ ozy atmosphere.
+LOCATION:Schelling Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einblicke in die wissenschaftliche Forschung
+DTSTART:20260123T193000
+DTEND:20260123T210000Z
+DTSTAMP:20260114T132501Z
+UID:a7f2a637-cdb1-4b62-9a74-fe7b61f92d13
+DESCRIPTION:Die Veranstaltung beleuchtet die Probleme auf dem Wohnungsmark
+ t in Baden-Württemberg\, beleuchtet die Forschungsergebnisse von Dr. Joha
+ nna Betz und diskutiert mögliche Lösungen zur Verbesserung der Wohnsitua
+ tion.
+LOCATION:Café Hafenblick\, Hechinger Str. 35 (4-Häuser-Projekt)
+END:VEVENT
 END:VCALENDAR
