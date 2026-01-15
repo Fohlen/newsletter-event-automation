@@ -13678,4 +13678,16 @@ DESCRIPTION:Die Veranstaltung beleuchtet die Probleme auf dem Wohnungsmark
  tion.
 LOCATION:Café Hafenblick\, Hechinger Str. 35 (4-Häuser-Projekt)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein kurzer Input über das WEF gefolgt von einem spannenden Quiz.
+DTSTART:20260117T200000
+DTEND:20260117T235959Z
+DTSTAMP:20260115T132344Z
+UID:54dd45f0-03df-4b3d-9a07-7dae65ac35ee
+DESCRIPTION:Diskussion über das WEF: Was ist das WEF eigentlich? Wer nimm
+ t daran teil? Und setzt sich das WEF wirklich für eine „bessere Welt“
+  ein? Angesichts der absurden Ereignisse in Davos während des WEF lädt d
+ as Quiz dazu ein\, mehr darüber zu erfahren und zu diskutieren.
+LOCATION:Lu15 (Ludwigstraße 15)
+END:VEVENT
 END:VCALENDAR
