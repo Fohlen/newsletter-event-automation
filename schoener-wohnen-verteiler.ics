@@ -13690,4 +13690,25 @@ DESCRIPTION:Diskussion über das WEF: Was ist das WEF eigentlich? Wer nimm
  as Quiz dazu ein\, mehr darüber zu erfahren und zu diskutieren.
 LOCATION:Lu15 (Ludwigstraße 15)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobilisierung gegen Kürzungen in Tübingen
+DTSTART:20260124T150000
+DTEND:20260124T235959Z
+DTSTAMP:20260116T132207Z
+UID:416a9482-b148-42bc-ba1f-4bab948725cf
+DESCRIPTION:Wir wehren uns gegen die Politik der Kürzungen und kämpfen f
+ ür unsere Interessen. Lasst uns ein Zeichen setzen!
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen zur Diskussion und Aktion gegen die Klimakrise und Kapital
+ ismus.
+DTSTART:20260122T190000
+DTEND:20260122T235959Z
+DTSTAMP:20260116T132207Z
+UID:f532484e-cec4-4883-bdc5-bc03b489d77c
+DESCRIPTION:Wir kämpfen für eine klimagerechte Welt jenseits des Kapital
+ ismus. Offenes Treffen für Interessierte\, um aktiv zu werden.
+LOCATION:Nauklerstraße 50\, Tübingen
+END:VEVENT
 END:VCALENDAR
