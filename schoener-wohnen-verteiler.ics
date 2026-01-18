@@ -13711,4 +13711,16 @@ DESCRIPTION:Wir kämpfen für eine klimagerechte Welt jenseits des Kapital
  ismus. Offenes Treffen für Interessierte\, um aktiv zu werden.
 LOCATION:Nauklerstraße 50\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zur politischen Situation.
+DTSTART:20261115T180000Z
+DTEND:20261115T200000Z
+DTSTAMP:20260118T204613Z
+UID:80d10305-bbb8-45a7-8cd8-dcefa215ad89
+DESCRIPTION:Die Veranstaltung wird einen Überblick über die aktuelle pol
+ itische Lage an der Grenze zwischen Polen und Belarus geben. Experten werd
+ en ihre Einschätzungen und Analysen teilen\, gefolgt von einer Diskussion
+ srunde.
+LOCATION:Konferenzraum\, Stadtverwaltung
+END:VEVENT
 END:VCALENDAR
