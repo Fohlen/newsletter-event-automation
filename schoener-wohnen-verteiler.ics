@@ -13748,4 +13748,26 @@ DESCRIPTION:Die Revolution in Rojava wird angegriffen. Djihadisten kämpfe
  helfen und ihren Stimmen Gehör zu verschaffen.
 LOCATION:Holzmarkt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A spooky and wonderful nightmare/dreamy experience on two dance fl
+ oors filled with electronic dance music.
+DTSTART:20260124T220000
+DTEND:20260124T235959Z
+DTSTAMP:20260122T205321Z
+UID:e19222c4-3be7-4484-9060-3e6534ea4590
+DESCRIPTION:Dress like a nightmare or as a beautiful dream and enjoy this 
+ night with us. We can’t wait to see you!
+LOCATION:Geissweg 17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council: Achtsames Sprechen und Zuhören
+DTSTART:20260129T183000
+DTEND:20260129T210000Z
+DTSTAMP:20260122T205321Z
+UID:4c4e146e-e191-4ed4-98ab-71aa52b9d512
+DESCRIPTION:Gemeinschaft erleben\, Geschichten teilen und einander zuhöre
+ n in einem sicheren Raum. Einführung in die Council-Methode.
+LOCATION:Bunter Buchladen (ehem. Frauen*buchladen Thalestris)\, Bursagasse
+  2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
