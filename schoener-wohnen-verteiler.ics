@@ -13723,4 +13723,29 @@ DESCRIPTION:Die Veranstaltung wird einen Überblick über die aktuelle pol
  srunde.
 LOCATION:Konferenzraum\, Stadtverwaltung
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Konzert mit Uli Sailor und Support von Dave Collide.
+DTSTART:20260122T190000
+DTEND:20260122T230000Z
+DTSTAMP:20260122T132853Z
+UID:b9650ea2-d933-4ea6-995a-f9e5c7856cd7
+DESCRIPTION:Uli Sailor beweist seit über 30 Jahren\, dass Punkrock keine 
+ Stromgitarren braucht\, um Köpfe und Herzen in Bewegung zu setzen. Mit se
+ inem „Punkrock Piano“ verwandelt er jede Bühne in einen Ort zwischen 
+ Abriss und Gänsehaut. Unterstützung kommt von Dave Collide\, einem Acous
+ tic Punk Singer und Songwriter aus Stuttgart.
+LOCATION:Blaue Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobilisierung zur Unterstützung der Revolution in Rojava
+DTSTART:20260125T160000
+DTEND:20260125T235959Z
+DTSTAMP:20260122T132853Z
+UID:de98e8b6-984d-48df-b4bb-72c7a3bc0ad0
+DESCRIPTION:Die Revolution in Rojava wird angegriffen. Djihadisten kämpfe
+ n im Namen des Jolani-Regimes und der Türkei\, um die kurdische Selbstver
+ waltung zu zerschlagen. Es ist unsere Pflicht\, den Menschen in Rojava zu 
+ helfen und ihren Stimmen Gehör zu verschaffen.
+LOCATION:Holzmarkt
+END:VEVENT
 END:VCALENDAR
