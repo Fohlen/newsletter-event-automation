@@ -13770,4 +13770,17 @@ DESCRIPTION:Gemeinschaft erleben\, Geschichten teilen und einander zuhöre
 LOCATION:Bunter Buchladen (ehem. Frauen*buchladen Thalestris)\, Bursagasse
   2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening of the film 'Commander Aryan' with special drinks and ve
+ gan waffles.
+DTSTART:20260128T200000
+DTEND:20260128T235959Z
+DTSTAMP:20260126T132739Z
+UID:966c6764-a9f4-47db-aea9-af22b5f46264
+DESCRIPTION:Join us for a screening of the movie 'Commander Aryan' directe
+ d by Alba Sotorra\, featuring YPJ commander Arian's fight in Kobanê. Enjo
+ y vegan waffles and a special cocktail\, and support Heyva Sor a Kurdistan
+ e with the proceeds. The bar will be smoke-free until 10 p.m.
+LOCATION:Schelling\, [insert address if necessary]
+END:VEVENT
 END:VCALENDAR
