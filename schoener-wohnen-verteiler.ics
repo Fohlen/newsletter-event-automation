@@ -13783,4 +13783,29 @@ DESCRIPTION:Join us for a screening of the movie 'Commander Aryan' directe
  e with the proceeds. The bar will be smoke-free until 10 p.m.
 LOCATION:Schelling\, [insert address if necessary]
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitglieder treffen sich\, um demokratie-freundliche digitale Alter
+ nativen zu lernen\, diesmal über den Messenger Signal.
+DTSTART:20260201T150000
+DTEND:20260201T163000Z
+DTSTAMP:20260128T133048Z
+UID:fa5d184a-0b35-43ce-9fcf-2888191388da
+DESCRIPTION:Normalerweise jeden ersten Sonntag im Monat stattfindend\, die
+ smal in Tübingen. Die Veranstaltung findet im KI-Makerspace statt. Die Te
+ ilnehmer werden die Vorteile von Signal im Vergleich zu WhatsApp entdecken
+  und darüber diskutieren\, wie man digitale Unabhängigkeit fördern kann
+ .
+LOCATION:KI-Makerspace\, Wöhrdstr. 25\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über die drohende US-Übernahme von Grönland.
+DTSTART:20260203T190000
+DTEND:20260203T235959Z
+DTSTAMP:20260128T133048Z
+UID:4b98c321-6e1d-4316-a272-025a30de1e7f
+DESCRIPTION:Ben Müller präsentiert seine Analyse zur drohenden US-Übern
+ ahme Grönlands und beleuchtet die geostrategischen Hintergründe sowie di
+ e internationalen Beziehungen unter Trump.
+LOCATION:Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
+END:VEVENT
 END:VCALENDAR
