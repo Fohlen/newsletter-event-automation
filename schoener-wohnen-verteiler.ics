@@ -13808,4 +13808,45 @@ DESCRIPTION:Ben Müller präsentiert seine Analyse zur drohenden US-Übern
  e internationalen Beziehungen unter Trump.
 LOCATION:Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zum Thema Beziehungsgewalt mit Fokus auf Gesundheit.
+DTSTART:20260203T180000
+DTEND:20260203T235959Z
+DTSTAMP:20260130T133721Z
+UID:f13f08c0-5874-489e-ae13-15a2e73b55f4
+DESCRIPTION:Im Jahr 2024 wurden mehr als 170.000 Fälle von Partnerschafts
+ gewalt registriert. Etwa 80% der Betroffenen sind Frauen. 132 Femi(ni)zide
+  gab es in 2024. Beziehungsgewalt ist ein wesentlicher gesundheitlicher Ri
+ sikofaktor. In diesem Workshop sprechen wir über Hintergründe und Zahlen
+ \, aber auch Unterstützungsmöglichkeiten. In Übungen wollen wir gemeins
+ am lernen\, mit Betroffenen besser umgehen zu können und Raum für Austau
+ sch schaffen.
+LOCATION:DocLab (L&L 1.202)\, Kliniken Berg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag mit Anne Roth über digitale Gewalt\, digitale Teilhab
+ e und Digitalpolitik.
+DTSTART:20260210T200000
+DTEND:20260210T210000Z
+DTSTAMP:20260130T133721Z
+UID:4d776c7e-8706-4ea9-a7b1-d47c048e8ee6
+DESCRIPTION:Der Vortrag gibt einen Überblick über Formen\, Ausmaß und p
+ olitische Reaktionen zur digitalen Gewalt\, die in Partnerschaften und and
+ eren sozialen Nahräumen stattfindet. Anne Roth ist Expertin für Digitalp
+ olitik und spricht über die Behandlung von digitaler Gewalt und den notwe
+ ndigen Schutz von Nutzern im Netz.
+LOCATION:franz.K (Reutlingen Hbf)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag mit Lucius Teidelbaum
+DTSTART:20260204T190000
+DTEND:20260204T235959Z
+DTSTAMP:20260130T133721Z
+UID:6e3d30a1-fdbe-450a-ac71-d19e4b6f1a78
+DESCRIPTION:Der Vortrag behandelt die Normalisierung und Radikalisierung d
+ er AfD in Baden-Württemberg\, die Professionalisierung der Partei und der
+ en Strategien im Wahlkampf. Im Anschluss gibt es Raum für Diskussion und 
+ Fragen.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
