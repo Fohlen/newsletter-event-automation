@@ -13863,4 +13863,32 @@ DESCRIPTION:LOBSTERBOMB ist eine Berliner Indie-Punk-Band\, die laut\, roh
  \, Eintritt frei!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Buchbesprechung über "Das Mädchen Franz" und "Ein Zim
+ mer für sich allein".
+DTSTART:20260203T180000
+DTEND:20260203T190000Z
+DTSTAMP:20260203T134509Z
+UID:8cd42573-b557-4662-b799-dd98abcc2f39
+DESCRIPTION:Du liest gerne und hast Lust\, dich mit anderen über Bücher 
+ auszutauschen? Dann komm zu unserem Lesekreis! Gemeinsam sprechen wir übe
+ r "Das Mädchen Franz" von Sabine Neumann (3.2.) und "Ein Zimmer für sich
+  allein" von Virginia Woolf (17.2.). Vielleicht entdecken wir dabei Neues 
+ – oder erinnern uns an Gedanken\, die uns schon einmal begleitet haben. 
+ So oder so: Hier ist ein Ort\, an dem wir unsere Freude am Lesen teilen k
+ önnen. Teilnahme auf Spendenbasis. Wenn der Wunsch besteht\, werden wir a
+ uch einzelne Passagen gemeinsam lesen.
+LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration zur Solidarität mit Menschen in Abschiebehaft.
+DTSTART:20260207T120000
+DTEND:20260207T235959Z
+DTSTAMP:20260203T134509Z
+UID:a62892ff-a1da-455c-9a7c-b47b5252377a
+DESCRIPTION:Wir rufen zu einer Kundgebung in Tübingen auf\, um gegen die 
+ Bedingungen in Abschiebehaft zu protestieren und unsere Solidarität mit B
+ etroffenen zu zeigen.
+LOCATION:Krumme Brücke\, Tübingen
+END:VEVENT
 END:VCALENDAR
