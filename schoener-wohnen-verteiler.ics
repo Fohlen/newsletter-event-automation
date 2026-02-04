@@ -13891,4 +13891,15 @@ DESCRIPTION:Wir rufen zu einer Kundgebung in Tübingen auf\, um gegen die
  etroffenen zu zeigen.
 LOCATION:Krumme Brücke\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a baking event to save food and have fun!
+DTSTART:20260214T130000
+DTEND:20260214T160000Z
+DTSTAMP:20260204T134433Z
+UID:95ead2e2-ba56-4ac2-8032-940c1ebc2ecd
+DESCRIPTION:We will be baking sweet and sweet-savory cookies and special b
+ read creations using spent grain (a by-product of beer brewing). A great o
+ pportunity to make delicious treats and take some home!
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
