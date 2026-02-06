@@ -13902,4 +13902,18 @@ DESCRIPTION:We will be baking sweet and sweet-savory cookies and special b
  pportunity to make delicious treats and take some home!
 LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarität mit allen Menschen in Abschiebehaft – Freiheit für
+  alle!
+DTSTART:20260207T120000
+DTEND:20260207T235959Z
+DTSTAMP:20260206T134327Z
+UID:b7d68373-8717-4e98-bda0-5f2ea058f0c7
+DESCRIPTION:Wir rufen zu einer Kundgebung in Tübingen auf\, um gegen die 
+ menschenrechtswidrigen Zustände in Abschiebehaft zu protestieren. Treffpu
+ nkt: Krumme Brücke\, am 07.02. um 12 Uhr. Unterstützung durch Kaffeerös
+ terei SUEDHANG und Spendenaktion für Projekte\, die Menschen in Abschiebe
+ haft helfen.
+LOCATION:Krumme Brücke\, Tübingen
+END:VEVENT
 END:VCALENDAR
