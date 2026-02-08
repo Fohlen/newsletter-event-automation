@@ -13916,4 +13916,15 @@ DESCRIPTION:Wir rufen zu einer Kundgebung in Tübingen auf\, um gegen die
  haft helfen.
 LOCATION:Krumme Brücke\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly community gathering for food and solidarity
+DTSTART:20260210T180000
+DTEND:20260210T210000Z
+DTSTAMP:20260208T205448Z
+UID:7d387f74-4660-4d17-87fe-a6ccf38f9675
+DESCRIPTION:Join us for our weekly Küfa gathering at Siggi11! Enjoy food\
+ , connect with others\, and build solidarity in a cozy space. Come as you 
+ are and bring your appetite!
+LOCATION:Siggi11 garden
+END:VEVENT
 END:VCALENDAR
