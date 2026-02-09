@@ -13927,4 +13927,33 @@ DESCRIPTION:Join us for our weekly Küfa gathering at Siggi11! Enjoy food\
  are and bring your appetite!
 LOCATION:Siggi11 garden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Beisammensein mit Getränken\, Musik und Snacks auf Sp
+ endenbasis.
+DTSTART:20260209T190000
+DTEND:20260209T230000Z
+DTSTAMP:20260209T135516Z
+UID:607cee0c-2bd5-4f96-8a3c-35c71ea93495
+DESCRIPTION:Nach längerer Pause findet am Montag die Österbar im LH3 sta
+ tt. Es wird eine Soli-Spendensammlung für die Strike WEF Repressionskoste
+ n geben. Infomaterial\, Soli-Merch und leckere Soli-Waffeln werden angebot
+ en.
+LOCATION:Hauffstr. 23\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über den Anstieg rechtspopulistischer Orientierungen u
+ nter Arbeiter*innen und mögliche Gegenmaßnahmen.
+DTSTART:20260112T190000
+DTEND:20260112T235959Z
+DTSTAMP:20260209T135516Z
+UID:f509abec-fee8-4aab-84f3-ebeb1b23adb5
+DESCRIPTION:Rechtspopulistische und rechtsradikale Orientierungen unter ab
+ hängig Beschäftigten\, vor allem unter Arbeiter*innen\, haben weltweit z
+ ugenommen\, obwohl diese Parteien für eine Politik stehen\, die Arbeiter*
+ innen benachteiligt. Veranstaltung mit Tobias Kaphegyi\, der über die wir
+ tschafts- und sozialpolitischen Einstellungen rechter Arbeiter*innen forsc
+ ht. Die Diskussion umfasst Ursachen und mögliche Maßnahmen gegen diesen 
+ Trend.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
 END:VCALENDAR
