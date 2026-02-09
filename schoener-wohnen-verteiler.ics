@@ -13956,4 +13956,55 @@ DESCRIPTION:Rechtspopulistische und rechtsradikale Orientierungen unter ab
  Trend.
 LOCATION:Epplehaus Tübingen\, Karlstraße 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Konzert mit Hexler und GiF
+DTSTART:20260307T200000
+DTEND:20260307T230000Z
+DTSTAMP:20260209T210934Z
+UID:b1daaf95-3929-402e-b564-a39959c3a057
+DESCRIPTION:Am 7.3. spielen Hexler ausm Norden und GiF aus Leipsch bei uns
+ ! Kommt vorbei für ein schnelles und lautstarkes Erlebnis!
+LOCATION:Hegelkeller
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Nacht\, in der alle willkommen sind. Wir schaffen sichere Rä
+ ume\, um gemeinsam Rhythmus\, Bass und Frequenzen zu genießen.
+DTSTART:20260220T220000
+DTEND:20260220T235959Z
+DTSTAMP:20260209T210934Z
+UID:aaa2e730-9509-4c17-bdfe-498b66215aef
+DESCRIPTION:Lasst euch tragen von einer klanglichen Reise von der Region B
+ olívar in Kolumbien bis nach London\, von Lima\, Peru bis nach Kingston\,
+  Jamaika. Musikalische Selektion von Vinyl bis Digital\, tiefe Bässe\, wa
+ rme Grooves und globale Sounds. By : Petardo & Eve
+LOCATION:Hegel 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein spannender Vortrag zur Einführung von Palantir in Baden-Würt
+ temberg und dem politischen Prozess.
+DTSTART:20260211T201500
+DTEND:20260211T211500Z
+DTSTAMP:20260209T210934Z
+UID:c070ad6f-d46d-4b0c-8f53-9174ec147c38
+DESCRIPTION:Der Vortrag wird von einem Bündnis begleitet und kommentiert 
+ und bietet eine kritische Auseinandersetzung mit der Einführung von Palan
+ tir in Deutschland und den möglichen autoritären Entwicklungen in Europa
+ . Die Einführung wird von Francesca Bria und anderen kommentiert.
+LOCATION:Schelling Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Vortrag gibt einen Überblick über Formen\, Ausmaß und polit
+ ische Reaktionen auf digitale Gewalt.
+DTSTART:20260210T200000
+DTEND:20260210T213000Z
+DTSTAMP:20260209T210934Z
+UID:f5ffeaa3-b8f5-4dc1-8e1d-be5f5d2ea75a
+DESCRIPTION:Die digitale Seite der sog. häuslichen Gewalt hat viele Facet
+ ten: Heimliche Kameras\, Stalkerware\, Überwachung smarter Geräte. Digit
+ ale Gewalt findet in Partnerschaften\, unter Bekannten und in Familien sta
+ tt. Techniknutzung ist geschlechtsspezifisch verschieden\, und Gewalt wird
+  häufig von Männern verübt. Anne Roth gibt einen Überblick über diese
+ s wichtige Thema.
+LOCATION:franz.K (Reutlingen Hbf)
+END:VEVENT
 END:VCALENDAR
