@@ -14007,4 +14007,17 @@ DESCRIPTION:Die digitale Seite der sog. häuslichen Gewalt hat viele Facet
  s wichtige Thema.
 LOCATION:franz.K (Reutlingen Hbf)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spielfilm über die Verteidigung Kobanȇs vor dem IS 2014/2015
+DTSTART:20260915T190000
+DTEND:20260915T235959Z
+DTSTAMP:20260210T212332Z
+UID:68d81b42-ca95-4931-8c57-4e7a75e979db
+DESCRIPTION:In dieser speziellen Vorführung zeigen wir einen bedeutenden 
+ Spielfilm\, der die heroischen Bemühungen der Verteidiger von Kobanê wä
+ hrend der Belagerung durch den IS zwischen 2014 und 2015 thematisiert. Der
+  Film beleuchtet die Widerstandsbewegung und die Herausforderungen\, denen
+  sich die Menschen in dieser Zeit gegenübersahen.
+LOCATION:Filmtheater XYZ\, Mustergasse 1\, 12345 Musterstadt
+END:VEVENT
 END:VCALENDAR
