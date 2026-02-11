@@ -14020,4 +14020,35 @@ DESCRIPTION:In dieser speziellen Vorführung zeigen wir einen bedeutenden
   sich die Menschen in dieser Zeit gegenübersahen.
 LOCATION:Filmtheater XYZ\, Mustergasse 1\, 12345 Musterstadt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag über die Rolle von Frauen im Krieg und Widerstand\, m
+ it dem Feministischen Treffen Karlsruhe.
+DTSTART:20260227T190000
+DTEND:20260227T235959Z
+DTSTAMP:20260211T135703Z
+UID:4be66aa4-d99b-4f89-8b8c-3005bd6a1d48
+DESCRIPTION:Unsere Körper sind Teil des Schlachtfelds. Wir sollen die Sol
+ daten von Morgen gebären\, die gesamte Produktion im Land am Laufen halte
+ n und Frauen weltweit sind dabei gezielter sexualisierter Gewalt als Krieg
+ swaffe ausgesetzt. Die Unterdrückung und Ausbeutung von Frauen ist fester
+  Bestandteil des kapitalistischen Systems und imperialistischer Kriege. Di
+ skutiere mit uns die Rolle von Frauen im antimilitärischen Kampf und wie 
+ feministische Kämpfe gegen Krieg und Militarisierung verbunden werden kö
+ nnen.
+LOCATION:Linkes Zentrum\, Nauklerstr. 50\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bestellzeitraum für qualitativ hochwertige Olivenprodukte und Fei
+ gen.
+DTSTART:20260122T000000
+DTEND:20260122T235959Z
+DTSTAMP:20260211T135703Z
+UID:263d3f50-b44a-4f88-b84d-77d233127301
+DESCRIPTION:Die SoliOli-Kampagne Tübingen geht in die 2. Runde. Ab dem 22
+ . Januar 2026 bis zum 24. Februar 2026 könnt ihr wieder Olivenprodukte un
+ d Feigen von kleinen Erzeugergenossenschaften in Griechenland bestellen. D
+ ie Abholung findet voraussichtlich am 24. und 25. April 2026 im FRANZ!werk
+  Tübingen statt.
+LOCATION:FRANZ!werk Tübingen\, Bei den Pferdeställen 8\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
