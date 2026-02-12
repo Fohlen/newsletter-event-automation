@@ -14051,4 +14051,41 @@ DESCRIPTION:Die SoliOli-Kampagne Tübingen geht in die 2. Runde. Ab dem 22
   Tübingen statt.
 LOCATION:FRANZ!werk Tübingen\, Bei den Pferdeställen 8\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung über die aktuelle Debanking-Entwicklung mit Küfa u
+ nd Vortrag.
+DTSTART:20260218T200000
+DTEND:20260218T213000Z
+DTSTAMP:20260212T210138Z
+UID:f47c9564-7e8b-4c9e-9e38-0dac3579b700
+DESCRIPTION:Kommt vorbei zur Schellinghausbar am 18.2.\, wo es eine Küfa 
+ gibt und einen Vortrag über die Debanking-Problematik mit einem Referente
+ n des Bündnisses Debanking stoppen. Küfa beginnt um 20h\, Vortrag um 20:
+ 30.
+LOCATION:Schellinghaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Politisch partizipative Theaterperformance
+DTSTART:20260214T200000
+DTEND:20260214T235959Z
+DTSTAMP:20260212T210138Z
+UID:d45b8166-314d-4954-b2e1-c97f7df430fa
+DESCRIPTION:Max Böttcher und Johanna Engel laden zu einem Crashkurs in de
+ r sächsischen Sprache. Kollektives Sprechtraining im Chor und unterhaltsa
+ me Gesprächsübungen mit einer tiefgreifenden Auseinandersetzung der säc
+ hsischen Sprache.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit Guquin und Daegeum.
+DTSTART:20260221T170000
+DTEND:20260221T235959Z
+DTSTAMP:20260212T210138Z
+UID:a842324c-bded-4bcd-bc9f-0029b305b4bb
+DESCRIPTION:Erleben Sie ein Konzert des Duos Dasom Baek / Wolfgang Schwabe
+ \, das in der Berliner Echtzeit-Impro-Szene bekannt ist. Das Repertoire re
+ icht von traditionellen Klassikern bis hin zu experimentellen Stücken. De
+ r Eintritt ist frei!
+LOCATION:Cafe Mehrrettich\, Neckarhalde 70\, Berlin
+END:VEVENT
 END:VCALENDAR
