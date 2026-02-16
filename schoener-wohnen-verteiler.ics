@@ -14114,4 +14114,79 @@ DESCRIPTION:Kommt mit uns zur Demo nach Stuttgart\, um gemeinsam gegen die
  en!
 LOCATION:Schlossplatz\, Stuttgart
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a tasting of our six latest beer styles\, snacks\, and
+  more.
+DTSTART:20260228T190000
+DTEND:20260228T235959Z
+DTSTAMP:20260216T205820Z
+UID:e723f441-41bb-418b-8b3e-5539bb31cce4
+DESCRIPTION:Come and taste our latest beers including "Weizenbrot"\, "Cult
+ us et Humanitas Belgarum"\, "Geräucherte Eiche"\, "Halloween Party"\, "4.
+  Advent"\, and "Fest der Liebe". Enjoy food-beer pairings\, a blind tastin
+ g option\, and a last chance box!
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Party with ambient\, bass\, dnb\, and techno.
+DTSTART:20261007T220000
+DTEND:20261007T235959Z
+DTSTAMP:20260216T205820Z
+UID:e3226311-9c0c-4aba-aa41-6c8020f75dc2
+DESCRIPTION:Wir versüßen euch einen abend mit ambient\, bass\, dnb und t
+ echno. düster\, psychedelisch\, glitchy. Alle einahmen werden an heyva so
+ r gespendet: https://www.heyvasor.com. Nulltoleranz-politik jeglicher form
+  von diskriminierung. awareness-team.
+LOCATION:LU15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schelling Sommerfest 2026
+DTSTART:20260711T000000
+DTEND:20260711T235959Z
+DTSTAMP:20260216T205820Z
+UID:679660a9-4e26-4e16-be9d-9f8f960662a2
+DESCRIPTION:Das Sommerfest der Schelling findet am 11.07. statt. Das Progr
+ amm wird noch festgelegt.
+LOCATION:Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über Klimapolitik mit verschiedenen Landtagskandidaten
+ .
+DTSTART:20260220T190000
+DTEND:20260220T235959Z
+DTSTAMP:20260216T205820Z
+UID:2f8dfd02-48ed-4562-bc34-f8af6f26f9cd
+DESCRIPTION:Wir laden euch alle zu unserem Klimapodium am 20.02. um 19:00 
+ Uhr (Einlass ab 18:30) in der Westspitze ein (Eisenbahnstraße 1\, 72072 T
+ übingen\, Saal 1). Organisiert von Fridays for Future Tübingen. Diskussi
+ onsteilnehmer: Dr. Sibylle Braungardt\, Diana Arnold\, Kim Sophie Bohnen\,
+  Dr. Dorothea Kliche-Behnke\, Daniel Lede Abal\, Irene Schuster. Livestrea
+ m auf YouTube möglich.
+LOCATION:Eisenbahnstraße 1\, 72072 Tübingen\, Saal 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühlingsgefühle gehen durch den Magen in guter Gesellschaft!
+DTSTART:20260321T170000
+DTEND:20260321T200000Z
+DTSTAMP:20260216T205820Z
+UID:b81337a6-ef06-4e24-aadd-b8c053d3114a
+DESCRIPTION:Auf Haxe ist ein Drei-Gänge-Menü quer durch deine Nachbarsch
+ aft. Teilnehmen können alle Küchen\, die in ca. 15 Fahrrad-Minuten vom T
+ übinger Zentrum aus erreichbar sind. Melde dich für die Teilnahme an\, j
+ e nach Gruppengröße\, bis zu unterschiedlichen Fristen. Vegetarier und V
+ eganer sind herzlich willkommen!
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesekreis über 'Ein Zimmer für sich allein' von Virginia Woolf
+DTSTART:20260217T180000
+DTEND:20260217T190000Z
+DTSTAMP:20260216T205820Z
+UID:b437cb92-60d7-4bf5-a250-fbdbc67c612d
+DESCRIPTION:Komm zu unserem Lesekreis und tausche dich mit anderen über d
+ as Buch 'Ein Zimmer für sich allein' von Virginia Woolf aus. Gemeinsam di
+ skutieren wir über unsere Eindrücke und Gedanken und teilen unsere Freud
+ e am Lesen. Bei Wunsch lesen wir auch Passagen gemeinsam.
+LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
