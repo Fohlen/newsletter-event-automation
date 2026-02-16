@@ -14088,4 +14088,30 @@ DESCRIPTION:Erleben Sie ein Konzert des Duos Dasom Baek / Wolfgang Schwabe
  r Eintritt ist frei!
 LOCATION:Cafe Mehrrettich\, Neckarhalde 70\, Berlin
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradtour durch Altstadt und über Bundesstraßen zur Podiumsdis
+ kussion von FFF zur Landtagswahl
+DTSTART:20260220T180000
+DTEND:20260220T235959Z
+DTSTAMP:20260216T134826Z
+UID:82575a1f-ce4f-4b84-bd12-671f71edf04c
+DESCRIPTION:Am Freitag dem 20.02. ist wieder Critical Mass! Wir treffen un
+ s wie gewohnt um 18:00 an der Uni-Bib\, Wilhelmstraße 32. Anschließend k
+ ann gerne die Podiumsdiskussion von FFF besucht werden\, wir enden direkt 
+ davor.
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landesweite Demo in Stuttgart
+DTSTART:20260221T130000
+DTEND:20260221T235959Z
+DTSTAMP:20260216T134826Z
+UID:36b8ea99-b461-4d3b-afd6-89e545b999c2
+DESCRIPTION:Kommt mit uns zur Demo nach Stuttgart\, um gemeinsam gegen die
+  Bezahlkarte laut zu werden. Die Bezahlkarte führt zu erheblichen Einschr
+ änkungen für geflüchtete Personen und stellt die Selbstbestimmung in Fr
+ age. Lasst uns gemeinsam für soziale Rechte und gegen Ausgrenzung eintret
+ en!
+LOCATION:Schlossplatz\, Stuttgart
+END:VEVENT
 END:VCALENDAR
