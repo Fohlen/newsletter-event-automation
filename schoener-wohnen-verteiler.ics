@@ -14189,4 +14189,28 @@ DESCRIPTION:Komm zu unserem Lesekreis und tausche dich mit anderen über d
  e am Lesen. Bei Wunsch lesen wir auch Passagen gemeinsam.
 LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unbefristete 1 Zimmer-Wohnung
+DTSTART:20260326T000000
+DTEND:20260326T235959Z
+DTSTAMP:20260217T134814Z
+UID:446f9d36-d7a4-4bd7-803f-d048a37921bf
+DESCRIPTION:Ab 03/26 in Balingen zu vermieten. 1 Zi-20 m²-Wohnung\, Pausc
+ halmiete 500€ inklusive Küche und Waschmaschine. Trockenkeller verfügb
+ ar.
+LOCATION:Balingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electro-Punk-Konzert von R.Y.F. aus Ravenna\, Italien.
+DTSTART:20260204T220000
+DTEND:20260204T235900Z
+DTSTAMP:20260217T134814Z
+UID:55dfc114-f54a-4fab-a2fe-d2ca56bed25b
+DESCRIPTION:Zwar ist Francesca Morello auch in ihrer italienischen Heimat 
+ nach wie vor eine Art Geheimtipp für eklektische Clubbanger\, doch hat da
+ s eher strukturelle als qualitative Gründe. Denn der hochenergetische Dan
+ ce-Punk der DIY-Künstlerin ist an Immersionskraft kaum zu überbieten. Li
+ ve ein echtes Erlebnis. Eintritt frei!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
