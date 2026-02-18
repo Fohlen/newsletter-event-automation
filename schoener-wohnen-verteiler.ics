@@ -14213,4 +14213,17 @@ DESCRIPTION:Zwar ist Francesca Morello auch in ihrer italienischen Heimat
  ve ein echtes Erlebnis. Eintritt frei!
 LOCATION:Blaue Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebration for Rich Random 'The Dude' van Ess's birthday with mus
+ ic and memories.
+DTSTART:20260916T210000
+DTEND:20260916T235959Z
+DTSTAMP:20260218T210702Z
+UID:a6ca7732-e0da-4c61-8bc8-6e90fbf7d442
+DESCRIPTION:Join us for Richie's Birthday Bash\, a gathering to celebrate 
+ the life and music of Rich Random 'The Dude' van Ess. Enjoy performances b
+ y Hidebound Garden and DJs throughout the night. Dress up\, bring your fav
+ orite records\, and let’s keep the good vibes alive!
+LOCATION:Blauer Salon\, Münze 13
+END:VEVENT
 END:VCALENDAR
