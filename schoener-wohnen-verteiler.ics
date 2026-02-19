@@ -14226,4 +14226,73 @@ DESCRIPTION:Join us for Richie's Birthday Bash\, a gathering to celebrate
  orite records\, and let’s keep the good vibes alive!
 LOCATION:Blauer Salon\, Münze 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Organisationstreffen für das Chaos-Community-Event: Tage der digi
+ talen Freiheit.
+DTSTART:20260222T190000
+DTEND:20260222T235959Z
+DTSTAMP:20260219T210051Z
+UID:00c4aaad-442d-4746-ba1e-2a01cb108925
+DESCRIPTION:Das Konzept für die nächsten Tage der digitalen Freiheit wir
+ d vorgestellt. Jedes Orga-Team ('Operation Center') wird seine Aufgaben un
+ d Möglichkeiten zur Teilnahme und Unterstützung präsentieren.
+LOCATION:KI-Makerspace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die Entwicklung und Bedeutung der Kryptographie in B
+ ezug auf staatliche Eingriffe und digitale Freiheit.
+DTSTART:20260220T180000
+DTEND:20260220T235959Z
+DTSTAMP:20260219T210051Z
+UID:967b063f-ab0f-41e0-851a-805fc0217e9c
+DESCRIPTION:Christian Seiler wird die Entwicklung der Kryptographie von ei
+ ner militärischen Technologie zu einem Schlüssel für moderne digitale K
+ ommunikation erläutern. Er wird diskutieren\, warum staatliche Akteure ve
+ rsuchen\, Kryptographie abzuschwächen\, und welche Risiken dies für die 
+ digitale Infrastruktur und die Gesellschaft birgt.
+LOCATION:Weltethos-Institut Tübingen\, Hintere Grabenstr. 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein fettes Doppelkonzert mit SuitUp! und Brass Busters\, gefolgt v
+ on DJs!
+DTSTART:20261014T190000
+DTEND:20261014T235900Z
+DTSTAMP:20260219T210051Z
+UID:b0df41d6-ef1e-4d55-8288-eecd2aba6d51
+DESCRIPTION:Am Samstag gibt's ein Doppelkonzert im Fichtehaus (Herrenberge
+ r Str. 40). 19 Uhr Einlass\, 20 Uhr beginnen SuitUp! (Ska\, suitup-band.de
+ )\, gefolgt von Brass Busters (Brass Band\, brassbusters.de) um 21 Uhr. Im
+  Anschluss: DJ Morizz und DJ Turboschnecke. Eintritt frei\, um Spenden wir
+ d gebeten! Wir freuen uns auf euch! :)
+LOCATION:Fichtehaus\, Herrenberger Str. 40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Kneipe im Epplehaus für alle\, die entspannen und gesellig
+  sein möchten.
+DTSTART:20261102T190000
+DTEND:20261102T235959Z
+DTSTAMP:20260219T210051Z
+UID:463f9a41-0d44-4cd4-aedf-375f051ef225
+DESCRIPTION:Epplehaus Tübingen\, Karlstraße 13\, jeden 1.\, 2. und 4. Do
+ nnerstag im Monat. Jeden 3. Donnerstag im Monat gibt es einen Vortrag von 
+ „Input Tübingen“. \nJeden Donnerstag öffnet das Epplehaus ab 19 Uhr 
+ seine Tür und veranstaltet eine offene Kneipe. Die Epple-Kneipe soll ein 
+ Ort für alle sein\, die gemütlich ein Feierabend-Getränk zu sich nehmen
+  wollen\, die gerne Tisch-Kicker spielen oder die einfach einen gemütlich
+ en Raum ohne Konsumzwang suchen. Wir möchten ein Erholungsort von den Zum
+ utungen des Alltags für alle sein. Hier kann man sowohl gemeinsam schweig
+ en als auch plaudern oder Pläne schmieden für bessere Welten.
+LOCATION:Epplehaus Tübingen\, Karlstraße 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep beats and hypnotic energy to swap everyday life.
+DTSTART:20260222T163000
+DTEND:20260222T210000Z
+DTSTAMP:20260219T210051Z
+UID:aafbf28b-d4d7-4e01-a835-2f61f8671bb3
+DESCRIPTION:Join us for a playful moment full of connection and dance. Exp
+ erience the hypnotic facet of Tübingen's club culture with downtempo musi
+ c as an emotional and danceable alternative.
+LOCATION:FRANZ!werk\, Bei den Pferdeställen 8\, Tübingen
+END:VEVENT
 END:VCALENDAR
