@@ -14295,4 +14295,52 @@ DESCRIPTION:Join us for a playful moment full of connection and dance. Exp
  c as an emotional and danceable alternative.
 LOCATION:FRANZ!werk\, Bei den Pferdeställen 8\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum gemeinsamen Singen von Arbeiter*innen- und Kampflied
+ ern.
+DTSTART:20260224T200000
+DTEND:20260224T235959Z
+DTSTAMP:20260220T134217Z
+UID:1845b39d-a950-4337-b43b-6a8ca67b43f7
+DESCRIPTION:Die Schranne lädt ein zum Arbeiter*innen-Lieder-Singen! Wir s
+ ingen alte und neue Arbeiter*innen- und Kampflieder und bereiten ein groß
+ es Mitsing-Konzert am 1. Mai vor. Alle sind eingeladen!
+LOCATION:Masckara-Theater\, Haaggasse 35\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert im Cafe Mehrrettich
+DTSTART:20260221T170000
+DTEND:20260221T235959Z
+DTSTAMP:20260220T134217Z
+UID:5dd10361-9332-461e-aa6b-b9fa84c65710
+DESCRIPTION:Das Duo Dasom Baek und Wolfgang Schwabe präsentiert ein Konze
+ rt mit Guquin und Daegeum. Ihr Repertoire reicht von traditionellen Stück
+ en bis zu experimentellem zeitgenössischem. Eintritt frei!
+LOCATION:Café Mehrrettich\, Neckarhalde 70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragen\, Erfahrungen und Erkenntnisse zum Weiterforschen und Weite
+ rleben in unserer Welt.
+DTSTART:20260226T190000
+DTEND:20260226T235959Z
+DTSTAMP:20260220T134217Z
+UID:9db1917e-e050-4bc6-ba85-37542c835297
+DESCRIPTION:Die Agentur für unschätzbare Werte präsentiert eine Veranst
+ altung mit den Themen: Wo sind wir gelandet? Was ist das für eine Welt? W
+ ie lebt es sich da? Wie ist das für wen? Wie weiter? Spielräume finden o
+ der erfinden.
+LOCATION:Kulturzentrum franz.K\, Reutlingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Maskenball 2026 steht unter dem Motto „Kunst durch die Epoch
+ en“.
+DTSTART:20260418T000000
+DTEND:20260418T235959Z
+DTSTAMP:20260220T134217Z
+UID:f5e3df7f-f5aa-4645-a891-862e18eb2148
+DESCRIPTION:Eine Nacht voller Kunst und Kreativität. Verkleidet euch nach
+  Lust und Laune und lasst uns gemeinsam unser Haus in ein Gesamtkunstwerk 
+ verwandeln! Wir suchen Unterstützer\, kreative Köpfe und DJs.
+LOCATION:Unbekannt
+END:VEVENT
 END:VCALENDAR
