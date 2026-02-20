@@ -14343,4 +14343,15 @@ DESCRIPTION:Eine Nacht voller Kunst und Kreativität. Verkleidet euch nach
  verwandeln! Wir suchen Unterstützer\, kreative Köpfe und DJs.
 LOCATION:Unbekannt
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidaritätslesung anlässlich des Jahrestags des russischen Angr
+ iffskriegs
+DTSTART:20260222T110000
+DTEND:20260222T235959Z
+DTSTAMP:20260220T205609Z
+UID:a5e82847-9f91-4114-9daf-e01fd95d48d9
+DESCRIPTION:Eine Lesung mit Texten\, Stimmen und Gedanken zur Solidarität
+  und für den Frieden.
+LOCATION:Foyer des Landestheater Tübingen (LTT)
+END:VEVENT
 END:VCALENDAR
