@@ -14354,4 +14354,14 @@ DESCRIPTION:Eine Lesung mit Texten\, Stimmen und Gedanken zur Solidarität
   und für den Frieden.
 LOCATION:Foyer des Landestheater Tübingen (LTT)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen für Klimagerechtigkeit und gegen Kapitalismus.
+DTSTART:20260226T190000
+DTEND:20260226T235959Z
+DTSTAMP:20260222T132745Z
+UID:d5806d77-0862-40b3-8e79-a2ed7c70b225
+DESCRIPTION:Diskussion über echte Veränderungen im Klimaschutz und sozia
+ le Antworten auf die Klimakrise im linken Zentrum Trude Lutz.
+LOCATION:Nauklerstraße 50\, Tübingen
+END:VEVENT
 END:VCALENDAR
