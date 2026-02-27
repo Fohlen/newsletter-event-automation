@@ -14376,4 +14376,30 @@ DESCRIPTION:Der Vortrag behandelt die Auswirkungen von Krieg auf Frauen\,
  pf mit feministischen Kämpfen.
 LOCATION:Linkes Zentrum\, Nauklerstr. 50\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimastreik in Tübingen am 27.02. um 16:00 Uhr.
+DTSTART:20260227T160000
+DTEND:20260227T235959Z
+DTSTAMP:20260227T134104Z
+UID:f6fdc22d-ca86-4a97-9083-6e6b00a3d4b1
+DESCRIPTION:Der Klimastreik beginnt um 16:00 Uhr in der Uhlandstraße und 
+ endet mit einer Kundgebung auf dem Europaplatz. Es gibt Redebeiträge\, Mu
+ sik\, Waffeln\, Kinderpunsch und Infostände.
+LOCATION:Uhlandstraße\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Diskussions- und Lesekreis über Schwangerschaftsabbrüche
+  und aus Annie Ernauxs "Das Ereignis".
+DTSTART:20260305T190000
+DTEND:20260305T210000Z
+DTSTAMP:20260227T134104Z
+UID:c509cfe2-95c7-46a6-a83c-64dac4fe0794
+DESCRIPTION:Wir laden zu einem offenen Diskussions- und Lesekreis ein\, in
+  dem wir über die Thematik der Schwangerschaftsabbrüche diskutieren und 
+ dabei Auszüge aus Annie Ernauxs 'Das Ereignis' lesen. Der Austausch soll 
+ einen Raum bieten\, in dem wir unsere Gedanken und Meinungen zu diesem wic
+ htigen Thema teilen können. Es ist kein Vorwissen erforderlich! Jeder Tei
+ lnehmer kann Texte zum Diskussionsimpuls einbringen.
+LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str.61)
+END:VEVENT
 END:VCALENDAR
