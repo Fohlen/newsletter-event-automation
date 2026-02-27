@@ -14402,4 +14402,31 @@ DESCRIPTION:Wir laden zu einem offenen Diskussions- und Lesekreis ein\, in
  lnehmer kann Texte zum Diskussionsimpuls einbringen.
 LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str.61)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yvonne Wahl von Yinergy erläutert den weiblichen Zyklus und gibt 
+ Tipps bei Menstruationsbeschwerden.
+DTSTART:20260312T183000
+DTEND:20260312T235959Z
+DTSTAMP:20260227T205606Z
+UID:77b5261d-27bf-45ec-9e66-686ab113f1fe
+DESCRIPTION:Yvonne Wahl von Yinergy (ehemaliger Pop-Up-Store in der Colleg
+ iumsgasse 8) hält am 12.03 um 18:30 Uhr einen Vortrag im Bunten Buchladen
+ . Die Veranstaltung findet auf Spendenbasis statt (Spendenempfehlung mind.
+  15 €). Anmeldung zur Planung bitte an veranstaltungen@bunterbuchladen.d
+ e.
+LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan food and drinks\, donations welcome. Proceeds go to peace or
+ ganizations.
+DTSTART:20260302T180000
+DTEND:20260302T235959Z
+DTSTAMP:20260227T205606Z
+UID:36823cc3-9b49-421a-b9a0-43281038f6b2
+DESCRIPTION:Join us for our next Huber Küfa at Wohnprojekt Tante Huber. W
+ e'll create a relaxed space for everyone to come together with delicious v
+ egan food and drinks. The proceeds will go to the group Schulstreik gegen 
+ Wehrspflicht Tübingen and Deutsche Friedensgesellschaft.
+LOCATION:Huberstraße 14/16\, Gemeinschaftsraum (barrierefrei)
+END:VEVENT
 END:VCALENDAR
