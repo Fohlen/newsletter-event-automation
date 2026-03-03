@@ -14429,4 +14429,18 @@ DESCRIPTION:Join us for our next Huber Küfa at Wohnprojekt Tante Huber. W
  Wehrspflicht Tübingen and Deutsche Friedensgesellschaft.
 LOCATION:Huberstraße 14/16\, Gemeinschaftsraum (barrierefrei)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag von Sabine P. Maier über Femi(ni)zid und patriarchale Str
+ ukturen.
+DTSTART:20260304T190000
+DTEND:20260304T210000Z
+DTSTAMP:20260303T205921Z
+UID:55f8cfd3-7f20-4ca6-8c68-cfe5c42dcb2a
+DESCRIPTION:Sabine P. Maier wird in die Begriffsgeschichte des Femi(ni)zid
+  einführen und Ergebnisse des Forschungsprojektes „Femizide in Deutschl
+ and“ vorstellen. Es folgt eine Reflexion der Potenziale und Limitationen
+  des Begriffs aus queerfeministischer Perspektive und ein Plädoyer für e
+ inen stärkeren Fokus auf patriarchale Strukturen.
+LOCATION:Hausbar der Schellingstraße 6\, Esslingen
+END:VEVENT
 END:VCALENDAR
