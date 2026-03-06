@@ -14523,4 +14523,15 @@ DESCRIPTION:Three years ago\, these musicians met at TüFolk\, the transcu
  ncounters. Don’t miss it!
 LOCATION:Fichtehaus · Herrenberger Straße 40 · Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kino im Linken Zentrum Trude Lutz
+DTSTART:20261201T190000
+DTEND:20261201T210000Z
+DTSTAMP:20260306T205737Z
+UID:53f542b6-9f72-4777-af19-cdb19a1c39cf
+DESCRIPTION:Wir laden alle Filmbegeisterten herzlich ein\, an unserem Kino
+ filmabend teilzunehmen! Genießen Sie einen tollen Film in geselliger Rund
+ e.
+LOCATION:Linkes Zentrum Trude Lutz
+END:VEVENT
 END:VCALENDAR
