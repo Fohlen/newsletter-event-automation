@@ -14534,4 +14534,151 @@ DESCRIPTION:Wir laden alle Filmbegeisterten herzlich ein\, an unserem Kino
  e.
 LOCATION:Linkes Zentrum Trude Lutz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy community meal every Tuesday!
+DTSTART:20260308T180000
+DTEND:20260308T235959Z
+DTSTAMP:20260312T134513Z
+UID:7802d387-ebfe-4ffd-8382-4168b452e984
+DESCRIPTION:Dear Schöner-Wohnende\,\nAre you hungry on Tuesday night and 
+ think there is no Küfa in the city? You are wrong 🙂 Here we are\, Sigg
+ i11! As every Tuesday\, we are coming together this week on 08.03. at 18:0
+ 0 to eat\, connect and build solidarity. We will create a cozy space in ou
+ r garden for you to enjoy the evening. Come hungry\, in large numbers and 
+ most importantly\, come as you are. Hope to see you there! Instagram: sigg
+ i_11_tuebingen With solidarity\, Your Siggi11
+LOCATION:Siggi11\, Garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening with food and solidarity!
+DTSTART:20260310T180000
+DTEND:20260310T235959Z
+DTSTAMP:20260312T134513Z
+UID:039397bb-b266-4581-b53f-06655210c749
+DESCRIPTION:Are you hungry on Tuesday night and think there is no Küfa in
+  the city? Join us at Siggi11! This week on 10.03. at 18:00 we will come t
+ ogether to eat\, connect\, and build solidarity. We will create a cozy spa
+ ce in our garden for you to enjoy the evening. Come hungry\, in large numb
+ ers\, and most importantly\, come as you are. Hope to see you there!
+LOCATION:Siggi11\, Tuebingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a fun evening with drinks and table soccer.
+DTSTART:20260309T190000
+DTEND:20260309T223000Z
+DTSTAMP:20260312T134513Z
+UID:be6caae4-05fa-438f-8f9c-3a9e74ca6374
+DESCRIPTION:Come by to enjoy drinks and play table soccer at our Österbar
+  event.
+LOCATION:LH3\, Hauffstr. 23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vielfältige Aktivitäten und Speisen nach der Demo.
+DTSTART;TZID="+01:00":20260308T180000
+DTEND:20260308T235900Z
+DTSTAMP:20260312T134513Z
+UID:346863ae-57df-4cb2-8588-bf0cf0696297
+DESCRIPTION:Nach der Demo am 8. März gibt es im Blauen Salon (für Queers
+  und Frauen) Getränke und Kartoffelsuppe auf Spendenbasis ab 18 Uhr. In d
+ er Schelling (für Queers und Frauen) gibt es ab 17 Uhr Getränke und ab 1
+ 8 Uhr Linsensuppe auf Spendenbasis. Bitte draußen rauchen. Im Epplehaus (
+ für Alle) gibt es Küfa. Der Bunte Buchladen (Bursagasse 2) hat nach der 
+ Demo einen Silent Space\, wo ihr stricken\, häkeln\, lesen oder einfach n
+ ur sein könnt. Keine Toleranz gegenüber Diskriminierung. Wer sich nicht 
+ daran hält\, fliegt raus.
+LOCATION:Bursagasse 2\, 12345 Musterstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternative Veranstaltung zum Dies Universitatis.
+DTSTART:20260421T110000
+DTEND:20260421T160000Z
+DTSTAMP:20260312T134513Z
+UID:9a21e30a-22b5-4d29-a905-f604b685cf06
+DESCRIPTION:Der AlDi ist ein Markt der Möglichkeiten\, wo verschiedene Gr
+ uppen ihre Engagements präsentieren. Keine Teilnahme in Uniform oder mit 
+ menschenverachtenden Symbolen. Anmeldung erforderlich.
+LOCATION:Clubhaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über Islamismus mit Fokus auf antirassistische Perspektiv
+ en.
+DTSTART:20260312T190000
+DTEND:20260312T235959Z
+DTSTAMP:20260312T134513Z
+UID:fdb18b34-274a-42f4-8abb-5a6f4aef3dc0
+DESCRIPTION:Was ist Islamismus und wie lässt er sich so benennen und disk
+ utieren\, dass Kritik möglich bleibt\, ohne Muslim:innen unter Generalver
+ dacht zu stellen? Der Vortrag bietet eine verständliche Einführung in da
+ s islamistische Phänomen: zentrale Definition(en)\, Entstehungsgeschichte
+ \, unterschiedliche Erscheinungsformen sowie wichtige Ideologien und strat
+ egische Ansätze. Gleichzeitig steht die Frage im Mittelpunkt\, wie Debatt
+ en über Islamismus in Deutschland oft mit antimuslimischem Rassismus\, me
+ dialen Bildern und politischen Instrumentalisierungen verwoben sind. Ziel 
+ ist eine Sprache und Analyse\, die sowohl die Gefahren islamistischer Bewe
+ gungen ernst nimmt als auch antirassistische Solidarität stärkt.
+LOCATION:Epplehaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a solidarity rave with electronic music!
+DTSTART:20260320T220000
+DTEND:20260320T235959Z
+DTSTAMP:20260312T134513Z
+UID:11ea237d-f920-47c2-90c2-a12c00862b48
+DESCRIPTION:Das Ract!festival naht bereits\, weswegen wir uns putzmunter i
+ m Epplehaus versammeln\, um bei einem Soli Rave unseren Tanzbeinen freien 
+ Lauf zu lassen! Lasst euch treiben zu einer bunten Auswahl feinster elektr
+ onischer Musik - wir haben euch ein schmackhaftes LineUp gezaubert\, das L
+ ust auf den Frühling macht!
+LOCATION:Epplehaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühsommergefühle gehen durch den Magen in guter Gesellschaft!
+DTSTART:20260321T180000
+DTEND:20260321T210000Z
+DTSTAMP:20260312T134513Z
+UID:f08e0ca1-6203-4f2e-a254-bd7d1248e624
+DESCRIPTION:Auf Haxe ist ein Drei-Gänge-Menü quer durch deine Nachbarsch
+ aft. Teilnahmeinformationen: Alle Küchen\, die in ca. 15 Fahrrad-Minuten 
+ vom Tübinger Zentrum aus erreichbar sind\, können teilnehmen. Bei Fragen
+  oder zur Anmeldung wendet euch an tuebingen@aufhaxe.de.
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine musikalische Reise in die tiefen Klanglandschaften.
+DTSTART:20260313T210000
+DTEND:20260313T010000Z
+DTSTAMP:20260312T134513Z
+UID:ab2d8385-b89a-4186-b254-75df31d93bd9
+DESCRIPTION:Für die diesjährige Edition unserer regelmäßigen Musikvera
+ nstaltung laden wir einen Freund aus dem Dance Expand Revolt Kollektiv ein
+ \, um einen Raum mit anderer Musik zu füllen. Hier erwartet euch ein Einb
+ lick in modern classic\, Ambient\, experimentelle Musik und viele weitere 
+ Subgenres\, die den Kontext zu klassischer elektronischer Tanzmusik nur er
+ ahnen lassen.
+LOCATION:Schwabstr. 6\, Tübingen\, im Saal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an exciting skate event for all levels!
+DTSTART:20260314T180000Z
+DTEND:20260314T233000Z
+DTSTAMP:20260312T134513Z
+UID:a10f1e3b-be5a-457b-9629-e3a92436fa1e
+DESCRIPTION:On March 14th\, starting at 6 PM\, at Milchwerk (Rappstraße 2
+ 7). Open skate session\, hip-hop warm-up\, coffee & waffles\, breaking wor
+ kshop\, and music by DJ AI and DJ Sori. Everyone is welcome!
+LOCATION:Milchwerk\, Rappstraße 27\, [City\, Country]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidaritätsveranstaltung zur Unterstützung der Gemeinschaft Pro
+ sfygika in Athen.
+DTSTART:20260312T180000
+DTEND:20260312T235959Z
+DTSTAMP:20260312T134513Z
+UID:9f415dcf-9c50-4650-bc90-45a4074c775a
+DESCRIPTION:Die Küfa am Sternplatz veranstaltet ein gemeinsames Essen und
+  informiert über die Situation der Gemeinschaft Prosfygika in Athen\, die
+  sich gegen die drohende Räumung zur Wehr setzt. Es wird um Unterstützun
+ g bei der Renovierung und finanzielle Hilfe gebeten. Kommt vorbei!
+LOCATION:Sternplatz Küfa
+END:VEVENT
 END:VCALENDAR
