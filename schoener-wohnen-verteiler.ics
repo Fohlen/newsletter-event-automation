@@ -14681,4 +14681,92 @@ DESCRIPTION:Die Küfa am Sternplatz veranstaltet ein gemeinsames Essen und
  g bei der Renovierung und finanzielle Hilfe gebeten. Kommt vorbei!
 LOCATION:Sternplatz Küfa
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Kundgebung für die Freiheit aller Gefangenen.
+DTSTART:20260318T180000
+DTEND:20260318T235959Z
+DTSTAMP:20260316T210812Z
+UID:cf9ea80e-4261-44a5-91bc-1fa8a877e93e
+DESCRIPTION:Am Mittwoch\, den 18.03.\, gehen wir auf die Straße\, um ein 
+ Zeichen der Solidarität für alle politischen Gefangenen zu setzen. Es wi
+ rd Musik geben\, Redebeiträge und viel Raum für Austausch.
+LOCATION:Auf den Treppen vor der JVA Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Anreise zur Gegendemo in München gegen die radikalen A
+ btreibungsgegner*innen.
+DTSTART:20260418T000000
+DTEND:20260418T235959Z
+DTSTAMP:20260316T210812Z
+UID:a2587ce0-b9e7-4bee-af42-52ac95abdedd
+DESCRIPTION:Die Gegendemo ist eine Antwort auf den "Marsch fürs Leben"\, 
+ der am 18.04. in München stattfindet. Wir setzen ein Zeichen für Selbstb
+ estimmung\, queeres Leben und unsere Freiheit. Bitte meldet euch an\, wenn
+  ihr mitfahren möchtet und ob ihr am Aktionstraining teilnehmen wollt.
+LOCATION:München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradfahren für eine nachhaltige Stadt
+DTSTART:20260320T180000
+DTEND:20260320T235959Z
+DTSTAMP:20260316T210812Z
+UID:7f4aaae2-a320-45b6-8c21-8459d2517e83
+DESCRIPTION:Treffen zur Critical Mass am 20.03. um 18:00 Uhr an der Uni-Bi
+ b\, Wilhelmstraße 32. Schließt euch uns an\, um ein Zeichen für eine be
+ ssere Radinfrastruktur zu setzen!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Informationsabend zur Unterstützung der Initiative "Nuestra Amér
+ ica" und zur humanitären Lage in Kuba.
+DTSTART:20260319T210000
+DTEND:20260319T235959Z
+DTSTAMP:20260316T210812Z
+UID:bde853f9-3c60-405c-b7fa-89f5ba1f5f3e
+DESCRIPTION:Die USA erhöhen den Druck auf Kuba und verschärfen die wirts
+ chaftliche Blockade\, was zu einer humanitären Krise führt. Dieser Abend
+  ist eine Gelegenheit\, sich über die Situation zu informieren und Hilfsg
+ üter zu spenden.
+LOCATION:Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Veranstaltung von Perspektive Kommunismus & Antifaschistische
+  Aktion Tübingen.
+DTSTART:20260319T180000
+DTEND:20260319T235959Z
+DTSTAMP:20260316T210812Z
+UID:d6dcb35f-686d-4584-b87c-070a44a463c6
+DESCRIPTION:Der Kapitalismus befindet sich in einer der tiefgreifendsten K
+ risen\, die auch vor Deutschland keinen Halt macht. Die AfD gewinnt Landta
+ gswahlen und überholt die CDU/CSU in Umfragen. Zeit zu handeln! Wir wolle
+ n die Eckpunkte und Entwicklungslinien der aktuellen reaktionären Verschi
+ ebung festhalten und nach vorne blicken.
+LOCATION:Linkes Zentrum Trude Lutz – Nauklerstraße 50\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live-Punkkonzert mit Krankheim und Treffpunkt Jane.
+DTSTART:20260320T203000
+DTEND:20260320T230000Z
+DTSTAMP:20260316T210812Z
+UID:6183e216-9409-4eb9-b597-135b9e09cf85
+DESCRIPTION:Am 20.3 spielen in der Schelling die Lokalgröße Krankheim mi
+ t Punk für die Tonne aus Kirchheim Teck und die Kölner Band Treffpunkt J
+ ane. Doors 20:30 / Beginn 21 Uhr.
+LOCATION:Schelling\, Kirchheim unter Teck
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Workshop zur Rolle der Person des Vertrauens im Abschiebehaftv
+ erfahren in Stuttgart.
+DTSTART:20260410T180000
+DTEND:20260410T235959Z
+DTSTAMP:20260316T210812Z
+UID:fa78ec8f-fde9-4eba-8e39-0f16c3a9d590
+DESCRIPTION:Gemeinsam mit Frank Gockel vom Verein Hilfe für Menschen in A
+ bschiebehaft Büren e.V. arbeiten wir konkret zur Rolle der Person des Ver
+ trauens im Abschiebehaftverfahren. Personen des Vertrauens sind selbst Ver
+ fahrensbeteiligte. Wir treten vor Gericht auf und legen Rechtsmittel gegen
+  Haftanordnungen ein. Wir widersprechen der Inhaftierung und kämpfen juri
+ stisch für die Freiheit der Betroffenen.
+LOCATION:Stuttgart
+END:VEVENT
 END:VCALENDAR
