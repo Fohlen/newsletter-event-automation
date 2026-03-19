@@ -14769,4 +14769,29 @@ DESCRIPTION:Gemeinsam mit Frank Gockel vom Verein Hilfe für Menschen in A
  stisch für die Freiheit der Betroffenen.
 LOCATION:Stuttgart
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albumreleasekonzert von YEAST MACHINE unterstützt von THE GREAT G
+ RAY FUNK.
+DTSTART:20260321T193000
+DTEND:20260321T230000Z
+DTSTAMP:20260319T135019Z
+UID:fdfd2b38-b5a4-48ea-a885-2bf7ee160a88
+DESCRIPTION:YEAST MACHINE mit ihrem Albumreleasekonzert von BAD MILK. Supp
+ ort: THE GREAT GRAY FUNK aus Wien. Eintritt gegen Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Vortrag mit Bildern zum 150. Geburtstag eines fast vergessenen
+  Künstlers des sozialistischen Realismus avant la lettre.
+DTSTART:20260324T193000
+DTEND:20260324T235959Z
+DTSTAMP:20260319T135019Z
+UID:6376e7af-c197-4c02-81e3-4becbacf88e4
+DESCRIPTION:Georg Friedrich Zundel (1875–1948) war ein begabter Porträt
+ maler und politischer Künstler. Der Vortrag beleuchtet Zundels künstleri
+ sche Entwicklung\, seine Beziehung zu Clara Zetkin und die Fragen nach dem
+  Verhältnis von Kunst und politischen Kämpfen.
+LOCATION:Gemeindehaus Tübingen-Lustnau\, Neuhaldenstraße 10\, 72074 Tüb
+ ingen
+END:VEVENT
 END:VCALENDAR
