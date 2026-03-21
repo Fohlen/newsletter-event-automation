@@ -14794,4 +14794,29 @@ DESCRIPTION:Georg Friedrich Zundel (1875–1948) war ein begabter Porträt
 LOCATION:Gemeindehaus Tübingen-Lustnau\, Neuhaldenstraße 10\, 72074 Tüb
  ingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Save the date for the CSD Tübingen!
+DTSTART:20260621T000000
+DTEND:20260621T235959Z
+DTSTAMP:20260321T132645Z
+UID:5bbdef7a-6650-4706-abce-d14930e4101a
+DESCRIPTION:We are excited to announce that the date for this year's CSD i
+ n Tübingen is set! Join us on June 21\, 2026\, to celebrate during Pride 
+ Month. More details about the planning and schedule will be shared soon!
+LOCATION:Tübingen\, Germany
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feier für den Bunten Buchladen mit DJs\, Kuchenbuffet und Cocktai
+ ls.
+DTSTART:20260327T200000
+DTEND:20260327T235959Z
+DTSTAMP:20260321T132645Z
+UID:1c58a9bd-4402-4508-a38e-aa61af10f8d6
+DESCRIPTION:Genießt eine queerfeministische Soliparty im Club Voltaire mi
+ t antipatriarchalen Beats von DJs Maris\, Milena\, Mariculix\, Solidarity&
+ Routine. Es gibt ein Kuchenbuffet und die Möglichkeit\, euren eigenen Coc
+ ktail zu würfeln\, alles auf Spendenbasis. Der Eintritt kostet 6 Euro und
+  die Erlöse gehen an den Bunter Buchladen. Seid dabei und tanzt mit uns!
+LOCATION:Club Voltaire\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
