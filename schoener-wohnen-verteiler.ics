@@ -14819,4 +14819,15 @@ DESCRIPTION:Genießt eine queerfeministische Soliparty im Club Voltaire mi
   die Erlöse gehen an den Bunter Buchladen. Seid dabei und tanzt mit uns!
 LOCATION:Club Voltaire\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Anfahrt aus Tübingen zur 25. Critical Mass Fahrt.
+DTSTART:20260429T170000
+DTEND:20260429T210000Z
+DTSTAMP:20260322T205520Z
+UID:dcd5d355-c3aa-4089-bb78-f0c2f492f0f8
+DESCRIPTION:Feiere mit uns die 25. Critical Mass Fahrt in Wannweil! Wir tr
+ effen uns um 17:00 Uhr an der Westspitze in Tübingen\, um gemeinsam nach 
+ Wannweil zu radeln. Nach der Tour gibt es Kekse und gute Stimmung!
+LOCATION:Westspitze\, Tübingen
+END:VEVENT
 END:VCALENDAR
