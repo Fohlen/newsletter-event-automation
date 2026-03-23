@@ -14842,4 +14842,42 @@ DESCRIPTION:Wir analysieren das Buch 'Towards the Abyss' von Volodymyr Ish
  and und der Welt\, die zu dem Krieg geführt haben.
 LOCATION:SDAJ Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die Ausweitung von Überwachungsmaßnahmen und den E
+ influss der Technologie auf die Politik.
+DTSTART:20260325T200000
+DTEND:20260325T235959Z
+DTSTAMP:20260323T210520Z
+UID:d5cb1adf-3710-4555-ba97-6c805ea6d21f
+DESCRIPTION:Der Vortrag behandelt die zunehmenden Überwachungsmaßnahmen 
+ in Deutschland sowie die technologischen und politischen Hintergründe. Es
+  wird analysiert\, warum solche Maßnahmen schrittweise durchgesetzt werde
+ n und wer davon profitiert. Zudem wird die menschenfeindliche Ideologie de
+ r Tech-Produzenten beleuchtet und diskutiert\, was man dagegen tun kann.
+LOCATION:Schelling Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of reading and music featuring Sérgio de J
+ esus.
+DTSTART:20260326T200000
+DTEND:20260326T235959Z
+DTSTAMP:20260323T210520Z
+UID:2a781c1a-c6a8-42e1-9923-c5bbe750792b
+DESCRIPTION:Sérgio de Jesus reads his short story "The Space Between" –
+  a love story between two boys dealing with neurodivergence\, emotional ov
+ erwhelm\, and internalized shame. The evening will blend reading\, concert
+ \, and theater\, with original compositions at the piano\, projected image
+ s\, and atmospheric sounds\, followed by a Q&A. "Sora feels everything –
+  every sorrow\, every fear\, every hidden pain of those around him. Ren di
+ sappears – literally\, shrouded in fog\, invisible to the world. When th
+ ey find each other on neighboring rooftops\, something impossible happens:
+  In Sora's silence\, Ren becomes visible again. As they reach for each oth
+ er\, a place is created that exists only because they sincerely turn towar
+ d one another." The story is the heart of a self-produced indie animation 
+ film project and an illustrated print edition that is currently being fund
+ ed through crowdfunding. Sérgio de Jesus is a filmmaker and multimedia ar
+ tist from Portugal\, residing in Tübingen. His work spans film\, music\, 
+ sound design\, and visual art.
+LOCATION:Haaggasse 26b\, Tübingen
+END:VEVENT
 END:VCALENDAR
