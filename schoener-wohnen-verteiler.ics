@@ -14830,4 +14830,16 @@ DESCRIPTION:Feiere mit uns die 25. Critical Mass Fahrt in Wannweil! Wir tr
  Wannweil zu radeln. Nach der Tour gibt es Kekse und gute Stimmung!
 LOCATION:Westspitze\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussion über die Interessen\, die zum Krieg in der Ukraine gef
+ ührt haben und die Rolle des Westens.
+DTSTART:20260326T190000
+DTEND:20260326T235959Z
+DTSTAMP:20260323T135628Z
+UID:1bed2c8a-4e1f-4ee2-b501-33b5f378a0e7
+DESCRIPTION:Wir analysieren das Buch 'Towards the Abyss' von Volodymyr Ish
+ chenko und diskutieren über die Klassenbeziehungen in der Ukraine\, Russl
+ and und der Welt\, die zu dem Krieg geführt haben.
+LOCATION:SDAJ Tübingen
+END:VEVENT
 END:VCALENDAR
