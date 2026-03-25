@@ -14904,4 +14904,17 @@ DESCRIPTION:Gus Englehorn kommt am Donnerstag dem 26. März zu uns in den
  icht die Gelegenheit\, dieses außergewöhnliche Konzert zu erleben!
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feierliche Eröffnung des Bunten Buchladens mit Programm\, Speisen
+  und Lesung.
+DTSTART:20260401T160000
+DTEND:20260401T210000Z
+DTSTAMP:20260325T210506Z
+UID:fc9d0c8b-c149-4789-92f6-e67f1a57f9f5
+DESCRIPTION:Am 1. April feiern wir die offizielle Ladeneröffnung des Bunt
+ en Buchladens mit einem bunten Programm\, inklusive Küfa\, Glücksrad\, P
+ oetry-Slam und einer Lesung von Kathrin Bauer über ihre Arbeit zur Erinne
+ rungskultur.
+LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
