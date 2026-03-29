@@ -14917,4 +14917,35 @@ DESCRIPTION:Am 1. April feiern wir die offizielle Ladeneröffnung des Bunt
  rungskultur.
 LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warm vegan meal on donation basis
+DTSTART:20260330T190000
+DTEND:20260330T235959Z
+DTSTAMP:20260329T205952Z
+UID:7988cbfd-d628-4819-b125-a177325a6e46
+DESCRIPTION:Friends of the solidary and culinary joys! Are you hungry\, al
+ one and the TV is full of crap? Forget the monday-blues with a warm vegan 
+ meal on donation basis at the Fruchtschranne. On Monday\, 30.3.2026 at 19:
+ 00 there's a nice KüfA. "KüfA" is a short term for "Kitchen for All". Th
+ e idea is that we cook food and give you a recommendation for a donation. 
+ People who have more can give more and people who don't have so much don't
+  give so much or nothing at all. Tea and background music will be provided
+ . Discrimination of any kind will only be tolerated if it is against bad f
+ ood. Come in large numbers\, we look forward to seeing you!
+LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung aus 'Eure Heimat ist unser Albtraum' und Diskussion über d
+ en Begriff Heimat.
+DTSTART:20260402T190000
+DTEND:20260402T210000Z
+DTSTAMP:20260329T205952Z
+UID:031ae2e2-b48c-4726-b1e4-c5da52984687
+DESCRIPTION:In einem offenen Diskussions- und Lesekreis lesen wir Auszüge
+  aus 'Eure Heimat ist unser Albtraum'\, sprechen über den Begriff Heimat 
+ und diskutieren das\, was uns bewegt. Es ist kein Vorwissen erforderlich! 
+ Jeder Teilnehmer kann Textimpulse einbringen. Wir schaffen einen mutigen R
+ aum zum Lernen.
+LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str.61)
+END:VEVENT
 END:VCALENDAR
