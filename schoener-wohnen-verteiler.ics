@@ -14948,4 +14948,19 @@ DESCRIPTION:In einem offenen Diskussions- und Lesekreis lesen wir Auszüge
  aum zum Lernen.
 LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str.61)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film screening of ''Rise Up'' with discussions.
+DTSTART:20260402T180000
+DTEND:20260402T210000Z
+DTSTAMP:20260330T140749Z
+UID:3501a561-750d-422f-bbf1-7aff4a0143fe
+DESCRIPTION:Join us for a film evening at Lu15\, where we will be screenin
+ g ''Rise Up'' (2022). The film explores the efforts of five political acti
+ vists addressing current ecological\, economic\, and authoritarian challen
+ ges. With stunning visuals\, it delves into societal struggles\, resistanc
+ e\, and the pursuit of progress. Features narratives from inspiring indivi
+ duals involved in significant social changes. Don't miss out on this thoug
+ ht-provoking experience!
+LOCATION:Hausbar Ludwigstraße 15\, Darmstadt\, Germany
+END:VEVENT
 END:VCALENDAR
