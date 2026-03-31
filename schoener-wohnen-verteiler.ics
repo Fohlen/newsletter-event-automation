@@ -14963,4 +14963,32 @@ DESCRIPTION:Join us for a film evening at Lu15\, where we will be screenin
  ht-provoking experience!
 LOCATION:Hausbar Ludwigstraße 15\, Darmstadt\, Germany
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine intergalaktische Feier mit Themen aus "Per Anhalter durch die
+  Galaxis".
+DTSTART:20260411T200000
+DTEND:20260411T235959Z
+DTSTAMP:20260331T141002Z
+UID:4b770e1f-5bd5-4e0d-8579-30b600b108a3
+DESCRIPTION:KEINE PANIK! Die Suche nach der Antwort auf die Frage nach dem
+  Leben\, dem Universum und dem ganzen Rest hat ein Ende! Kommt am 11.4.26 
+ einfach in die Hegel! Ob als Mäuse\, depressive Roboter\, Vogonen\, zweik
+ öpfige ehemalige galaktische Präsidenten oder einfach nur mit eurem Hand
+ tuch! Wir sind gespannt auf eure spacigen Outfits & freuen uns darauf mit 
+ euch interstellar zu tanzen!
+LOCATION:Hegel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fotostudio für die Aktion Gesichter Gegen Rechts
+DTSTART:20260407T140000
+DTEND:20260407T180000Z
+DTSTAMP:20260331T141002Z
+UID:29a6a89d-c1a1-4302-9541-e52c1542cd7c
+DESCRIPTION:Am 7. April verwandelt sich das FRANZ!werk im Französischen V
+ iertel in Tübingen in ein offenes Fotostudio. Jeder kann mitmachen und se
+ in Gesicht zeigen\, um gegen Rechtsextremismus\, Hass und Ausgrenzung Stel
+ lung zu beziehen. Getränke und Musik werden angeboten.
+LOCATION:FRANZ!werk\, Bei den Pferdeställen 8\, Französisches Viertel\, 
+ Tübingen
+END:VEVENT
 END:VCALENDAR
