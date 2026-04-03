@@ -14991,4 +14991,15 @@ DESCRIPTION:Am 7. April verwandelt sich das FRANZ!werk im Französischen V
 LOCATION:FRANZ!werk\, Bei den Pferdeställen 8\, Französisches Viertel\, 
  Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine Lesung über Zykluswissen und Selbstfürsorge.
+DTSTART:20260412T140000
+DTEND:20260412T160000Z
+DTSTAMP:20260403T134454Z
+UID:bdef19ba-d118-4e95-8f26-9ad2e23de3e6
+DESCRIPTION:In dieser interaktiven Lesung präsentieren Leonie und Donata 
+ evidenzbasiertes Wissen über den Zyklus und zeigen praktische Impulse zur
+  Selbstfürsorge. Die Veranstaltung bietet Raum für Fragen und Austausch.
+LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
