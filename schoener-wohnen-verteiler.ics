@@ -15002,4 +15002,25 @@ DESCRIPTION:In dieser interaktiven Lesung präsentieren Leonie und Donata
   Selbstfürsorge. Die Veranstaltung bietet Raum für Fragen und Austausch.
 LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarity event with live music performances.
+DTSTART:20260409T180000
+DTEND:20260409T230000Z
+DTSTAMP:20260403T210354Z
+UID:dfdfd6af-0037-4db3-a116-52402243a36e
+DESCRIPTION:Join us for a solidarity gathering at Sternplatz with food and
+  drinks\, followed by performances at Lu15 Bar. Let's show our support and
+  fight against repression!
+LOCATION:Sternplatz\, followed by Lu15 Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Kochen und Essen im Wohnprojekt Tante Huber
+DTSTART:20260406T180000
+DTEND:20260406T235959Z
+DTSTAMP:20260403T210354Z
+UID:7d069ef9-87c7-4006-b804-9cddc3eaecb8
+DESCRIPTION:Ein entspannter Raum für gemeinsames Beisammensein mit lecker
+ em veganen Essen auf Spendenbasis. Bringt Familie und Freunde mit!
+LOCATION:Huberstraße 14/16\, Gemeinschaftsraum\, barrierefrei
+END:VEVENT
 END:VCALENDAR
