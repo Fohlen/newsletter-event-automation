@@ -15023,4 +15023,15 @@ DESCRIPTION:Ein entspannter Raum für gemeinsames Beisammensein mit lecker
  em veganen Essen auf Spendenbasis. Bringt Familie und Freunde mit!
 LOCATION:Huberstraße 14/16\, Gemeinschaftsraum\, barrierefrei
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Info-Vortrag über den Protest gegen den antifeministischen "Marsc
+ h fürs Leben" und die Anreise nach München.
+DTSTART:20260407T190000
+DTEND:20260407T235959Z
+DTSTAMP:20260404T133604Z
+UID:48c3e5db-6f28-49c0-b770-378a175e20a1
+DESCRIPTION:Wir informieren über die Akteur:innen\, Netzwerke und die Ein
+ zelheiten zur Anreise nach München für den Protest am 18.04.
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
