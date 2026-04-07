@@ -15034,4 +15034,69 @@ DESCRIPTION:Wir informieren über die Akteur:innen\, Netzwerke und die Ein
  zelheiten zur Anreise nach München für den Protest am 18.04.
 LOCATION:Blaue Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Präsentation über deutsch-israelische Militärkooperationen und 
+ deren Bedeutung für die Militarisierung in Deutschland.
+DTSTART:20260407T190000
+DTEND:20260407T235959Z
+DTSTAMP:20260407T140946Z
+UID:89bb7344-e125-4c34-a3d4-92642510814c
+DESCRIPTION:Israel begeht ein Verbrechen gegen das Völkerrecht nach dem A
+ nderen. Dennoch nähert sich ihm der deutsche Staat an. Unser Praktikant M
+ elchior wird seine Recherche zu deutsch-israelischen Militärkooperationen
+  präsentieren.
+LOCATION:IMI-Büro im Sudhaus\, Hechingerstr. 203\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatliches Treffen zum Austausch und Planung von Aktionen.
+DTSTART:20260408T190000
+DTEND:20260408T235959Z
+DTSTAMP:20260407T140946Z
+UID:c911aece-aac3-427a-91c5-54393105cac2
+DESCRIPTION:Liebe Freund:innen\, am kommenden Mittwoch um 19 Uhr findet wi
+ eder unser Antiautoritäres Treffen statt. Monatlich treten wir im Schelli
+ ng Infoladen in Austausch und planen Aktionen. Kommt gern auch mit eigenen
+  Themen - Vorerfahrungen sind nicht notwendig! Ggf. kann aber eine halbe S
+ tunde früher gekommen werden\, um sich einmal kennen zu lernen. Wir freue
+ n uns auf Euch!
+LOCATION:Schelling Infoladen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Fahrradtour für eine nachhaltige und fahrradfreundlich
+ e Stadt
+DTSTART:20260417T180000
+DTEND:20260417T235959Z
+DTSTAMP:20260407T140946Z
+UID:3a3927f4-cedd-4fc2-abbf-eef674773af9
+DESCRIPTION:Es geht kreuz und quer durch Tübingen\, diesmal wieder mit ex
+ tra viel Bundesstraße! Lasst uns ein Zeichen für eine nachhaltige und fa
+ hrradfreundliche Stadt setzen. Jede Teilnahme zählt und macht unseren Pro
+ test für bessere Radinfrastruktur sichtbarer! Seid dabei und genießt ein
+ e entspannte Fahrt durch unsere schöne Stadt. Je mehr wir sind\, desto st
+ ärker unser Signal!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music event featuring Yanos & Sérac.
+DTSTART:20260410T190000
+DTEND:20260410T220000Z
+DTSTAMP:20260407T140946Z
+UID:9fc2e136-a3a8-405a-ac64-767853436269
+DESCRIPTION:Join us for an exciting evening with Yanos & Sérac at the Lu1
+ 5-Hausbar. Doors open at 19:00 and the show starts at 20:30. Don't miss ou
+ t!
+LOCATION:Ludwigstraße 15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit Edyta Gepard\, gefolgt von einer offenen Impro-Runde.
+DTSTART:20260411T180000
+DTEND:20260411T210000Z
+DTSTAMP:20260407T140946Z
+UID:22bacf65-750a-4012-8e52-0e2b4b7ac606
+DESCRIPTION:Eine Reise durch Intuition\, Konstruktion und Dekonstruktion. 
+ Der Weg ist gefleckt wie ein Gepard\; du kannst in größeren oder kleiner
+ en Gruppen umherwandern\, oder alleine gehen. Mit Patrycja Pączkowska (Fl
+ öte\, Bass\, Stimme) und Maciej Karmiński (Schlagzeug\, Schubkarre).
+LOCATION:Lu 15\, Toruń\, Deutschland
+END:VEVENT
 END:VCALENDAR
