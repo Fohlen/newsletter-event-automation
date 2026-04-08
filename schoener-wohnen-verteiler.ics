@@ -15099,4 +15099,32 @@ DESCRIPTION:Eine Reise durch Intuition\, Konstruktion und Dekonstruktion.
  öte\, Bass\, Stimme) und Maciej Karmiński (Schlagzeug\, Schubkarre).
 LOCATION:Lu 15\, Toruń\, Deutschland
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antikapitalistische Demonstration in Tübingen.
+DTSTART:20260501T101500
+DTEND:20260501T235959Z
+DTSTAMP:20260408T141032Z
+UID:f39deb58-80cf-4fbf-84ae-7393081d23ca
+DESCRIPTION:Am 1. Mai gehen wir als arbeitende Klasse auf die Straße\, um
+  gemeinsam für eine sozialistische Gesellschaft zu kämpfen. Kommt mit un
+ s auf die Straße!
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Hausbar mit dem Thema Briefe in Knäste in Belarus\,
+  Russland und Deutschland.
+DTSTART:20260405T200000
+DTEND:20260405T235959Z
+DTSTAMP:20260408T141032Z
+UID:fef4be09-d4f6-4d65-9826-e18360c7f71c
+DESCRIPTION:Wir laden Euch herzlich wie jeden Mittwoch zur Hausbar um 20h 
+ in die Schellingstraße 6 ein. Diese Woche wird es Anleitungen und die Mö
+ glichkeit geben\, Briefe in Knäste in Belarus\, Russland und Deutschland 
+ zu schicken und sich darüber auszutauschen. Informationen zu den Themen f
+ indet Ihr hier: Briefe an politische Gefangene in Belarus: https://prisone
+ rs.spring96.org/mail.html\, Briefe an politische Gefangene in Russland: ht
+ tps://vestochka.io/en\, Briefe an die Angeklagten in den Verfahren Antifa 
+ Ost/Budapest: https://www.basc.news/briefe-in-den-knast/.
+LOCATION:Schellingstraße 6\, Hausbar
+END:VEVENT
 END:VCALENDAR
