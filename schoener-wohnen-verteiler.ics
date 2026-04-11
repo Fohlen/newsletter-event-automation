@@ -15127,4 +15127,29 @@ DESCRIPTION:Wir laden Euch herzlich wie jeden Mittwoch zur Hausbar um 20h
  Ost/Budapest: https://www.basc.news/briefe-in-den-knast/.
 LOCATION:Schellingstraße 6\, Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzerte von DEN DER HALE und THIER
+DTSTART:20260429T193000
+DTEND:20260429T230000Z
+DTSTAMP:20260411T133904Z
+UID:04b14d81-f501-497f-9594-49888105b91f
+DESCRIPTION:Die schwedische Band DEN DER HALE bewegt sich zwischen mystisc
+ hen folk-inspirierten nordisch-psychedelischen Klangwelten. Begleitet werd
+ en sie von der Band THIER\, die einen einzigartigen Instrumental Kraut Hop
+  bietet.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet & Greet mit Roman Jung und Jihan Alomar\, inklusive Möglichk
+ eit zur Anmeldung für das Beachvolleyball Turnier.
+DTSTART:20260411T180000
+DTEND:20260411T193000Z
+DTSTAMP:20260411T133904Z
+UID:e5bc98d5-f533-4b77-b251-a9a79486237f
+DESCRIPTION:Dies ist ein Event von Children First e.V.\, um auf die Kinder
+ armut aufmerksam zu machen. Hier können sich Teilnehmer für das Charity 
+ Beachvolleyball Turnier anmelden und die Möglichkeit nutzen\, mit den Ini
+ tiatoren und Activistinnen ins Gespräch zu kommen.
+LOCATION:Neckawa\, Tübingen
+END:VEVENT
 END:VCALENDAR
