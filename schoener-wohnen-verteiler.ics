@@ -15152,4 +15152,30 @@ DESCRIPTION:Dies ist ein Event von Children First e.V.\, um auf die Kinder
  tiatoren und Activistinnen ins Gespräch zu kommen.
 LOCATION:Neckawa\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung des Dokuments über die Opposition bei Opel in Boc
+ hum.
+DTSTART:20260420T184500
+DTEND:20260420T210000Z
+DTSTAMP:20260413T141545Z
+UID:40161e5a-58b4-40e3-80ce-18a96bad6d1c
+DESCRIPTION:Wir zeigen den Film „Luft zu Atmen“ vom Labournet.tv. Eine
+  beeindruckende Dokumentation über das Entstehen realer Gegenmacht im Ope
+ l-Werk in Bochum. Einlass um 18:45 Uhr\, Beginn um 19:00 Uhr. Eintritt fre
+ i!
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Projekttag mit Austausch\, Information und Empowerment gegen G
+ ewalt an FLINTA*. Es gibt Vorträge und einen Selbstverteidigungskurs.
+DTSTART:20260425T100000
+DTEND:20260425T235959Z
+DTSTAMP:20260413T141545Z
+UID:a34f8e12-346a-4cf1-8ef2-3084afc72533
+DESCRIPTION:Die Ortsgruppe Tübingen der Feminist Law Clinic veranstaltet 
+ einen Projekttag gegen Gewalt an FLINTA* mit verschiedenen Organisationen\
+ , Vorträgen und einem Selbstverteidigungskurs. Die Teilnahme ist kostenfr
+ ei!
+LOCATION:Queeres Zentrum Tübingen\, Derendinger Str. 41\, 72072 Tübingen
+END:VEVENT
 END:VCALENDAR
