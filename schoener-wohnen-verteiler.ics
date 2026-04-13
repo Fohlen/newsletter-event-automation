@@ -15178,4 +15178,14 @@ DESCRIPTION:Die Ortsgruppe Tübingen der Feminist Law Clinic veranstaltet
  ei!
 LOCATION:Queeres Zentrum Tübingen\, Derendinger Str. 41\, 72072 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food\, connection\, and solidarity!
+DTSTART:20260414T180000
+DTEND:20260414T235959Z
+DTSTAMP:20260413T212555Z
+UID:4ef6b7af-c74a-4e66-b6e1-8691331e6d4d
+DESCRIPTION:We gather every Tuesday for a community meal. Come hungry\, in
+  large numbers\, and as you are!
+LOCATION:Siggi11 Garden
+END:VEVENT
 END:VCALENDAR
