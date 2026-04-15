@@ -15188,4 +15188,82 @@ DESCRIPTION:We gather every Tuesday for a community meal. Come hungry\, in
   large numbers\, and as you are!
 LOCATION:Siggi11 Garden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aktion für den Gasausstieg in Tübingen
+DTSTART:20260424T190000
+DTEND:20260424T235959Z
+DTSTAMP:20260415T213015Z
+UID:3e3b549a-f4d9-40a1-a79f-466dcebcd2b3
+DESCRIPTION:Statt die Energiewende voranzubringen\, verfeuert Katherina Re
+ iche unseren Planeten. Neue Gaskraftwerke\, Gasbohrungen in Deutschland un
+ d Angriffe auf den Ausbau von Wind- und Solarenergie - das nehmen wir nich
+ t hin! Kommt vorbei und setzt mit uns ein Zeichen gegen diesen fossilen Wa
+ hnsinn.
+LOCATION:Marktplatz\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Globale Solidarität - Gegen die Macht der Oligarchen und Autokrat
+ en\, für eine umfassende sozial-ökologische Transformation
+DTSTART:20260506T190000
+DTEND:20260506T210000Z
+DTSTAMP:20260415T213015Z
+UID:10644ca9-e2db-4183-a1df-a875cb1c66df
+DESCRIPTION:Klimakrise\, Ausbeutung\, Kriege: Wenn wir die Krisen unserer 
+ Zeit überwinden wollen\, müssen wir uns von der imperialen Lebensweise b
+ efreien. Alexander Behr schlägt in seinem leidenschaftlichen Plädoyer f
+ ür globale Solidarität Wege vor\, wie dies gelingen kann. In dem Buch ve
+ rknüpft Behr wissenschaftliche Analysen mit journalistischen Recherchen. 
+ Dazu diskutiert er konkrete Kampagnen. Wichtige Bezugspunkte sind das tran
+ snationale Netzwerk Afrique-Europe-Interact\, die Hilfs- und Menschenrecht
+ sorganisation medico international\, Kampagnen gegen Oligarchen und Superr
+ eiche\, verschiedene Kommunenprojekte und zahlreiche Gruppen aus der Klima
+ gerechtigkeitsbewegung. Die Veranstaltung findet in Kooperation mit der Ro
+ sa-Luxemburg-Stiftung Baden-Württemberg statt. Bitte beachtet\, dass die 
+ Hausbar nicht barrierefrei zugänglich ist. Bei Fragen rund um Barrieren k
+ önnt ihr euch gern an barrierearmut@schellingstrasse.de wenden.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrrad-Demo für bessere Radinfrastruktur
+DTSTART:20260417T180000
+DTEND:20260417T235959Z
+DTSTAMP:20260415T213015Z
+UID:183bb535-9b6d-4ebe-b872-d7c746a59ec1
+DESCRIPTION:Am Freitag (17.04.) geht es wieder los! Es ist Critical Mass a
+ ngesagt. Wir treffen uns wie immer um 18:00 an der Uni-Bib\, Wilhelmstraß
+ e 32. Es geht kreuz und quer durch Tübingen\, wieder mit extra viel Bunde
+ sstraße! Lasst uns ein Zeichen für eine nachhaltige und fahrradfreundlic
+ he Stadt setzen. Jede Teilnahme zählt und macht unseren Protest für bess
+ ere Radinfrastruktur sichtbarer! Seid dabei und genießt eine entspannte F
+ ahrt durch unsere schöne Stadt. Je mehr wir sind\, desto stärker unser S
+ ignal!
+LOCATION:Uni-Bibliothek\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kick-off for the new party series by queer feminist collective FAK
+ .
+DTSTART:20260417T220000
+DTEND:20260417T235959Z
+DTSTAMP:20260415T213015Z
+UID:873ff122-f26c-4218-a924-37b3d59dd6f4
+DESCRIPTION:Join us for the launch of our new party series focusing on dif
+ ferent music genres that we love. Our first event features Groove with Ani
+ ca from Hyperdose Kollektiv Stuttgart\, along with FAK DJs blkshogun\, dil
+ mena\, freihaendig\, and kataxstrophal. Entry is 5€\, with an awareness 
+ team present.
+LOCATION:Schlachthaus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zu einem einzigartigen Theaterstück der Theatergruppe U
+ munyinya asbl aus Burundi.
+DTSTART:20260416T170000
+DTEND:20260416T193000Z
+DTSTAMP:20260415T213015Z
+UID:1f236d3a-09e7-4b9a-974e-584b76886820
+DESCRIPTION:Das Stück wird auf Kirundi gespielt. Einführung\, Zusammenfa
+ ssung und Diskussion gibt es auf Deutsch und Englisch. Themen: Identität\
+ , Erinnerung und (De)kolonisierung. DJ Emi wird den Abend mit Afrobeats um
+ rahmen.
+LOCATION:Franz!Werk\, Südstadt Tübingen
+END:VEVENT
 END:VCALENDAR
