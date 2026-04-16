@@ -15266,4 +15266,28 @@ DESCRIPTION:Das Stück wird auf Kirundi gespielt. Einführung\, Zusammenfa
  rahmen.
 LOCATION:Franz!Werk\, Südstadt Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vegan cooking event
+DTSTART:20260420T180000
+DTEND:20260420T235959Z
+DTSTAMP:20260416T142220Z
+UID:b2af2580-6477-4689-b64e-540df68839b1
+DESCRIPTION:Am kommenden Montag kocht die Münze 7 für euch! Kommt gerne 
+ zum Essen um 18 Uhr vorbei! Es wird vegan gekocht. Wir freuen uns über ei
+ ne kleine Spende\, falls ihr was über habt.
+LOCATION:Münzgasse 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veranstaltung zur Ressourcengerechtigkeit weltweit.
+DTSTART:20260416T170000
+DTEND:20260416T235959Z
+DTSTAMP:20260416T142220Z
+UID:3d89a0e8-5788-4cc4-a120-b42201ed4094
+DESCRIPTION:FAIRstrickt veranstaltet vom 16.-26. April die Aktionswoche "F
+ airteilen.Macht.Mehr - Ressourcengerechtigkeit weltweit!" mit 12 Veranstal
+ tungen und einem Podcast. Die Eröffnungsveranstaltung beinhaltet ein Thea
+ terstück aus Burundi und endet mit diversen Workshops und Vorträgen zur 
+ Rohstoffgerechtigkeit.
+LOCATION:Wertkstadthaus Tübingen
+END:VEVENT
 END:VCALENDAR
