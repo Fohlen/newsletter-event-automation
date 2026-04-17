@@ -15290,4 +15290,17 @@ DESCRIPTION:FAIRstrickt veranstaltet vom 16.-26. April die Aktionswoche "F
  Rohstoffgerechtigkeit.
 LOCATION:Wertkstadthaus Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROOTS REGGAE & UK DUB SOUNDSYSTEM GATHERING
+DTSTART:20260417T190000
+DTEND:20260417T235959Z
+DTSTAMP:20260417T140434Z
+UID:1ce57574-5625-49c6-b757-bb7ab36f1720
+DESCRIPTION:Join us for a cozy and spontaneous evening filled with sound a
+ nd good vibes at Epplehaus. Enjoy homemade soul food\, snacks\, and fresh 
+ fruits\, all for donation. Experience the best of vinyl and dubplate selec
+ tions from early Roots Reggae classics to UK Dub\, presented by resident s
+ electas and guest soundsystem. Come and uplift your spirits with us!
+LOCATION:Epplehaus
+END:VEVENT
 END:VCALENDAR
