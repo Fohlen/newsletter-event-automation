@@ -15303,4 +15303,17 @@ DESCRIPTION:Join us for a cozy and spontaneous evening filled with sound a
  electas and guest soundsystem. Come and uplift your spirits with us!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli Pena Veranstaltung mit Live-Musik und Kinderprogramm\, um den
+  Opfern der Waldbrände in Chile zu helfen.
+DTSTART:20260418T163000
+DTEND:20260418T210000Z
+DTSTAMP:20260417T212301Z
+UID:c1043ee2-3e86-4ec7-8b9e-d909dcdd7b69
+DESCRIPTION:Eine Veranstaltung zur Unterstützung der von Waldbränden bet
+ roffenen Menschen in der Zentralregion Chiles. Der Abend beinhaltet ein Ki
+ nderprogramm\, verschiedene Workshops und ein solidarisches Abendessen mit
+  Live-Musik.
+LOCATION:Blauer Salon
+END:VEVENT
 END:VCALENDAR
