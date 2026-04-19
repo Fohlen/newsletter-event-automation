@@ -15316,4 +15316,28 @@ DESCRIPTION:Eine Veranstaltung zur Unterstützung der von Waldbränden bet
   Live-Musik.
 LOCATION:Blauer Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a community dinner!
+DTSTART:20260421T180000
+DTEND:20260421T235959Z
+DTSTAMP:20260419T210451Z
+UID:6a920cf2-9d25-4c1d-89f3-e2e6572963c6
+DESCRIPTION:Come hungry and enjoy a cozy evening with us at Siggi11. We wi
+ ll create a welcoming space in our garden for everyone to connect and shar
+ e a meal. Hope to see you there!
+LOCATION:Siggi11 Garden\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Treffen zur Diskussion über klimagerechte Lösungen jenseits 
+ des Kapitalismus.
+DTSTART:20260423T190000
+DTEND:20260423T235959Z
+DTSTAMP:20260419T210451Z
+UID:dab77528-a610-4a22-ac6c-d9c29b07534f
+DESCRIPTION:Als antikapitalistisches Klimatreffen glauben wir\, dass in ei
+ nem von Konkurrenzkampf und Profitzwang getriebenen System keine sozialen 
+ Antworten auf die Klimakrise existieren können. Wir treffen uns\, um übe
+ r den 1. Mai und unseren Strukturtag zu sprechen.
+LOCATION:Nauklerstraße 50
+END:VEVENT
 END:VCALENDAR
