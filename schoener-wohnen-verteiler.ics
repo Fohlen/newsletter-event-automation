@@ -15340,4 +15340,30 @@ DESCRIPTION:Als antikapitalistisches Klimatreffen glauben wir\, dass in ei
  r den 1. Mai und unseren Strukturtag zu sprechen.
 LOCATION:Nauklerstraße 50
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung mit Veronika Kracher im Kupferbau\, Hörsaal 22.
+DTSTART:20260430T183000
+DTEND:20260430T200000Z
+DTSTAMP:20260420T212625Z
+UID:5108125c-b0a0-4501-9033-105d6e2a1851
+DESCRIPTION:Am 30.04. lädt der Arbeitskreis Politische Bildung der Verfas
+ sten Studierendenschaft Tübingen zur Lesung des Buchs "Bitch Hunt. Warum 
+ wir es lieben Frauen zu hassen" von Veronika Kracher ein. Einlass ist um 1
+ 8:00 Uhr\, die Lesung beginnt um 18:30 Uhr. Nach der Lesung gibt es eine D
+ emo zur Take Back The Night.
+LOCATION:Kupferbau\, Hörsaal 22\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Straßenfest am Linke Zentrum Trude Lutz zum Tag der Arbeit.
+DTSTART:20260501T130000
+DTEND:20260501T200000Z
+DTSTAMP:20260420T212625Z
+UID:3bec5f9f-cc44-4dcd-afe6-244c300b858e
+DESCRIPTION:Am ersten Mai feiern wir die Arbeiter:innen und Lohnabhängige
+ n. Es gibt ein buntes Programm\, eine Fotoausstellung\, eine Theaterauffü
+ hrung und eine Tombola. Kinder-Ecke und Verpflegung sind ebenfalls vorhand
+ en. Fokus auf internationalen und aktuellen Klassenkämpfen auf Spendenbas
+ is.
+LOCATION:Linke Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
 END:VCALENDAR
