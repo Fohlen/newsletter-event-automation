@@ -15366,4 +15366,78 @@ DESCRIPTION:Am ersten Mai feiern wir die Arbeiter:innen und Lohnabhängige
  is.
 LOCATION:Linke Zentrum Trude Lutz\, Nauklerstr. 50\, 72074 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feiert mit uns unter dem Motto „Beats Without Borders“!
+DTSTART:20260425T220000
+DTEND:20260425T235959Z
+DTSTAMP:20260423T212510Z
+UID:964f50fe-57e4-4e45-9af1-37bd8b88bb56
+DESCRIPTION:Eine tanzbare Mischung aus Afrobeat\, Cumbia\, Dub und anderen
+  Sounds des globalen Südens. Die Einnahmen des Abends fördern den Austau
+ sch zwischen Tübingen und unserem Partnerradio Stereo Villa in Villa El S
+ alvador\, Peru und stärken die internationale Zusammenarbeit der Radiopro
+ jekte.
+LOCATION:Epplehaus\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarisches Feiern und Austausch über Arbeit und Gesellschaft.
+DTSTART:20260501T140000
+DTEND:20260501T200000Z
+DTSTAMP:20260423T212510Z
+UID:144499ec-f91e-40e1-b15e-85f3913f091f
+DESCRIPTION:Am Ersten Mai feiern wir zusammen am Sternplatzfest. Es gibt M
+ usik\, Reden\, Informationsstände\, eine Soli-Küfa und Kinderbetreuung. 
+ Programmpunkte: 15 Uhr Mobi-Vortrag Ende Gelände Massenaktion\, 16 Uhr Vo
+ rtrag The Peoples Caravan nach Kobane\, 17 Uhr Vibeshift Vortrag zu Rechts
+ ruck & Palantir\, 18 Uhr Syndikalismus Vortrag der FAU. Kommt vorbei und v
+ ernetzt euch!
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration und Tanzparty zum ersten Mai
+DTSTART:20260501T220000
+DTEND:20260501T235959Z
+DTSTAMP:20260423T212510Z
+UID:528a3d1a-401b-46e2-b456-797361255ada
+DESCRIPTION:Erhebt eure Fäuste & Füsse zum ersten Mai! Nach dem Demonstr
+ ieren ab 22 Uhr blumiger Tanz zu Acid/House/Dub/Techno in der Hegel!
+LOCATION:Hegel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Kundgebung zur Unterstützung eines Mitglieds der FAU\,
+  das von ihrem Arbeitgeber Dokumente und ausstehenden Lohn fordert.
+DTSTART:20260428T170000
+DTEND:20260428T235959Z
+DTSTAMP:20260423T212510Z
+UID:a1336abe-86b2-4ab8-8c4c-6e28aa023105
+DESCRIPTION:Wir fordern zusammen mit unserer Kollegin\, dass der Arbeitgeb
+ er seinen Pflichten nachkommt. Die Dokumente sind wichtig für weitere Bew
+ erbungen oder Arbeitslosengeld. Kommt zur Kundgebung am 28.04.2026\, um 17
+  Uhr am Berghof in Tübingen Lustnau.
+LOCATION:Ob dem Himmelreich 5\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demonstration zum Tag der Arbeit.
+DTSTART:20260430T180000
+DTEND:20260430T235959Z
+DTSTAMP:20260423T212510Z
+UID:a8594b34-2d88-4d27-bede-1d5bc450c739
+DESCRIPTION:Wir rufen zur revolutionären Demo auf\, um die Idee einer ger
+ echteren Welt\, dem Sozialismus\, sichtbar zu machen. Kommt mit uns auf di
+ e Straße!
+LOCATION:Jugendherberge\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutschlandweiter Aktionstag zur Unterstützung des AfD-Verbots.
+DTSTART:20260523T160000
+DTEND:20260523T190000Z
+DTSTAMP:20260423T212510Z
+UID:dfb2512f-917f-4c6f-ab06-71abe1e072d0
+DESCRIPTION:Die Kampagne "Menschenwürde verteidigen – AfD-Verbot jetzt!
+ " und das Bündnis Aufstehen gegen Rassismus organisieren einen Aktionstag
+  am Tag des Grundgesetzes. In Tübingen wird eine Veranstaltung mit Redebe
+ iträgen\, Infoständen und Musik stattfinden\, um zur politischen Teilhab
+ e zu mobilisieren.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
