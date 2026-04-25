@@ -15452,4 +15452,20 @@ DESCRIPTION:CINELATINO lädt ein zur Podiumsdiskussion zum Thema „Mensch
  verschiedenen Aspekten. Eintritt frei!
 LOCATION:Café Haag\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teilzeitstelle (50%) in der Stadtverwaltung Tübingen zur Durchset
+ zung von Mietschutzregelungen.
+DTSTART:20261025T090000
+DTEND:20261025T235959Z
+DTSTAMP:20260425T210723Z
+UID:0b7dec4d-b117-4f3c-8038-e6d16f94b064
+DESCRIPTION:Die Stadt Tübingen sucht eine Person für die unbefristete St
+ elle als Projektleitung zur Stabilisierung des Mietwohnungsmarktes. Zu den
+  Aufgaben gehören die Durchsetzung bestehender Regeln zum Schutz vor übe
+ rhöhten Mieten\, Beratung in mietrechtlichen Angelegenheiten und Öffentl
+ ichkeitsarbeit. Anforderungen sind ein abgeschlossenes Hochschulstudium (M
+ aster)\, Erfahrung in Projekt- und Öffentlichkeitsarbeit sowie eine hohe 
+ soziale Kompetenz.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
