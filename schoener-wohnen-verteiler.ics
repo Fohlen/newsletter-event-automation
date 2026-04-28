@@ -15573,4 +15573,16 @@ DESCRIPTION:Die mystische schwedische Post-Psych-Band Den Der Hale und die
   instrumentale Kraut Hop Band THIER treten auf. Eintritt gegen Spende.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treffen für Studierende zum Austausch über Frustrationen und Lö
+ sungen.
+DTSTART:20260503T120000
+DTEND:20260503T235959Z
+DTSTAMP:20260428T150552Z
+UID:6e539e90-cd91-4785-9c43-fccd086d1c40
+DESCRIPTION:Wir treffen uns\, um über unsere Probleme im Studium zu sprec
+ hen und gegenseitig Unterstützung zu bieten. Gemeinsam wollen wir Ideen f
+ ür zukünftige Events entwickeln.
+LOCATION:vor dem Brechtbau
+END:VEVENT
 END:VCALENDAR
