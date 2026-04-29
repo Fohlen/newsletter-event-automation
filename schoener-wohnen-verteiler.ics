@@ -15585,4 +15585,16 @@ DESCRIPTION:Wir treffen uns\, um über unsere Probleme im Studium zu sprec
  ür zukünftige Events entwickeln.
 LOCATION:vor dem Brechtbau
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühlingsflohmarkt mit Stöbern\, Limo\, Sekt\, Kaffee und Kuchen
+ .
+DTSTART:20260509T100000
+DTEND:20260509T150000Z
+DTSTAMP:20260429T214051Z
+UID:9ce6f920-165a-45a5-9ed9-8ddda0ba6a62
+DESCRIPTION:Wir laden herzlich zum Frühlingsflohmarkt ins 4-Häuser-Proje
+ kt ein! Kommt vorbei\, um durch die Stände zu stöbern\, während ihr ein
+ e Limo\, Sekt oder Kaffee und Kuchen genießt.
+LOCATION:Vor der Hechinger Str. 40
+END:VEVENT
 END:VCALENDAR
