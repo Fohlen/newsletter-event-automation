@@ -15597,4 +15597,62 @@ DESCRIPTION:Wir laden herzlich zum Frühlingsflohmarkt ins 4-Häuser-Proje
  e Limo\, Sekt oder Kaffee und Kuchen genießt.
 LOCATION:Vor der Hechinger Str. 40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag und Diskussion zu globaler Solidarität und sozial-ökolog
+ ischer Transformation.
+DTSTART:20260506T190000
+DTEND:20260506T235959Z
+DTSTAMP:20260430T213422Z
+UID:fb5bb8f0-f0c6-4235-97b9-17f4e5e95aa3
+DESCRIPTION:Alexander Behr spricht über Wege zur Überwindung der Krisen 
+ unserer Zeit und die Bedeutung von globaler Solidarität. Die Veranstaltun
+ g beinhaltet veganes Essen und eine Diskussion\, unterstützt von der Rosa
+ -Luxemburg-Stiftung Baden-Württemberg. Bringt Bargeld für den Gutschein-
+ Tausch mit!
+LOCATION:Hausbar der Schellingstraße 6\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsames Singen von Arbeiter*innenliedern mit Anekdoten aus der
+  Geschichte.
+DTSTART:20260503T180000
+DTEND:20260503T235959Z
+DTSTAMP:20260430T213422Z
+UID:34bb35dd-4fd6-4088-8ad6-8d18e177d467
+DESCRIPTION:Auf die Bühne gespült von den roten Fluten der Arbeiter*inne
+ njugendbewegung tauchen die Partisanen von l'amour mit uns ein in die Welt
+  der Arbeiter*innenlieder. Ausgestattet mit einem Schwung Liederbücher un
+ d jeder Menge historischer Anekdoten aus der internationalen Arbeiter*inne
+ nbewegung laden sie uns ein\, die Lieder so zu singen\, wie sie gesungen w
+ erden sollen: zusammen und aus voller Kehle. Also\, adelante\, wo dein Pla
+ tz Genossin ist!
+LOCATION:Parteibüro Die Linke\, Metzgergasse 8\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein besonderes Treffen für Downtempo-Musik und Gemeinschaft.
+DTSTART:20261001T150000
+DTEND:20261001T190000Z
+DTSTAMP:20260430T213422Z
+UID:2214d4dd-42e2-4d8a-aa5c-f168d135f125
+DESCRIPTION:Komm vorbei und genieße einen intimen Nachmittag im Franzwerk
+  (Tübingen) mit Sets von Jimmy Möhre und Ravandy. Eintritt auf Spendenba
+ sis (5–10 €). Bring deine Präsenz\, deine Vibes und die Lust\, dich t
+ reiben zu lassen. Für mehr Infos findest du uns unter @schimpf.invites.
+LOCATION:Franzwerk\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a night of incredible music and vibes with DUBARISE re
+ turning to the stage!
+DTSTART:20260501T200000
+DTEND:20260501T235959Z
+DTSTAMP:20260430T213422Z
+UID:55dc0767-33bd-4ac6-81c4-b88dab73ebc1
+DESCRIPTION:After a full-house-on-fire-concert last year\, we are thrilled
+  to welcome back DUBARISE from Stuttgart for another WE DUB Live Special e
+ dition. The festival and concert season of 2026 will feature DUBARISE with
+  fresh singles\, Dubs by Tippy I Grade\, and a new album set to release in
+  mid-2026. The warm-up and afterparty will feature WE DUB resident selecta
+ s Sis Laura & Selekta Kwaby\, powered by Love Dem Soundsystem. Come throug
+ h for strictly conscious vibes!
+LOCATION:Epplehaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
