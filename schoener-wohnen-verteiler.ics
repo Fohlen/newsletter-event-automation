@@ -15672,4 +15672,20 @@ DESCRIPTION:Wir laden wieder ein zum Lesekreis im Bunten Buchladen! Dieses
   teilzunehmen.
 LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Menschenrechte sind nicht verhandelbar - Inklusion ist kein Luxus
+DTSTART:20260509T110000
+DTEND:20260509T160000Z
+DTSTAMP:20260503T135529Z
+UID:c2b1be8c-58ed-46d6-bcc5-53719663c3bc
+DESCRIPTION:Am 9. Mai 2026 findet in Tübingen eine Demonstration mit ansc
+ hließender Kundgebung anlässlich des Europäischen Protesttags zur Gleic
+ hstellung von Menschen mit Behinderung statt. Auftakt ist um 11:00 Uhr auf
+  dem Europaplatz. Ziel ist es\, öffentlich sichtbar auf die Forderung nac
+ h echter Gleichstellung und Teilhabe für alle Menschen aufmerksam zu mach
+ en. Es gibt Redebeiträge\, musikalische Programmpunkte sowie einen beglei
+ tenden Bus für eine Pause. Kaffee und Kuchen stehen ebenfalls zur Verfüg
+ ung.
+LOCATION:Europaplatz\, Tübingen
+END:VEVENT
 END:VCALENDAR
