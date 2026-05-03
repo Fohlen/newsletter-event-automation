@@ -15688,4 +15688,18 @@ DESCRIPTION:Am 9. Mai 2026 findet in Tübingen eine Demonstration mit ansc
  ung.
 LOCATION:Europaplatz\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pablo Flock von der Informationsstelle Militarisierung e.V. sprich
+ t über die Zusammenhänge von Klimawandel und Krieg.
+DTSTART:20260504T190000
+DTEND:20260504T235959Z
+DTSTAMP:20260503T212304Z
+UID:e26b74c0-eab4-4d7d-bceb-a10a17919f1a
+DESCRIPTION:Im Anschluss an den Vortrag von Pablo Flock werden wir die Mas
+ senaktion vorstellen\, die den Gasausbau und die Rüstungsindustrie blocki
+ eren soll. Thema des Vortrags sind insbesondere Wasserkriege\, die durch d
+ en Klimawandel angefeuert werden. Es wird eine Diskussion zu den aktuellen
+  politischen Entwicklungen und Alternativen zur Klimapolitik stattfinden.
+LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50
+END:VEVENT
 END:VCALENDAR
