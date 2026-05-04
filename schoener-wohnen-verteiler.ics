@@ -15702,4 +15702,42 @@ DESCRIPTION:Im Anschluss an den Vortrag von Pablo Flock werden wir die Mas
   politischen Entwicklungen und Alternativen zur Klimapolitik stattfinden.
 LOCATION:Linkes Zentrum Trude Lutz\, Nauklerstr. 50
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entspanntes Zusammenkommen mit leckerem veganen Essen und Getränk
+ en auf Spendenbasis.
+DTSTART:20260406T180000
+DTEND:20260406T235959Z
+DTSTAMP:20260504T143945Z
+UID:a5fa153b-902d-43e0-84a2-65c6c992225f
+DESCRIPTION:Die nächste Huber Küfa findet im Wohnprojekt Tante Huber sta
+ tt. Kommt vorbei und bringt eure Familie und Freund*innen mit! Gekocht wir
+ d natürlich vegan!
+LOCATION:Huberstraße 14/16\, Gemeinschaftsraum (barrierefrei)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offener Diskussions- und Lesekreis zu den Themen Männlichkeit und
+  Gleichstellung.
+DTSTART:20260507T190000
+DTEND:20260507T210000Z
+DTSTAMP:20260504T143945Z
+UID:8914f7fe-ccb7-4073-a396-e57aa127e80a
+DESCRIPTION:In diesem monatlichen Treffen möchten wir Auszüge aus dem Bu
+ ch "Wenn die letzte Frau den Raum verlässt - Was Männer wirklich über F
+ rauen denken" lesen und darüber diskutieren\, wie der Wunsch nach Gleichs
+ tellung zu einer verunsicherten Männlichkeit führen kann. Alle sind will
+ kommen\, es ist kein Vorwissen erforderlich! Bringt gerne eigene Texte als
+  Diskussionimpuls mit!
+LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str.61)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food and connection!
+DTSTART:20260505T180000
+DTEND:20260505T235959Z
+DTSTAMP:20260504T143945Z
+UID:3ae73801-3227-4c4d-ba53-b9c2fb8af690
+DESCRIPTION:As every Tuesday\, we are coming together this week on 05.05. 
+ at 18:00 to eat\, connect and build solidarity in our garden. Come hungry\
+ , in large numbers\, and most importantly\, come as you are.
+LOCATION:Siggi11 Garden
+END:VEVENT
 END:VCALENDAR
