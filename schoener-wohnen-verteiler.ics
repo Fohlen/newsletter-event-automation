@@ -15740,4 +15740,54 @@ DESCRIPTION:As every Tuesday\, we are coming together this week on 05.05.
  , in large numbers\, and most importantly\, come as you are.
 LOCATION:Siggi11 Garden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Küfa (Küche für Alle) mit Hotdogs und Spendenaktion.
+DTSTART:20260506T173000
+DTEND:20260506T235959Z
+DTSTAMP:20260506T151314Z
+UID:3495608e-3d2f-45dd-8774-f0b209a5cc05
+DESCRIPTION:Kommt vorbei und genießt Essen gegen einen freiwilligen Obolu
+ s! Wir sammeln Spenden für das Wohnprojekt 'Mittlere Mühle Tengen'.
+LOCATION:Sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening of live music featuring multiple bands.
+DTSTART:20260508T180000
+DTEND:20260508T235959Z
+DTSTAMP:20260506T151314Z
+UID:719f9385-d6f2-459c-926f-a300150149ea
+DESCRIPTION:Join us for a concert on May 8th at Pfleghof in Tübingen with
+  Sounds of Playground\, Bitter Sheets\, Frampadampa\, and Makalu. Enjoy a 
+ variety of music from indie to punk rock. Bring your friends and have a gr
+ eat time dancing! All donations will go straight to the bands.
+LOCATION:Pfleghof\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zum Straßenfest in Tübingen
+DTSTART:20260620T120000
+DTEND:20260620T235959Z
+DTSTAMP:20260506T151314Z
+UID:a07b5491-2671-4ba8-bced-505c7867bb86
+DESCRIPTION:Liebe Tübinger Stadtgemeinschaft\, hiermit wollen wir euch he
+ rzlich zum Straßenfest der Münzgasse am Samstag\, den 20. Juni 2026 einl
+ aden! Ab 12 Uhr beginnen die Festivitäten mit Speis\, Spaß\, Spiel und M
+ usik\, und bis in die Nacht wollen wir gemeinsam den Sommer genießen. Es 
+ wird eine Schreibwerkstatt\, eine Offene Erzählbühne in Tübingens schö
+ nstem Hinterhof\, Kirchenführung samt Orgelführung und Orgelmusik sowie 
+ das legendäre Bobbycarrennen geben. Für Essen wird gesorgt\, Hüpfburg u
+ nd Kinderspiele sind wieder dabei und abends startet die Livemusik. Kommt 
+ vorbei und bringt eure Lieblingsmenschen mit!
+LOCATION:Münzgasse\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend voller Musik\, Poesie\, Chaos und Kunst.
+DTSTART:20260704T200000
+DTEND:20260704T235959Z
+DTSTAMP:20260506T151314Z
+UID:ca724a18-d2b0-4236-91e5-1d64ec0b50f6
+DESCRIPTION:Erlebe den Bunten Abend im Lichti! Ein offenes Event für alle
+ \, die ihre Talente zeigen oder einfach nur genießen möchten. Musik\, Po
+ esie und mehr erwarten euch!
+LOCATION:Lichti\, Schwabstraße 6\, 72074 Tübingen
+END:VEVENT
 END:VCALENDAR
