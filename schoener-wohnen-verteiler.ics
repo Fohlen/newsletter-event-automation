@@ -15790,4 +15790,70 @@ DESCRIPTION:Erlebe den Bunten Abend im Lichti! Ein offenes Event für alle
  esie und mehr erwarten euch!
 LOCATION:Lichti\, Schwabstraße 6\, 72074 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marina Fages Punk/Folk aus Argentinien
+DTSTART:20260510T200000
+DTEND:20260510T230000Z
+DTSTAMP:20260507T151558Z
+UID:65ce9081-0e3f-4a78-b623-34361ef72712
+DESCRIPTION:Die in Buenos Aires gegründete Band schafft mutige\, Genre-ü
+ bergreifende Verbindungen von Elementen aus Hardcore-Punk\, experimentelle
+ n Klanglandschaften und südamerikanischer Folklore. Sie ist eine zentrale
+  Figur der argentinischen Indie-Szene und engagiert sich für kreative Fre
+ iheit und Geschlechtergleichstellung in der Kunst. 2026 auf Tour mit ihrem
+  neuen Album „ATALAYA AVALANCHA“.
+LOCATION:Ludwigstraße 15\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradfahren für Gleichberechtigung in der Nutzung öffentlicher
+  Infrastruktur.
+DTSTART:20260515T180000
+DTEND:20260515T235959Z
+DTSTAMP:20260507T151558Z
+UID:f908c846-5dcb-442a-8c5e-77ae121fe48a
+DESCRIPTION:Als Corso fahren wir quer durch Tübingen\, auch auf Straßen\
+ , die normalerweise nur Autos vorbehalten sind. Eine coole Mischung aus De
+ mo und rollender Party! Kommt vorbei und erlebt eine richtig coole Aktion 
+ auf zwei Rädern. Je mehr wir sind\, desto stärker unser Signal! Anschlie
+ ßend gemütliches Ausklingen mit Kaltgetränken und Snacks.
+LOCATION:Uni-Bib\, Wilhelmstraße 32\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herzliche Einladung zum Nachbarschafts-Flohmarkt in der Huberstras
+ se!
+DTSTART:20260613T103000
+DTEND:20260613T153000Z
+DTSTAMP:20260507T151558Z
+UID:dffa6c3f-a879-4310-9a49-2fe988366f86
+DESCRIPTION:Am Samstag\, den 13.06. von 10.30 bis 15.30 Uhr. Jede_r kann u
+ msonst einen Stand machen - einfach ab 10 Uhr vorbeikommen. Es gibt Flohma
+ rktstände\, Infostände\, Essen\, Getränke und vieles mehr. Organisiert 
+ vom Wohnprojekt Tante Huber\, der KBF und Nachbar_innen der Huberstrasse.
+LOCATION:Huberstrasse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live music event featuring various artists
+DTSTART:20260509T163000
+DTEND:20260509T230000Z
+DTSTAMP:20260507T151558Z
+UID:fd82098e-0c74-4a8b-a6ef-109b396a31d6
+DESCRIPTION:Join us for an evening of Reggae & HipHop at ZOB with performa
+ nces by MC43\, KANDIRU\, TIMWE\, SIS LAURA\, and SELECTA KWABY. Organized 
+ by WE DUB & MONTAGSCYPHER\, supported by Epplehaus & Kulturnacht Tübingen
+ .
+LOCATION:ZOB Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zu einem Doppelkonzert mit PLAINRIDE aus Köln und DUST 
+ IN BLOOM aus Tübingen.
+DTSTART:20260515T200000
+DTEND:20260515T235959Z
+DTSTAMP:20260507T151558Z
+UID:01ba9ed0-e420-4f9b-a266-a99e56560e68
+DESCRIPTION:Die plattform:[no budget] e.V. lädt ein zu einem Doppelkonzer
+ t in die Shedhalle mit den Bands PLAINRIDE und DUST IN BLOOM. Die Veransta
+ ltung bietet handgemachte Gitarrenmusik im Bereich Heavy-Rock\, Shoegaze\,
+  Grunge und Indie Rock. Der Eintritt ist gegen Spende.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
