@@ -15856,4 +15856,29 @@ DESCRIPTION:Die plattform:[no budget] e.V. lädt ein zu einem Doppelkonzer
   Grunge und Indie Rock. Der Eintritt ist gegen Spende.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorlesung aus queerfeministischen Büchern für Kinder und Erwachs
+ ene.
+DTSTART:20261001T160000
+DTEND:20261001T220000Z
+DTSTAMP:20260508T142425Z
+UID:85c9a7eb-246c-4fb0-839f-93693b59f3da
+DESCRIPTION:Nachmittags für Kinder und abends für Erwachsene werden vers
+ chiedene queerfeministische Bücher vorgelesen. Wir freuen uns auf gute Ge
+ spräche und eine tolle Gemeinschaft!
+LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herzliche Einladung zum nächsten Treffen der ADHS-Selbsthilfegrup
+ pe.
+DTSTART:20260509T163000
+DTEND:20260509T183000Z
+DTSTAMP:20260508T142425Z
+UID:3067a035-b3a9-406d-99cd-c4f1ca4491db
+DESCRIPTION:Wir laden herzlich zu unserem nächsten Treffen der ADHS-Selbs
+ thilfegruppe ein\, um Erfahrungen auszutauschen und in entspannter Runde z
+ u plaudern. Einzahlungen von neuen Gesichtern sind willkommen!
+LOCATION:Neckarhalde 40\, Tübingen\, erster Stock\, Eintritt durch den Hi
+ ntereingang.
+END:VEVENT
 END:VCALENDAR
