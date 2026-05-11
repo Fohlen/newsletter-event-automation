@@ -15892,4 +15892,51 @@ DESCRIPTION:As every Tuesday\, we are coming together this week on 12.05.
  e in our garden for you to enjoy the evening.
 LOCATION:Siggi11\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helles möbliertes Zimmer 25 qm zur Zwischenmiete in Derendingen. 
+ Warmmiete 650 Euro.
+DTSTART:20260101T100000
+DTEND:20260101T235959Z
+DTSTAMP:20260511T215127Z
+UID:e0232647-1613-465b-9720-5ef7b32316c3
+DESCRIPTION:Helles\, möbliertes Zimmer mit 25 qm in Derendingen verfügba
+ r. Ideal für kurzfristige oder langfristige Vermietung. Warmmiete beträg
+ t 650 Euro.
+LOCATION:Derendingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar mit Musik\, Feuer und coolen Getränken.
+DTSTART:20261004T200000
+DTEND:20261004T235959Z
+DTSTAMP:20260511T215127Z
+UID:3ca9da97-ef51-43fa-9fd4-28418ecbbaa0
+DESCRIPTION:Feiere mit uns in der Schellingstr. 6! Verkleide dich als Unte
+ rwasserwesen und erhalte einen Frei-Shot. Genieße eine tolle Zeit mit Mus
+ ik und eventuell Karaoke!
+LOCATION:Schellingstr. 6\, Hof und Garten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coworking- und Bodydoubling-Angebot für Lesen\, Schreiben und Arb
+ eiten.
+DTSTART:20261101T100000
+DTEND:20261101T130000Z
+DTSTAMP:20260511T215127Z
+UID:0c228775-8982-4984-be9a-ad0202a14e34
+DESCRIPTION:Komm zur BuBu Fokuszeit und nutze den bunten Buchladen als Ort
+  zum Sein\, Lesen\, Schreiben und Arbeiten. Es gibt leise Hintergrundmusik
+ \, Getränke und die Möglichkeit für Bewegungspausen an der frischen Luf
+ t. Stöbern in den Regalen ist ausdrücklich erwünscht!
+LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk-Rock-Konzert mit Sick Thoughts am 13. Mai 2026.
+DTSTART:20260513T220000
+DTEND:20260513T235959Z
+DTSTAMP:20260511T215127Z
+UID:09f8b82f-2338-4fd3-9c8b-f2e481664d6d
+DESCRIPTION:Sick Thoughts\, eine großartige Punkband aus den Staaten\, wi
+ rd am Mittwoch\, dem 13. Mai\, im Blauen Salon spielen. Einlass ist um 20:
+ 00 Uhr\, der Beginn um 22:00 Uhr. Eintritt frei!
+LOCATION:Blaue Salon\, Tübingen
+END:VEVENT
 END:VCALENDAR
