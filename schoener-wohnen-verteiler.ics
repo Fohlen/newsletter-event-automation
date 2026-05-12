@@ -15939,4 +15939,41 @@ DESCRIPTION:Sick Thoughts\, eine großartige Punkband aus den Staaten\, wi
  00 Uhr\, der Beginn um 22:00 Uhr. Eintritt frei!
 LOCATION:Blaue Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorführung von Christian Weisenborn
+DTSTART:20260518T000000
+DTEND:20260518T235959Z
+DTSTAMP:20260512T215203Z
+UID:ca14a003-e702-4ae5-8e66-26c6ef941fef
+DESCRIPTION:Am 18.05. zeigen wir den Film 'Die guten Feinde - Mein Vater\,
+  die rote Kapelle und ich' von Christian Weisenborn. Wir freuen uns auf eu
+ ch!
+LOCATION:Unbekannt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunter Marktplatz voller Schätze\, Kuriositäten und Lieblingsst
+ ücke.
+DTSTART:20260628T100000
+DTEND:20260628T140000Z
+DTSTAMP:20260512T215203Z
+UID:579fc31d-4c51-4ae3-b90b-1265babc652d
+DESCRIPTION:Das Werkstadthaus im Franz Viertel verwandelt sich in einen bu
+ nten Marktplatz. Verkäuferinnen und Verkäufer sind willkommen\, um ihre 
+ Schätze anzubieten. Kommt vorbei zum Plaudern und Entdecken!
+LOCATION:Werkstadthaus\, Franz Viertel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop zum Thema Sexualität mit Muslim*innen und sensitivem Umg
+ ang.
+DTSTART:20260602T170000
+DTEND:20260602T210000Z
+DTSTAMP:20260512T215203Z
+UID:ac20d206-67a8-4765-beb7-cb52ac919e5d
+DESCRIPTION:Der Workshop diskutiert Annahmen und Stereotype rund um Islam\
+ , muslimisch geprägte Kultur und Sexualität. Referenten von der Deutsche
+ n Aidshilfe und aus muslimischen Kulturkreisen werden teilnehmen\, inkl. q
+ ueeren Community Mitgliedern und Menschen\, die selbst mit HIV leben. Es w
+ ird auch Essen und Trinken angeboten.
+LOCATION:TIME bei den Kliniken Berg
+END:VEVENT
 END:VCALENDAR
