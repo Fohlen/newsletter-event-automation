@@ -15976,4 +15976,15 @@ DESCRIPTION:Der Workshop diskutiert Annahmen und Stereotype rund um Islam\
  ird auch Essen und Trinken angeboten.
 LOCATION:TIME bei den Kliniken Berg
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-Party mit LineUp koryphee\, Mali und DJ Potz Blitz
+DTSTART:20260522T220000
+DTEND:20260522T235959Z
+DTSTAMP:20260513T215547Z
+UID:65d821ac-c43d-4dca-9375-06bf46232804
+DESCRIPTION:Nächsten Freitag in der Münze 7\, Tübingen: Downtempo\, Gro
+ ovy Bass House und viel gute Stimmung! Kommt vorbei für günstige Geträn
+ ke und zum Feiern!
+LOCATION:Münzgasse 7\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
