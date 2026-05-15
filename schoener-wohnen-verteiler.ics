@@ -15987,4 +15987,28 @@ DESCRIPTION:Nächsten Freitag in der Münze 7\, Tübingen: Downtempo\, Gro
  ke und zum Feiern!
 LOCATION:Münzgasse 7\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zion Garden Soundsystem joins for a weekend of heavy bass & joyful
+  vibes.
+DTSTART:20260515T160000
+DTEND:20260515T235959Z
+DTSTAMP:20260515T150229Z
+UID:aae1a66c-a58c-4f2c-9007-5b660433b5cb
+DESCRIPTION:A weekend event featuring Zion Garden Soundsystem with session
+ s of Roots Reggae\, UK Dub\, and heavy steppers. Activities include warm-u
+ p sessions with homemade food and a full session performance.
+LOCATION:Epplehaus Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von Nathaniel Forrester in der Schelling
+DTSTART:20260521T210000
+DTEND:20260521T235959Z
+DTSTAMP:20260515T150229Z
+UID:1dbebcf8-02a5-4f77-846e-9b06c83c68b7
+DESCRIPTION:Forrester lässt die elektronische Sensibilität seiner Wahlhe
+ imat in seine Musik einfließen\, verbindet jedoch die Lo-Fi-DIY-Ästhetik
+  des Anti-Folk mit eingängigen Synth-Pop-Hooks. Der Eintritt ist ab 21 Uh
+ r\, Beginn ist 21:30 Uhr. Hörproben sind auf Bandcamp verfügbar.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
