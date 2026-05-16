@@ -16011,4 +16011,21 @@ DESCRIPTION:Forrester lässt die elektronische Sensibilität seiner Wahlhe
  r\, Beginn ist 21:30 Uhr. Hörproben sind auf Bandcamp verfügbar.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Nachmittag zum Lesen\, Schreiben und Arbeiten im Bunten Buchla
+ den
+DTSTART:20260518T140000
+DTEND:20260518T170000Z
+DTSTAMP:20260516T140635Z
+UID:788e83d2-9155-499d-a8d7-865bc159e276
+DESCRIPTION:Du hast ein Lese- oder Schreibprojekt\, das schon länger dara
+ uf wartet\, beendet zu werden? Dir fehlt zu Hause die Ruhe oder die richti
+ ge Atmosphäre\, um konzentriert an deinen Hausaufgaben oder im Home Offic
+ e zu arbeiten? Komm zur BuBu Fokuszeit vorbei! Wir verwandeln den Bunten B
+ uchladen für drei Stunden in einen Ort zum Sein\, Lesen\, Schreiben und A
+ rbeiten. In gemütlicher Atmosphäre bieten wir ein Coworking- und Bodydou
+ bling-Angebot für alle Altersgruppen. Getränke sind auf Spendenbasis erh
+ ältlich. Anmeldung nicht nötig – einfach vorbeikommen!
+LOCATION:Bunter Buchladen\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
