@@ -16042,4 +16042,16 @@ DESCRIPTION:Dunkle Wolken und starke Stürme brauen sich über Tübingen z
  ler bedrohlicher Spannung.
 LOCATION:Blauer Salon\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a cozy evening of food and solidarity with the communi
+ ty.
+DTSTART:20260519T180000
+DTEND:20260519T235959Z
+DTSTAMP:20260518T160404Z
+UID:adf39b19-fe12-4959-806b-909052b77fc8
+DESCRIPTION:This Tuesday\, the Unikommitee für Palästina will prepare le
+ ntil soup and Maqlouba. Donations collected will go directly to families i
+ n Gaza. Come hungry and enjoy the evening with us!
+LOCATION:Siggi 11\, 19.05.\, 18:00
+END:VEVENT
 END:VCALENDAR
