@@ -16054,4 +16054,15 @@ DESCRIPTION:This Tuesday\, the Unikommitee für Palästina will prepare le
  n Gaza. Come hungry and enjoy the evening with us!
 LOCATION:Siggi 11\, 19.05.\, 18:00
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Hausbar am Mittwoch 20.05.
+DTSTART:20260520T180000
+DTEND:20260520T230000Z
+DTSTAMP:20260518T214834Z
+UID:b0830b48-a859-4b6f-9535-53f6387cd30d
+DESCRIPTION:Wir von den Bahamas laden herzlich zur Hausbar ein. Bei schön
+ em Wetter mit Drinks im Hof\, bei schlechtem Wetter mit einem Spaßprogram
+ m in der Hausbar.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
