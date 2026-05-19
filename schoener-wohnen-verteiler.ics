@@ -16065,4 +16065,17 @@ DESCRIPTION:Wir von den Bahamas laden herzlich zur Hausbar ein. Bei schön
  m in der Hausbar.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag über die Geschichte und aktuelle Situation der Prosfygika
+ .
+DTSTART:20260521T200000
+DTEND:20260521T210000Z
+DTSTAMP:20260519T215604Z
+UID:5218c141-4406-4db2-8fb9-a2189276f1df
+DESCRIPTION:Die Prosfygika ist die älteste migrantische Nachbarschaft in 
+ Athen\, gegründet in den 1930er Jahren\, und kämpft aktuell gegen drohen
+ de Räumungen und kommerzielle Sanierungspläne. Kommt vorbei\, informiert
+  euch und zeigt Solidarität!
+LOCATION:LU15 Hausbar
+END:VEVENT
 END:VCALENDAR
