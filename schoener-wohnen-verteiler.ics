@@ -16078,4 +16078,16 @@ DESCRIPTION:Die Prosfygika ist die älteste migrantische Nachbarschaft in
   euch und zeigt Solidarität!
 LOCATION:LU15 Hausbar
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit SEXSCHWEISS und SEX IM DUNKELN.
+DTSTART:20260530T203000
+DTEND:20260530T230000Z
+DTSTAMP:20260520T160827Z
+UID:9919a100-dd38-4bb3-b717-8e3455a9bf6d
+DESCRIPTION:Ein Abend\, der verschiedene Dimensionen und Assoziationen von
+  Sex beleuchtet und dabei Themen wie Identität\, Unbehagen und Wut behand
+ elt. Es treten auf: SEXSCHWEISS aus München und SEX IM DUNKELN aus Stuttg
+ art.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
