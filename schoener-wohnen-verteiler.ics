@@ -16090,4 +16090,71 @@ DESCRIPTION:Ein Abend\, der verschiedene Dimensionen und Assoziationen von
  art.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aktion zur Förderung des Veganismus mit kostenlosen Snacks.
+DTSTART:20260523T110000
+DTEND:20260523T130000Z
+DTSTAMP:20260521T155847Z
+UID:51617096-8b37-4d06-b611-21096c0b05ab
+DESCRIPTION:Wir diskutieren die Gründe für Veganismus und bieten die Mö
+ glichkeit\, eigene Gründe aufzuschreiben. Kostenlose vegane Snacks vom Ca
+ fé Bota\, Apoteka und Köstlich Vegan werden bereitgestellt.
+LOCATION:Treppen der Stiftskirche
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offene Kneipe im Epplehaus
+DTSTART:20260521T190000
+DTEND:20260521T235959Z
+DTSTAMP:20260521T155847Z
+UID:287b252b-c5c0-4b9d-b93e-8e5c86d7394d
+DESCRIPTION:Die Epple-Kneipe bietet einen gemütlichen Ort um sich nach ei
+ nem langen Tag zu entspannen\, Getränke zu genießen und Tisch-Kicker zu 
+ spielen. Kommt vorbei\, um in entspannter Atmosphäre zu plaudern oder ein
+ fach zu entspannen.
+LOCATION:Epplehaus\, [Ort]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein kritischer Blick auf die Tübinger Studentenverbindungen
+DTSTART:20260526T200000
+DTEND:20260526T235959Z
+DTSTAMP:20260521T155847Z
+UID:81ad64d7-f8ef-49d2-9625-ad3248f10e67
+DESCRIPTION:Der Vortrag bietet eine Einführung in die Kritik ALLER Studen
+ tenverbindungen mit Beispielen aus Tübingen. Es werden Gemeinsamkeiten un
+ d Unterschiede thematisiert\, gefolgt von einer Diskussionsrunde.
+LOCATION:Blauer Salon\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einladung zur Jam Session
+DTSTART:20260522T200000
+DTEND:20260522T235959Z
+DTSTAMP:20260521T155847Z
+UID:e6bdfb00-5363-4d7b-b860-6f310d3a89df
+DESCRIPTION:Moin\, wir laden ein zur Jam Session. Es gibt PA\, Git/Bass Am
+ ps\, Mics\, Drums\, Klavier\, Sofas und Getränke.
+LOCATION:Schwabstr. 6\, Tü
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helles möbliertes Zimmer 25 qm in Derendingen zur Zwischenmiete.
+DTSTART:20260101T000000
+DTEND:20260101T235959Z
+DTSTAMP:20260521T155847Z
+UID:ebda2b19-9d8f-4891-9c99-be883925c3f3
+DESCRIPTION:Das Zimmer ist ideal für Personen\, die eine kurzfristige ode
+ r langfristige Unterkunft suchen. Es ist möbliert und befindet sich in ei
+ ner ruhigen Lage.
+LOCATION:Derendingen\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung aus dem Buch "Bruchzeiten - Leben nach dem 7. Oktober" mit 
+ anschließender Diskussion.
+DTSTART:20260602T180000
+DTEND:20260602T200000Z
+DTSTAMP:20260521T155847Z
+UID:a5299fea-8e29-4d87-94b6-9c7691646432
+DESCRIPTION:Prof. Dr. Friederike Lorenz-Sinai lädt zu einer Lesung mit Ma
+ rina Chernivsky ein\, die aus ihrem Buch "Bruchzeiten - Leben nach dem 7. 
+ Oktober" vorliest und anschließend eine Diskussion führt.
+LOCATION:Uni Tübingen
+END:VEVENT
 END:VCALENDAR
