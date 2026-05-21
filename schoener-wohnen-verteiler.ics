@@ -16157,4 +16157,17 @@ DESCRIPTION:Prof. Dr. Friederike Lorenz-Sinai lädt zu einer Lesung mit Ma
  Oktober" vorliest und anschließend eine Diskussion führt.
 LOCATION:Uni Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einsendeschluss für Beiträge zum Thema Utopia
+DTSTART:20260601T000000Z
+DTEND:20260601T235959Z
+DTSTAMP:20260521T220310Z
+UID:764d2a83-d639-4da0-9637-8dfc8cd30e8b
+DESCRIPTION:Schick uns Deine Kurzgeschichte von einer besseren Zukunft. Ge
+ rne auch Gedichte oder Zeichnungen an folgende Emailadresse: widerworte@sy
+ stemausfall.org. Genre: Kurzgeschichte\, Gedichte\, Bilder. Format: Word\,
+  PDF. Umfang: 5 A4 Seiten\, Arial. Einsendeschluss: 01.06.2026. Die spanne
+ ndsten Beiträge werden am 18.06.2026 präsentiert.
+LOCATION:Epplehaus\, Tübingen
+END:VEVENT
 END:VCALENDAR
