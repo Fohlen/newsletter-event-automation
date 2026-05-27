@@ -27,7 +27,7 @@ def prompt_model(message: Message) -> CalendarModel:
 
     # Extract structured data from natural language
     entry = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="google/gemini-2.5-flash-lite",
         response_model=CalendarModel,
         messages=[
             {"role": "system", "content": f"The original message was written in {message_date.year}"},
