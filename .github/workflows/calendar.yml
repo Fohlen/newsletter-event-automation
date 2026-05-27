@@ -39,6 +39,7 @@ jobs:
         run: python3 -m newsletter_automation
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: '*.ics'
