@@ -16170,4 +16170,37 @@ DESCRIPTION:Schick uns Deine Kurzgeschichte von einer besseren Zukunft. Ge
  ndsten Beiträge werden am 18.06.2026 präsentiert.
 LOCATION:Epplehaus\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huber Küfa (Küche für alle)
+DTSTART:20261001T180000Z
+DTEND:20261001T230000Z
+DTSTAMP:20260529T162709Z
+UID:3f85cadf-6ab8-412b-9f4d-cc7f8b647d81
+DESCRIPTION:Wir organisieren unsere nächste Huber Küfa (Küche für alle
+ ) am 01.06. im Wohnprojekt Tante Huber. Es wird veganes Essen und Getränk
+ e auf Spendenbasis geben. Der Raum ist barrierefrei zugänglich.
+LOCATION:Huberstraße 14/16\, Gemeinschaftsraum/Garten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intergalaktische Mottoparty im Geigerle
+DTSTART:20260613T210000Z
+DTEND:20260613T235959Z
+DTSTAMP:20260529T162709Z
+UID:a1f643de-130b-4086-b49c-73a7604f9240
+DESCRIPTION:Für Getränke ist gesorgt\, die Waffeleisen werden aufgeheizt
+  und Snacks\, Musik sowie Space-vibes verstetzen euch in andere Galaxien. 
+ Um 23 Uhr gibt's außerdem Karaoke!
+LOCATION:Geigerle\, Charlottenstraße 8\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit SEXSCHWEISS and SEX IM DUNKELN
+DTSTART:20260530T210000Z
+DTEND:20260530T230000Z
+DTSTAMP:20260529T162709Z
+UID:de721342-c179-4f00-ac98-6e59655bb76b
+DESCRIPTION:Die plattform:[no budget] e.V. lädt ein in die Shedhalle Tüb
+ ingen. Es spielen die beiden Punk- / Punkwavebands: SEXSCHWEISS und SEX IM
+  DUNKELN. More info at https://shedhalle.de
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
