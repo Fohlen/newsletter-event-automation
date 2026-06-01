@@ -16203,4 +16203,14 @@ DESCRIPTION:Die plattform:[no budget] e.V. lädt ein in die Shedhalle Tüb
   DUNKELN. More info at https://shedhalle.de
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film schauen - "Generation Antifa"
+DTSTART:20260704T190000Z
+DTEND:20260704T200000Z
+DTSTAMP:20260601T224804Z
+UID:9807a57a-0dc7-472a-9596-6348fa63f5cd
+DESCRIPTION:Gemeinsam mit Widersetzen Tübingen zeigen wir "Generation Ant
+ ifa".
+LOCATION:Pfleghof
+END:VEVENT
 END:VCALENDAR
