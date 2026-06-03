@@ -16213,4 +16213,42 @@ DESCRIPTION:Gemeinsam mit Widersetzen Tübingen zeigen wir "Generation Ant
  ifa".
 LOCATION:Pfleghof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teilnahme kostenlos\, bitte meldet euch vorher an: Insta: wwf_juge
+ nd / Email: extern_felicia.engel@wwf.de
+DTSTART;TZID="+01:00":20260607T113000
+DTEND:20260607T143000Z
+DTSTAMP:20260603T173009Z
+UID:2bf64754-333a-4c60-98ce-73192dc4a6ba
+DESCRIPTION:Wir wollen gemeinsam wandern\, Wildkräuter zubereiten und uns
+  kennenlernen. Mit Ines werden wir Wald und Wiese erkunden.
+LOCATION:Wanderparkplatz Siebmühlental\, Nähe Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street fair with music\, food\, and activities
+DTSTART:20260620T120000Z
+DTEND:20260620T235959Z
+DTSTAMP:20260603T173009Z
+UID:c5a80d3f-07e6-4db3-bbfc-021d9a269301
+DESCRIPTION:The Münzgassefest Plenum would like to invite you all to join
+  us in celebrating our street fair on June 20th after 12am. From a writer'
+ s workshop to a crafts corner\, Küfa and Cake\, a Bobbycar race and a Bou
+ ncy castle\, we will have a little something for everyone. In the evening 
+ after six\, Mofakette\, Volcano People and Noise church will play live Mus
+ ic at the Blue Saloon.
+LOCATION:Münzgasse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Border Sound System – 13.06.2026 – Hegel 7 Tübingen
+DTSTART:20260613T220000Z
+DTEND:20260613T235959Z
+DTSTAMP:20260603T173009Z
+UID:0abc20e6-8b79-4f4d-8922-d83122c9bf92
+DESCRIPTION:Das No Border Sound System aus Bonn und Köln präsentiert ein
+ e Selection aus Roots Reggae\, Dub\, Cumbia und Steppers. Unterstützt wer
+ den sie von Majestic Sound (Mexiko) und Dubta aka Pdrito Ranking (Ecuador)
+ . Eine Nacht für alle Liebhaber:innen von Basskultur\, Conscious Reggae u
+ nd internationalen Sounds.
+LOCATION:Hegel 7\, Tübingen
+END:VEVENT
 END:VCALENDAR
