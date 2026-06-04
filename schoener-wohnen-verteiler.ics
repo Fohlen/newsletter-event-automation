@@ -16251,4 +16251,15 @@ DESCRIPTION:Das No Border Sound System aus Bonn und Köln präsentiert ein
  nd internationalen Sounds.
 LOCATION:Hegel 7\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt mit Kleidertausch und Techno-Tischtennis
+DTSTART:20261215T150000Z
+DTEND:20261215T235959Z
+DTSTAMP:20260604T160152Z
+UID:8659de2e-12fb-46ba-a6d2-c03d5ce9ffbd
+DESCRIPTION:Nachhaltig die Sommergarderobe aufstocken\, alte Kleidung beim
+  Bleachen neu gestalten\, Techno-Tischtennis-Event\, Küfa mit großem Buf
+ fet\, Kaffee\, Kuchen\, Getränke und eine Bar.
+LOCATION:Wilhelma
+END:VEVENT
 END:VCALENDAR
