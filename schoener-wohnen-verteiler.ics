@@ -16262,4 +16262,54 @@ DESCRIPTION:Nachhaltig die Sommergarderobe aufstocken\, alte Kleidung beim
  fet\, Kaffee\, Kuchen\, Getränke und eine Bar.
 LOCATION:Wilhelma
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geigerle Sommerfest
+DTSTART;TZID="+01:00":20260704T170000
+DTEND:20260704T235959Z
+DTSTAMP:20260605T153655Z
+UID:6d51e286-90ac-40eb-8245-14871d77a822
+DESCRIPTION:Am 04. July findet im Geigerle das sagenumwobene Geigerle Somm
+ erfest statt!!! Charlottenstr.8\, 72070 Tübingen. Save the date und kommt
+  mit ordentlich Hunger und Durst \;) Euch erwartet ein geniales Sortiment 
+ an Bands und DJs und natürlich stellen wir auch erfrischende Getränke f
+ ür euch kalt. Wir schmeißen nicht nur den Grill für euch an\, sondern s
+ tehen auch mit Pizza\, Waffeln\, Bretzeln und Eis für euch bereit. Ab 17U
+ hr wird die Wasserrutsche aufgebaut und es gibt Eis\, solange der Vorrat r
+ eicht!! Es lohnt sich also\, früher zu kommen \;) Danach spielen unsere f
+ antastischen Bands\, die ihr u.a. schon von den Jam Sessions kennt. Ab 18U
+ hr spielen unsere Livebands im Garten: Mit dabei sind John Mayer Experienc
+ e\, Thick Thieves\, No Name until Fame\, Fenix Grooves. Ab 22:15Uhr legen 
+ dann Harissa BS\, Losso und JDoubleU x Mogli vom Collective im Festsaal au
+ f. Ihr solltet unser Sommerfestival auf keinen Fall verpassen! Wir freuen 
+ uns auf euch!! Euer Geigerle
+LOCATION:Geigerle\, Charlottenstr. 8\, 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kommando Cup
+DTSTART:20260606T103000Z
+DTEND:20260606T230000Z
+DTSTAMP:20260605T153655Z
+UID:eb0a5457-4d74-424d-b860-6ea844eebac2
+DESCRIPTION:20 Freizeitfußball-Teams trotzen ab 10:30 Uhr der Hanglage un
+ d kämpfen auf holprigem Geläuf um die wichtigste Trophäe\, die es im Fu
+ ßballzirkus zu gewinnen gibt: die braune Wildsau aus dem Schönbuch! Der 
+ zu erwartende Ballsportzauber wird garniert mit den Ska- und Reggaeklänge
+ n von Selector Averell\, aufgeregten Reporter-Ansagen und die Einspieler l
+ egendärer Fußballweisheiten werden natürlich auch nicht fehlen. Nach de
+ n Viertelfinals wird es dann gewohnt unsportlich: Beim sagenumwobenen Blut
+ grätschenwettbewerb ist höchste Brutalität gefordert\, um der Jury die 
+ Höchstwertung 
+LOCATION:Kirnbach-Stadion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queere Familienkonzepte und Gemeinschaftsleben
+DTSTART:20260608T180000Z
+DTEND:20260608T230000Z
+DTSTAMP:20260605T153655Z
+UID:f119d9be-b179-41f2-b97f-8d1d97738201
+DESCRIPTION:Vernetzungstreffen für queere Familienkonzepte\, Kinder\, Gem
+ einschaftsleben und Filmvorführung (französisch mit deutschen Untertitel
+ n).
+LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
