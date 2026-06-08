@@ -16312,4 +16312,32 @@ DESCRIPTION:Vernetzungstreffen für queere Familienkonzepte\, Kinder\, Gem
  n).
 LOCATION:Bunter Buchladen e.V.\, Bursagasse 2\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneipenquiz zu den neu gewählten rechten Landtagsabgeordneten
+DTSTART;TZID="+02:00":20260610T200000
+DTEND:20260610T230000Z
+DTSTAMP:20260608T163728Z
+UID:b819643f-910c-4d46-bc46-d37461aed54b
+DESCRIPTION:Wir wollen uns die neuen und alten rechten Abgeordneten im Stu
+ ttgarter Landtag anschauen. Wer wurde da eigentlich gewählt? Durch welche
+  Aktivitäten sind die neu in den Landtag gewählten rechten Abgeordneten 
+ bisher aufgefallen? Welchen Pleiten\, Pech und Pannen sind mit ihnen verbu
+ nden? Wer ist biografisch in welchen rechten Kontexten außerhalb von Part
+ eien aufgefallen? Wer versorgt welches Familienmitglied bei welchem Partei
+ genossen mit einem Job? Kommt alle\, habt Spaß und lernt was dazu! Diese 
+ Veranstaltung wird gefördert von der Rosa-Luxemburg-Stiftung Baden-Württ
+ emberg.
+LOCATION:Münzgasse 13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wohnprojekt Rothenburg lädt ein zum BLUB BLUB DEEPSEARAVE. Taucht
+  ein in eine Unterwasserwelt voller Licht und Druck auf den Ohren. Zwei Fl
+ oors mit unterschiedlichen Sounds.
+DTSTART:20260612T220000Z
+DTEND:20260612T235959Z
+DTSTAMP:20260608T163728Z
+UID:43befe50-391b-41b0-846c-ab4a4b07ef99
+DESCRIPTION:
+LOCATION:Robu\, Schloßbergstraße 23 in Tübingen
+END:VEVENT
 END:VCALENDAR
