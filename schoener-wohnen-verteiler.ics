@@ -16340,4 +16340,15 @@ UID:43befe50-391b-41b0-846c-ab4a4b07ef99
 DESCRIPTION:
 LOCATION:Robu\, Schloßbergstraße 23 in Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kundgebung für den Umsonstladen
+DTSTART;TZID="+02:00":20260611T180000
+DTEND:20260611T235959Z
+DTSTAMP:20260609T154144Z
+UID:03398801-ac16-4970-a23b-0060352ebe52
+DESCRIPTION:Kundgebung am Sternplatz unter dem Motto "Ein Angriff auf den 
+ Umsonstladen ist ein Angriff auf unser Viertel". Es wird leckeres Essen vo
+ n der Sternplatz KÜFA geben.
+LOCATION:Sternplatz
+END:VEVENT
 END:VCALENDAR
