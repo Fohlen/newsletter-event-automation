@@ -16351,4 +16351,35 @@ DESCRIPTION:Kundgebung am Sternplatz unter dem Motto "Ein Angriff auf den
  n der Sternplatz KÜFA geben.
 LOCATION:Sternplatz
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bei Regenwetter muss die Veranstaltung leider entfallen.
+DTSTART;TZID="+02:00":20260610T200000
+DTEND:20260610T230000Z
+DTSTAMP:20260610T162252Z
+UID:3150dda8-19ae-4f1d-aa73-8cc99e9b635d
+DESCRIPTION:Da die Hausbar unten derzeit eine Baustelle ist\, können wir 
+ im Regenfall nicht ausweichen.
+LOCATION:Schellinghof Drausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stellungnahme
+DTSTART:20260101T000000Z
+DTEND:20260101T000000Z
+DTSTAMP:20260610T162252Z
+UID:d3acbbee-fc57-40b6-80e5-480aef1c5b4e
+DESCRIPTION:Im Folgenden eine Stellungnahme zu untenstehendem Veranstaltun
+ gshinweis
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clothing Swap Party
+DTSTART:20260627T160000Z
+DTEND:20260627T235959Z
+DTSTAMP:20260610T162252Z
+UID:ca4432ee-17df-4395-89d0-5ff449650829
+DESCRIPTION:Clothing Swap Party: Bring clothes you no longer need and swap
+  them for something new. Motto: Swap instead of buying new. Please bring o
+ nly wearable\, good-condition clothes.
+LOCATION:Lichti\, Schwabstraße 6
+END:VEVENT
 END:VCALENDAR
