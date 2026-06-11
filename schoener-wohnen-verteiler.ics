@@ -16382,4 +16382,61 @@ DESCRIPTION:Clothing Swap Party: Bring clothes you no longer need and swap
  nly wearable\, good-condition clothes.
 LOCATION:Lichti\, Schwabstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Österbar im LH3
+DTSTART;TZID="+01:00":20260615T183000
+DTEND:20260615T220000Z
+DTSTAMP:20260611T222402Z
+UID:66fd292b-d1ca-4f31-ba86-e7315c4f49ff
+DESCRIPTION:Es wird leckere Spaßgetränke geben\, Tischtennis\, vegane K
+ ücheFürAlle (vegane Hotdogs)\, Musik\, Chillgelegenheiten. Kommt vorbei 
+ zu einem Getränk\, einer Runde Tischtennis oder auch einfach nur so.
+LOCATION:Hauffstr. 23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachbarschafts-Flohmarkt
+DTSTART;TZID="+02:00":20260613T103000
+DTEND:20260613T153000Z
+DTSTAMP:20260611T222402Z
+UID:5673c40e-aaef-4d44-b5af-fc035e69496f
+DESCRIPTION:Jede_r kann umsonst einen Stand machen - einfach ab 10 Uhr vor
+ beikommen. Es gibt Flohmarktstände\, Infostände\, Essen\, Getränke und 
+ vieles mehr. Organisiert vom Wohnprojekt Tante Huber\, der KBF und Nachbar
+ _innen der Huberstrasse
+LOCATION:Huberstrasse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Politischer Filmabend mit Queer Cinema for Palestine
+DTSTART:20260611T180000Z
+DTEND:20260611T230000Z
+DTSTAMP:20260611T222402Z
+UID:667e4502-ca72-489e-be79-6df17987fe56
+DESCRIPTION:Liebe Community\, wir laden Euch herzlich zu einem politischen
+  Filmabend ein. In Kooperation mit der globalen Initiative Queer Cinema fo
+ r Palestine (QCP)\, wollen wir einen Raum für Kunst\, kritische Auseinand
+ ersetzung und transnationale Solidarität schaffen. Die Veranstaltung wird
+  gemeinsam von Unikomitee für Palästina (UkfP)\, dem Queeres Zentrum Tü
+ bingen (QZ) und Gemeinsam Hinsehen (GH) organisiert. Unter dem Motto „No
+  Pride in Genocide“ zeigen wir filmische Beiträge palästinensischer un
+ d verbündeter Filmschaffender. Als queere Community setzen wir uns für d
+ ie Freiheit aller unterdrückten Menschen ein und stellen uns entschieden 
+ gegen koloniale Gewalt\, Apartheid und Pinkwashing. Im Anschluss an die Fi
+ lme gibt es Raum für Austausch und Diskussion.
+LOCATION:Queeres Zentrum Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: IVA NOVA [RU] live in concert
+DTSTART:20260704T210000Z
+DTEND:20260704T220000Z
+DTSTAMP:20260611T222402Z
+UID:c99715e5-31ad-4744-b390-65ae59479453
+DESCRIPTION:Iva Nova is playing a concert. They are inspired by Slavic fol
+ k music but give it their own personal touch\, creating a wild sound. The 
+ band was founded in 2007 in St. Petersburg and has been touring Europe ext
+ ensively since the release of their debut album in 2004. Their music incor
+ porates Russian\, Ukrainian\, Bulgarian\, and Georgian lyrics\, experiment
+ ing with various styles and blending soulful songs with energetic punk dan
+ ces. The live show is described as pure musical anarchy.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
 END:VCALENDAR
