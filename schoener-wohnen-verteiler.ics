@@ -16439,4 +16439,27 @@ DESCRIPTION:Iva Nova is playing a concert. They are inspired by Slavic fol
  ces. The live show is described as pure musical anarchy.
 LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual flea market with bleaching station and Techno Table Tennis
+DTSTART:20260614T150000Z
+DTEND:20260614T200000Z
+DTSTAMP:20260612T154827Z
+UID:dfbfb0c7-64d9-4040-942b-3dd995d6f0b0
+DESCRIPTION:Our annual big flea market is happening again on Sunday\, June
+  14 — it kicks off at 3 pm. Come browse in a relaxed atmosphere\, discov
+ er some great finds\, and stock up on sustainable summer wardrobe essentia
+ ls. Throughout the day\, you’ll also have the chance to redesign your ol
+ d clothes at the bleaching station — so bring your own shirts and other 
+ items! Plus\, the Techno Table Tennis event is kicking of — a great mix 
+ of sports\, music\, and lots of fun. Of course\, food and drinks will be p
+ rovided: There’s a food stand with a large buffet\, plus coffee\, cake\,
+  and beverages. There will also be a bar on site where you can get more dr
+ inks. The flea market ends at 8 pm\, so come by\, bring your friends\, and
+  celebrate summer with us! If you have any clothes you’d like to donate\
+ , you can bring them to Wilhelma by Friday\, June 12 — we’re grateful 
+ for anything you’d like to contribute so we can collect a great haul tog
+ ether! Half of the proceeds go to Frauen helfen Frauen! Grab your favorite
+  people and come out in droves! We look forward to seeing you!
+LOCATION:Wilhelma
+END:VEVENT
 END:VCALENDAR
