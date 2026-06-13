@@ -16462,4 +16462,15 @@ DESCRIPTION:Our annual big flea market is happening again on Sunday\, June
   people and come out in droves! We look forward to seeing you!
 LOCATION:Wilhelma
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linksjugend['solid] Baden-Württemberg is looking for accommodatio
+ n for its members for the state members meeting.
+DTSTART:20260627T000000Z
+DTEND:20260627T235959Z
+DTSTAMP:20260613T143943Z
+UID:3afbf9ac-d9f5-419d-91f2-36c606cf7b01
+DESCRIPTION:Bed and breakfast for members and allies of Linksjugend['solid
+ ] Baden-Württemberg for their summer state members meeting.
+LOCATION:Tübingen
+END:VEVENT
 END:VCALENDAR
