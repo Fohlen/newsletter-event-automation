@@ -16721,4 +16721,33 @@ UID:c29ebe2a-b886-4837-9122-58c7716e3a64
 DESCRIPTION:Workshop on 
 LOCATION:Mehrrettich in Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkstadthaus-Flohmarkt
+DTSTART:20260628T100000Z
+DTEND:20260628T140000Z
+DTSTAMP:20260621T215718Z
+UID:57aede73-7b72-4ad9-a3bd-c26c17636485
+DESCRIPTION:Liebe Flohmarktfans\, es ist bald soweit! Am Sonntag\, 28. Jun
+ i findet von 10–14 Uhr unser Werkstadthaus-Flohmarkt im Franz-Viertel st
+ att. Ob Kleidung\, Spielwaren\, alte Schätze und Kuriositäten oder Haush
+ altsutensilien – hier ist für Groß und Klein etwas dabei. Kommt vorbei
+  und findet euer neues Lieblingsstück! Mit Kuchen und kalten Getränken k
+ önnt ihr euch im Anschluss entspannen und die Füße im Bach abkühlen. W
+ ir freuen uns auf euch! Nina\, Tina und Katha vom Wekrstadthaus P.S. Die H
+ altestellte "Wankheimer Täle" befindet sich direkt vor der Tür.
+LOCATION:Franz-Viertel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treibhaus-Draussbar
+DTSTART;TZID="+02:00":20260624T200000
+DTEND:20260624T235959Z
+DTSTAMP:20260621T215718Z
+UID:70c02135-1915-4dc3-b18c-8265096976ca
+DESCRIPTION:Garten-Strassenspiele-Gaudi mit Musik\, Spass und klassischen 
+ Strassenspielen: Tischtennis\, Federball\, Wikinger-schach\, Trampolin und
+  dem legendären HolaHoopyLoopy. Es winken Extra-fette Gewinne. Dresscode:
+  Von Barfuss bis Flip-Flop-Glamour. Specials: Mojito und Moscow-Mule (mit 
+ und ohne Alk)
+LOCATION:Treibhaus
+END:VEVENT
 END:VCALENDAR
