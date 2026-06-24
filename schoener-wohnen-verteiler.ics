@@ -16750,4 +16750,15 @@ DESCRIPTION:Garten-Strassenspiele-Gaudi mit Musik\, Spass und klassischen
  und ohne Alk)
 LOCATION:Treibhaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung: Wohnen im Kapitalismus
+DTSTART:20260817T193000Z
+DTEND:20260817T230000Z
+DTSTAMP:20260624T152007Z
+UID:7f531ad7-facd-4fce-989b-ecef46416359
+DESCRIPTION:Lesung aus dem Erzählband „Welches Zuhause“ von nous Koll
+ ektiv. Diskussionen über Wohnen im Kapitalismus. Anschließend Ausklang i
+ n der Hausbar im Siggi11.
+LOCATION:Nauklerstr. 50\, 72074 Tübingen
+END:VEVENT
 END:VCALENDAR
