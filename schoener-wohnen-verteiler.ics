@@ -16761,4 +16761,24 @@ DESCRIPTION:Lesung aus dem Erzählband „Welches Zuhause“ von nous Koll
  n der Hausbar im Siggi11.
 LOCATION:Nauklerstr. 50\, 72074 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemeinsame Anreise nach Köln: Rheinmetall Entwaffnen Camp & Aktio
+ nswoche
+DTSTART;TZID="+01:00":20260901T090000
+DTEND:20260901T235959Z
+DTSTAMP:20260624T215618Z
+UID:628a09c0-8da0-43bc-8ada-99de5d82df13
+DESCRIPTION:Gemeinsame Anreise zum Camp und Aktionstagen gegen\nRüstungsi
+ ndustrie\, Kriegstreiberei und Militarisierung in Köln.\nMehr Infos zu Rh
+ einmetall Entwaffnen: https://rheinmetallentwaffnen.noblogs.org/\n\nAbfahr
+ t von Tübingen am Dienstag\, 01.09. oder Donnerstag\, 03.09.26.\nRückfah
+ rt am Sonntag\, 06.09.26.\n\nTicketkaufmöglichkeiten:\n     27.06. 18 Uhr
+ \, Linkes Zentrum (Lesung)\n     07.07. 18 Uhr\, Siggi Küfa (Sigwartstr. 
+ 11)\n     09.07. 19 Uhr\, Linkes Zentrum (Trude singt)\n     13.07. 19 Uhr
+ \, Linkes Zentrum (OTFR)\n     16.07. 19 Uhr\, Antifa-Kneipe (Münzgasse 7
+ )\n     23.07. 19 Uhr\, Linkes Zentrum (TOAKT)\n\nTickets: 20€ / 40€ /
+  80+€ (80€ oder mehr wird empfohlen).\nCampbeitrag: 15€ pro Tag.\nBe
+ i finanziellen Schwierigkeiten bitte melden.
+LOCATION:Tübingen (Abfahrtort)\, Köln (Zielort)
+END:VEVENT
 END:VCALENDAR
