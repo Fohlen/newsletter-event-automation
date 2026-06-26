@@ -16797,4 +16797,15 @@ DESCRIPTION:Come along to the Kleinkunstabend (open stage evening) in Fich
  ful impressions!
 LOCATION:Herrenberger Str.40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. bunter Abend der Lugis
+DTSTART;TZID="+02:00":20261020T190000
+DTEND:20261020T235959Z
+DTSTAMP:20260626T214935Z
+UID:5f493b34-712d-44ee-aa10-3f57a7af5b70
+DESCRIPTION:5. bunter Abend bei den Lugis in der Paul-Lechler-Str. 9. Info
+ rmationen im Flyer. Suche nach Programmpunkten und spontanen Beiträgen. D
+ J Schnotz legt von 22-00 Uhr auf.
+LOCATION:Paul-Lechler-Str. 9\, Tübingen
+END:VEVENT
 END:VCALENDAR
