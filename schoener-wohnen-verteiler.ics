@@ -16781,4 +16781,20 @@ DESCRIPTION:Gemeinsame Anreise zum Camp und Aktionstagen gegen\nRüstungsi
  i finanziellen Schwierigkeiten bitte melden.
 LOCATION:Tübingen (Abfahrtort)\, Köln (Zielort)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kleinkunstabend
+DTSTART:20260627T200000Z
+DTEND:20260627T235959Z
+DTSTAMP:20260626T151333Z
+UID:4715a5bf-f254-440c-8d16-b7dda0128783
+DESCRIPTION:Come along to the Kleinkunstabend (open stage evening) in Fich
+ tehaus (Herrenberger Str.40) on June 27th 2026. It starts at 8 pm! Whether
+  you want to watch or perform something yourself\, we look forward to seei
+ ng you there. If you want to perform something\, please register under htt
+ ps://forms.gle/mSS3qaTASfFJEvSN6 and briefly describe what you want to do 
+ and how long it will take. Please note that your performance should not be
+  longer than 5 minutes. We are looking forward to an evening full of color
+ ful impressions!
+LOCATION:Herrenberger Str.40
+END:VEVENT
 END:VCALENDAR
