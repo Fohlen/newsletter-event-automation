@@ -16808,4 +16808,15 @@ DESCRIPTION:5. bunter Abend bei den Lugis in der Paul-Lechler-Str. 9. Info
  J Schnotz legt von 22-00 Uhr auf.
 LOCATION:Paul-Lechler-Str. 9\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar findet statt
+DTSTART:20260627T210000Z
+DTEND:20260627T235959Z
+DTSTAMP:20260627T141517Z
+UID:7b258c9c-8615-44c8-ac7f-a30379de97c3
+DESCRIPTION:Tausende Menschen sterben\, weil sie keinen Zugang zu kühlen 
+ Orten haben\, keine Klimaanlage besitzen oder nicht über ein Wochenende i
+ n die Hochalpen fahren können. Passt auf euch auf!
+LOCATION:Siggi-Garten
+END:VEVENT
 END:VCALENDAR
