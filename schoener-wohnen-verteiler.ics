@@ -16836,4 +16836,18 @@ DESCRIPTION:Friends of the solidary and culinary joys! Are you hungry\, al
  !
 LOCATION:Bei der Fruchtschranne 6\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung & Diskussion
+DTSTART;TZID="+01:00":20260701T200000
+DTEND:20260701T220000Z
+DTSTAMP:20260629T215503Z
+UID:882902d1-070a-4d65-9ce5-4ac34cd3a184
+DESCRIPTION:Buchvorstellung mit Karl Meyerbeer zum Thema: Konflikte\, Spal
+ tungen und Gemeinsamkeiten in der radikalen Linken. Das Büchlein »Worüb
+ er wir streiten müssen« bietet einen Überblick zu zentralen Konfliktlin
+ ien linker Theorie und Bewegung. Die Buchvorstellung widmet sich der Frage
+ \, warum Linke so erbittert streiten\, es geht um 2-3 konkrete Konflikte u
+ nd um ein paar Vorschläge dazu\, wie man besser streiten kann.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
 END:VCALENDAR
