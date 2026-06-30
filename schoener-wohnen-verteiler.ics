@@ -16850,4 +16850,20 @@ DESCRIPTION:Buchvorstellung mit Karl Meyerbeer zum Thema: Konflikte\, Spal
  nd um ein paar Vorschläge dazu\, wie man besser streiten kann.
 LOCATION:Hausbar der Schellingstraße 6
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Dinner
+DTSTART:20260702T180000Z
+DTEND:20260702T230000Z
+DTSTAMP:20260630T151417Z
+UID:ba96bec6-d780-4602-b429-79c3797f9944
+DESCRIPTION:Cook a pot\, a bowl\, a plate of a typical dish from your coun
+ try! We as Pfleghof are also gonna cook some dishes from countries 🇧
+ 🇷🇮🇷🇺🇸🇮🇳🇵🇹🇵🇱🇲🇽🇰🇷🇷🇴🇮
+ 🇪 represented in Pfleghof. Our aim is to bring international people clo
+ ser and create connections 🫂. Feel free to bring friends! You can decid
+ e if you wanna bring appetizers\, side dishes🍢\, main dishes🍲\, snac
+ ks 🥜or desserts🥞. Of course you can also join if you couldn’t prep
+ are a dish. Pls mark gluten free and vegan/ vegetarian food 🌱 :)
+LOCATION:Pfleghofstraße 2
+END:VEVENT
 END:VCALENDAR
