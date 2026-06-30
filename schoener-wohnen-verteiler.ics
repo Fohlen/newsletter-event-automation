@@ -16866,4 +16866,33 @@ DESCRIPTION:Cook a pot\, a bowl\, a plate of a typical dish from your coun
  are a dish. Pls mark gluten free and vegan/ vegetarian food 🌱 :)
 LOCATION:Pfleghofstraße 2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hausbar mit Filmvorführung und Diskussion
+DTSTART:20260207T210000Z
+DTEND:20260207T230000Z
+DTSTAMP:20260630T220014Z
+UID:2af9a44a-27eb-474c-b99c-ed23eedbaa3a
+DESCRIPTION:Filmvorführung von "Shadow Game"\, ein Film über Teenager au
+ f ihrem Weg über die Grenzen Europas. Davor Input zu der bulgarischen Au
+ ßengrenze und der Arbeit von Nonamekitchen. Anschließend Hausbarbetrieb 
+ mit Getränken und Musik. Spenden gehen an die Harmanli base der Nonamekit
+ chen in Bulgarien.
+LOCATION:Ludwigstraße 15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flohmarkt und Party im Fichtehaus
+DTSTART:20260722T170000Z
+DTEND:20260722T235959Z
+DTSTAMP:20260630T220014Z
+UID:4b4cdbfb-09a1-492f-9594-9317b8fc75e9
+DESCRIPTION:Das Fichtehaus lädt zu unserem phänomenalen Flohmarkt ein! B
+ ringe mit\, was du verkaufen oder tauschen möchtest. Ab 22 Uhr geht es au
+ f den Dancefloor mit dem Motto: 🌈 Choose your colours from the rainbow!
+  🌈 Line-up: Sekt Pauli | 120–145 BPM | Organic Tribal House\, duepier
+ t b2b kupisch | 125–140 BPM | Leftfield Electronica\, hatzlose | 145–1
+ 78 BPM | Eurotechno\, mørizz | 135–175 BPM | Psy(cho)trance\, KONTRAZT 
+ | 145–160 BPM | Dark Emotional Schranz\, MPMP! (Mister President Micro P
+ enis) | 150–160 BPM | Latincore × Bouncy Techno × 00's
+LOCATION:Fichtehaus
+END:VEVENT
 END:VCALENDAR
