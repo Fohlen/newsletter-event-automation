@@ -16895,4 +16895,61 @@ DESCRIPTION:Das Fichtehaus lädt zu unserem phänomenalen Flohmarkt ein! B
  enis) | 150–160 BPM | Latincore × Bouncy Techno × 00's
 LOCATION:Fichtehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aktion gegen AfD-Bundesparteitag
+DTSTART:20260704T213000Z
+DTEND:20260704T235959Z
+DTSTAMP:20260702T145809Z
+UID:8cf37264-26fe-486e-89e6-4f68b711fd6b
+DESCRIPTION:Busticket nach Erfurt zur Verhinderung des AfD-Bundesparteitag
+ s. Abfahrt am Freitag um 21:30 Uhr von Tübingen. Rückfahrt am Samstag Ab
+ end. Kosten: 35 € (ermäßigt)\, 65 € (standard)\, 85 € (soli). Akti
+ onstraining heute (Mittwoch\, 01.07) um 18 Uhr. Informationen zu rechtlich
+ en Dingen\, Packliste etc. unter den angegebenen Links. Bezugsgruppen werd
+ en gebildet. Kontakt bei kurzfristiger Teilnahme: insta (widersetzen_tuebi
+ ngen) oder mail (widersetzen_tuebingen@proton.me).
+LOCATION:Erfurt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Double concert with RAZMOTCHIKI KATUSHEK and IVA NOVA
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+DTSTAMP:20260702T145809Z
+UID:632d0e5e-c952-4033-8a9f-ae7d8371805c
+DESCRIPTION:RAZMOTCHIKI KATUSHEK [RU] The music of Razmotchiki Katushek or
+ iginated from the duo Jekaterina Fjodorowa and Remko Muermans – now it i
+ s a solo project. Extravagant and wild\, a mixture of post-industrial\, ra
+ w EBM electro sequences\, lively dance-punk and biting acid house - presen
+ ted with the energy of a powerful rock band! This makes every Razmotchiki 
+ Katushek live concert the ultimate experience. Yekaterina Fyodorova's drum
+  set is a whole orchestra of feathers\, pipes and various metal objects th
+ at drives\, captivates and occasionally knocks over! IVA NOVA [RU] Iva Nov
+ a draw inspiration from Slavic folk music\, but also give their music a ve
+ ry personal touch. A pretty wild one\, to be precise. Don't expect traditi
+ onal Russian folk music. And when the accordionist takes her instrument in
+  hand\, she makes you dream of the Russian soul. But as soon as Iva Nova u
+ ses organ\, effects and reverb\, they catapult you straight back to the bi
+ g city and its pulsating urban life. The band was founded in 2002 in St. P
+ etersburg and first toured Western Europe in 2004 after the release of the
+ ir debut album. Since then\, they have been touring tirelessly\, playing i
+ n numerous clubs and festivals in many countries. In addition to Russian l
+ yrics\, Iva Nova also has songs in Ukrainian\, Bulgarian and Georgian in t
+ heir repertoire. In addition to using inexhaustible folkloric sources\, th
+ ey have creatively experimented with many other styles. Iva Nova's rousing
+  live show is a colorful mixture of soulful songs and energetic punk dance
+ s – pure musical anarchy!
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geigerle Sommerfest
+DTSTART;TZID="+01:00":20260704T170000
+DTEND:20260704T230000Z
+DTSTAMP:20260702T145809Z
+UID:10306a15-8f12-4763-a8e9-e6eafc81539f
+DESCRIPTION:Charlottenstr.8\, 72070 Tübingen. Bands und DJs\, Grill\, Piz
+ za\, Waffeln\, Bretzeln und Eis. Breakdance Workshop\, Wasserrutsche. Live
+ bands: John Mayer Experience\, Thick Thieves\, No Name until Fame\, Fenix 
+ Grooves. DJs: Harissa\, Losso und JDoubleU x Mogli\, Sai Prasanna.
+LOCATION:Charlottenstr. 8\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
