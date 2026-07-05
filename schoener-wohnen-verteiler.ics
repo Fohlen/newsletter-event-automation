@@ -17080,4 +17080,25 @@ DESCRIPTION:Leerstand + Wohnungsnot = Hausbesetzung. In Tübingen wurde di
  ss daran findet die Epple-Kneipe statt!
 LOCATION:Epplehaus
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huber Küfa (Küche für alle)
+DTSTART:20260706T180000Z
+DTEND:20260706T235959Z
+DTSTAMP:20260705T213600Z
+UID:c4605cfb-c017-4f26-9f3d-f948af5a4ec2
+DESCRIPTION:Wir organisieren unsere nächste Huber Küfa (Küche für alle
+ ) bei uns im Wohnprojekt Tante Huber. Gekocht wird vegan und auf Spendenba
+ sis. Es gibt leckeres Essen und Getränke. Der Raum ist barrierefrei.
+LOCATION:Huberstraße 14/16 im Gemeinschaftsraum/Garten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schelling Summer Party
+DTSTART;TZID="+02:00":20260711T140000
+DTEND:20260711T235959Z
+DTSTAMP:20260705T213600Z
+UID:bf263ca3-d411-4f43-806b-430ca2d04c12
+DESCRIPTION:Schelling summer party with live music\, DJs\, food\, drinks\,
+  kids program\, scavenger hunt\, games\, and tattoo artists.
+LOCATION:Schellinghof
+END:VEVENT
 END:VCALENDAR
