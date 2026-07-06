@@ -17101,4 +17101,37 @@ DESCRIPTION:Schelling summer party with live music\, DJs\, food\, drinks\,
   kids program\, scavenger hunt\, games\, and tattoo artists.
 LOCATION:Schellinghof
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeden Mittwoch bis einschliesslich 27. Mai gibt es Getraenke\, Tis
+ chtennis und nette Menschen im Garten der Schelling.
+DTSTART:20260423T200000Z
+DTEND:20260423T235959Z
+DTSTAMP:20260706T215851Z
+UID:0bdfec7a-7e36-4b9c-98c0-e22fb67044f8
+DESCRIPTION:Getraenke\, Tischtennis und nette Menschen im Garten der Schel
+ ling.
+LOCATION:Garten der Schelling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressefreiheit unter Beschuss
+DTSTART:20260707T190000Z
+DTEND:20260707T230000Z
+DTSTAMP:20260706T215851Z
+UID:1b75a1b5-6897-47b6-88a8-3e597981c15c
+DESCRIPTION:Im Zuge der aktuellen Militarisierung wird die Presse- und Mei
+ nungsfreiheit in Deutschland zunehmend eingeschränkt. Neben ökonomischen
+  Abhängigkeiten und strukturellen Verflechtungen zwischen Medien\, Politi
+ k und Wirtschaft dokumentiert die aktuelle Studie „Pressefreiheit unter 
+ Beschuss“ von Sophie Voigtmann vermehrte direkte staatliche Eingriffe. S
+ ie ordnet die Entwicklung seit der 2022 ausgerufenen „Zeitenwende“ his
+ torisch ein und zeigt am Beispiel der aktuellen Sanktionierung des Journal
+ isten Hüseyin Doğru\, wie insbesondere antimilitaristische Positionen zu
+ nehmend unter Druck geraten. Vonseiten der NATO\, der EU sowie nationaler 
+ Institutionen wird dabei der Vorwurf der „Desinformation“ zur Delegiti
+ mierung journalistischer Arbeit genutzt. Eine wachsende Gefahr für antimi
+ litaristische Arbeit insgesamt! Sophie Voigtwich wird einen Einblick in ih
+ re aktuelle Studie geben\, es gibt wie immer im Anschluss Raum für Fragen
+  und Diskussionen bei Snacks und Getränken.
+LOCATION:IMI-Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
+END:VEVENT
 END:VCALENDAR
