@@ -17134,4 +17134,14 @@ DESCRIPTION:Im Zuge der aktuellen Militarisierung wird die Presse- und Mei
   und Diskussionen bei Snacks und Getränken.
 LOCATION:IMI-Büro im Sudhaus\, Hechinger Straße 203\, Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schelling Sommerfest Schichtplan
+DTSTART:20260711T080000Z
+DTEND:20260711T180000Z
+DTSTAMP:20260707T152932Z
+UID:9201a597-8109-497a-86b5-f214a951554f
+DESCRIPTION:Wir brauchen viele helfende Hände\, um das Sommerfest zu stem
+ men. Bitte tragt euch ein\, wenn ihr Kapazitäten habt.
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
