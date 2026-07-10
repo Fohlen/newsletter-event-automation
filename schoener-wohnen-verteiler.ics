@@ -17144,4 +17144,15 @@ DESCRIPTION:Wir brauchen viele helfende Hände\, um das Sommerfest zu stem
  men. Bitte tragt euch ein\, wenn ihr Kapazitäten habt.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beluga Open Air
+DTSTART:20260718T000000Z
+DTEND:20260718T235959Z
+DTSTAMP:20260710T213925Z
+UID:478c9520-4bcf-403a-9e2d-1b84ee75a703
+DESCRIPTION:Perlenworkshop\, Action Painting\, Graffiti Wall. LINE UP: JNK
+ \, DJ SMOOTHIE\, Benyum\, Hetti (Live)\, 8R (Live)\, DJ AYRAN b2b COOK\, L
+ EKTROKÄTZ\, NO.AH b2b Linkona. All profits go to Sewatch e.V.
+LOCATION:Null8 15
+END:VEVENT
 END:VCALENDAR
