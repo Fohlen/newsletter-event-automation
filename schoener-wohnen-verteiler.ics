@@ -17155,4 +17155,46 @@ DESCRIPTION:Perlenworkshop\, Action Painting\, Graffiti Wall. LINE UP: JNK
  EKTROKÄTZ\, NO.AH b2b Linkona. All profits go to Sewatch e.V.
 LOCATION:Null8 15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solidarität mit Gefangenen
+DTSTART:20260101T210000Z
+DTEND:20260101T230000Z
+DTSTAMP:20260714T213230Z
+UID:c1c1bdb2-32b5-4cd7-90b1-dc4b7fe1c4ba
+DESCRIPTION:In gemütlichen Hausbar Ambiente wollen wir Stifte und Papier 
+ zücken und an die Genoss:innen denken\, die eingesperrt und isoliert von 
+ uns sind. Ob die Ulm5 in Deutschland\, Maja in Ungarn oder viele weitere a
+ uf der ganzen Welt\, lasst uns Solidarität zeigen und uns gemeinsam gegen
+  ihre Repressionen stellen! 19:00 küfa auf dem sternplatz 21:00 Hausbar w
+ ie gewohnt mit Getränken auf Spende und Lagerfeuer.
+LOCATION:sternplatz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gemütlicher Sommerabend mit Außenbar und Filmvorführung
+DTSTART:20260715T200000Z
+DTEND:20260715T230000Z
+DTSTAMP:20260714T213230Z
+UID:c062af0f-60d8-49e1-84b2-e7df38fbe80a
+DESCRIPTION:Abend mit Freunden\, Aperol Spritz und Filmvorführung im Frei
+ en. Bringt mit\, was ihr für einen gemütlichen Abend braucht.
+LOCATION:Draußen-Hausbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskussions- und Lesekreis zu "Die Frau als Mensch"
+DTSTART:20260716T190000Z
+DTEND:20260716T200000Z
+DTSTAMP:20260714T213230Z
+UID:46988192-f841-4566-b693-fa6466644545
+DESCRIPTION:Gerne möchten wir in einem offenen Diskussions- und Lesekreis
+  Auszüge aus "Die Frau als Mensch" lesen\, darüber ins Gespräch kommen\
+ , unsere Erfahrungen austauschen und miteinander diskutieren - reden über
+  das\, was uns bewegt. Grundlage jedes monatlichen Treffens ist ein voraus
+ gewählter Text (Gedichte\, Kurzprosa\, Auszüge\, Artikel\, Zitate usw.)\
+ , den die Teilnehmer:innen als Diskussionsimpuls selbst per Mail (queer-fe
+ ministischer-lesekreis@web.de) einbringen können\, den gemeinsam vor Ort 
+ gelesen und anschließend diskutiert wird. Wir verstehen unser Zusammenkom
+ men als einen mutigen Raum\, an dem wir voneinander und miteinander lernen
+  dürfen und dabei unsere Bedürfnisse und Grenzen achten wollen.
+LOCATION:Blaues Haus (Weststadttreff\, Herrenberger Str. 61)
+END:VEVENT
 END:VCALENDAR
