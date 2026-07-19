@@ -17287,4 +17287,15 @@ DESCRIPTION:Kaffee\, Kuchen und Tattoos in der Siggi 11. Mit @tonitintetue
   und @barista_feminista.
 LOCATION:Siggi 11
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dub\, Post-Dub & mehr
+DTSTART:20260723T190000Z
+DTEND:20260723T235959Z
+DTSTAMP:20260719T212747Z
+UID:694cb85d-c016-4f91-a1f6-a6b8f9028572
+DESCRIPTION:Dub\, Post-Dub & mehr\, mit SELEKTOR AVERELL\, SYRINX\, CUBIQU
+ E flyer/sharepic: https://tue4.org/media/cefb601aaff4d4cfbb445adb9746bdabd
+ 982bf91501c76601aaa2e086726b9ef.png?name=23.Juli_share.png
+LOCATION:Ludwigstraße 15
+END:VEVENT
 END:VCALENDAR
