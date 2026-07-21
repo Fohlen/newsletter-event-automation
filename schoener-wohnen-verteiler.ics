@@ -17310,4 +17310,25 @@ DESCRIPTION:As every Tuesday\, we are coming together this week on 21.07 a
  s and most importantly\, come as you are.
 LOCATION:Siggi11 garden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung: Fruchtlos & treudoof – Spuren des Militarismus in T
+ übingen
+DTSTART;TZID="+01:00":20260723T170000
+DTEND:20260723T210000Z
+DTSTAMP:20260721T214224Z
+UID:323c7836-5472-4734-803c-089397f9596a
+DESCRIPTION:Im Rahmen des "Artist in Residence"-Programms von Ort für Kun
+ st e.V. hat die Tübinger Künstlerin Sophie Linde ideologische Spuren von
+  Vaterlands-Ideologie\, Opfermythos und Nationalchauvinismus entlang der T
+ übinger Kriegsdenkmäler verfolgt. Ihre Arbeiten stellen Bezüge zu aktue
+ llen Auseinandersetzungen um Aufrüstung\, Wehrpflicht und Sozialkürzunge
+ n her. Wir laden ein zur Ausstellung mit kleinem Rundgang\, Getränken und
+  Snacks sowie Gesprächen mit der Künstlerin. Die Ateliers und Werkstätt
+ en des "Kunstlaboratorium" sind in zwei Bauwägen und zwei zum "Kunst-Cont
+ ainer" verbundenen Containern auf dem ehemaligen Zoo-Gelände untergebrach
+ t – knapp fünf Minuten zu Fuß stadtauswärts vom Westbahnhof. Zur Webs
+ ite von Ort für Kunst e.V.: www.ort-fuer-kunst.de und zur Website von Sop
+ hie Linde: sophielinde.wordpress.com oder Instagram: @keinezeitfuerkunst
+LOCATION:Kunstlaboratorium Weststadt (Schleifmühleweg 84\, Tübingen)
+END:VEVENT
 END:VCALENDAR
