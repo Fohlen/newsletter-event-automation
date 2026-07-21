@@ -17298,4 +17298,16 @@ DESCRIPTION:Dub\, Post-Dub & mehr\, mit SELEKTOR AVERELL\, SYRINX\, CUBIQU
  982bf91501c76601aaa2e086726b9ef.png?name=23.Juli_share.png
 LOCATION:Ludwigstraße 15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community dinner and solidarity event
+DTSTART:20260721T180000Z
+DTEND:20260721T220000Z
+DTSTAMP:20260721T143624Z
+UID:f4100b63-d5ca-4ede-a27e-65fbfd25fe3b
+DESCRIPTION:As every Tuesday\, we are coming together this week on 21.07 a
+ t 18:00 to eat\, connect and build solidarity. We will create a cozy space
+  in our garden for you to enjoy the evening. Come hungry\, in large number
+ s and most importantly\, come as you are.
+LOCATION:Siggi11 garden
+END:VEVENT
 END:VCALENDAR
