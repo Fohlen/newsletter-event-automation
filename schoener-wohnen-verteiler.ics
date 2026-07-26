@@ -17331,4 +17331,13 @@ DESCRIPTION:Im Rahmen des "Artist in Residence"-Programms von Ort für Kun
  hie Linde: sophielinde.wordpress.com oder Instagram: @keinezeitfuerkunst
 LOCATION:Kunstlaboratorium Weststadt (Schleifmühleweg 84\, Tübingen)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meeting
+DTSTART;TZID="-07:00":20260727T180000
+DTEND:20260727T235959Z
+DTSTAMP:20260726T141150Z
+UID:ae9554d1-480a-4b31-aa9c-7f8ded68e768
+DESCRIPTION:Siggi11 Action Week
+LOCATION:Sigwartstraße 11\, 72076 Tübingen
+END:VEVENT
 END:VCALENDAR
