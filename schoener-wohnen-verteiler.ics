@@ -17340,4 +17340,25 @@ UID:ae9554d1-480a-4b31-aa9c-7f8ded68e768
 DESCRIPTION:Siggi11 Action Week
 LOCATION:Sigwartstraße 11\, 72076 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villen für Alle!
+DTSTART;TZID="+02:00":20260728T173000
+DTEND:20260728T183000Z
+DTSTAMP:20260727T152524Z
+UID:e55bee26-bc48-42a5-8448-3b49de0f7800
+DESCRIPTION:Villen für Alle! Solidarität mit der Siggi11 Leerstand\, Sch
+ warzschimmel und Wucherpreise bleiben Normalität auf dem Tübinger Wohnun
+ gsmarkt. Zusätzlich werden Menschen verdrängt oder schlimmstenfalls zwan
+ gsgeräumt\, wenn sie Profitinteressen im Wege stehen. So wie die Bewohner
+ *innen der Siggi11\, die sich nun fast 2 Jahre gegen den Auszug wehrten! V
+ or ihrem Auszug wollen wir solidarisch mit ihnen und Allen\, die diesen Ra
+ um belebt haben\, auf die Straße gehen! Also kommt Alle morgen um 17:30 U
+ hr zur Siggi11. Weder Private noch Ämter haben darüber zu entscheiden wi
+ e wir leben. Erst Recht nicht in einer Wohnraumkrise\, die die Politik nic
+ ht lösen kann oder will. Im Gegenteil\, die Mietpreise in Tübingen steig
+ en weiter rasant. Wir brauchen deutlich mehr bezahlbaren Wohnraum und müs
+ sen diesen für Alle verfügbar machen. Scheinbar können wir das nur selb
+ st. Danke Siggi11. Freiräume schaffen\, Leerstand besetzen.
+LOCATION:Siggi11
+END:VEVENT
 END:VCALENDAR
