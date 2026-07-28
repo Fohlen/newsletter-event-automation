@@ -17361,4 +17361,57 @@ DESCRIPTION:Villen für Alle! Solidarität mit der Siggi11 Leerstand\, Sch
  st. Danke Siggi11. Freiräume schaffen\, Leerstand besetzen.
 LOCATION:Siggi11
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rave the day away!
+DTSTART:20260731T160000Z
+DTEND:20260731T210000Z
+DTSTAMP:20260728T214357Z
+UID:e7e1f7bf-26d7-46f9-a5e1-674f9bb1a283
+DESCRIPTION:Am Freitag\, den 31. Juli verwandeln wir die M7 (Münzgasse 7)
+  in den perfekten Spot für einen entspannten Sommernachmittag. Freut euch
+  auf kalte Getränke\, Hip-Hop\, Techno und alles dazwischen. Kommt vorbei
+ \, schnappt euch einen Drink\, chillt mit uns in der Münzgasse\, schwingt
+  euer Tanzbein\, quatscht und genießt den Sommer.
+LOCATION:Münzgasse 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit KANAAN und HIDEBOUND GARDEN
+DTSTART:20260805T203000Z
+DTEND:20260805T230000Z
+DTSTAMP:20260728T214357Z
+UID:8bf48ac1-e301-4082-bd83-4ce032a96f2a
+DESCRIPTION:Doppelkonzert mit KANAAN und HIDEBOUND GARDEN. Rock\, Psychede
+ lic Blues\, Jazz\, Stoner Rock\, Krautrock\, Blues Rock.
+LOCATION:Shedhalle\, Schlachthausstraße 13\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfest des Shedhalle Tübingen e.V.
+DTSTART:20260731T180000Z
+DTEND:20260731T235959Z
+DTSTAMP:20260728T214357Z
+UID:91ed19e4-a92c-4b7d-972a-94e3005e3b18
+DESCRIPTION:Der Shedhalle Tübingen e.V. lädt am 31. Juli und 1. August 2
+ 026 zum Sommerfest auf das Gelände des ehemaligen Schlachthofs ein. Das z
+ weitägige Programm verbindet zeitgenössische Kunst\, Livemusik\, DJ-Sets
+  und ein familienfreundliches Nachmittagsprogramm.\nDen Auftakt bildet am 
+ Freitag die Ausstellung „Komm Setz Dich“\, die gemeinsam mit einem Kü
+ nstler:innen-Kollektiv um die Tübingerin Hannah Pietsch präsentiert wird
+ . Gezeigt werden Film\, analoge Fotografie und Installationen\, die sich m
+ it Zugehörigkeit\, Identität und dem Ankommen im eigenen Raum auseinande
+ rsetzen. Einlass ist ab 18 Uhr\, die Ausstellungseröffnung beginnt um 19 
+ Uhr.\nAbends sorgen die DJs Martin Hagenbuch\, Mr. Souldrops und DJ Gneeon
+  für den musikalischen Einstieg\, bevor ab 21 Uhr die Bands CINDY GRAVITY
+  und THIER auf der Bühne stehen.\nAm Samstag beginnt das Sommerfest berei
+ ts um 15 Uhr mit einem Familiennachmittag im Innenhof des Schlachthofs. Ki
+ nderprogramm sowie Kaffee\, Kuchen und Waffeln laden zum gemeinsamen Somme
+ rnachmittag ein. Musikalisch begleiten Mariculix & Sascha sowie DJ Walker 
+ den Tag. Ab 21 Uhr folgen die Live-Konzerte von KiTZ und SPINNEN.\nAn beid
+ en Tagen bietet die Sternplatz KüfA veganes Essen auf Spendenbasis an. De
+ r Eintritt zur Ausstellung und zu allen Konzerten ist frei.\n\n-- \nShedha
+ lle Tübingen Forum für zeitgenössische Künste e.V.\nSchlachthausstraß
+ e 13\n72074 Tübingen Germany\nwww.shedhalle.de\nwww.instagram.com/shedhal
+ le_tuebingen\nMitglied der ADKV - Arbeitsgemeinschaft Deutscher Kunstverei
+ ne
+LOCATION:Schlachthof\, Tübingen\, Germany
+END:VEVENT
 END:VCALENDAR
