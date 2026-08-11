@@ -17513,4 +17513,41 @@ DESCRIPTION:Bandeliers (Paris) and Dust in Bloom (Tübingen) will be playi
  music starts at 9:00 PM.
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Radaktion
+DTSTART:20260821T180000Z
+DTEND:20260821T230000Z
+DTSTAMP:20260811T212455Z
+UID:5cd5396c-6387-4681-bb64-3ff6ed5bfeba
+DESCRIPTION:Als Corso fahren wir quer durch Tübingen\, auch auf Straßen\
+ , die normalerweise nur Autos vorbehalten sind. Eine coole Mischung aus De
+ mo und rollender Party! Für Gleichberechtigung bei der Nutzung öffentlic
+ her Infrastruktur. Fahrradfahren muss sicher und attraktiv sein! Anschlie
+ ßend ist entspanntes ausklingen lassen angesagt. Es gibt Kaltgetränke un
+ d vermutlich auch bisschen was zu knabbern.
+LOCATION:Uni-Bib\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pales - Post-Punk/Garage Rock from France
+DTSTART:20260815T220000Z
+DTEND:20260815T235959Z
+DTSTAMP:20260811T212455Z
+UID:7b1a8b6e-3260-4753-8c5a-b8cb3bcb2782
+DESCRIPTION:Pales comes from the European city of Strasbourg\, which has a
+  lively music scene\, with its heart beating in legendary places like the 
+ music club La Laiterie. Legend has it that Pales was formed in March 2021 
+ from an improvised jam.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homebrewing Project Open Day
+DTSTART:20260819T090000Z
+DTEND:20260819T170000Z
+DTSTAMP:20260811T212455Z
+UID:ec11b807-f7ef-4bfa-ac62-9150b98e8fc6
+DESCRIPTION:Invitation to the Open Day of the homebrewing project. Learn m
+ ore about homebrewing\, tour facilities\, bottle your own beer\, taste and
+  take home freshly bottled beer.
+LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
+END:VEVENT
 END:VCALENDAR
