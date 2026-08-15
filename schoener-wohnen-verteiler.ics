@@ -17550,4 +17550,15 @@ DESCRIPTION:Invitation to the Open Day of the homebrewing project. Learn m
   take home freshly bottled beer.
 LOCATION:Fichtehaus\, Herrenberger Straße 40\, 72070 Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung von Ruby Rebelde
+DTSTART;TZID="+01:00":20260914T190000
+DTEND:20260914T235959Z
+DTSTAMP:20260815T130952Z
+UID:7af3e8f0-4550-4a4d-a780-3aeb0bcb3d82
+DESCRIPTION:Lesung von und mit Ruby Rebelde. In Ihrem Buch "Warum sie uns 
+ hassen“ geht Ruby Rebelde den historischen\, politischen und kulturellen
+  Wurzeln der Stigmatisierung von Sexarbeit nach.
+LOCATION:Tübinger Club Voltaire
+END:VEVENT
 END:VCALENDAR
