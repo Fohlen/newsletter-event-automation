@@ -17561,4 +17561,37 @@ DESCRIPTION:Lesung von und mit Ruby Rebelde. In Ihrem Buch "Warum sie uns
   Wurzeln der Stigmatisierung von Sexarbeit nach.
 LOCATION:Tübinger Club Voltaire
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hardcore Punk Night
+DTSTART:20260828T190000Z
+DTEND:20260828T200000Z
+DTSTAMP:20260827T223217Z
+UID:56fa146c-9186-455f-9f93-8e89875f6ba8
+DESCRIPTION:3 Bands aus Graz\, die klassischen Hardcore Punk zum Besten ge
+ ben. Ein kleiner Distro von Subzine wird auch am Start sein. https://calor
+ isimpact.bandcamp.com/ https://thesnub.bandcamp.com/music https://distelfi
+ stl.bandcamp.com/ https://subzine-records.bandcamp.com/
+LOCATION:Wagenburg Kneipe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtrundgang zum Antikriegstag
+DTSTART:20260831T180000Z
+DTEND:20260831T180000Z
+DTSTAMP:20260827T223217Z
+UID:f4538c92-9758-4278-8810-772e665e24a9
+DESCRIPTION:Der Antikriegstag am 01.09. erinnert an den Beginn des zweiten
+  Weltkriegs mit dem Überfall des faschistischen Deutschlands auf Polen. A
+ m Vorabend möchten wir in einem Stadtrundgang den Spuren des Militarismus
+ \, sowie des organisierten Widerstands gegen Faschismus und Krieg in Tübi
+ ngen nachgehen.\nWir verfolgen die Geschichte der Stadt vom Ersten über d
+ en Zweiten Weltkrieg bis heute: Beginnend an der Neuen Aula besuchen wir u
+ nter anderem das Denkmal für die Soldaten des Ersten Weltkriegs und das G
+ räberfeld X auf dem Stadtfriedhof sowie Orte des kommunistischen Widersta
+ nds in der Altstadt und lernen zentrale Personen der Arbeiterbewegung kenn
+ en\, welche in unseren Straßen gekämpft haben.\nAnschließend laden wir 
+ ein zum gemütlichen Ausklang und zum Austausch. Aus dem Wissen um unsere 
+ Geschichte wollen wir lernen und Kraft schöpfen für den heutigen Kampf g
+ egen Ausbeutung Unterdrückung und Krieg.
+LOCATION:Geschwister-Scholl-Platz vor der Neuen Aula
+END:VEVENT
 END:VCALENDAR
