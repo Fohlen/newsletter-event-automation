@@ -17594,4 +17594,21 @@ DESCRIPTION:Der Antikriegstag am 01.09. erinnert an den Beginn des zweiten
  egen Ausbeutung Unterdrückung und Krieg.
 LOCATION:Geschwister-Scholl-Platz vor der Neuen Aula
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solar-Zellen aufs Dach
+DTSTART:20260912T000000Z
+DTEND:20260912T235959Z
+DTSTAMP:20260903T163835Z
+UID:9754d89f-e025-4a4e-9f57-5c98c26d68b8
+DESCRIPTION:die Schelling packt sich Solar-Zellen aufs Dach - und Du kanns
+ t mit dabei sein! Im Zeitraum vom 12.-19. September (Samstag bis Samstag) 
+ wollen wir auf einem unserer Hausdächer einen ordentlichen Schwung Solar-
+ Module installieren. Wir freuen uns sehr über helfende Hände. Es winken 
+ ein leckeres Mittagessen sowie die ewige Dankbarkeit der Schelling. Unter 
+ folgendem Link findet ihr weitere Info sowie einen Schichtplan\, in den ih
+ r euch eintragen könnt: https://pad.riseup.net/p/Extern_Solar_2026_7yClZz
+ 2Oy7hSdwPysp3c-keep Schreibt bei Rückfragen gern direkt eine Mail an mich
+  (Arno): af.schmidt@posteo.de
+LOCATION:Schelling
+END:VEVENT
 END:VCALENDAR
