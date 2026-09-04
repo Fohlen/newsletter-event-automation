@@ -17611,4 +17611,17 @@ DESCRIPTION:die Schelling packt sich Solar-Zellen aufs Dach - und Du kanns
   (Arno): af.schmidt@posteo.de
 LOCATION:Schelling
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine antifaschistische Aktion von ROSA Reutlingen gegen die Wahl\,
+  bei der die AfD wahrscheinlich gewinnen wird. Die Punk-Rock-Band Sündflu
+ t wird auftreten.
+DTSTART:20260906T180000Z
+DTEND:20260906T235959Z
+DTSTAMP:20260904T163410Z
+UID:8f479507-2ed6-487c-a96f-915b5650e04e
+DESCRIPTION:Die AfD hat in Sachsen-Anhalt die Wahl gewonnen. Die Veranstal
+ tung ist ein Zeichen gegen die Machtübernahme der AfD. Es wird darum gebe
+ ten\, dass die Menschen gegen die Partei demonstrieren.
+LOCATION:Marktplatz\, Reutlingen
+END:VEVENT
 END:VCALENDAR
