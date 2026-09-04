@@ -17624,4 +17624,14 @@ DESCRIPTION:Die AfD hat in Sachsen-Anhalt die Wahl gewonnen. Die Veranstal
  ten\, dass die Menschen gegen die Partei demonstrieren.
 LOCATION:Marktplatz\, Reutlingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala show with artists from juggling\, acrobatics and magic
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+DTSTAMP:20260904T223026Z
+UID:b15c55d7-dbc2-4bba-a0bc-967cfb359de7
+DESCRIPTION:Workshops\, nice people and lots of space for your own experim
+ entation or amazement. There will also be a 
+LOCATION:Geschwister-Scholl-Schule
+END:VEVENT
 END:VCALENDAR
