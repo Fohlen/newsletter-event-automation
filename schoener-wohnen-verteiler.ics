@@ -17634,4 +17634,13 @@ DESCRIPTION:Workshops\, nice people and lots of space for your own experim
  entation or amazement. There will also be a 
 LOCATION:Geschwister-Scholl-Schule
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tante Huber is hosting a Küfa event.
+DTSTART:20260907T180000Z
+DTEND:20260907T230000Z
+DTSTAMP:20260905T152927Z
+UID:45d89c47-9739-4c2a-8e45-20466081daaa
+DESCRIPTION:Küfa (Kultur- und Ferienwohnung) at Tante Huber
+LOCATION:Huberstraße 14/16
+END:VEVENT
 END:VCALENDAR
