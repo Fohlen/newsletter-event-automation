@@ -17643,4 +17643,26 @@ UID:45d89c47-9739-4c2a-8e45-20466081daaa
 DESCRIPTION:Küfa (Kultur- und Ferienwohnung) at Tante Huber
 LOCATION:Huberstraße 14/16
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1 Jahr selbstverwalteter Bio-Mitgliederladen
+DTSTART:20260912T100000Z
+DTEND:20260912T140000Z
+DTSTAMP:20260907T175249Z
+UID:a8fa1cc9-d337-43b8-a55f-efe7e0ed7fc1
+DESCRIPTION:Sekt & Saft\, Brezeln & Gebäck\, Verkostung & Probiererle Sch
+ okokussschleuder & Kinderschminken.
+LOCATION:Hechinger Str. 82
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf Haxe am 03. Oktober 2026
+DTSTART;TZID="+01:00":20261003T183000
+DTEND:20261003T223000Z
+DTSTAMP:20260907T175249Z
+UID:8fa364b3-b0f2-490b-9723-47307626e4bc
+DESCRIPTION:Auf Haxe ist ein Drei-Gänge-Menü quer durch deine Nachbarsch
+ aft. Den Ablauf erklärt unser Clip auf der Startseite (www.aufhaxe.de). T
+ eilnehmen können alle Küchen\, die in ca. 15 Fahrrad-Minuten vom Tübing
+ er Zentrum aus erreichbar sind.
+LOCATION:Café Mehrrettich
+END:VEVENT
 END:VCALENDAR
