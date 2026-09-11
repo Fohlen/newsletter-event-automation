@@ -17665,4 +17665,13 @@ DESCRIPTION:Auf Haxe ist ein Drei-Gänge-Menü quer durch deine Nachbarsch
  er Zentrum aus erreichbar sind.
 LOCATION:Café Mehrrettich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert von Stone Sober (Psych-Garage Rock)
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+DTSTAMP:20260911T164319Z
+UID:57b2a109-cf54-4aee-8812-495055391ef4
+DESCRIPTION:vegan Bolognese
+LOCATION:Münze 13
+END:VEVENT
 END:VCALENDAR
