@@ -17674,4 +17674,69 @@ UID:57b2a109-cf54-4aee-8812-495055391ef4
 DESCRIPTION:vegan Bolognese
 LOCATION:Münze 13
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stone Sober concert
+DTSTART:20260914T210000Z
+DTEND:20260914T230000Z
+DTSTAMP:20260914T180942Z
+UID:40563b4e-0115-4247-975f-1efc409ab18c
+DESCRIPTION:Stone Sober - Psychedelic-Garage-Rock Duo from Budapest. The d
+ uo's unique sound is reflected in their raw and straightforward approach\,
+  their riff-driven heavy grooves\, their unusual vocal passages – both m
+ ale and female – and occasionally unusual time signatures. Their bell-bo
+ ttoms and extraordinary outfits perfectly capture the mood and atmosphere 
+ of the 70s. With three LPs already released\, the duo continues to write t
+ heir music with boundless ambition and creativity. The duo regularly perfo
+ rms not only in Hungary but also in the Netherlands\, Germany\, Austria\, 
+ and the Czech Republic.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soli-Sommerösterbar
+DTSTART;TZID="+02:00":20260914T180000
+DTEND:20260914T230000Z
+DTSTAMP:20260914T180942Z
+UID:858857b7-b5ee-46d6-a027-3111008109fa
+DESCRIPTION:Soli-Sommerösterbar zur Unterstützung der Erdbebenopfer in K
+ olumbien. Spenden für die Organisation „manosvisibles“\, die Hilfe in
+  der Region Chocó leistet. Mit veganer kolumbianischer Küche\, Getränke
+ n (inkl. kolumbianischem Spezialgetränk)\, Salsa\, Cumbia und Reggaeton.
+LOCATION:LH3 Garten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Besuch der sozialen Gemüsegärtnerei „Guter Grund“
+DTSTART:20261009T140000Z
+DTEND:20261009T170000Z
+DTSTAMP:20260914T180942Z
+UID:8c9a7b1b-06de-46f6-8f61-fc3a25132887
+DESCRIPTION:Besichtigung der VSP Gärtnerei Guter Grund in Tübingen\nWie 
+ wird Gemüse lokal und ressourcenschonend angebaut? Und welche Rolle könn
+ en dabei soziale Teilhabe und Beschäftigung spielen? Wir schauen uns an\,
+  wie Nahrungsmittelproduktion auch anders funktioniert. Bei einem Rundgang
+  über das Gelände lernen wir die Gärtnerei und ihre Arbeitsbereiche ken
+ nen und erfahren\, wie hier biologischer Gemüsebau mit sozialer Arbeit ve
+ rbunden wird.\nRundgang durch die Gärtnerei\nEinblicke in den biologische
+ n Gemüseanbau\nMehr über Anbau\, Ernte und Vermarktung regionaler Produk
+ te\nEinblicke in die Verbindung von Landwirtschaft und sozialer Teilhabe\n
+ Austausch\, Fragen & gemütlicher Ausklang\nBring dir gerne etwas zu trink
+ en mit
+LOCATION:Sindelfinger Str. 57/10 72070 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunch zum Thema Abtreibung\, §218 und körperliche Selbstbestimm
+ ung
+DTSTART:20260927T110000Z
+DTEND:20260927T235959Z
+DTSTAMP:20260914T180942Z
+UID:03156b09-0e7c-4b62-851e-23eddf19d95f
+DESCRIPTION:Anlässlich des Safe Abortion Days veranstalten wir Ende Septe
+ mber einen Brunch zum Thema Abtreibung\, §218 (Abtreibungsverbot in Deuts
+ chland) und den Kämpfen für ein Recht auf körperliche Selbstbestimmung.
+  Neben einem Input gibt es die Möglichkeit\, sich auszutauschen\, zu vern
+ etzen und gemeinsam zu basteln. Im Anschluss wollen wir noch eine kleine A
+ ktion machen - für alle die Lust haben. Gemeinsam kämpfen wir für die L
+ egalisierung von Abtreibung\, gute Gesundheitsversorgung und die Kontrolle
+  über unseren eigenen Körper.
+LOCATION:Linkes Zentrum Trude Lutz | Nauklerstraße 50 in Tübingen
+END:VEVENT
 END:VCALENDAR
