@@ -17739,4 +17739,41 @@ DESCRIPTION:Anlässlich des Safe Abortion Days veranstalten wir Ende Septe
   über unseren eigenen Körper.
 LOCATION:Linkes Zentrum Trude Lutz | Nauklerstraße 50 in Tübingen
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmreihe „Widerstand im Film“
+DTSTART:20260101T000000Z
+DTEND:20260101T235959Z
+DTSTAMP:20260921T181826Z
+UID:fd78ed08-3728-4da3-9e0f-ab261ffd7723
+DESCRIPTION:Filmvorführung über den Guerilla-Krieg der „Bewegung 26. J
+ uli“ und die zwei revolutionäre Fidel Castro und Che Guevara.
+LOCATION:Ein Kinosaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung und Buchvorstellung: "Kein Gott\, kein Staat\, kein Mietver
+ trag?"
+DTSTART:20260925T200000Z
+DTEND:20260925T220000Z
+DTSTAMP:20260921T181826Z
+UID:18eeaa0a-e8f4-4d53-9839-68ce275fe9c1
+DESCRIPTION:Lesung und Buchvorstellung: "Kein Gott\, kein Staat\, kein Mie
+ tvertrag? Chronologie der Hausbesetzungen in Tübingen von 1968–2026 mit
+  Historie der daraus entstandenen Wohnprojekte". Mehr als fünfzig Hausbes
+ etzungen gab es seit den späten 1960er-Jahren bis heute in Tübingen. Auc
+ h das 4-Häuser-Projekt würde es nicht geben\, wenn vor 16 Jahren nicht k
+ reative Besetzungen genutzt worden wären\, um die vier Häuser in der Hec
+ hinger Straße und Autenriethstraße dauerhaft in bezahlbaren\, selbstverw
+ alteten Wohnraum und Gemeineigentum zu überführen. Die Herausgeber Marc 
+ Amann und Elias Raatz stellen mit weiteren Autor*innen das neu erschienene
+  Buch vor und führen durch fast sechs Jahrzehnte Stadtgeschichte von unte
+ n: Von den studentischen Protesten der 68er-Zeit über den Häuserkampf de
+ r 1970er- und 1980er-Jahre\, die Besetzungswelle um 1989 bis 1992 und aktu
+ elle Kämpfe um Wohnraum im 21. Jahrhundert - sowie jene Orte\, die aus Be
+ setzungen hervorgingen und Tübingen bis heute mit prägen\, wie das Epple
+ haus\, die Münze 13\, Lu15\, Schelling\, die Wagenburgen und eben auch da
+ s 4-Häuser-Projekt. www.analyse-subkultur.de https://hausbesetzungen-tueb
+ ingen.mtmedia.org https://vier-haeuser-projekt.de/lesung-und-buchvorstellu
+ ngkein-gott-kein-staat-kein-mietvertrag-freitag-25-9-20-uhr-hafenblick/
+LOCATION:Café Hafenblick\, Hechinger Str. 35 (4-Häuser-Projekt)
+END:VEVENT
 END:VCALENDAR
