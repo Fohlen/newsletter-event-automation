@@ -17776,4 +17776,21 @@ DESCRIPTION:Lesung und Buchvorstellung: "Kein Gott\, kein Staat\, kein Mie
  ngkein-gott-kein-staat-kein-mietvertrag-freitag-25-9-20-uhr-hafenblick/
 LOCATION:Café Hafenblick\, Hechinger Str. 35 (4-Häuser-Projekt)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie muss sich die Stadt verändern\, um für alle da zu sein? Wie 
+ erleben Geflüchtete die Stadt? Welchen Schutz\, welche Teilhabemöglichke
+ iten brauchen sie? Was kann und sollte die Kommune tun? Was wir als Zivilg
+ esellschaft?
+DTSTART;TZID="+01:00":20260929T160000
+DTEND:20260929T220000Z
+DTSTAMP:20260923T230537Z
+UID:e36042e0-c81c-4600-8e20-7080b2326756
+DESCRIPTION:Kreativangebote\, gemeinsames Kochen und Essen (von und mit Bo
+ ngo)\, partizipative Podiumsdebatte („Fishbowl“)\, Musik und Tanz. Die
+  Veranstaltung richtet sich an ALLE – Betroffene\, solidarische Privileg
+ ierte\, Neugierige aus aller Welt und auch Skeptiker_innen sind willkommen
+ . Es gibt Übersetzung für Englisch\, Französisch\, Farsi\, Arabisch und
+  evtl. Türkisch.
+LOCATION:Wüste Welle
+END:VEVENT
 END:VCALENDAR
