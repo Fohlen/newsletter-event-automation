@@ -17793,4 +17793,30 @@ DESCRIPTION:Kreativangebote\, gemeinsames Kochen und Essen (von und mit Bo
   evtl. Türkisch.
 LOCATION:Wüste Welle
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aufstehen für Frieden!
+DTSTART;TZID="+02:00":20261002T200000
+DTEND:20261002T230000Z
+DTSTAMP:20260926T230745Z
+UID:009ebefd-6364-49fa-9ea2-db3aace24c96
+DESCRIPTION:An diesem Abend werden verschiedene Künstler*innen aus unters
+ chiedlichen Genres ihre Beiträge zum Thema präsentieren: Jakob Heymann (
+ Liedermacher und Musikkabarettist)\, Subject:Soul (fünfköpfige Soul-\, J
+ azz-\, Rock-\, Popband aus dem Raum Tübingen)\, serenadeyou und Kurt (Hip
+ -Hop\, Rap und Soul Duo aus Leipzig) & KABU (sozialkritischer Rap aus Tüb
+ ingen).\n„Aufstehen für Frieden!“ bringt Musiker*innen unterschiedlic
+ her Genres auf einer Bühne zusammen\, um mit ihren Songs ein Zeichen gege
+ n Krieg und für Frieden zu setzen. Gerade in diesen Zeiten\, wo der Globu
+ s mit Kriegen überzogen\, wo das Völkerrecht mit Füßen getreten\, wo a
+ uch in Deutschland versucht wird\, uns das hohe Lied grenzenloser Militari
+ sierung und Aufrüstung zu singen\, müssen wir unsere Stimme erheben: fü
+ r Diplomatie und Dialog statt neuer Feindbildpolitik und Kriegsvorbereitun
+ g. Krieg als Mittel der Politik muss endlich geächtet werden! Wir wollen 
+ mit diesem Konzertabend zum Nachdenken und Handeln anregen\, jeder und jed
+ e Einzelne kann aktiv werden: Aufstehen für den Frieden!\nDer reguläre E
+ intrittspreis beträgt 25\,00 €\, ermäßigt nur 15\,00 €\, weitere In
+ formationen und Karten im Vorverkauf erhaltet ihr hier:\nhttps://www.sudha
+ us-tuebingen.de/programm/details/aufstehen-fur-frieden.html
+LOCATION:Sudhaus Saal
+END:VEVENT
 END:VCALENDAR
