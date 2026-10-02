@@ -17891,4 +17891,27 @@ DESCRIPTION:The ADFC is currently conducting the Fahrradklima-Test 2026 (C
  n unsubscribe with a short message here: schoener_radeln@posteo.de
 LOCATION:Wannweil
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunter Abend im Lichti
+DTSTART:20261128T190000Z
+DTEND:20261128T230000Z
+DTSTAMP:20261002T180011Z
+UID:7586c5d1-8cee-4f24-af7a-b53b12ec45f7
+DESCRIPTION:Musik\, Poesie\, Chaos\, große Gefühle und kleine Kunstwerke
+ . Eine Bühne für alles\, was raus muss!
+LOCATION:Lichti\, Schwabstraße 6\, 72074 Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterparty im Wohnprojekt Tante Huber
+DTSTART;TZID="-01:00":20261024T220000
+DTEND:20261024T235959Z
+DTSTAMP:20261002T180011Z
+UID:d39401ec-89f7-4925-8841-f819f144c4ed
+DESCRIPTION:Wir öffnen die Türen um 22 bis um 5 Uhr mit durchmischter Mu
+ sik. Lineup: 22:00 - 23:30 Mariculix - Disco 23:30 - 01:00 AI - Amapiano 0
+ 1:00 - 02:30 IV Giro - Tech House Bounce 02:30 - 04:00 Ruomin - Break / Ga
+ rage / Bass 04:00 - 04:00 Karlu - Breakbeat Techno Live set In dem Chillou
+ t Bereich: Karady - Ambiente
+LOCATION:Huberstraße 16
+END:VEVENT
 END:VCALENDAR
