@@ -17914,4 +17914,51 @@ DESCRIPTION:Wir öffnen die Türen um 22 bis um 5 Uhr mit durchmischter Mu
  t Bereich: Karady - Ambiente
 LOCATION:Huberstraße 16
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoner rock concert with Weedwagon and Supernaughty
+DTSTART:20261007T210000Z
+DTEND:20261007T235959Z
+DTSTAMP:20261004T233225Z
+UID:9067c373-91ef-47d6-989e-d38d17c7056e
+DESCRIPTION:Supernaughty and Weedwagon are playing. Supernaughty is a ston
+ er metal power band from Livorno\, Italy. Weedwagon is a stoner rock band 
+ from Stuttgart. The show starts at 21:00.
+LOCATION:Blauer Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Küfa (Küche für alle) bei uns im Wohnprojekt Tante Huber
+DTSTART:20260601T180000Z
+DTEND:20260601T230000Z
+DTSTAMP:20261004T233225Z
+UID:4838bb12-a31d-4f9b-acd1-e4ed74c9f770
+DESCRIPTION:Es wird vegan gekocht und das Essen ist auf Spendenbasis. Der 
+ Eintritt ist frei.
+LOCATION:Huberstraße 14/16 im Gemeinschaftsraum/Garten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filmvorstellung: Black Block
+DTSTART:20261007T200000Z
+DTEND:20261007T220000Z
+DTSTAMP:20261004T233225Z
+UID:7b688a21-0095-4f26-800b-29542a1ee53f
+DESCRIPTION:Ein Dokumentarfilm\, der Einblicke gibt. In eine Szene\, die e
+ igentlich mit keinem redet. Der Film handelt von vermummten\, schweigenden
+  und schwarz gekleideten Personen\, die an Orstock-Aktionen wie der Elbcha
+ ussee brennen\, dem 1. Mai in Berlin\, dem Hambacher Forst und Angriffen a
+ uf Neonazis im Leipziger Umland beteiligt sind. Staatliche Behörden könn
+ en die Militanten des ‚Black Block‘ fast nie identifizieren.
+LOCATION:Hausbar der Schellingstraße 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auftakttreffen der Sea Punks
+DTSTART:20261021T193000Z
+DTEND:20261021T235959Z
+DTSTAMP:20261004T233225Z
+UID:df22d158-d3d1-404a-ba2a-f64c368268ca
+DESCRIPTION:Sea Punks Ludwigsburg/Stuttgart/Tübingen suchen Unterstützun
+ g um auf Konzerten und Veranstaltungen in der Gegend Spenden zu Sammel\, M
+ erch zu verkaufen und damit die zivile Seenotrettung im Mittelmeer zu unte
+ rstützen.
+LOCATION:Raupe Immersatt\, Johannesstraße 97\, 70176 Stuttgart-West
+END:VEVENT
 END:VCALENDAR
