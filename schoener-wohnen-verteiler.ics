@@ -17961,4 +17961,45 @@ DESCRIPTION:Sea Punks Ludwigsburg/Stuttgart/Tübingen suchen Unterstützun
  rstützen.
 LOCATION:Raupe Immersatt\, Johannesstraße 97\, 70176 Stuttgart-West
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Theaterstück über den Moment\, wo man's vergeigt.
+DTSTART:20261010T180000Z
+DTEND:20261010T235959Z
+DTSTAMP:20261005T204156Z
+UID:64fedffe-9e69-461e-8665-49aa67e49416
+DESCRIPTION:„Scheiße Bauen“ ist ein Theaterstück über den Moment\, 
+ wo man´s vergeigt. Oder wo man´s glaubt. Vielleicht ist es auch gar nich
+ t so schlimm gewesen. In Gesprächen mit den verschiedensten Menschen samm
+ elt das Theaterstück O-Töne über Trotz\, Leichtsinn\, Scham\, Mutproben
+ \, Ausreden\, verpasste Gelegenheiten und glorios misslungene Pläne.
+LOCATION:Shedhalle Tübingen\, Schlachthausstraße 13\, 72074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community voting for Wüste Welle
+DTSTART:20261001T000000Z
+DTEND:20261001T235959Z
+DTSTAMP:20261005T204156Z
+UID:f8a31ef5-f9fb-4230-84f9-6a62ff03f9f8
+DESCRIPTION:The Wüste Welle has made it to the final round of the “Teil
+ habe Schaffen – Social Startup Pitch 2026” competition for the radio w
+ ork with people who have experienced displacement and migration. From 1 to
+  16 October\, you can vote for us in the community vote: https://pollunit.
+ com/polls/teilhabeschaffen2026. Please ask your friends to vote for us too
+  and share the link in your networks! Attached are shareable images in Ger
+ man. You can find shareable images and information in other languages here
+ : https://www.wueste-welle.de/weblog/aktuelles/view/dt/3/article/106201/Un
+ terst-uuml-tzt_uns_beim_Community-Voting_und_gebt_uns_eure_Stimme-.html#to
+ pBlog
+LOCATION:Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstflohmarkt
+DTSTART:20261010T090000Z
+DTEND:20261010T140000Z
+DTSTAMP:20261005T204156Z
+UID:da694e8d-e3d5-4c71-bb23-bab1a4533ac8
+DESCRIPTION:Wir laden ♡-lich zum Herbstflohmarkt ins 4 Häuser Projekt e
+ in! (Sharepic im Anhang)
+LOCATION:Vor der Hechinger Str. 40
+END:VEVENT
 END:VCALENDAR
