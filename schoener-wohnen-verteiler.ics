@@ -18002,4 +18002,30 @@ DESCRIPTION:Wir laden ♡-lich zum Herbstflohmarkt ins 4 Häuser Projekt e
  in! (Sharepic im Anhang)
 LOCATION:Vor der Hechinger Str. 40
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Tübingen
+DTSTART:20261016T180000Z
+DTEND:20261016T230000Z
+DTSTAMP:20261006T183423Z
+UID:ec5a0ed0-70df-4a6e-8cc9-1adaa46b00f8
+DESCRIPTION:Als Corso fahren wir quer durch Tübingen\, auch auf Straßen\
+ , die normalerweise nur Autos vorbehalten sind. Eine coole Mischung aus De
+ mo und rollender Party! Für Gleichberechtigung bei der Nutzung öffentlic
+ her Infrastruktur. Fahrradfahren muss sicher und attraktiv sein! Anschlie
+ ßend ist entspanntes ausklingen lassen angesagt. Es gibt Kaltgetränke un
+ d auch bisschen was zu knabbern. Es wird gut!
+LOCATION:Uni-Bib\, Wilhelmstraße 32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT Werkstatt
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+DTSTAMP:20261006T183423Z
+UID:5b315963-0fd8-48ea-817e-5f0cd4e01be9
+DESCRIPTION:IT Unterstützung für groß und klein! Ob Vögel-Bekämpfung 
+ oder das Installieren neuer Programme - mit fachlicher Unterstützung vor 
+ Ort können wir uns gemeinsam um eure Software Anliegen kümmern. (Bei Har
+ dware Problemen können wir leider nicht helfen)
+LOCATION:Haus der Nachbarschaft
+END:VEVENT
 END:VCALENDAR
