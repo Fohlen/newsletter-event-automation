@@ -18028,4 +18028,23 @@ DESCRIPTION:IT Unterstützung für groß und klein! Ob Vögel-Bekämpfung
  dware Problemen können wir leider nicht helfen)
 LOCATION:Haus der Nachbarschaft
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future Fashion Tour in Tübingen
+DTSTART;TZID="+02:00":20261016T163000
+DTEND:20261016T180000Z
+DTSTAMP:20261009T182908Z
+UID:75f32829-7821-483b-8e19-2bbc3f771f2f
+DESCRIPTION:Slow Fashion-Orte in Tübingen entdecken. Bei der Tour lernt i
+ hr eine bunte Mischung an Läden – von 2nd Hand bis Handwerkskunst – u
+ nd die Menschen dahinter kennen\, die mit ihrem Engagement ein Stück Slow
+  Fashion leben. Was ihr mitnehmen könnt: - wie sich handwerkliche von ind
+ ustrieller Verarbeitung unterscheidet - auf welche Siegel ihr beim Einkauf
+ en achten könnt - welche verschiedenen Arten von 2nd Hand-Läden es in T
+ übingen gibt - die Vielfalt an Reparaturangeboten in Tübingen. Referent:
+ innen: Maria Keller\, Misuk Choi. Die Tour wird im Rahmen der Future Fashi
+ on Week/s von Future Fashion angeboten. Die Wege sind nicht weit und barri
+ erefrei. Ein Teil der Tour findet draußen statt\, daher kleidet euch bitt
+ e dem Wetter entsprechend. Die Tour wird ca. 2h dauern.
+LOCATION:Holzmarkt\, am Georgsbrunnen\, Tübingen
+END:VEVENT
 END:VCALENDAR
