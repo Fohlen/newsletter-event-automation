@@ -18076,4 +18076,60 @@ DESCRIPTION:Cosmic Kitten vereinen Elemente aus Alternative\, Post-Grunge
  en selbst organisiert haben.
 LOCATION:Blauen Salon
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Offenes Antiautoritäres Treffen
+DTSTART:20260214T190000Z
+DTEND:20260214T190000Z
+DTSTAMP:20261014T173245Z
+UID:073eecfb-abb7-49ea-b3f2-ac3f29abd903
+DESCRIPTION:ACHTUNG! PLENUM DIESMAL IM Queeren Zentrum (Derendinger Str. 4
+ 1) !!! Liebe Freund:innen\, am kommenden Mittwoch findet unser Offenes Ant
+ iautoritäres Treffen statt. Ob Ihr Euch vernetzen\, an anderen Projekten 
+ beteiligen oder eigene Themen bringen wollt\, kommt gern vorbei! Vorerfahr
+ ungen sind nicht notwendig. ggf. kann aber eine halbe Stunde früher (in d
+ ie Schelling!) gekommen werden\, um sich einmal kennen zu lernen. Kommt da
+ für gerne um 18:30 nochmal in den Schelling Infoladen\, dann können wir 
+ gemeinsam rüber laufen. Wir freuen uns auf Euch! Euer A-Treffen
+LOCATION:Queeres Zentrum\, Derendinger Str. 41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erstes Organisationstreffen für den Weihnachtsmarktstand
+DTSTART;TZID="+01:00":20261123T190000
+DTEND:20261123T200000Z
+DTSTAMP:20261014T173245Z
+UID:f02a5dea-37e7-4d40-a387-202102fbb83e
+DESCRIPTION:Organisation des Weihnachtsmarktstands des Zusammenschlusses d
+ er Tübinger Wohnprojekte. Dieses Jahr mit größerem Stand und Platz für
+  neue Ideen.
+LOCATION:Gemeinschaftsraum (Keller) des 5. Hauses des 4HP\, Hechinger Stra
+ ße 35\, Tübingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampirkeller - Spinnerei 
+DTSTART:20261027T190000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261014T173245Z
+UID:ec54546a-e1f5-4ddf-bab7-54bf8ca3ccab
+DESCRIPTION:Das Schloss öffnet die Türen! 🧛‍♀️ Tretet ein in de
+ n Vampirkeller und habt am Mittwoch ab 19 Uhr einen netten Abend mit Feder
+ weißer\, Keksen\, Tee und uns :) Wer will darf gerne Strick-\, Häkel-\, 
+ Näh- oder Blutsaugerprojekte mitbringen 🪡 Wie immer gilt: Wer sich üb
+ ergriffig verhält oder sonstwie daneben benimmt fliegt raus - für Mittwo
+ ch schließt das unkonsensuellen Aderlaß ausdrücklich mit ein. 🦇 Bitt
+ e raucht draußen Unser Blut kocht schon vor Freude Biss bald Warmis und B
+ ios
+LOCATION:Das Schloss
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heimat to Hell presents: BANK MYNA\, DEÛLE\, TEIGNE\, WARDEN\, PR
+ ISON OF HOPE
+DTSTART;TZID="+01:00":20260101T180000
+DTEND:20260101T235959Z
+DTSTAMP:20261014T173245Z
+UID:75a2bbb5-bbcf-487f-be5d-acc879c1c7eb
+DESCRIPTION:BANK MYNA PostDoomGaze from Paris | DEÛLE BlackenedAvantDoom 
+ from Lille | TEIGNE CrossoverHCGrind from Lille | WARDEN DoomedDarkRock fr
+ om Ulm | PRISON OF HOPE 90sHardcore from Stuttgart
+LOCATION:Epplehaus Tübingen
+END:VEVENT
 END:VCALENDAR
