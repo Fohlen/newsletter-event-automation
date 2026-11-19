@@ -1,0 +1,56 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  test_event_summaries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: 'true'
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - name: Install Python dependencies and CLI tools
+        run: |
+          uv sync --frozen
+          uv tool install llm
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+      - name: Setup Ollama
+        uses: ai-action/setup-ollama@v2
+      - name: Cache Ollama models
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama
+          key: ${{ runner.os }}-ollama-qwen2.5-7b-instruct
+      - name: Start Ollama and pull model
+        run: |
+          ollama serve &
+          until ollama list >/dev/null 2>&1; do sleep 1; done
+          ollama pull qwen2.5:7b-instruct
+      - name: Configure Ollama model for llm
+        run: |
+          llm keys set ollama --value ollama
+          llm openai endpoint add http://localhost:11434/v1 -m qwen2.5:7b-instruct --key ollama --supports-schema
+          llm models default qwen2.5:7b-instruct
+      - name: Install dependencies
+        run: uv sync --locked --no-dev
+      - name: Configure newsletter_automation for test mbox
+        run: |
+          cp tests/data/example.ics test-calendar.ics
+          cat << 'EOF' > config.ini
+          [path]
+          mbox=${{ github.workspace }}/tests/data/mbox
+          filter=${{ github.workspace }}/data/classifier/pipeline.pkl
+          calendar=${{ github.workspace }}/test-calendar.ics
+
+          [email]
+          sender=schoener-wohnen@lists.mtmedia.org
+          truncate_subject_prefix=[schoener-wohnen]
+          truncate_content_suffix=___________________________
+          EOF
+      - name: Create event summaries
+        run: uv run python -m newsletter_automation
+      - name: Show generated calendar diff
+        run: git diff --no-index tests/data/example.ics test-calendar.ics || true
