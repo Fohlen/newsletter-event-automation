@@ -167,3 +167,6 @@ data/calendars/*.ics
 data/raw/*
 mpoprc
 config.ini
+
+# IntellIJ
+.idea/
