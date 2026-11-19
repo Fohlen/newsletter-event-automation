@@ -1,15 +1,18 @@
 from datetime import datetime, timedelta, timezone, time
-import uuid
 from email.utils import parsedate_to_datetime
+from pathlib import Path
+import shutil
+import subprocess
+import sys
 from typing import Optional
+import uuid
 
-import instructor
-from openai import OpenAI
 from icalendar import Calendar, Event
 from pydantic import BaseModel
-from tenacity import Retrying, wait_random_exponential, stop_after_attempt
 
 from newsletter_automation.message import Message
+
+TEMPLATE_PATH = Path(__file__).parent / "template.yaml"
 
 
 class CalendarModel(BaseModel):
@@ -21,23 +24,38 @@ class CalendarModel(BaseModel):
     end: Optional[datetime] = None
 
 
+def _llm_executable() -> str:
+    venv_llm = Path(sys.executable).parent / "llm"
+    if venv_llm.exists():
+        return str(venv_llm)
+    return shutil.which("llm") or "llm"
+
+
 def prompt_model(message: Message) -> CalendarModel:
-    client = instructor.from_openai(OpenAI())
     message_date = parsedate_to_datetime(message["date"])
 
-    # Extract structured data from natural language
-    entry = client.chat.completions.create(
-        model="google/gemini-2.5-flash-lite",
-        response_model=CalendarModel,
-        messages=[
-            {"role": "system", "content": f"The original message was written in {message_date.year}"},
-            {"role": "user", "content": message["content"]}
-        ],
-        max_retries=Retrying(  # type: ignore
-            stop=stop_after_attempt(6),
-            wait=wait_random_exponential(min=1, max=60),
+    cmd = [
+        _llm_executable(),
+        "-t",
+        str(TEMPLATE_PATH),
+        "-p",
+        "year",
+        str(message_date.year),
+        "--no-stream",
+        "--no-log",
+    ]
+    try:
+        result = subprocess.run(
+            cmd,
+            input=message["content"],
+            capture_output=True,
+            text=True,
+            check=True,
         )
-    )
+    except subprocess.CalledProcessError as exc:
+        raise RuntimeError(f"llm command failed ({exc.returncode}): {exc.stderr.strip()}") from exc
+
+    entry = CalendarModel.model_validate_json(result.stdout)
 
     if entry.start.year != message_date.year:
         entry.start = entry.start.replace(year=message_date.year)

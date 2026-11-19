@@ -1,0 +1,26 @@
+system: The original message was written in $year
+schema_object:
+  type: object
+  properties:
+    title:
+      type: string
+    summary:
+      type: string
+    description:
+      type: string
+    location:
+      type: string
+    start:
+      type: string
+      format: date-time
+    end:
+      anyOf:
+        - type: string
+          format: date-time
+        - type: "null"
+  required:
+    - title
+    - summary
+    - description
+    - location
+    - start
