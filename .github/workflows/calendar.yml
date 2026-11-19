@@ -28,6 +28,15 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
+      - name: Configure DeepSeek models for llm
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          llm keys set deepseek --value "$OPENAI_API_KEY"
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-flash --key deepseek --supports-tools --vision --reasoning
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-chat --key deepseek --supports-tools
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-reasoner --key deepseek --supports-tools --reasoning
+          llm models default deepseek-flash
       - name: Install dependencies
         run: uv sync --locked --no-dev
       - name: Configure newsletter_automation
