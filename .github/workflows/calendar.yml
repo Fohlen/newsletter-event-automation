@@ -28,6 +28,11 @@ jobs:
         uses: astral-sh/setup-uv@v5
         with:
           enable-cache: true
+      - name: Install Python dependencies and CLI tools
+        run: |
+          uv sync --frozen
+          uv tool install llm
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
       - name: Configure DeepSeek models for llm
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
