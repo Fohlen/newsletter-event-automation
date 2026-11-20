@@ -33,29 +33,24 @@ jobs:
           uv sync --frozen
           uv tool install llm
           echo "$HOME/.local/bin" >> "$GITHUB_PATH"
-      - name: Setup Ollama
-        uses: ai-action/setup-ollama@v2
-      - name: Cache Ollama models
-        uses: actions/cache@v4
-        with:
-          path: ~/.ollama
-          key: ${{ runner.os }}-ollama-qwen2.5-7b-instruct
-      - name: Start Ollama and pull model
+      - name: Configure DeepSeek models for llm
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          ollama serve &
-          until ollama list >/dev/null 2>&1; do sleep 1; done
-          ollama pull qwen2.5:7b-instruct
-      - name: Configure Ollama model for llm
-        run: |
-          llm keys set ollama --value ollama
-          llm openai endpoint add http://localhost:11434/v1 -m qwen2.5:7b-instruct --key ollama --supports-schema
-          llm models default qwen2.5:7b-instruct
+          llm keys set deepseek --value "$OPENAI_API_KEY"
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-flash --key deepseek --supports-tools --vision --reasoning
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-chat --key deepseek --supports-tools
+          llm openai endpoint add https://api.deepseek.com/v1 -m deepseek-reasoner --key deepseek --supports-tools --reasoning
+          llm models default deepseek-flash
       - name: Install dependencies
         run: uv sync --locked --no-dev
       - name: Configure newsletter_automation
         run: envsubst < example.ini > config.ini
       - name: Create event summaries
         run: uv run python -m newsletter_automation
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: '*.ics'
